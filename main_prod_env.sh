@@ -40,8 +40,8 @@ conda activate lang_neuron
 module load gcc/8.3.1 gcc/8.5.0 cuda/11.7/11.7.1 cudnn/8.8/8.8.1
 
 # Path setting
-model_path="set_appropriate_path_1"
-base_path="set_appropriate_path_2"
+model_path="set_appropriate_path_1/"
+base_path="set_appropriate_path_2/"
 
 # BOS setting
 # xglms: </s> is automatically set.
@@ -82,3 +82,4 @@ fi
 if [ ${phase} == "generate_activated_condition" ]; then
   translation_file="assets_translation/translation_text_${translation_task}_en_${language}.pkl"
   python scripts/generate_seq_lang.py --model-name-or-path ${model_name2} --expertise ${base_path}${datapath}/${model_name}/sense/${language}/expertise/${expert_file}.csv --length 128 --seed 1 101 --metric ap --forcing ${force_value} --num-units ${num_units} --eos --top-n 1 --results-file ${base_path}${datapath}/${model_name}/sense/${language}/expertise/created_sentence_${force_value}_${num_units}_${expert_file}_${translation_task}_condition_${prompt_format_id_for_translation}.csv --temperature 0.0 --prompt ${translation_file} --prompt_format_id_for_translation ${prompt_format_id_for_translation}
+fi

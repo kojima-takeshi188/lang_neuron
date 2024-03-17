@@ -4,11 +4,8 @@ This is the official implementation of `On the Multilingual Ability of Decoder-b
 
 The paper will be available soon.
 
-## Original Source Code
-```
-git clone https://github.com/apple/ml-selfcond
-git checkout c5e09210838762037ef03ba4cae3413d931ce387
-```
+## Notice
+This code is a modification of [`Self-Conditioning Pre-Trained Language Models`](https://github.com/apple/ml-selfcond/tree/c5e09210838762037ef03ba4cae3413d931ce387).
 
 ## Data Path
 
