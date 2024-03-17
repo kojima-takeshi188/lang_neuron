@@ -1,0 +1,435 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,20,1,1,"South Africa Net Profit Stable
+In 2019, South Africa posted a current account deficit of $4.7 billion, a 17.4% increase from the $4.0 billion shortfall in the previous year.
+South Africa's current account deficit",0.544279952,,,,en
+1,on_p50,20,1,2,"import React, { Component } from'react'
+import PropTypes from 'prop-types'
+import { connect } from'react-redux'
+import { Route, Switch } from'react-router'
+
+import { createStyles, WithStyles, withStyles } from '@material",0.544279952,,,,en
+2,on_p50,20,1,3,"Systematic classification of Type 2 diabetes, Type 1 diabetes, and diabetes related syndromes.
+Devanand, D P;
+Perdue, S;
+The classification system of the International Statistical Classification of Diseases and Related Health Problems, ",0.544279952,,,,en
+3,on_p50,20,1,4,"# 北海道道398号北海道医療大学線
+
+北海道道398号北海道医療大学線（ほっかいどうどう398ごう ほっかいど",0.544279952,,,,en
+4,on_p50,20,1,5,"Chapter 1 (See the previous chapter for more background information.)
+""Am I going to die?""
+""No, you're not going to die.""
+""Tell me again.""
+""You're not going to die. They're not going to execute you. As long as you obey",0.544279952,,,,en
+5,on_p50,20,1,6,"package org.motechproject.mds.web.controller;
+
+import org.motechproject.mds.annotations.Security;
+import org.motechproject.mds.domain.MdsEntity;
+import org.motechproject.mds.domain",0.544279952,,,,en
+6,on_p50,20,1,7,"package org.apache.hadoop.ipc.protobuf.message;
+
+import java.net.InetSocketAddress;
+import java.util.Collection;
+
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+
+import",0.544279952,,,,en
+7,on_p50,20,1,8,"Home > Opinion > 2015 > 12 > 23 > Kashmir from a US Perspective
+Kashmir from a US Perspective
+Kashmir has been a flash point between India and Pakistan since partition, but it is also an issue of significance to the United",0.544279952,,,,en
+8,on_p50,20,1,9,"A Farewell to the Nutt House
+I wanted to tell you about my friend, Ann, who I visited this past weekend. She taught me to make quilts. I have no idea why I would take on such a tedious and time-consuming task, but I loved each quilt",0.544279952,,,,en
+9,on_p50,20,1,10,"# Peixe do Mar
+
+Peixe do Mar é uma banda portuguesa de rock e blues/folk, formada em 2007. É composta por Miguel Marques (guitarra e voz), Pedro Gonçalves (bateria), Nuno Neves",0.544279952,,,,en
+10,on_p50,20,1,11,"A Grammar;
+Or, The English Language
+Wilkens & Hunter
+The English language is a small language, but it is a compact language, and much can be learned in a little room.
+These remarks are addressed to all who are willing to learn. When the bough bends, the tree",0.544279952,,,,en
+11,on_p50,20,1,12,"#include <iostream>
+#include <functional>
+#include <algorithm>
+
+using namespace std;
+
+typedef pair<int, int> P;
+
+int main() {
+    int A[6], n;
+    cin >> n;
+
+    for (int",0.544279952,,,,en
+12,on_p50,20,1,13,"The Malibu Coastal Walnut stair railing is an elegant and attractive choice for your home. The Malibu stair railing system features a richly tempered, clear glass panel which is securely mounted in a sleek brushed stainless steel frame. The sleek contemporary design",0.544279952,,,,en
+13,on_p50,20,1,14,"News, Reviews and Features ‘A celebration of the human spirit’: IT IS EASY TO GET LOST – The Space ★★★★★
+‘A celebration of the human spirit’: IT IS EASY TO GET LOST – The Space ★★★★★",0.544279952,,,,en
+14,on_p50,20,1,15,"package com.github.jxen.pudding;
+
+import com.github.jxen.pudding.api.Ranges;
+import org.junit.jupiter.api.Test;
+
+import java.util.Arrays;
+import java.util.List",0.544279952,,,,en
+15,on_p50,20,1,16,"Tags: python, pytorch, conv-neural-network
+
+Question: How to make Pytorch's Conv2d output three classes?
+
+I am trying to create a neural network that will take in a 300x300 image and output one of three classes",0.544279952,,,,en
+16,on_p50,20,1,17,"# Tracie Thoms
+
+Tracie Thoms (Baltimore, Maryland, 1975. augusztus 16. –) amerikai színésznő. Legismertebb szerepe az elveszett nyaralás című filmben, mint Gabrielle",0.544279952,,,,en
+17,on_p50,20,1,18,"#
+Vier
+Hindsight"" is a funny thing. I can look back now and see just how foolhardy my little plan was. See how I'd overlooked some important details. Like the fact that the chances of an accident happening on an airplane were astronomical. More",0.544279952,,,,en
+18,on_p50,20,1,19,"Our one of a kind 100% pre-shrunk cotton flannel shirt is guaranteed to keep you warm and cozy all season long, but they are also great for any occasion. Whether it is a night out on the town or a big game watching party, this flannel will make",0.544279952,,,,en
+19,on_p50,20,1,20,"# Gheorghe Hagi
+
+Gheorghe ""Gica"" Hagi (Băilești, Rumania, 5 de febrero de 1965) es un exfutbolista rumano que se desempeñaba como volante.
+
+El apodo",0.544279952,,,,en
+20,on_p50,20,1,21,"This tutorial will teach you how to create a cool Triangular Logo Icon hat would be suitable for a company or product name that is all about triangles, or for a company or product name that has something to do with Geometry. It would also be suitable for a company or product name that has something to do",0.544279952,,,,en
+21,on_p50,20,1,22,"package util
+
+import (
+	""bytes""
+	""encoding/json""
+	""fmt""
+	""io/ioutil""
+	""os""
+	""os/exec""
+	""path/filepath""
+	""runtime""
+	""time""
+)",0.544279952,,,,en
+22,on_p50,20,1,23,"# Lijst van voetbalinterlands Luxemburg - Portugal
+
+Deze lijst van voetbalinterlands is een overzicht van alle officiële voetbalwedstrijden tussen de nationale teams van Luxemburg en Portugal. De landen speelden tot op heden twee keer tegen elka",0.544279952,,,,en
+23,on_p50,20,1,24,"# Jean-Victor Moreau
+
+Jean-Victor Moreau, född 21 december 1763 i Morlaix, död 2 september 1813 i Wurtzburg, var en fransk general. Han var bror till generalkapten François-",0.544279952,,,,en
+24,on_p50,20,1,25,"CNN anchor Don Lemon on Monday delivered an emotional monologue after visiting El Paso, Texas, and Dayton, Ohio, the sites of two mass shootings that occurred within 24 hours last weekend.
+“Sunday evening on national television, I explained why I thought that Sunday",0.544279952,,,,en
+25,on_p50,20,1,26,"/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+import { isString } from './",0.544279952,,,,en
+26,on_p50,20,1,27,"The following was written by forum member, MilesKm.
+We’re now four months into 2021 and our experiences have been anything but ordinary, to say the least. Like most other places around the world, we have been affected by lockdowns, masks, closed borders and travel",0.544279952,,,,en
+27,on_p50,20,1,28,"Home Fashion and Style A GOOD HEALER
+A GOOD HEALER
+Hippocrates once said that the “chief virtue of doctors is the ability to do no harm”.
+Hippocrates was a Greek physician, thought of as the father of modern medicine. He lived",0.544279952,,,,en
+28,on_p50,20,1,29,"Home/Funding/SASSA grant payment dates for December 2022
+SASSA grant payment dates for December 2022
+A total of R38.2 billion has been allocated to SASSA to provide social assistance. This includes R19.7 billion for",0.544279952,,,,en
+29,on_p50,20,1,30,"Science and technology have take a great leap in human history. It is nice to have a look at the advancement of science and technology, and to make an assessment of the impact of science and technology on society.
+I am not a scientist, but I am a man of science. I’m",0.544279952,,,,en
+30,on_p50,20,1,31,"A WWII U.S. Army Quartermaster Engineer officer's service group with three ribbon bars, a round pin, and U.S. Army patch. Two were awarded for the same campaign, which is rare. The patch is a tough one to find.
+The WWII",0.544279952,,,,en
+31,on_p50,20,1,32,"# Thyreus cruentus
+
+Thyreus cruentus är en biart som beskrevs av Smith 1853. Thyreus cruentus ingår i släktet Thyreus och familjen långtungebin. Inga underarter finns listade i Catalogue of Life.",0.544279952,,,,en
+32,on_p50,20,1,33,"‘That’s some line dancing, bro’: I’m a Celebrity’s Seann Walsh and Anne Hegerty forced to lip sync
+Seann Walsh and Anne Hegerty were forced to do a bit of lip syncing during the latest episode of I’",0.544279952,,,,en
+33,on_p50,20,1,34,"Home » News » Funding to help restore historic buildings
+Funding to help restore historic buildings
+The National Lottery Heritage Fund has awarded £35,000 to Northamptonshire Archaeology to work with property owners to repair and preserve important historic buildings in the county.
+The",0.544279952,,,,en
+34,on_p50,20,1,35,"Tags: ios, swift, uitableview, cell
+
+Question: Select row in UITableView with cell identifier
+
+I am trying to select a row in my `UITableView` using `cell identifier` but it is not working, I am using the following code:
+
+\begin{code}
+    func",0.544279952,,,,en
+35,on_p50,20,1,36,"import os
+from unittest import TestCase
+
+import numpy as np
+
+from..utils import TestData
+
+
+class TestEigenVectors(TestCase):
+    def test_ei4vec_1d(self):
+        A = TestData.ei4vec_1d
+",0.544279952,,,,en
+36,on_p50,20,1,37,"package com.vlad13.material.wearable.style;
+
+import com.google.android.wearable.data.AssetInfo;
+import com.google.android.wearable.data.DataMap;
+
+import java.io.FileDescriptor;
+import java",0.544279952,,,,en
+37,on_p50,20,1,38,"# Kepulauan Chagos
+
+Kepulauan Chagos adalah kepulauan yang berada di Samudra Hindia, sekitar 500 km di selatan selat Malaka. Kepulauan ini merup",0.544279952,,,,en
+38,on_p50,20,1,39,"# Legg Mason Tennis Classic 2004
+
+Der Legg Mason Tennis Classic 2004 war ein Tennisturnier, das vom 16. bis 22. August 2004 in Washington, D.C. stattfand. Es war Teil der",0.544279952,,,,en
+39,on_p50,20,1,40,"package com.github.megatronking.netbare.provider.channel;
+
+import com.ciic.ml.NetbareChannel;
+import com.github.megatronking.netbare.provider.NestedChannel;
+import com.github.megatronking",0.544279952,,,,en
+40,on_p50,20,1,41,"package com.uber.autobahn.wiring.saga.step
+
+import com.uber.autobahn.utils.LogUtils
+
+import scala.concurrent.Future
+
+/**
+ * Created on 5/18/15.
+ */
+trait StepSpec {",0.544279952,,,,en
+41,on_p50,20,1,42,"The Nostalgic Galaxy Detective
+By: Kiki Thong
+Narrated by: Kiki Thong
+Galaxy Detective is a thrilling space adventure with a killer twist!
+What if the key to overthrowing the Galactic Empire was a long",0.544279952,,,,en
+42,on_p50,20,1,43,"# Кларк (окръг, Айдахо)
+
+Окръг Кларк (на английски: Clark County) е окръг в щата Айдахо, Съединени американски щати. Площта му е ",0.544279952,,,,en
+43,on_p50,20,1,44,"package com.cloud.network.as;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+import java.util.",0.544279952,,,,en
+44,on_p50,20,1,45,"# Deku
+
+Net to smrt byli Deku a jeho otec zabiti vrahem, který se mstí za dětskou nehodu.
+
+## Děj
+
+Město Senran byl v minulosti nešetrně stavěn",0.544279952,,,,en
+45,on_p50,20,1,46,"Planning an event in Hamilton? We've put together a variety of rentals to help get you started. Browse through the different category rentals, or search for something specific.",0.544279952,,,,en
+46,on_p50,20,1,47,"Rare Mishna
+The Mishna (Sukka 28a) says that one should not go to a wedding feast in the morning of the day of the Yom Tov because it is considered a Lav of Oneg for the Yom Tov. The Gemora asks why",0.544279952,,,,en
+47,on_p50,20,1,48,"May 1, 2014 @ 5:00 pm–5:45 pm EDT
+« Webinar: “Reimagining the Public University”
+Committee on Planning and Budgeting Meeting »
+Next up in the 2013-",0.544279952,,,,en
+48,on_p50,20,1,49,"VIDEO: David Oyelowo discusses playing the lead in MOONLIGHT
+David Oyelowo discusses playing the lead in Barry Jenkins’ upcoming film, Moonlight.
+The upcoming film, Moonlight, is a coming-of-age story set in Miami about a",0.544279952,,,,en
+49,on_p50,20,1,50,"Home/News/Atiku: What I’ll do with oil produce in Niger Delta if elected
+Atiku: What I’ll do with oil produce in Niger Delta if elected
+Former Vice President and Presidential candidate of the Peoples Democratic Party (PDP) Atiku Abubak",0.544279952,,,,en
+50,on_p50,20,1,51,"# John J. Suh
+
+John J. Suh is a South Korean-American businessman and a former student body president of UC Berkeley. In September 2017, he was appointed as the seventh president of Chapman University. He was previously dean of the Fowler",0.544279952,,,,en
+51,on_p50,20,1,52,"Tags: php, database, laravel, eloquent
+
+Question: Laravel SQLSTATE[42S22]: Column not found: 1054 Unknown column...
+
+I've seen a few descriptions similar to my issue, and tried the solutions, but none seem to solve my",0.544279952,,,,en
+52,on_p50,20,1,53,"it's basically a textured concrete that's made by using scrap tires
+and the way it works is you basically pop it out of the mold
+and compress it so it comes out with like a brick shape, and then you can use it to build walls
+you can use it like a",0.544279952,,,,en
+53,on_p50,20,1,54,"# Callixena pica
+
+Callixena pica is een vlinder uit de familie van de spinners (Lasiocampidae). De wetenschappelijke naam van de soort is voor het eerst geldig gepubliceerd in 1937 door Schaus.",0.544279952,,,,en
+54,on_p50,20,1,55,"# 乌贝讷
+
+乌贝讷（法語：，法语发音：[ubɛn]）是法国德龙省的一个市镇，位于该省东部，属于迪镇区",0.544279952,,,,en
+55,on_p50,20,1,56,"2013-2014 Graduate Catalog > The Graduate School > Graduate School Policies and Procedures > Academic Appeals
+All students who believe that improper or unjust academic action has been taken against them should follow the steps outlined below in",0.544279952,,,,en
+56,on_p50,20,1,57,"“My last comment is that Kodak, as a member of the board, is the biggest moron I've ever seen.”
+Donatello Raps
+Donatello, Brian, and Benny:
+Brian: “I mean, Kodak, you got to win the next one",0.544279952,,,,en
+57,on_p50,20,1,58,"Victoria's Secret lingerie Super Bowl ad deemed too racy for TV
+Victoria's Secret airs racy Super Bowl ad
+Victoria's Secret will air a ""strong"" racy lingerie ad during the Super Bowl, but not before it was deemed too ",0.544279952,,,,en
+58,on_p50,20,1,59,"# Neal Glazebrook
+
+Neal Glazebrook is an American politician. He is a member of the South Dakota House of Representatives from the 11th District, serving since 2019. He is a member of the Republican party.",0.544279952,,,,en
+59,on_p50,20,1,60,"<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\SoftDeletes;
+
+class Comment extends Model
+{
+    //
+    use SoftDeletes;
+
+    protected $table",0.544279952,,,,en
+60,on_p50,20,1,61,"# 広島市立沼田中学校
+
+広島市立沼田中学校（ひろしましりつ ぬまだちゅうがっこう）は、広島県広",0.544279952,,,,en
+61,on_p50,20,1,62,"ASSORTED: my latest work in progress; God of the Hunt
+January 16, 2013 By: TempestAssorted Works
+I have a new story in the works, one that’s not related to Khaavren at the moment. I’m",0.544279952,,,,en
+62,on_p50,20,1,63,"PLEASE NOTE: Any tickets purchased by way of a newspaper promotion or other external promotion and not purchased directly from this site, must be redeemed from the Mudgee Wine Show office.
+Tickets can be purchased from the Mudgee Wine Show office from 8am",0.544279952,,,,en
+63,on_p50,20,1,64,"\title{Efficient Construction of \\
+Wireless Communication Networks with Static Wireless Node Deployment}
+
+\begin{abstract}
+We consider the problem of efficiently constructing wireless communication networks among a set of wireless nodes. This problem has myriad applications in the emerging",0.544279952,,,,en
+64,on_p50,20,1,65,"Nestled in the heart of downtown Manhattan, the thoroughly fantastic City Bakery has been a landmark in New York City for almost 30 years. Known for its critically acclaimed breads, pastries, and…
+The October issue of Travel+Leisure is",0.544279952,,,,en
+65,on_p50,20,1,66,"If you are looking for a top quality online casino in the US with a large selection of games, free spins, deposit bonuses and more, then Bet365 Casino is the choice for you. Bet365 has been operating in the United Kingdom for many years and is known for the",0.544279952,,,,en
+66,on_p50,20,1,67,"WSE is a ‘warm-hearted’ community of caring, dedicated teachers and staff members. Above all, we are a family and we are committed to the emotional and educational well-being of our children.
+We celebrate our students’ achievements and successes in all areas.",0.544279952,,,,en
+67,on_p50,20,1,68,"How to Invest in Bitcoin: A Beginner’s Guide
+Bitcoin has been the best-performing asset of the past decade. The value of the coin has risen from less than $10 back in 2010 to more than $60,000",0.544279952,,,,en
+68,on_p50,20,1,69,"Tags: c#, list, key, count
+
+Question: count a specific value from a list
+
+I have a list of objects, each containing a DateTime and a key, I wish to find the number of a specific key.
+
+\begin{code}
+Dictionary<string, string> dictionary =",0.544279952,,,,en
+69,on_p50,20,1,70,"#ifndef _WX_CINT_H_
+#define _WX_CINT_H_
+
+// wxCInt -- C interface to the integer classes
+
+#include ""wx/cint.h""
+
+// exported prototypes
+WXDLLI",0.544279952,,,,en
+70,on_p50,20,1,71,"Blog, Culture, Entertainment and Performance, Society and social sciences
+The Role of the Gendered Media in African Societies
+The people’s perceptions of gender are influenced by the images they see in the media. The portrayal of the strong, aggressive male and the submiss",0.544279952,,,,en
+71,on_p50,20,1,72,"A few weeks back, I was asked by a friend to help with an event she was putting on. She’s the owner of a small boutique who was offering discounts to mothers of children with Down Syndrome in honor of World Down Syndrome Day. I jumped at the chance to",0.544279952,,,,en
+72,on_p50,20,1,73,"2013 – Bridging the Gap
+An important focus of the Museum’s work has been to build strong partnerships with local Aboriginal communities, organisations and individuals.
+Australian Children’s Television Foundation (ACTF)
+Television production house
+The Australian Children’s",0.544279952,,,,en
+73,on_p50,20,1,74,"# Ketijärvi
+
+Ketijärvi voi tarkoittaa seuraavia:
+
+* Ketijärvi, järvi Saarijärvellä
+* Ketijärvi, järvi Tampereella
+* Ketijär",0.544279952,,,,en
+74,on_p50,20,1,75,"# Szűrő-Kőszeg
+
+A Szűrő-Kőszeg vagy Kőszeg-szűrő száraz, erdős, karsztos terület a Zala megyei Kőszeg és környéke körül.",0.544279952,,,,en
+75,on_p50,20,1,76,"# David Hicks (disambiguation)
+
+David Hicks (born 1975) is an Australian Taliban fighter and convicted terrorist.
+
+David Hicks may also refer to:
+
+* David Hicks (cricketer) (born 1945), New",0.544279952,,,,en
+76,on_p50,20,1,77,"Gold, Golds, or Goulds may refer to:
+Gold (color)
+Aureus, a gold coin
+Gold (album), a 2015 album by Kiiara
+Gold (soundtrack), the soundtrack album to the 2016 film
+",0.544279952,,,,en
+77,on_p50,20,1,78,"# 胡班
+
+胡班（?－?），字季伯。北宋初年杨戴之妻。
+
+杨戴左右手执剑",0.544279952,,,,en
+78,on_p50,20,1,79,"# Алиа
+
+Алиа (итал. ) је насељено место у Републици Хрватској у Истарској жупанији. Административно је у саставу Града Бузета.
+
+## Становништво
+
+Према последњем по",0.544279952,,,,en
+79,on_p50,20,1,80,"x Criminal-Law
+1 - 20 of 92 Works in Criminal-Law
+A Heart Full of Love by Red_Knight_99
+Fandoms: Star Wars: The Clone Wars (2008) - All Media Types
+Obi-W",0.544279952,,,,en
+80,on_p50,20,1,81,"package net.claydust.testify;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
+import java.io.OutputStreamWriter;
+import java.io.StringWriter;
+",0.544279952,,,,en
+81,on_p50,20,1,82,"Taking a break from a stressful weekend I finally got a chance to take a peak inside my mailbox. Have a look at all the pretty things that arrived at my doorstep!
+The Seduction of Laetitia by Lily Maxton: I love Lily Maxton’",0.544279952,,,,en
+82,on_p50,20,1,83,"The City of Hartford is a vibrant community in which people live, work, and play, and is the most economically diversified community in the area, with a rich mix of large and small businesses, including manufacturing, retail, and service industries. Hartford is also the home of",0.544279952,,,,en
+83,on_p50,20,1,84,"# Oregon
+
+Oregon (engelsk udtale: [ɔɹəˈɡoʊn] or [ɔɹɪˈɡoʊn]) er en delstat i det nordvestlige USA. Den grænser op til staterne Washington, Idaho og Nevada og mod Canada.",0.544279952,,,,en
+84,on_p50,20,1,85,"# [
+**L** iving in a zone** of conflict** is a universal human experience.**
+**T** he human solution to this basic problem is almost always the same:** **we invent institutions, rituals, and organizational forms to** **mitigate conflict and create a stable environment",0.544279952,,,,en
+85,on_p50,20,1,86,"A thoughtful formulation, a pleasing taste and a few simple steps to take throughout the year makes this a must-try recipe. Here's how to make a good, old-fashioned pumpkin pie.
+1. Preheat oven to 425 degrees. If",0.544279952,,,,en
+86,on_p50,20,1,87,"Tags: postgresql, lucene, geospatial, postgis, planet
+
+Question: PostgreSQL / PostGIS: Creating a spatial index on geographic lines that cross longitudes
+
+I am trying to create an index that spans a large geographic region (e.g. Ireland)",0.544279952,,,,en
+87,on_p50,20,1,88,"This study was undertaken to systematically ascertain the relationship between the presence of the synechial barrier and the presence of a secondary lysis of adhesions (SLA) syndrome after open hysterectomy.
+Of 233 consecutive patients who underwent open paraa",0.544279952,,,,en
+88,on_p50,20,1,89,"The October 2014 issue of National Geographic magazine has an article, “The Gene Hunt,” about how the CRISPR gene-editing system “offers a new way to treat or prevent disease.” CRISPR/Cas9 gives scientists the ability to snip out and replace pieces",0.544279952,,,,en
+89,on_p50,20,1,90,"work by Nicolaides
+history of the Ottoman Empire
+in Ottoman Empire: The establishment of the empire
+...the Ottoman conquest of Constantinople, the Bulgars in the Balkans, and the Serbs and Bosnians in the Balaklava basin. A contemporary Greek soldier,",0.544279952,,,,en
+90,on_p50,20,1,91,"	. $this->load->view('admin/header');
+	?>
+	
+	<div class=""content-wrapper"">
+		<!-- Content Header (Page header) -->
+		<section class=""content-header"">
+			<h1><?= $title;",0.544279952,,,,en
+91,on_p50,20,1,92,"<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class ProductoptionImage extends Model
+{
+  protected $guarded = [];
+
+  public function image()
+  {
+    return $this->hasOne('App\Image');
+ ",0.544279952,,,,en
+92,on_p50,20,1,93,"<?php
+namespace App\Traits;
+
+use Symfony\Component\Security\Core\Authentication\Token\Storage\TokenStorage;
+use Symfony\Component\Security\Core\Authentication\Token\TokenInterface;
+
+trait TokenAwareTrait
+{
+    /**
+    ",0.544279952,,,,en
+93,on_p50,20,1,94,"# 酢漿
+
+酢漿（すにょう）は、果物等を主原料とする酒の一種である。発酵を終えてから、さらに��",0.544279952,,,,en
+94,on_p50,20,1,95,"What is the official federal tax rate for 2021?
+What is the federal tax rate for 2021?
+What is the federal tax rate for 2021?Federal income tax brackets 2021. Taxable income. 2021 tax",0.544279952,,,,en
+95,on_p50,20,1,96,"AI Member Correspondence
+AAI Letter on FY2020 NDAA
+AAI sent a letter to the Senate Armed Services Committee in support of the FY2020 NDAA.
+AAI Letter on the House Defense Appropriations Act
+AA",0.544279952,,,,en
+96,on_p50,20,1,97,"A transparent soap bubble is the perfect sphere, and it is not a sphere because of itself. It is the sphere of the soap from which it comes.
+It is not a big deal that it is round and we are round. It is a big deal that the bubble is round and the soap is round",0.544279952,,,,en
+97,on_p50,20,1,98,"# 佩尔赖境
+
+佩尔赖境（英語：，又称为弗莱克斯维尔境，英語：）位于佩尔����",0.544279952,,,,en
+98,on_p50,20,1,99,"Two hundred years ago, women who were earning a living to take care of themselves and their families were often seen as either prostitutes or little more than common laborers and domestic servants.
+Times have changes significantly since then. In the 21st century, a woman who has an education and a career",0.544279952,,,,en
+99,on_p50,20,1,100,"A simple, strong ring with a ball pattern, this is a versatile piece of handmade silver jewellery which can be worn every day or on special occasions.",0.544279952,,,,en

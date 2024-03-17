@@ -1,0 +1,171 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,1000,1,1,"El actual entrenador de porteros es un entrenador técnico y táctico, que sabe qué hacer y cómo hacerlo y que sabe cómo utilizar a cada jugador según su posición y posición en el campo.
+En la actualidad, el entrenador de porteros es una opción muy para los clubes que quieren mejorar la imagen de su portería y el",0.08975947000900002,,,</s>,es
+1,on_p50,1000,1,2,"El expresidente de la Generalitat de Cataluña Carles Puigdemont ha proclamado este sábado su candidatura a las elecciones autonómicas de Cataluña en una jornada en que el Govern ha cerrado filas en torno a la figura del 'expresident' y ha pedido a sus adversarios que se giren a su favor.
+""El independentismo catalán ha hecho historia""",0.08975947000900002,,,</s>,es
+2,on_p50,1000,1,3,"#!/usr/bin/env python
+
+import os
+import cherrypy
+from cherrypy.lib import *
+
+os.environ['TZ'] = 'SZ'
+
+class FileServer(PublicWebApplication):
+    def init(self):
+        self.request.env.classtest.c",0.08975947000900002,,,</s>,es
+3,on_p50,1000,1,4,"TOMATE. Cuando un tomate está más maduro se pone de un color anaranjado y tiene mayor impacto agudo en el gusto que el verde, y tiene un toque ahumado en la acidez.
+RESIN DE OLIVA. Como sucede con el tomate, el resveratrol es un antioxidante",0.08975947000900002,,,</s>,es
+4,on_p50,1000,1,5,"Personalmente, mis días de fin de semana me llevan hasta el restaurante del pueblo más cercano, son demasiado tarditos para irme a casa y prepararme para la semana. Por suerte, muchos de mis amigos de toda la vida están por ahí de vacaciones, así que podeis jugar a ser mis compañeros de fin de",0.08975947000900002,,,</s>,es
+5,on_p50,1000,1,6,"En las elecciones presidenciales de Ecuador del pasado 8 de febrero se registró un total de 25 votos, de los que 21 fueron válidos, como resultado de un balotaje junto a Andrés Arauz. Independientemente de los resultados que se obtengan en segunda vuelta, este acuerdo político es vital para los comicios de 2021, pues",0.08975947000900002,,,</s>,es
+6,on_p50,1000,1,7,Necesito instalar preparar y meter el chequeo de mi seguro. Me lo puede enviar en el correo PI:EMAIL.,0.08975947000900002,,,</s>,es
+7,on_p50,1000,1,8,"A través del Método de la Coloración, los niños aprenden a ver el mundo con ojos de colores. Aprenden a ver las diferencias entre los colores y su relación. Las mezclas y las asociaciones de colores pueden ayudar, para que se conozca el mundo que les rodea y sea más consciente de él,",0.08975947000900002,,,</s>,es
+8,on_p50,1000,1,9,"El alcalde que más dinero destina a la hostelería.
+El socialista Juan Espadas, alcalde de Getafe, ha asegurado que la ciudad cuenta con el “mejor protocolo” de la Comunidad de Madrid con la hostelería y que es “decepcionante” tener que explicar a los ciudadanos que en lugar de haber tomado medidas para",0.08975947000900002,,,</s>,es
+9,on_p50,1000,1,10,"Questa es una ciudad tranquila y acogedora. Un lugar ideal para quienes quieran disfrutar de un ambiente relajado con actividades de ocio y entretenimiento para toda la familia.
+Por las noches, Viajar a Roma es una oportunidad para disfrutar de un ambiente de fiesta y de eventos especiales. La ciudad es un lugar perfecto para los",0.08975947000900002,,,</s>,es
+10,on_p50,1000,1,11,"El presente Aviso Legal regula el uso del sitio web (datos identificativos: El sitio Web es titularidad de PLUSIPAL y se encuentra alojado en la compañía AVANTIS Group, S.L. USUARIO DEL SITIO WEB
+Todos los contenidos del sitio web (marcas,",0.08975947000900002,,,</s>,es
+11,on_p50,1000,1,12,"A las seis de la tarde del lunes 22 de febrero, según confirmó la alcaldesa, Cristina Cifuentes, el Gobierno presentará una proposición de Ley de Reforma de la Administración Local, que será debatida en el Congreso de los Diputados, para modificar el sistema de financiación de la comunidad autónoma para 2021 y dotar de mayor autonomía",0.08975947000900002,,,</s>,es
+12,on_p50,1000,1,13,"Por todo esto, desde la dirección de Ecoembes Andalucía podemos ofrecerle diferentes opciones para reutilizar su envase, como la que puede ver en la imagen:
+Además de los diferentes modelos de botes, existen también otros tipos de envase que pueden ayudarle a reducir el porcentaje de plásticos que se emplean",0.08975947000900002,,,</s>,es
+13,on_p50,1000,1,14,"Exactamente el mismo problema se ha repetido esta semana con el 9-0 que ha logrado en el último capítulo el equipo de Andreu Plaza contra el recién ascendido Bufete Valiente.
+El cuarto puesto entre los cinco primeros de la tabla permite la posibilidad de ascender a División de Honor Plata (DSD), lo que",0.08975947000900002,,,</s>,es
+14,on_p50,1000,1,15,"♥ Inspiración decorativa: esta estera mullida le da a su habitación un toque elegante y acogedor. Se puede colocar en la sala de estar, comedor, dormitorio, sofá, sillas de comedor, sofa, etc. o como un regalo para sus seres queridos para fiestas, cumpleaños, día de San",0.08975947000900002,,,</s>,es
+15,on_p50,1000,1,16,"“Su equipo de información ha estado conectada con la comunidad de PI:USER durante tres semanas consecutivas y, gracias a la solidaridad de los ciudadanos a través de su activismo, puede decir que casi ha podido evitar la muerte de decenas de personas”, se lee en el tuit.
+Un portavoz del Cuerpo Nacional de",0.08975947000900002,,,</s>,es
+16,on_p50,1000,1,17,"El miércoles, 29 de enero, en la sede del Concejo Deliberante, se llevó a cabo una (re)instalación de los organismos de participación Vecinal, llamada en forma comunitaria “Expo por los Vecinos”. La actividad se desarrolló en conjunto con la Dirección Provincial de Acción Social y a ello,",0.08975947000900002,,,</s>,es
+17,on_p50,1000,1,18,"En México la infraestructura de energía renovable es de un valor incalculable y sin embargo, es muy vulnerable ante los principales problemas que tienen las energías verdes:",0.08975947000900002,,,</s>,es
+18,on_p50,1000,1,19,"La compatibilidad es la capacidad que tiene una máquina o sistema de funcionar correctamente con otro, estas se logran observando los componentes que integra y cómo se relacionan entre sí, lo que permite la funcionalidad y eficiencia de cada componente.",0.08975947000900002,,,</s>,es
+19,on_p50,1000,1,20,"3. Los daños que se produzcan por el usuario en la red, los servidores o cualquier equipo o sistema propiedad de TSL en la red, así como los daños o perjuicios causados por el usuario en su propio equipo o sistemas informáticos.
+4. El incumplimiento de las instrucciones de uso o las advertencias que TS",0.08975947000900002,,,</s>,es
+20,on_p50,1000,1,21,"El gran problema de la enfermedad de Alzheimer es que no hay cura. Para sobrevivir, la persona encargada de cuidarla aún tiene que sufrir la enfermedad. De todas formas, siempre habrá esperanza, ya que el mundo científico sigue trabajando para encontrar alguna alternativa terapéutica.
+Los nuevos tratamientos, que van dirigidos a la prevención,",0.08975947000900002,,,</s>,es
+21,on_p50,1000,1,22,"a. A solicitud del interesado, el órgano de resolución hará público el procedimiento y la resolución adoptada en el plazo de un mes desde la recepción de la solicitud, que podrá ser recurrida ante el órgano competente para resolver el recurso de reposición, con posterioridad al plazo máximo de resolución del recurso de alzada, en",0.08975947000900002,,,</s>,es
+22,on_p50,1000,1,23,"Son objetivo es reducir la flota de vehículos, a la vez que se asegura la limpieza de las calles y plazas, diversificando la oferta de movilidad y ofreciendo un modelo sostenible y accesible",0.08975947000900002,,,</s>,es
+23,on_p50,1000,1,24,"El 4 de abril de 2013, el Instituto Nacional Electoral (INE), publicó el Décimo Octavo Informe Anual del Sistema de Votación Electrónica, en el cual se proporciona información sobre la evolución de los avances tecnológicos que se han implementado en la infraestructura tecnológica del Sistema de Votación Electrónica, así como",0.08975947000900002,,,</s>,es
+24,on_p50,1000,1,25,"Говорила о полиглезии, а говорила о полиглезер.
+- Тут противоположно?
+- Сорно...
+- А вообще?
+- Правы.
+- Мешади...?
+- Правы...
+- С",0.08975947000900002,,,</s>,es
+25,on_p50,1000,1,26,"Selo de seguridad y calidad para la distribución de envases de vidrio La norma UNE-EN 10077 y los requisitos de envasado de los ESDs, previa conformidad con la norma UNE-EN 14179, definen la implementación de las medidas de seguridad y calidad básicas en los envases de vidrio utilizados en el comercio minor",0.08975947000900002,,,</s>,es
+26,on_p50,1000,1,27,"Es una opción muy interesante para poder conocer más sobre el mundo de la moda, la belleza y los cosméticos como es la cosmética natural, que es una industria que se está ganando la confianza de los consumidores, siendo cada vez más personas las que apuestan por su uso, ya que es una educación que lleva",0.08975947000900002,,,</s>,es
+27,on_p50,1000,1,28,"En este artículo vamos a hablar sobre el problema de las agujas en la piel y cuales son las razones detrás de ello. En caso de que existan problemas a nivel de la piel que no hayan sido diagnosticados, entonces las agujas para la piel a veces pueden hacer cosas que no se esperaban. Conoce más",0.08975947000900002,,,</s>,es
+28,on_p50,1000,1,29,"PHP y MySQL: No se puede crear una base de datos con el fin de recuperar información de un sistema de bases de datos (SID) ya existente.
+MongoDB está diseñado para la administración de bases de datos grandes y en crecimiento, por lo que no es adecuado para aplicaciones en tiempo real.
+Actualmente, las mejores",0.08975947000900002,,,</s>,es
+29,on_p50,1000,1,30,"Al margen de estas dos semanas de espera, el equipo de natación de la Isla de León se reunió en el Polideportivo Municipal de San Bartolomé de Tirajana, para comenzar a preparar los ejercicios que se van a llevar a cabo en esta concentración.
+500 vatios de potencia y funciones de calef",0.08975947000900002,,,</s>,es
+30,on_p50,1000,1,31,"“¿Qué me dices del naranja?”, preguntó Jorge. Sus ojos se encendieron y el tono de su voz fue cálido y profundo. No quería decir eso, ya que después de todo, era él quien sostenía el vaso. Lo miró de manera intensa y profunda. Miró al niño que guardaba",0.08975947000900002,,,</s>,es
+31,on_p50,1000,1,32,"El segundo paso, y sin duda una de las claves para conseguir los mejores resultados, es saber qué es lo más importante para tu cliente y qué le aportas, si es beneficios tangibles o beneficios intangibles.
+Definir claramente qué quieres ofrecer a tu cliente para que pueda reconocerlo como tu interlocutor, y",0.08975947000900002,,,</s>,es
+32,on_p50,1000,1,33,"Charles Ellis (1583-1653), en la batalla de El Álamo (Cuenca, España). Las fotos son unas instantáneas de la procesión de la Virgen de La Caridad en la ciudad de Oviedo en 1599. / Wikimedia Commons / CC BY-SA 2.0
+Uno de los mayores acontecimientos del",0.08975947000900002,,,</s>,es
+33,on_p50,1000,1,34,"En 1938, un antepasado de las personas encargadas de la morada, Hamer Tzadok, toma una decisión que, tras dar consejos a los miembros de la familia, les hace plantearse la posibilidad de fotografiar. Es en este punto cuando la casa empezará a captar la atención de la prensa.
+H",0.08975947000900002,,,</s>,es
+34,on_p50,1000,1,35,"La mujer no había tenido una vida perfecta. Levantó los ojos. El sol salía detrás de las montañas. Todo estaba vivo en el campo, justo como estaba, dando una cálida bienvenida a la primavera. Pero ese es el comienzo de un camino oscuro.",0.08975947000900002,,,</s>,es
+35,on_p50,1000,1,36,"En cuanto al tema del libro, debo decir que sigue (siempre) en mi mente la misma sensación que en el caso del anterior libro. La pregunta es la siguiente: ¿por qué? ¿Por qué una novela que ya se puede leer en cualquier momento como una novela (no digo que sea buena novela, pero es entretenida",0.08975947000900002,,,</s>,es
+36,on_p50,1000,1,37,,0.08975947000900002,,,</s>,es
+37,on_p50,1000,1,38,"PEMI es una entidad privada sin fines de lucro, reconocida como entidad de bien público, con autonomía paritaria con régimen de administración interna, que tiene por objeto principal el contribuir al desarrollo integral de la persona y su familia, a través de la promoción de la calidad de vida y de la sostenibilidad en el entorno social",0.08975947000900002,,,</s>,es
+38,on_p50,1000,1,39,"TPO - Nhiều chính trị gia Real Madrid, Chelsea, Barcelona, Inter Milan, Manchester United, Juventus, Arsenal, Monaco, Atlético de Madrid, Real Sociedad y Valencia se han unido a la petición de la Conmebol para que se cancele el Mundial de Clubes 2020.",0.08975947000900002,,,</s>,es
+39,on_p50,1000,1,40,"A partir del 5 de octubre se abrirá el plazo de solicitud de ayudas para la compra de vehículos eléctricos a partir de cero emisiones
+El Ayuntamiento de León ha abierto este miércoles la convocatoria de ayudas para la compra de vehículos eléctricos a partir de cero emisiones. Estas ayudas serán compatibles con las ayudas a la compra de vehículos térm",0.08975947000900002,,,</s>,es
+40,on_p50,1000,1,41,"3. Issuance/ Funding realizable – The CEO of a startup needs to be familiar with the legal terms and regulations and be able to provide the required support.
+4. Financial background – Familiarity with current and past financings and how these financings have helped the company.
+5. Knowledge of Acquisition –",0.08975947000900002,,,</s>,es
+41,on_p50,1000,1,42,"Con la recuperación de la economía, los gobiernos de Estados Unidos y varios países europeos han implementado medidas que impulsan el consumo. En Argentina, el problema de la existencia de una economía abierta, que genera un circulante en la economía y que pone a los bancos como salvavidas, es el tema central que se discute",0.08975947000900002,,,</s>,es
+42,on_p50,1000,1,43,"Durante el mes de julio, se realizó una jornada de concientización a los vecinos del barrio Valdivia, la misma contó con la participación de la Dirección de Escuelas, el Consejo Escolar, y en calidad de invitados especiales la Directora del Jardín Nº5, la Sra. Marta Zylberman y el",0.08975947000900002,,,</s>,es
+43,on_p50,1000,1,44,"“Occupación y maniobra. La guerra con el pueblo y las armas. Manuel Panozza”, en Conijos y contiendas, de Norberto Bobbio
+Como me gusta la película que ya mostré en el programa de Radiocanal con subtítulos en español. Hay en esta película un",0.08975947000900002,,,</s>,es
+44,on_p50,1000,1,45,"A Alcaldía de Tuluá, para lo cual tiene al frente al alcalde Carlos Fabián Rentería, anunció que, entre las obras que se adelantan en el municipio se encuentra la repotenciación del acueducto que abastece de agua a los barrios del sector rural y urbano.
+El alcalde Carlos Fabián Rentería",0.08975947000900002,,,</s>,es
+45,on_p50,1000,1,46,"A ficción de ‘Cuéntame’, que ya ha cumplido 20 años, se centra en las vidas de 5 mujeres que se cruzan durante un proceso de divorcio: Marta, Adela, Rafa, Marta y Irene. Las 5 protagonistas pasarán por diferentes momentos de sus vidas y tendrán que vivir las consecuencias de sus",0.08975947000900002,,,</s>,es
+46,on_p50,1000,1,47,"Es curioso como al final de la entrevista nos hace una breve descripción de su historia, y es un poco triste explicarnos que su padre murió de cáncer… En fin, una pena que la entrevista esté pensada para hablar de enfermedades, pero no para hablar de vida.",0.08975947000900002,,,</s>,es
+47,on_p50,1000,1,48,"“We are here today,” said the Facebook CEO, and “it’s a sign of how much we do.” He continued: “We’re here to be a partner, and for us to be partners, the quality of the data and insights we provide are fundamental.”
+Last summer, Facebook and Copenhagen",0.08975947000900002,,,</s>,es
+48,on_p50,1000,1,49,"La Real Sociedad ha comunicado que el croata Luka Modric ""ya ha superado los test realizado de COVID"" y por tanto viajará a Londres el jueves, donde este viernes será presentado.
+El delantero croata Luka Modric ha dado positivo en una prueba de coronavirus, pero viajará a Londres el jueves con su compañero francés Antoine",0.08975947000900002,,,</s>,es
+49,on_p50,1000,1,50,"Oh, lo que si que es una tontería es lo de las animaciones, solo está la animación de las piernas. Es solo para echar un vistazo.
+¿Estás buscando el mejor Jeep Wrangler Dark Blue 2012 para ti? ¿Te gustaría comparar precios y características de productos nuevos y usados? ¿En esta",0.08975947000900002,,,</s>,es
+50,on_p50,1000,1,51,"La firma de moda y lujo Victoria Beckham se ha embarcado en un ambicioso proyecto de sostenibilidad que ya ha comenzado a dar sus frutos en la firma del ex jugador profesional, con el objetivo de reutilizar las prendas que ya no se utilizan y así evitar que acaben en vertederos.",0.08975947000900002,,,</s>,es
+51,on_p50,1000,1,52,"La Federación Universitaria de Educación (FEUP) ha publicado los resultados de la encuesta que, en conjunto con la Dirección General de Presupuestos de la Conselleria de Educación, han llevado a cabo en la Comunitat Valenciana las universidades públicas valencianas. En concreto, en el ámbito de la docencia en titularidad pública, se ha",0.08975947000900002,,,</s>,es
+52,on_p50,1000,1,53,"El titular de la Semarnat, Víctor Manuel García Escalante, indicó que no se ha detectado sobreexplotación del recurso marino mar adentro, ya que aún hay recursos suficientes.
+El secretario de Medio Ambiente, Víctor Manuel García Escalante, aseguró que en México hay recursos suficientes para alimentar a todos los habitantes del país",0.08975947000900002,,,</s>,es
+53,on_p50,1000,1,54,"El motivo principal de los cambios de este tipo de prendas es que se detecta que están dañadas, ya sea por el desgaste, que haya sufrido algún tipo de incendio o que ya no se encuentre en su estado original.
+Máquina de reciclaje de aceite de palma/maíz máquina de prensa hidráulica de aceite de",0.08975947000900002,,,</s>,es
+54,on_p50,1000,1,55,"El Museo de la Industria Turística, en Manzanares, es un lugar donde se pueden ver exposiciones de los diferentes sectores que conforman el turismo.
+Uno de los aspectos esenciales del turismo es que nos proporciona la posibilidad de conocer muchas cosas nuevas, tanto por dentro como por fuera de nuestro país. En esta ciudad podemos contemplar",0.08975947000900002,,,</s>,es
+55,on_p50,1000,1,56,"Tánpula remarcó que el objetivo es mejorar la eficiencia del tratamiento y desarrollar fármacos más específicos contra el cáncer, ya que ""todavía hay mucho por hacer"".
+El medicamento fue aprobado por la Comisión Europea en agosto de 2019, y ya ha sido utilizado con éxito en pacientes con cáncer de ovario, pulmón",0.08975947000900002,,,</s>,es
+56,on_p50,1000,1,57,"El jugador de la cantera azulgrana y el de la Real Sociedad mantienen una gran relación después del partido en el que estuvieron juntos en el Camp Nou.
+En el derbi donostiarra, el jugador del Barça asistió al equipo de Imanol al banquillo y pudo saludar a Mikel Merino, que también vestía la camiseta",0.08975947000900002,,,</s>,es
+57,on_p50,1000,1,58,"[…] (y un poco más) este blog ya le dedicamos alguna entrada al tema, pero esta vez lo haremos con una nueva sección que ya sabemos que os gusta y en la que vamos a hablar de series, películas y videojuegos. De la que ya sabemos que os encantará leer pues será un blog que",0.08975947000900002,,,</s>,es
+58,on_p50,1000,1,59,"El 34º Congreso Social Argentino tiene como ejes de la acción política central la defensa de nuestras conquistas sociales, laboral, educativa, y de la estabilidad macroeconómica. Las legislaturas son los momentos donde se reivindica la recuperación de la política social, donde se visibiliza en hechos la necesidad de lograr avances en la calidad y el",0.08975947000900002,,,</s>,es
+59,on_p50,1000,1,60,"Una vez más, los medios de comunicación han tenido que ser testigos de uno de los acontecimientos más impactantes de la historia. En el primer día de los Juegos Olímpicos, el presidente ruso Vladimir Putin confesó a la prensa que él y su hermano, el presidente de Estados Unidos, Barack Obama, tienen planeados dos conciertos juntos",0.08975947000900002,,,</s>,es
+60,on_p50,1000,1,61,"Y por último pero no menos importante, las toneladas de plástico que ha consumido la humanidad en todos los tiempos. Según datos de la Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO),1 poco más de 2.200 millones de toneladas de plástico fueron producidas en 2010 y de ese total, el",0.08975947000900002,,,</s>,es
+61,on_p50,1000,1,62,"La entidad azulgrana, a través de su gerente deportivo, Toni Freixa, anunció este miércoles que el jugador, que esta temporada se encuentra cedido en el conjunto merengue, jugará una final de la Liga de Campeones, que se jugará en el estadio Olímpico de Kiev.
+Ahora que mi éxito de animación mediante las condiciones de",0.08975947000900002,,,</s>,es
+62,on_p50,1000,1,63,"El Ayuntamiento de Salamanca ha recibido nueve propuestas para mantener en los próximos seis meses la subvención que concede a la entidad. La convocatoria de subvenciones para entidades culturales y sociales tiene una partida de 100.000 euros, de los que la ciudad ahorrará aproximadamente 11.000 euros.
+El Ayuntamiento de Salamanca ha recibido nueve propuestas",0.08975947000900002,,,</s>,es
+63,on_p50,1000,1,64,"La opinión del Dr. Rigoberto Rivas, Jefe de la Sección de Psiquiatría Legal de la OMS, sobre el Arco Minero en el Perú
+“La política pública de protección de los derechos humanos y la garantía de los derechos colectivos frente al discurso de la minería se debe articular con el derecho internacional de los",0.08975947000900002,,,</s>,es
+64,on_p50,1000,1,65,"Los expertos en el tema pueden ayudarle a seleccionar el tipo de plan de seguro que mejor se adapta a las necesidades de su empresa, incluyendo los:
+Si su empresa es más grande, puede que también se necesiten servicios como el de un abogado especializado en derecho laboral para gestionar todos los aspectos del contrato de trabajo",0.08975947000900002,,,</s>,es
+65,on_p50,1000,1,66,Nosotros no recomendamos el uso de sus servicios si no está de acuerdo con los términos y condiciones del presente documento.,0.08975947000900002,,,</s>,es
+66,on_p50,1000,1,67,"A, hemos añadido a la lista de inmuebles que hemos detectado en los que se dan estas circunstancias y que se encuentran en inmuebles de titularidad pública, uno de ellos es el número 6 de la localidad de Paterna. Encuentra este inmueble en esta url y llena el formulario adjunto para conocer más detalles de su documentación",0.08975947000900002,,,</s>,es
+67,on_p50,1000,1,68,"En la parte derecha de la ventana de su navegador encontrará el icono reanudación. No le preocupe, esto es solo un gesto del navegador para que pueda reanudar su navegación. Esto no se realiza de forma automática y, por lo tanto, no cuesta nada.
+Si su navegador no tiene este ícono, es",0.08975947000900002,,,</s>,es
+68,on_p50,1000,1,69,"¡Hola de nuevo! Parece que se ha pasado el finde y, por tanto, tiempo de disfrute, ¿verdad?... Los días han sido muy cortos y tenemos mucho tiempo, por tanto, para hacer el poco que podemos. Hoy os traigo un look de esta mañana para ir a comprar, que combina muy bien",0.08975947000900002,,,</s>,es
+69,on_p50,1000,1,70,"Para algunas personas, la naturaleza es un lugar de placer, de aventura y de tranquilidad. Otras, la consideran un lugar de trabajo, de estudio y de trabajo. Para cada una de ellas, el jardín es un espacio de relajación, de descanso y de reflexión. Sin embargo, para ambos casos, la naturaleza también",0.08975947000900002,,,</s>,es
+70,on_p50,1000,1,71,"De conformidad con lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, les informamos que sus datos serán incorporados al fichero titularidad de JUDICIALES CASTELLÓN, S.L. con CIF PI:KEY y domicilio",0.08975947000900002,,,</s>,es
+71,on_p50,1000,1,72,"Converse el precio que tiene en la calle con el del modelo que elijas. Para poder comprar calzado de mujer barato, es necesario que mires las ofertas que hay por Internet. Algunas tiendas online tienen gran variedad de diseños y de calidades. Lo ideal es que te fijes en las ofertas que hay en cada tipo",0.08975947000900002,,,</s>,es
+72,on_p50,1000,1,73,"Es importante que tenga en cuenta que los alimentos naturales no siempre son bajos en calorías. Como este artículo dice, los alimentos naturales no siempre están cargados de calorías. Los alimentos naturales son sorprendentemente bajos en calorías, especialmente cuando se trata de alimentos como frutas y nueces, que son azúcares naturales",0.08975947000900002,,,</s>,es
+73,on_p50,1000,1,74,"El hombre de 59 años fue detenido en la localidad bonaerense de San Martín luego de ser atacado con un arma blanca en la cara por su ex pareja
+El hombre de 59 años fue detenido en la localidad bonaerense de San Martín luego de ser atacado con un arma blanca en la cara por su ex pareja. El hombre, identificado",0.08975947000900002,,,</s>,es
+74,on_p50,1000,1,75,"En esta misma categoría nos encontramos con habitaciones que tienen una cama de matrimonio, camas individuales o camas nido. Todas ellas están completamente equipadas para que desconectar de la rutina sea cosa de un día.
+Al igual que en el caso anterior, encontrarás habitaciones en régimen de pensión completa o habitaciones sencillas, las cuales",0.08975947000900002,,,</s>,es
+75,on_p50,1000,1,76,"Al igual que el resto de los casos, se garante que las clases se estén siguiendo los mismos mecanismos de enseñanza que se siguen en las aulas. Es decir, si la situación se da que no existe internet o cualquier otra herramienta que permita impartir diferentes clases desde un mismo lugar. Se deberá utilizar plataformas virtuales como Meet, Facebook",0.08975947000900002,,,</s>,es
+76,on_p50,1000,1,77,"El Gobierno de La Pampa anunció hoy un nuevo refuerzo para fortalecer la tarea en el territorio provincial. Se trata de 43 efectivos policiales.
+El ministro de Seguridad de La Pampa, Pedro Perotti, firmó un contrato con los efectivos para brindar tareas en el destacamento ubicado en Pampa de la Ley. Los efectivos serán 43 y comenzarán",0.08975947000900002,,,</s>,es
+77,on_p50,1000,1,78,"El proyecto está ubicado en la commune de Sendi. A su vez, el trabajo se realizará en las comunas de Sendi, Laguna Blanca y San Felipe, sector donde se encuentran los parajes naturales más importantes de la comuna.",0.08975947000900002,,,</s>,es
+78,on_p50,1000,1,79,"Kecían pocos deportistas profesionales que fuesen homosexuales, ya que un gran número de ellos se consideraban heterosexuales. A pesar de esto, recientemente el Miami Heat ha anunciando su fichaje de dos nuevos jugadores como son el jugador de basquete de origen chino Yao Ming y la jugadora de golf estadounidense Natalie Wood",0.08975947000900002,,,</s>,es
+79,on_p50,1000,1,80,"La otra novedad positiva en el equipo de Vicente Moreno es la de Diego Vallejo. El canterano del Deportivo se ha hecho con un hueco en la delantera del equipo y ha pasado a formar parte de la plantilla de fútbol sala del CD Tacoronte. Eso sí, el centrocampista, que ha disputado sólo cinco minutos",0.08975947000900002,,,</s>,es
+80,on_p50,1000,1,81,"En 2008, la Fundación L’Oréal-UNESCO presentó una estrategia contra la pobreza en la región norte de Venezuela, en colaboración con la Compañía Cetame. El propósito principal era reducir la incidencia de la pobreza mediante la creación de un futuro económico y social inclusivo. Para ello, esta organización desarrolló una estrategia integral que combina",0.08975947000900002,,,</s>,es
+81,on_p50,1000,1,82,"EE.UU., Rusia, China y Turquía lideraron un aumento de la producción de petróleo en el mundo en el cuarto trimestre de 2013, lo que representó un récord histórico, según OilData, una empresa de petróleo.
+La producción de petróleo de América del Norte creció un 1.3% hasta 3.53 millones de",0.08975947000900002,,,</s>,es
+82,on_p50,1000,1,83,"3.1. La solicitud se presentará por cualquier medio válido previsto en la ley siempre que su contenido esté en consonancia con la ley del estado de Georgia (reglas del estado de Georgia 21.358).
+La aprobación de la solicitud y la entrega del título de propiedad del inmueble se realizarán por el funcionario competente local del",0.08975947000900002,,,</s>,es
+83,on_p50,1000,1,84,"El número de usuarios que consultan datos sobre la empresa TAJADES ofrece los siguientes datos:
+El día 19 de enero de 2021 llegamos a un acuerdo con los Ayuntamientos de Pinto y Pinto del Coronado para la creación de talleres de informática básica para personas adultas.
+Para participar, se solicita el teléfono de contacto",0.08975947000900002,,,</s>,es
+84,on_p50,1000,1,85,"Lo anterior no es todo. Si además de contar con otros niveles, cuentas con un área de venta propia, es muy probable que manejes también un catálogo bastante completo.
+Ya sea que quieras implementar un catálogo o una tienda online, aquí descubrirás las ventajas de contar con una.
+1. Al crear un catálogo,",0.08975947000900002,,,</s>,es
+85,on_p50,1000,1,86,"El técnico salmantino, que se enfrentará mañana a la Real Sociedad, ha convocado a 22 futbolistas y ha arbitrado el partido ante la Real Sociedad, en el que el Valladolid ha vencido por 4-0. El conjunto pucelano está entrando en un buen momento de forma (viene de empatar con el Zaragoza en el",0.08975947000900002,,,</s>,es
+86,on_p50,1000,1,87,"A veces, los bets son algo grandes. Cuanto más grande, más tiende a ser tu bote. En general, jugar al blackjack con un solo jugador no te va a hacer perder muy rápidamente. En comparación, jugar al blackjack con varios jugadores va a ser un poco más fácil de perder.",0.08975947000900002,,,</s>,es
+87,on_p50,1000,1,88,"Sapo.es tiene un buen compromiso que le permite dar un servicio que se adapta perfectamente a las exigencias de los clientes, asegurarse de que el cliente siempre se encuentre cubierto por la garantía, en caso de que haya algún defecto de la mercancía. Además, también se asegurará de que el cliente siempre obtenga",0.08975947000900002,,,</s>,es
+88,on_p50,1000,1,89,"Acabo de regresar de un largo viaje y ya estoy aquí, pero no sabes cuánto tiempo llevo pensando en escribirte. Es que creo que nadie conoce este mundo mejor que yo. Y como decía antes, te quiero con locura. A pesar de que yo lo he dicho y escrito mil veces, no es verdad. Te",0.08975947000900002,,,</s>,es
+89,on_p50,1000,1,90,Es común que los consumidores se aburran de los productos y por eso realicen una compra solo para satisfacer sus necesidades y no seguir buscando nuevas alternativas.,0.08975947000900002,,,</s>,es
+90,on_p50,1000,1,91,"Ahora en un mundo de altísima velocidad, los desarrolladores pueden lograr que las aplicaciones sean más seguras y aún más creativas, y eso solo es posible con un sistema operativo de código abierto y totalmente descentralizado en lugar de repose en una sola empresa.
+Sin embargo, todavía hay un mundo de trabajo por hacer antes de que",0.08975947000900002,,,</s>,es
+91,on_p50,1000,1,92,"La calle está en muy buen estado, está allanada, pero ahí sí está todo el dinero que ha habido una vacante, son los que han trabajado, pero siguen los que le dieron de baja en la Comisión Federal de Electricidad (CFE), entonces ellos no saben que oro hay en la calle, y que",0.08975947000900002,,,</s>,es
+92,on_p50,1000,1,93,"En la práctica, es como si los peatones se dirigieran hacia los lados cuando pasan por un túnel, al principio se piensa que está bien, pero a medida que se pasan los metros se da cuenta de que los ciclistas están seguros por el fondo y que se puede aplicar algún freno a la velocidad que se está haciendo",0.08975947000900002,,,</s>,es
+93,on_p50,1000,1,94,"Porno casero amateur maduras xxxx videos videos gratis porno xxx de viejas prostitutas en arta prostitutas en ribadeo
+Películas porno con prostitutas prostitutas en león prostitutas nacionalidad prostitutas sin condon prostitutas en vilanova
+Fotos chicas escort fiesta fotos de putas colombianas",0.08975947000900002,,,</s>,es
+94,on_p50,1000,1,95,"Mapeamos sus procesos y vehículos, con el objetivo de detectar inconsistencias o inconsistencia en los procesos de los distintos actores.
+Le ayudamos en la generación de nuevos productos y/o servicios, mediante el diseño y construcción de herramientas tecnológicas que permitan solucionar problemas en los procesos de la empresa.
+Con una mirada actualizada y humana",0.08975947000900002,,,</s>,es
+95,on_p50,1000,1,96,"idioma español o inglés.Hablo inglés perfectamente.Doy cursos de inglés para todos los niveles y edades.Adelante.
+Hola, soy Daniel y he trabajado en empresas de diversos sectores como comercio y ventas, industria y finanzas. También soy profesor de inglés desde hace muchos años.",0.08975947000900002,,,</s>,es
+96,on_p50,1000,1,97,"Directorio de Industrias y proveedores de Industrias en Argentina. Encuentra empresas, proveedores y servicios relacionados con Industrias en Argentina
+La empresa nace en 1997 con el objetivo de abastecer a clientes y usuarios en el sector de la construcción, a empresas de cerrajería, carpintería, fontanería,",0.08975947000900002,,,</s>,es
+97,on_p50,1000,1,98,"A raíz de esta falta de claridad por parte de la Administración, el sector ha iniciado una campaña de recogida de firmas para reclamar de nuestro Gobierno que ponga en marcha cuanto antes unas medidas que ayuden a solventar tal problemática con los agricultores”, ha manifestado José María Azcárate, presidente de la Federación de Cooper",0.08975947000900002,,,</s>,es
+98,on_p50,1000,1,99,"Que es un corrector de delineado? Algunos correctores de delineado contienen pigmentos que sirven para dar color corrector a la línea del lagrimal, pero no añaden color a la zona del lagrimal […]
+La piel de los labios se reseca con mucha facilidad, sobre todo en",0.08975947000900002,,,</s>,es
+99,on_p50,1000,1,100,"El conjunto navarro se impuso por la mínima (1-0) al Hellín y se mete en la lucha por el ascenso
+El conjunto navarro se metió este jueves en la lucha por el ascenso al ganar por la mínima diferencia (1-0) al Hellín, en un partido en el que los de Mikel Otero tuvieron",0.08975947000900002,,,</s>,es

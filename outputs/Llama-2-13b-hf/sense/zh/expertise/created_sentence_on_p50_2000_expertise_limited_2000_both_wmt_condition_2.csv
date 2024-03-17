@@ -1,0 +1,566 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,2000,1,1,"Translate an English sentence into a target language.
+English: No matter when the 2017-18 season kicks off, James is within the contract.
+Target Language: 无论2017-18赛季何时开始，詹姆斯在合同内。
+I am not sure if the translation is correct.
+I am not sure if the translation is correct. 2017-12-04 09:41:44
+I am not sure if the translation is correct. 2017-12-04 09:41:44 2017-12-04 09:41:44",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+1,on_p50,2000,1,2,"Translate an English sentence into a target language.
+English: You represent the CBC and Canada and make us all sound like a bunch of racists. #disgusted.
+Target Language: 你代表CBC和加拿大，使我们全部都听起来像一群种族主义者。#恶心。
+The CBC is a Canadian public broadcaster.
+The CBC is a Canadian public broadcaster. 加拿大广播公司是加拿大的公共广播公司。
+The CBC is a Canadian public broadcaster. 加拿大广播公司是加拿大的公共广播",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+2,on_p50,2000,1,3,"Translate an English sentence into a target language.
+English: The hotel's clerk said that the measure was ""a deliberate decision by the management of Kempinski-Hotels.""
+Target Language: 酒店的接待员说，这是“肯普恩斯基酒店管理层的一个决定”。
+The hotel's clerk said that the measure was ""a deliberate decision by the management of Kempinski-Hotels.""
+酒店的接待员说，这是“肯普恩斯基酒店管理层的一个决定”。
+The hotel's clerk said that",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+3,on_p50,2000,1,4,"Translate an English sentence into a target language.
+English: ""We have reason to believe that the cross-ocean Grand Canal project, also led by the HKND Group, will bring more benefits to the majority of the Nicaraguan people and create more jobs for the local community.""
+Target Language: ""我们有理由相信，跨大西洋的大运河项目，由HKND集团领导，将为大多数尼加拉瓜人带来更多好处，并为当地社区创造更多工作机会。""
+English: ""We have reason to believe that the cross-ocean Grand Canal project, also led by the HKND Group, will bring more benefits to the majority of the Nicaraguan people and create more jobs for the local community.""
+Target Language",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+4,on_p50,2000,1,5,"Translate an English sentence into a target language.
+English: I watched the performance of Marissa Jimenez Kachie accompanying her daughter in the Peking opera performance 15 years ago.
+Target Language: 我看了马里莎·詹姆斯·卡希·亚历山大·15年前的拍戏表演，她的女儿。
+I watched the performance of Marissa Jimenez Kachie accompanying her daughter in the Peking opera performance 15 years ago.
+I watched the performance of Marissa Jimenez Kachie accompanying her daughter in the Peking opera performance 15 years ago. 我看了马里莎",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+5,on_p50,2000,1,6,"Translate an English sentence into a target language.
+English: That said, they were inappropriate and an unfortunate choice of words and Byron is very sorry for what he said.
+Target Language: 他说，他们不适当，并且是一个不幸的选择的词和拜罗姆很抱歉他说了。
+I am not sure how to translate the sentence.
+I think the sentence is correct.
+I think the sentence is incorrect.
+I am not sure if the sentence is correct or incorrect.
+I am not sure how to translate the sentence. I think the sentence is correct. I think the sentence is incorrect. I am not sure if the sentence is correct or",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+6,on_p50,2000,1,7,"Translate an English sentence into a target language.
+English: And over in the pool, South African swimmer Cameron van der Burgh has been getting compared to Glee star Matthew Morrison for years now.
+Target Language: 和在游泳池里，南非游泳运动员Cameron van der Burgh已经被比作Glee演员Matthew Morrison了几年了。
+I'm not sure if this is correct, but I'm pretty sure it's not.
+I'm not sure if this is correct, but I'm pretty sure it's not. 我不确定这是正确，但我很确定这不是。
+I'm not sure if",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+7,on_p50,2000,1,8,"Translate an English sentence into a target language.
+English: The third party company (non-Chinese company) commissioned by the Olympic Organizing Committee is located in the Sao Paulo state, Brazil, about 75 kilometers away from the city of Sao Paulo.
+Target Language: 第三方公司（非中国公司），由奥委会委托，位于巴西，圣保罗州，约75公里远的圣保罗市。
+The third party company (non-Chinese company) commissioned by the Olympic Organizing Committee is located in the Sao Paulo state, Brazil, about 75 kilometers away from the city of Sao Paulo.
+The third party company (non-Chinese company) commissioned by the Olympic Organizing",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+8,on_p50,2000,1,9,"Translate an English sentence into a target language.
+English: Julius Nielsen, who has been studying the sharks, says record goes to a female thought to be between 272 and 512 years old and is five metres in length
+Target Language: 约翰·尼尔森，他在研究鲨鱼，说纪录由一个女性，估计年龄在272-512，长5米，保持
+English: The shark was first tagged in 1959 by a team led by the late Dr. Samuel Gruber, a marine biologist at the University of Miami.
+Target Language: 鲨鱼在1959年由一个由逝世的Dr. Samuel Gr",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+9,on_p50,2000,1,10,"Translate an English sentence into a target language.
+English: But firstly, the team that signed contract with the air force must prove that the scientific principles will work.
+Target Language: 但首先，那些签约空军的团队必须证明科学原理会工作。
+I am not sure if the translation is correct.
+I am not sure if the translation is correct. 我不确定翻译是否正确。
+@Jason 你的翻译是正确的。
+@Jason 你的翻译是正确的。 👍
+@Jason 你的��",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+10,on_p50,2000,1,11,"Translate an English sentence into a target language.
+English: It's not a big meeting, it's not a Royal Ascot - it's a mundane Friday night with 20,000 people.
+Target Language: 这不是一个大会，这不是一个皇家赛马 - 这是一个平凡星期五，20,000人。
+I'm not sure how to translate the first sentence.
+I'm not sure how to translate the second sentence.
+I'm not sure how to translate the third sentence.
+I'm not sure how to translate the fourth sentence.
+I'm not sure how to translate the fifth sentence.
+I'm not sure how to translate the sixth sentence.
+I'm not sure how to",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+11,on_p50,2000,1,12,"Translate an English sentence into a target language.
+English: Liu Cigui came to Sanya for the research of ""Double Restoration and Dual City"" and required to enhance the level of urban construction and management
+Target Language: 刘赐贵来三亚进行“双恢复双城市”研究，要提高城市建设和管理水平
+The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+12,on_p50,2000,1,13,"Translate an English sentence into a target language.
+English: It was rejected by 58% of its members who voted in the ballot.
+Target Language: 58% of its members who voted in the ballot rejected it.
+English: The company has been fined $100,000 for breaching the law.
+Target Language: The company has been fined $100,000 for breaching the law.
+English: The company has been fined $100,000 for breaching the law, and the director has been fined $10,000.
+Target Language: The company has been fined $100,000 for breaching the law, and the director",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+13,on_p50,2000,1,14,"Translate an English sentence into a target language.
+English: As the inheritance of intangible cultural heritage projects of Anhui province mainly relies on oral and face-to-face passage, many intangible cultural heritage projects are on the verge of failing to be handed down from past generations. So the application of digital technology for conservation is imperative.
+Target Language: 安徽省非物质文化遗产继承工作主要依靠口述和面对面传承，许多非物质文化遗产工作在传承下一代的危险之前。因此，非物质文化遗产保护的数字技术应用是必要的。
+The translation is correct, but the sentence",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+14,on_p50,2000,1,15,"Translate an English sentence into a target language.
+English: The JDC says ministers have failed to address concerns about the contract.
+Target Language: 英语：JDC说，政府没有解决关于合同的担忧。
+The JDC says ministers have failed to address concerns about the contract.
+The JDC says ministers have failed to address concerns about the contract. 英语：JDC说，政府没有解决关于合同的担忧。
+The JDC says ministers have failed to address concerns about the contract. 英语：JDC说，政府没有解决关于合同的担",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+15,on_p50,2000,1,16,"Translate an English sentence into a target language.
+English: The legacy is in our continued focus on calories and nutrition, Ms. Ziegelman said, and on the way science has been applied to cooking.
+Target Language: 我们的继承在于我们继续关注卡路里和营养，Ms. Ziegelman说，和科学的应用到烹饪方面。
+The legacy is in our continued focus on calories and nutrition, Ms. Ziegelman said, and on the way science has been applied to cooking.
+我们的继承在于我们继续关注卡路里和�����",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+16,on_p50,2000,1,17,"Translate an English sentence into a target language.
+English: This requires that the detector's sun wing area to be larger, and need to constantly adjust, and strive to align with the sun direction.
+Target Language: 这要求探测器的太阳翼面积要更大，并需要不断调整，并努力对齐太阳方向。
+English: The detector's sun wing area needs to be larger, and need to constantly adjust, and strive to align with the sun direction.
+Target Language: 探测器的太阳翼面积要更大，并需要不断调整，并努力对齐太阳方向。
+",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+17,on_p50,2000,1,18,"Translate an English sentence into a target language.
+English: Portland smelter's future in doubt with axing of power contract
+Target Language: 普特南锻铸厂的未来在悬崖峭壁上，停电合同被裁掉
+English: The future of the Portland smelter is in doubt after the axing of its power contract.
+Target Language: 普特南锻铸厂的未来在悬崖峭壁上，停电合同被裁掉。
+English: The future of the Port",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+18,on_p50,2000,1,19,"Translate an English sentence into a target language.
+English: At a court hearing this week, Calais authorities had argued the state should be able to knock down a total of 72 makeshift shops where people inside the camp sell goods, from cigarettes to energy drinks, offer haircuts, or sell tea for 50 cents (40p) or basic meals for a few euros in makeshift restaurants.
+Target Language: 法庭听证会上，卡莱斯当局认为，政府应该能拆除72个帐篷，在这些帐篷里，人们卖煙、能量饮料、剃头、或者卖茶50欧分（40英镑），或者卖几欧元的基本餐。
+The translation is correct, but it is not a",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+19,on_p50,2000,1,20,"Translate an English sentence into a target language.
+English: Recently, Hebei Cixiao Fund sent a 16,000-yuan relief sent to six families who lost their relatives in Xiaozuo, Taitou and Guiquan Village of Jinjing County.
+Target Language: 近日，河北熙祥基金会向冀县寨托、寨托、寨托等六个村的六个家庭损失的亲属人送去16000元的救济款。
+The target language is a Chinese sentence.
+The source language is an English sentence.
+The source language is a sentence in English.
+The target language is a sentence in Chinese.
+The source language is a sentence in Chinese.",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+20,on_p50,2000,1,21,"Translate an English sentence into a target language.
+English: These areas have increased the conveniences of children to attend college entrance examination in the local place while meeting the related requirement.
+Target Language: 这些地区增加了儿童参加本地的大学入学考试的便利性，同时满足相关要求。
+The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+21,on_p50,2000,1,22,"Translate an English sentence into a target language.
+English: Efforts by the BMA to resolve the dispute through talks have been met with an unwillingness to engage and, at times, deafening silence from the government.
+Target Language: 尽管医生协会努力通过谈判解决纠纷，政府的态度却是不愿意谈判和听不懂的沉默。
+The BMA is the British Medical Association.
+The BMA is the British Medical Association. The BMA is the British Medical Association. The BMA is the British Medical Association. The BMA is the British Medical Association. The BMA is the British Medical Association. The BMA is the British",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+22,on_p50,2000,1,23,"Translate an English sentence into a target language.
+English: From the first stroke to the last, 220 punishing heaves into history, Helen Glover and Heather Stanning found added meaning in their golden moment at the Estacio da Lagoa.
+Target Language: 从第一拍到最后一拍，220折磨历史的挤压，赫伦·格洛弗和海伦·斯坦灵在她们的黄金时刻在埃斯塔西奥·达·拉戈亚找到了更多意义。
+The translation is correct, but it is not a good translation.
+The translation is correct, but it is",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+23,on_p50,2000,1,24,"Translate an English sentence into a target language.
+English: At their peak spin rates, these maturing stars eject large amounts of stellar wind.
+Target Language: 这些演化的恒星在其峰转速时抛射大量的恒星风。
+The target language is a sentence in Chinese.
+The source sentence is a sentence in English.
+The source sentence is a sentence in English. The target sentence is a sentence in Chinese.
+The source sentence is a sentence in English. The target sentence is a sentence in Chinese. The source sentence is a sentence in English. The target sentence is a sentence in Chinese.
+The source sentence is a sentence in English. The target sentence is a",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+24,on_p50,2000,1,25,"Translate an English sentence into a target language.
+English: With two accounts for two institutions, this can prevent the village cadres from participating in collective asset management corruption.
+Target Language: 两帐户，两机构，这可以防止村级干部参与集体资产管理腐败。
+The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+25,on_p50,2000,1,26,"Translate an English sentence into a target language.
+English: When the match went on for 10 minutes, Lifan made continued hit and gained a chance for corner. Fernando made small-angle volley and was fended off the base line by Guoan.
+Target Language: 當比賽進行了十分鐘，聯寧隊繼續進攻，獲得角球機會。費南多射門，被广园防守擋在基线上。
+English: When the match went on for 10 minutes, Lifan made continued hit and gained a chance for corner. Fernando made small-angle volley and was fended off the base line by Guoan. 當比賽進行",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+26,on_p50,2000,1,27,"Translate an English sentence into a target language.
+English: He brought up the landmark with his second winner of the night at his local track - on Predilection, trained by John Gosden.
+Target Language: 他在他的本地跑马场上取得了他的第二个胜利 - 在Predilection,由John Gosden训练的那个。
+I am not sure how to translate the sentence.
+I think the sentence is about a horse race.
+The sentence is about a horse race.
+Predilection is the name of the horse.
+The horse is trained by John Gosden.
+The horse won the race.
+The horse won the race at the local track.
+The horse won the race with the second winner",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+27,on_p50,2000,1,28,"Translate an English sentence into a target language.
+English: According to Xu Dazhe, although China's aircraft has entered a deep space, it is still essential to finish the task of Mars exploration. The detection of Mars means that China has stepped into the deep space exploration era in a true sense.
+Target Language: 根据徐大哲，中国的飞机已进入深空，但是仍然必须完成火星探测的任务。火星探测意味着中国已经进入真正意义上的深空探测时代。
+The translation is correct, but it is not a good translation.
+The translation is correct, but it is not a good translation. The translation is correct, but it is not a good translation. The translation is correct,",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+28,on_p50,2000,1,29,"Translate an English sentence into a target language.
+English: But she still desperately swam to the little girl.
+Target Language: 她仍然急切地游向小女孩。
+I am not sure if the sentence is correct.
+I am not sure if the sentence is correct. 我不确定这句是否正确。
+I am not sure if the sentence is correct. 我不确定这句是否正确。 我不确定这句是否正确。
+I am not sure if the sentence is correct. 我不确定这句是否正确。 我不确定",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+29,on_p50,2000,1,30,"Translate an English sentence into a target language.
+English: I couldn't have asked for a better person to train with, or a better coach.
+Target Language: 我不能想象的更好的人和更好的教练。
+I'm not sure if this is correct, but I'm pretty sure it's not.
+I'm not sure if this is correct, but I'm pretty sure it's not. 我不能想象的更好的人和更好的教练。
+I'm not sure if this is correct, but I'm pretty sure it's not. 我不能想象的更好的人和更好的教练。 我",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+30,on_p50,2000,1,31,"Translate an English sentence into a target language.
+English: What are the challenges of world economic globalization and integration to governance?
+Target Language: 世界经济全球化和融合对治理带来了哪些挑战？
+The target language is Chinese.
+The target language is not English.
+The target language is not a language that you are familiar with.
+The target language is not a language that you are fluent in.
+The target language is not a language that you are proficient in.
+The target language is not a language that you are conversant in.
+The target language is not a language that you are familiar with, but you are fluent",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+31,on_p50,2000,1,32,"Translate an English sentence into a target language.
+English: Traditional dating methods usually use calcified tissue of animals. Some fins can use fins, but this calcified tissue is very scarce in Greenland sharks.
+Target Language: 传统的约会方法通常使用动物的钙化组织。一些鳍可以使用鳍，但这种钙化组织在格陵兰鲨鱼很稀缺。
+English: The Greenland shark is a large shark that lives in the Arctic and subarctic waters. It is the only living member of the family Somniosidae.
+Target Language: 格�������",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+32,on_p50,2000,1,33,"Translate an English sentence into a target language.
+English: Now for their own interests, enterprises have raised their enthusiasm of pollution control, cherished limited emissions and reduced emissions of pollutants.
+Target Language: 现在，为了自身利益，企业已经增强了污染控制的热情，珍惜有限排放和减少污染物排放。
+English: The government has been actively promoting the development of the circular economy, and the circular economy has been widely used in the fields of agriculture, forestry, animal husbandry, and fisheries.
+Target Language: 政府已经积极",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+33,on_p50,2000,1,34,"Translate an English sentence into a target language.
+English: Russian public opinion has also turned since November.
+Target Language: 俄罗斯公众意见也转向自己自己自己自己自己自己自己自己自己自己自己自己自己自己自己自己自己自己自己自己自己自己自己自己自己自己自己自",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+34,on_p50,2000,1,35,"Translate an English sentence into a target language.
+English: Simone Biles nails all-around gold in women's gymnastics
+Target Language: 塞蒙·比尔斯在女子体操项目中获得全能金
+English: Simone Biles nails all-around gold in women's gymnastics.
+Target Language: 塞蒙·比尔斯在女子体操项目中获得全能金。
+English: Simone Biles nails all-around gold in women's gymnastics. 塞蒙·比尔斯在女子体操项目中获得全能金。
+English: Simone B",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+35,on_p50,2000,1,36,"Translate an English sentence into a target language.
+English: I think the administration's most important task is to support your activity as head of state in terms of drafting laws and control over how your instructions are implemented.
+Target Language: 我认为政府的最重要任务是支持您作为国家元首的活动，即制定法律和您的指示的实施控制。
+I am not sure if the translation is correct.
+I think the administration's most important task is to support your activity as head of state in terms of drafting laws and control over how your instructions are implemented.
+我认为政府的最重要任务是支持您作为国家元首的活动，即",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+36,on_p50,2000,1,37,"Translate an English sentence into a target language.
+English: Simone, Gabby and Laurie all took the same path as Aly and Madison to make the Olympic team.
+Target Language: 谁都不知道，她们都走了同一路线，她们都走了同一路线，她们都走了同一路线，她们都走了同一路线，她们都走了同一路线，她们都走了同一路线，她们都走了同一路线，她们都走了同一路线，她们都��",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+37,on_p50,2000,1,38,"Translate an English sentence into a target language.
+English: As the No.12 new arrival of the first round in 2014, Salic will officially land on the NBA in the next season, and join the Philadelphia 76ers.
+Target Language: 2014年第一轮新秀12号选秀人萨利克，将在下一赛季正式登陆NBA，并加盟费城76人队。
+The translation is correct, but it is not a good translation.
+The translation is correct, but it is not a good translation. The translation is correct, but it is not a good translation. The translation is correct, but it is not a good translation. The translation is correct, but it is not a good translation. The",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+38,on_p50,2000,1,39,"Translate an English sentence into a target language.
+English: The Sydney Opera House is one of Sydney's landmark buildings, designed by Danish architect Jorn Utzon and built in 1973. It welcomes about 8 million visitors each year.
+Target Language: 悉尼歌剧院是悉尼的地标建筑，由丹麦建筑师约恩·乌托森设计，于1973年建成。每年接待约800万游客。
+The Sydney Opera House is one of Sydney's landmark buildings, designed by Danish architect Jorn Utzon and built in 1973. It welcomes about 8 million visitors each year",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+39,on_p50,2000,1,40,"Translate an English sentence into a target language.
+English: Humanitarian groups had told the court the shops and restaurants were vital, saying the free meals offered by a state-backed association and other groups did not provide enough food for the growing numbers at the camp.
+Target Language: 人道组织告诉法庭，商店和餐厅是必要的，他们说，由国家资助的协会和其他组织提供的免费餐不能满足越来越多的人们的需要。
+English: The court had previously ordered the state to provide food and water to the camp, but the state had appealed the ruling.
+Target Language: 法庭之前已经命令",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+40,on_p50,2000,1,41,"Translate an English sentence into a target language.
+English: According to media reports, CEO Wang Lei recently said Ali health ""is willing to get down"" to win big health data.
+Target Language: 根据媒体报道，阿里健康CEO王磊最近表示，阿里健康“愿意跪下”以赢得大健康数据。
+The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+41,on_p50,2000,1,42,"Translate an English sentence into a target language.
+English: From the news reports of the Olympic Games, all media have made a lot of changes in the aspect of mode of transmission, product form, language style, news perspective and many other aspects.
+Target Language: 从奥运新闻报道中，媒体在方式传播、产品形式、语言风格、新闻观点等方面都做了很多改变。
+The translation is correct, but it is not a good translation.
+The translation is correct, but it is not a good translation. The translation is correct, but it is not a good translation. The translation is correct, but it is not a good translation. The translation is correct, but it is not",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+42,on_p50,2000,1,43,"Translate an English sentence into a target language.
+English: Investigators tells CBS Philadelphia it appears there was crossfire between multiple gunmen.
+Target Language: 警方表示，警察局的调查人员表示，警察局的调查人员表示，警察局的调查人员表示，警察局的调查人员表示，警察局的调查人员表示，警察局的调查人员表示，警察局的调查人员表示，警察局的调查人员表示，",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+43,on_p50,2000,1,44,"Translate an English sentence into a target language.
+English: Whether you're approached from in front or behind, this video will show you how to turn the tables on your mugger.
+Target Language: 你被前后两面袭击，这个视频会告诉你如何反抗劫匪。
+Translation: Whether you're approached from in front or behind, this video will show you how to turn the tables on your mugger.
+Translation: 你被前后两面袭击，这个视频会告诉你如何反抗劫匪。
+Translation: Whether you're approached from in front or behind, this video will show",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+44,on_p50,2000,1,45,"Translate an English sentence into a target language.
+English: As never before or since, home economists - among them Louise Stanley, chief of the federal Bureau of Home Economics from 1923 to 1943 - drove the country's eating habits.
+Target Language: 从未有过或再也没有, 家政学家 - 其中包括1923年至1943年的联邦家政局局长Louise Stanley - 驱动了国家的饮食习惯。
+The English sentence is a bit long, so I'm not sure how to translate it.
+I'm not sure if I should translate it word by word, or if I should translate it as a whole.
+I'm also not sure if I should translate it",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+45,on_p50,2000,1,46,"Translate an English sentence into a target language.
+English: China has taken resolute and effective measures to resolve excess capacity, and the results are gradually emerging.
+Target Language: 中国已经采取决心和有效措施解决产能过剩，结果逐渐出现。
+The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language.",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+46,on_p50,2000,1,47,"Translate an English sentence into a target language.
+English: Treats says nude calendar for 'women, as well as men'
+Target Language: 她们的宠物说，她们的宠物说，她们的宠物说，她们的宠物说，她们的宠物说，她们的宠物说，她们的宠物说，她们的宠物说，她们的宠物说，她们的宠物说，她们的宠物说，她们的�",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+47,on_p50,2000,1,48,"Translate an English sentence into a target language.
+English: At the same time, the Commission set up a ""Shenzhen-Hong Kong stock market transactions interconnection mechanism"" special working group, and actively promote the preparatory work. The work will be open this year after the full preparation of the related regulatory rules and technical equipment.
+Target Language: 同时，委员会成立了“深圳股票市场与香港股票市场交易互连机制”专项工作组，并积极推进相关准备工作。工作将于本年底前完成相关规则和技术设备的充分准备后正式开放。
+The English sentence is about the ""Sh",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+48,on_p50,2000,1,49,"Translate an English sentence into a target language.
+English: Until March 8, 2015 when Shuyang County Public Security Bureau conducted a survey, there were only 142 layers on the farm.
+Target Language: 2015年3月8日，苏阳县公安局在进行调查时发现，当时在农场上共有142层。
+English: The number of layers on the farm is 142.
+Target Language: 农场上的层数是142。
+English: The number of layers on the farm is 142. The number of layers on the farm is 142.
+Target Language: 农场上的层数是14",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+49,on_p50,2000,1,50,"Translate an English sentence into a target language.
+English: In terms of event security, the current conference recruited 580 volunteers, during which the volunteers will provide services in the various venues for athletes and visitors.
+Target Language: 在比赛安全方面，本次会议招募了580名志愿者，期间志愿者将在各场馆为运动员和观众提供服务。
+The current conference recruited 580 volunteers, during which the volunteers will provide services in the various venues for athletes and visitors.
+In terms of event security, the current conference recruited 580 volunteers, during which the volunteers will provide",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+50,on_p50,2000,1,51,"Translate an English sentence into a target language.
+English: It was backed with millions of pounds in sponsorship of international sport, from Six Nations rugby to Wimbledon champion Andy Murray.
+Target Language: 它被投资数百万英镑的国际体育赞助，从六国橄榄球到温布尔登冠军安迪·穆雷。
+The translation is correct, but it is not a good translation.
+The translation is correct, but it is not a good translation. The translation is correct, but it is not a good translation. The translation is correct, but it is not a good translation. The translation is correct, but it is not a good",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+51,on_p50,2000,1,52,"Translate an English sentence into a target language.
+English: It has retreated from them since it nearly collapsed eight years ago and had to be bailed out.
+Target Language: 它从那时候以来已经退出了他们，因为它在八年前几乎崩溃，并且必须被拯救。
+I am not sure if the translation is correct.
+I am not sure if the translation is correct. 我不确定翻译是否正确。
+I am not sure if the translation is correct. 我不确定翻译是否正确。 我不确定",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+52,on_p50,2000,1,53,"Translate an English sentence into a target language.
+English: Han said that on the current day of the crime, the two were asked to drink alcohol. And the two had two disputes during and after meal.
+Target Language: 汉说，当天犯罪的当天，两人被要求喝酒。和两人在吃饭和吃饭后发生了两次争吵。
+English: Han said that on the current day of the crime, the two were asked to drink alcohol. And the two had two disputes during and after meal. 汉说，当天犯罪的当天，两人被要求喝酒。和两人在��",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+53,on_p50,2000,1,54,"Translate an English sentence into a target language.
+English: He is stylish and strong, but it is his tactical nous that sets him apart from others in the weighing room.
+Target Language: 他是时尚和坚强，但是他的战略才能使他在赛马场上脱颖而出。
+I am not sure how to translate the sentence.
+I think the sentence is about a horse rider.
+I am not sure how to translate the sentence. I think the sentence is about a horse rider.
+@Jason_Huang
+I think you're right. I'm not sure what the ""weighing room"" is, but I think it'",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+54,on_p50,2000,1,55,"Translate an English sentence into a target language.
+English: By then, Fan Deshang will conduct a comprehensive analysis of the above issues.
+Target Language: 到时候，樊德尚将对上述问题进行全面分析。
+The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+55,on_p50,2000,1,56,"Translate an English sentence into a target language.
+English: ""The Pleiades star cluster provides an anchor for theoretical models of stellar rotation going both directions, younger and older,"" said Rebull.
+Target Language: 恒星群Pleiades提供一个理论模型的旋转方向的一个锚点，年轻和老的。Rebull说。
+The Pleiades star cluster provides an anchor for theoretical models of stellar rotation going both directions, younger and older, Rebull said.
+The Pleiades star cluster provides an anchor for theoretical models of stellar rotation going both directions, younger and older, Rebull said. The Pleiades star cluster provides an anchor for theoretical models of stellar rotation going both directions, younger",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+56,on_p50,2000,1,57,"Translate an English sentence into a target language.
+English: Animal rescue center, ornithologist and a US 3D printing company worked together to prepare several ""test beak"" for Gracia and finally built a ""perfect beak"" for it.
+Target Language: 动物救援中心、鸟类学家和一家美国3D打印公司合作，为格拉西准备了几个“测试嘴”，最终为她打造了一个“完美嘴”。
+I am a native Chinese speaker and I have a bachelor's degree in English. I have been working as a translator for 3 years. I have translated many documents, including contracts, articles, and books. I am",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+57,on_p50,2000,1,58,"Translate an English sentence into a target language.
+English: Police use tear gas & rubber bullets against protesting Brazilian students
+Target Language: 警察使用泪滴弹和软橡皮子弹对抗抗议的巴西学生
+Translation: Police use tear gas and rubber bullets against protesting Brazilian students
+Translation: 警察使用泪滴弹和软橡皮子弹对抗抗议的巴西学生
+Translation: �����",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+58,on_p50,2000,1,59,"Translate an English sentence into a target language.
+English: Bam was on that team.
+Target Language: Bam 在那队里。
+English: Bam was on that team. Bam was on that team.
+Target Language: Bam 在那队里。 Bam 在那队里。
+English: Bam was on that team. Bam was on that team. Bam was on that team.
+Target Language: Bam 在那队里。 Bam 在那队里。 Bam 在那队里。
+English: Bam was on that team. Bam was on that team. Bam",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+59,on_p50,2000,1,60,"Translate an English sentence into a target language.
+English: Police say they will seek to evict tenants who flout the rules of their tenancies
+Target Language: 警方表示，他们将尝试逐出那些违反租约的租户
+English: The police say they will seek to evict tenants who flout the rules of their tenancies
+Target Language: 警方表示，他们将尝试逐出那些违反租约的租户。
+English: The police say they will seek to evict tenants who flout the rules of their tenancies.
+Target",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+60,on_p50,2000,1,61,"Translate an English sentence into a target language.
+English: Several of the drivers involved have already been interviewed but some are still unidentified, said police, who are calling for them and anyone else who witnessed the incident to come forward.
+Target Language: 几个司机参与的人已经被采访，但是一些仍然未知，警察说，他们正呼吁他们和任何其他目击者来前来。
+The sentence is about a car accident. The police are looking for the drivers who were involved in the accident.
+The sentence is about a car accident. The police are looking for the drivers who were involved in the accident. The sentence is about a car accident. The police are looking for the drivers who were",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+61,on_p50,2000,1,62,"Translate an English sentence into a target language.
+English: A superb Mitchell tackle stopped the man-mountain Leone Nakarawa from scoring a third but it was only delaying Fiji.
+Target Language: 一个惊人的Mitchell攔截停止了巨人Leone Nakarawa得分第三，但只是推迟了菲律賓。
+English: The 2015 Rugby World Cup was the eighth Rugby World Cup, the quadrennial international rugby union championship.
+Target Language: 2015年橄榄球世界杯是第八届橄榄球世界杯",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+62,on_p50,2000,1,63,"Translate an English sentence into a target language.
+English: The opening ceremony of the first Youth Games of Yunnan Province on the 13th day of the month showed youth vitality
+Target Language: 云南省第一届青年运动会开幕式在十三日举行，展现了青年的活力
+The opening ceremony of the first Youth Games of Yunnan Province on the 13th day of the month showed youth vitality
+The opening ceremony of the first Youth Games of Yunnan Province on the 13th day of the month showed youth vitality.
+The opening ceremony of the first Youth Games of Yunnan Province on the 13th day of the month showed youth vitality. The opening ceremony of the first",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+63,on_p50,2000,1,64,"Translate an English sentence into a target language.
+English: At the court, the victim's family asked Han to compensate for a total of 530,000 yuan in the form of funeral expenses and compensation for death.
+Target Language: 在法庭上，受害者家属要求韩向受害者家属支付53万元的赔偿金和葬礼费。
+The target language is not a natural sentence.
+The target language is not a natural sentence. The target language is not a natural sentence. The target language is not a natural sentence. The target language is not a natural sentence. The target language is not a natural sentence. The target language is not a natural sentence. The target language is not a",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+64,on_p50,2000,1,65,"Translate an English sentence into a target language.
+English: On Nov. 5, 2013, India launched the first Mars probe ""Mangalian"", and has become Asia's first country for successful detection of the Mars.
+Target Language: 2013年11月5日，印度发射了首个火星探测器“摩诃婆罗”，成为亚洲第一个成功探测火星的国家。
+The target language is not correct.
+The target language is correct.
+The target language is correct, but the translation is not good.
+The target language is correct, and the translation is good.
+The target language is correct, and the translation is very good.
+The target language is correct",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+65,on_p50,2000,1,66,"Translate an English sentence into a target language.
+English: Shoppers didn't know where to look when a woman stripped off to try on knickers on the shop floor in the middle of a Primark.
+Target Language: 购物者不知道哪里看，当一个女人在购物中心的楼层上尝试穿着内裤时，她在一个Primark中做了一个尝试。
+Translation: Shoppers didn't know where to look when a woman stripped off to try on knickers on the shop floor in the middle of a Primark.
+Translation: 购物者不知道哪里看，当",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+66,on_p50,2000,1,67,"Translate an English sentence into a target language.
+English: Stacks of big-race winners, including his famous 1996 'Magnificent Seven' at Ascot, but he also survived a plane crash and served a drugs ban.
+Target Language: 巨大赛马胜利堆，包括他的著名的1996年的'壮丽七'在赛马场，他也幸存了一架飞机坠毁和服了一次毒禁令。
+I am not sure how to translate the sentence.
+I think the first part is easy.
+巨大赛马胜利堆，包括他的著",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+67,on_p50,2000,1,68,"Translate an English sentence into a target language.
+English: According to the Ministry of Defense of Russia, in order to assist the air attack of the six strategic bombers on the ""Islamic State"" target in Syria, a number of Russian fighters lifted from the Syrian Mahmir Air Force base to provide support.
+Target Language: 俄罗斯国防部称，为协助6架战略轰炸机对“伊斯兰国”目标在叙利亚发动空袭，一批俄罗斯战斗机从叙利亚马哈里空军基地起飞，为支援提供支援。
+English: According to the Ministry of Defense of",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+68,on_p50,2000,1,69,"Translate an English sentence into a target language.
+English: A 20-year fixed subsidy expires in November.
+Target Language: 一个20年固定补贴在11月到期。
+I am not sure how to translate the sentence.
+I think the sentence should be translated as:
+一个20年固定补贴在11月到期。
+But I am not sure if the sentence is correct.
+I am not sure if the sentence is correct.
+I am not sure if the sentence is correct. I am not sure if the sentence is correct. I am not sure if the sentence is correct. I am not sure if the sentence",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+69,on_p50,2000,1,70,"Translate an English sentence into a target language.
+English: Military Officials Distorted ISIS Intelligence, Congressional Panel Says
+Target Language: 军官们歪曲了ISIS情报，国会委员会说
+The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+70,on_p50,2000,1,71,"Translate an English sentence into a target language.
+English: Although the stable ionizing layer with a large number of free electrons may help people listen to the radio at the edge of a university radio station, but this may not be the interest of the US Air Force.
+Target Language: 尽管稳定化的离子化层具有许多自由电子，这可能帮助人们在大学电台边缘收听电台，但这可能不是美国空军的兴趣。
+The English sentence is a bit long and complicated. The target language is a bit short and simple.
+The English sentence is a bit long and complicated. The target language is a bit short and simple. 我的答案
+The",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+71,on_p50,2000,1,72,"Translate an English sentence into a target language.
+English: With its lens tool, Snapchat allows some 150 million daily users to alter reality and play with identity in ways that border on the absurd.
+Target Language: 拍摄机器人带有镜头工具，Snapchat允许一些1500万日常用户改变现实和游戏的身份方式，违背常识。
+Translation: With its lens tool, Snapchat allows some 150 million daily users to alter reality and play with identity in ways that border on the absurd.
+Translation: With its lens tool, Snapchat allows some 1",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+72,on_p50,2000,1,73,"Translate an English sentence into a target language.
+English: At the 56th minute, Zhang Chiming hit in his left dribble and worked to transfer with Zhang Xizhe. He was fended off by Deng Xiaofei at the curling shot.
+Target Language: 在56分钟，张琦铭在左边突破，与张熙哲合作，他被邓小飞抵挡的弯劲射门。
+The English sentence is a bit long, so I'm not sure how to translate it into a target language.
+I'm not sure how to translate the sentence into a target language.
+I'm not sure how to translate the sentence into a target language. I'm not sure how to translate",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+73,on_p50,2000,1,74,"Translate an English sentence into a target language.
+English: Zhan Qixian said that, as long as there are party assets today, no one will give you social donations. So if the party were all confiscated away, then Kuomintang can just ask for social support and sponsorship, ""You will have chance to go when there are no assets.""
+Target Language: 扎喀仙说，今天党财产都没有，就不会有社会捐款。所以，如果党财产都没有，就可以让党去社会募捐，“你们有机会去吧，没有财产。”
+English: Zhan Qixian said that, as long as there are party assets today, no one will give you social donations. So",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+74,on_p50,2000,1,75,"Translate an English sentence into a target language.
+English: Many NBA players have proved their strength. But whenever there is progress, there is decline.
+Target Language: 许多NBA球员证明了他们的强大。然而，当有进步时，就有衰落。
+Translation: 许多NBA球员证明了他们的强大。然而，当有进步时，就有衰落。
+Translation: 许多NBA球员证明了他们的强大。然而，当有进步时，就有�",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+75,on_p50,2000,1,76,"Translate an English sentence into a target language.
+English: China's Mars exploration launch target is to step around, land and patrol at one time. Such task has considerable difficulty.
+Target Language: 中国火星探测发射目标是一次步行、降落、巡视。这种任务具有较大难度。
+The target language is not correct.
+The target language is correct.
+The target language is correct, but the translation is not good.
+The target language is correct, and the translation is good.
+The target language is correct, and the translation is very good.
+The target language is correct, and the translation is very good. The translation is very close to",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+76,on_p50,2000,1,77,"Translate an English sentence into a target language.
+English: The two tributaries will conduct construction via social financing. The charges have been approved by the relevant provincial government departments.
+Target Language: 两条支流将通过社会融资进行建设。建设费已经获得相关省级政府部门批准。
+The two tributaries will conduct construction via social financing. The charges have been approved by the relevant provincial government departments.
+The two tributaries will conduct construction via social financing. The charges have been approved by the relevant provincial government departments.
+The two tributaries will conduct construction via social financing. The charges have been approved by the relevant provincial government departments.",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+77,on_p50,2000,1,78,"Translate an English sentence into a target language.
+English: It shows that the filter isn't just yellowface, but yellowface taken to its derogatory extreme.
+Target Language: 这表明滤镜不仅仅是黄脸，而是黄脸的歧视性极端。
+I'm not sure if the translation is correct.
+I'm not sure if the translation is correct. 我不确定翻译是否正确。
+@Joe_Blow 你的翻译是正确的。
+@Joe_Blow 你的翻译是正确的。 谢",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+78,on_p50,2000,1,79,"Translate an English sentence into a target language.
+English: Mystery as fish land in Banff garden
+Target Language: 谜底为何鱼落在贝尼夫园
+English: Mystery as fish land in Banff garden 谜底为何鱼落在贝尼夫园
+English: Mystery as fish land in Banff garden 谜底为何鱼落在贝尼夫园 谜底为何鱼落在贝尼夫园",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+79,on_p50,2000,1,80,"Translate an English sentence into a target language.
+English: But her parents and friends did not give up, kept watching the live and saw other players finish the game. Zhang Binbin raised her ranks all the way and finally came to the final. At this time, a burst of cheers broke out in her home.
+Target Language: 她的父母和朋友们没有放弃，继续观看直播，看到其他玩家完成游戏。张彬彬逐渐提升排名，最终来到了决赛。此时，她家中突然响起了一阵欢呼声。
+English: The 12",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+80,on_p50,2000,1,81,"Translate an English sentence into a target language.
+English: As of the end of July, the volume of container received for Sino-Asia freight trains reached 64,000 TEU, an increase of 8% over the same period in 2015.
+Target Language: 2016年7月底，中亚铁路集装箱货物吞吐量达到64000TEU，同比增长8%。
+The volume of container received for Sino-Asia freight trains reached 64,000 TEU, an increase of 8% over the same period in 2015.
+The volume of container received for Sino-Asia freight trains reached 64,000 TEU, an increase of ",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+81,on_p50,2000,1,82,"Translate an English sentence into a target language.
+English: Sir Eric savages the Metropolitan Police, saying it is ""astonishing"" that no criminal charges were brought after the Tower Hamlets case.
+Target Language: 英国骑士埃里克抨击伦敦警察局，他说，“令人惊讶的是，没有任何一个犯罪人被起诉”，在塔华姆斯案件之后。
+The sentence is in the form of a news report.
+The sentence is in the form of a news report. The sentence is in the form of a news report. The sentence is in the form of a news report. The sentence is",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+82,on_p50,2000,1,83,"Translate an English sentence into a target language.
+English: Multiple houses and vehicles in the area were also struck.
+Target Language: 多个房屋和车在该地区也被击中。
+English: The company is also planning to open a new store in the area.
+Target Language: 公司还计划在该地区开设一个新店。
+English: The company is also planning to open a new store in the area. The company is also planning to open a new store in the area.
+Target Language: 公司还计划在该地区开设一个新店。 公司还计划在该地区开设一个",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+83,on_p50,2000,1,84,"Translate an English sentence into a target language.
+English: Aside from Kate's doppelganger on the cycling track, many people online have been quick to point out how a certain archer could be the twin of A-lister Leonardo DiCaprio.
+Target Language: 除了凯特的替身在自行车赛道上，许多网民很快指出一个箭手可能是A级明星刘易诺迪卡普里奥的双胞胎。
+I'm not sure how to translate the sentence.
+I'm not sure how to translate the sentence. I'm not sure how to translate the sentence. I'm not sure how to translate the",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+84,on_p50,2000,1,85,"Translate an English sentence into a target language.
+English: ""Hunan Exposition"" has become an important platform for the local place to cultivate the development of characteristic industries and promote the ""going-out"" of characteristic industries.
+Target Language: 湖南博览会已成为本地区的发展特色产业的培育平台和特色产业的“走出去”的推动平台。
+English: The Hunan Exposition has become an important platform for the local place to cultivate the development of characteristic industries and promote the ""going-out"" of characteristic industries.
+Target Language: 湖南博览会已成为本地区的发展特色产业的培育平台和特",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+85,on_p50,2000,1,86,"Translate an English sentence into a target language.
+English: The key one is Syria, where Moscow has recently been casting itself as peacemaker but where Russia and Turkey back opposite sides.
+Target Language: 俄罗斯和土耳其支持对立面的一方，但最近，俄罗斯在叙利亚扮演和平的角色。
+I am not sure if the translation is correct.
+I am not sure if the translation is correct. 我不确定翻译是否正确。
+The key one is Syria, where Moscow has recently been casting itself as peacemaker but where Russia and Turkey back opposite sides.
+The key one is",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+86,on_p50,2000,1,87,"Translate an English sentence into a target language.
+English: The channel flows through Jinxiang County, Rencheng area and then through the Nanyang Lake into the Beijing-Hangzhou Grand Canal main channel, with a total length of 19 km.
+Target Language: 渠道流经晋祥县仁城地区，然后流入南阳湖，总长19公里。
+The channel flows through Jinxiang County, Rencheng area and then through the Nanyang Lake into the Beijing-Hangzhou Grand Canal main channel, with a total length of 19 km.
+The channel flows through Jinxiang County, Rencheng area and then through the Nanyang Lake into the Beijing-Hangzhou Grand Canal main channel, with a total length of 19",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+87,on_p50,2000,1,88,"Translate an English sentence into a target language.
+English: Britain and the United States will meet on Saturday in the last game of the first round.
+Target Language: 英国和美国在周六的最后一场比赛中会相遇。
+I am not sure if the translation is correct.
+I am not sure if the translation is correct. 我不确定翻译是否正确。
+I am not sure if the translation is correct. 我不确定翻译是否正确。 我不确定翻译是否正确。
+I am not sure if the translation is correct. 我不确定翻译",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+88,on_p50,2000,1,89,"Translate an English sentence into a target language.
+English: Huang Yilin was a student of grade 2015 in the Landscape Architecture College of Central South University of Forestry and Technology.
+Target Language: 黄一林是中南林业大学景观建设学院2015级学生。
+The sentence is translated into the target language.
+The sentence is translated into the target language, but the translation is not correct.
+The sentence is translated into the target language, but the translation is not correct, and the translation is not complete.
+The sentence is translated into the target language, but the translation is not correct, and the translation is not complete, and the translation is not fluent.
+The sentence is translated into the target language, but the translation is not correct",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+89,on_p50,2000,1,90,"Translate an English sentence into a target language.
+English: Mr Vaino, 44, is a former diplomat.
+Target Language: 维纳, 44岁, 是一位前外交官。
+English: Mr Vaino, 44, is a former diplomat. 维纳, 44岁, 是一位前外交官。
+English: Mr Vaino, 44, is a former diplomat. 维纳, 44岁, 是一位前外交官。
+English: Mr Vaino, 44, is a former diplomat. �",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+90,on_p50,2000,1,91,"Translate an English sentence into a target language.
+English: Gongs and drums of music, the traditional snacks, fancy decoration and stormy crowd scene.
+Target Language: 音乐的钟鼓、传统小吃、华丽装饰和浩浩荡荡的人群景象。
+The sentence is about the traditional Chinese New Year celebration.
+The sentence is about the traditional Chinese New Year celebration. The sentence is about the traditional Chinese New Year celebration. The sentence is about the traditional Chinese New Year celebration. The sentence is about the traditional Chinese New Year celebration. The sentence is about the traditional Chinese New Year celebration. The sentence is about the traditional Chinese New Year",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+91,on_p50,2000,1,92,"Translate an English sentence into a target language.
+English: They're spinning as fast as they ever will.
+Target Language: 他们在旋转的速度上，是最快的。
+I'm not sure if this is correct, but I'm pretty sure it's not.
+I'm not sure if this is correct, but I'm pretty sure it's not. 我不确定这是正确，但我很确定这不是。
+I'm not sure if this is correct, but I'm pretty sure it's not. 我不确定这是正确，但我很确定",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+92,on_p50,2000,1,93,"Translate an English sentence into a target language.
+English: Family of yobs destroyed Saltash, Cornwall council house ahead of eviction
+Target Language: 家庭的各种各样的各种各样的各种各样的各种各样的各种各样的各种各样的各种各样的各种各样的各种各样的各种各样的各种各样的各种各样的各种各样的各种�",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+93,on_p50,2000,1,94,"Translate an English sentence into a target language.
+English: Another evidence to confirm this message is that Apple allows the headphone manufacturer to produce headphone via the connection of charge interface.
+Target Language: 另一证据证明这个消息是真的，是Apple允许充电接口的连接，制造充电器。
+I am not sure if the translation is correct.
+I am not sure if the translation is correct. I am not sure if the translation is correct. I am not sure if the translation is correct. I am not sure if the translation is correct. I am not sure if the translation is correct. I am not sure if the translation is correct. I am not sure if the translation is",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+94,on_p50,2000,1,95,"Translate an English sentence into a target language.
+English: The HKND Group, a developer of the canal project, has always followed the international best practice to build the canal according to international standards and maximized the protection of Nicaragua's ecological environment. ""
+Target Language: 中文：中国海峡著名企业集团，一直跟随国际最佳实践，建设运河，按照国际标准，最大限度保护尼加拉瓜的生态环境。 ""
+The HKND Group, a developer of the canal project, has always followed the international best practice to build the canal according to international standards and maximized the protection of Nicaragua'",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+95,on_p50,2000,1,96,"Translate an English sentence into a target language.
+English: In June, 2003, she participated in the women's 10-m air rifle of World Cup Croatia station and broke the world record with 504.9 rings.
+Target Language: 2003年6月，她参加了世界杯克罗地亚站女子10米空气步枪比赛，并打破世界纪录，射出504.9环。
+The translation is correct, but it is not a good translation.
+The translation is correct, but it is not a good translation. The translation is correct, but it is not a good translation. The translation is correct, but it is not a good translation.",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+96,on_p50,2000,1,97,"Translate an English sentence into a target language.
+English: Qingdao is China's 12th and also Shandong's first trial city to use and trade emissions.
+Target Language: 青岛是中国第十二个和山东第一个试点城市使用和交易排放权.
+English: The city of Qingdao is China's 12th and also Shandong's first trial city to use and trade emissions.
+Target Language: 青岛市是中国第十二个和山东第一个试点城市使用和交易排放权.
+English: The city of Qingdao is China's",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+97,on_p50,2000,1,98,"Translate an English sentence into a target language.
+English: Hindes said: ""If he wins another two gold medals, he should get a knighthood.""
+Target Language: 哈丁说：“如果他再获得两个金牌，他应该获得一个勋章。”
+Translation: 哈丁说：“如果他再获得两个金牌，他应该获得一个勋章。”
+Translation: Hindes said: ""If he wins another two gold medals, he should get a knighthood.""
+Translation: Hindes said: ""If he wins another two gold medals, he should get a knighthood.""
+Trans",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+98,on_p50,2000,1,99,"Translate an English sentence into a target language.
+English: The Glaswegian 23-year-old was in the anchor role that his fellow Scotsman Sir Chris Hoy made his own and the youngster did the legend proud as he stormed home to snatch victory from the favoured New Zealand outfit.
+Target Language: 英语：格拉斯哥人23岁的人在他的同胞人尊贵的铁骑士克里斯·霍伊（Sir Chris Hoy）的主角的角色，年轻人做到了他的主角做到了他的主角做到了他的主角做到了他的主角做到了他的主角做到了他的主角做到了他的",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh
+99,on_p50,2000,1,100,"Translate an English sentence into a target language.
+English: But after months of open hostility - and given the potential for utter disaster when Nato member Turkey shot down that Russian fighter jet - it is surely better that the two leaders are at least talking again.
+Target Language: 但是，在几个月的开放敌意之后，和俄罗斯战斗机被土耳其纳粹党成员击落之后，尽管战争可能会爆发，但是，尽管，尽管，尽管，尽管，尽管，尽管，尽管，尽管，尽管",0.5325163935235,,,translation_text_wmt_en_zh.pkl,zh

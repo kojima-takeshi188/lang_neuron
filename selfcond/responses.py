@@ -62,6 +62,19 @@ def cache_responses(
     )
     for i, batch in tqdm(enumerate(data_loader), desc="Caching inference"):
         input_batch = {k: v for k, v in batch.items() if k in MODEL_INPUT_FIELDS}
+        # Added 2023/10/06
+        # As a premise, batch size should always be 1.
+        print("========test========")
+        num_effective_token = torch.sum(input_batch["attention_mask"][0])
+        num_effective_token = num_effective_token.detach().cpu().item()
+        print(num_effective_token)
+        print(input_batch["attention_mask"].shape)
+        print(input_batch["input_ids"].shape)
+        input_batch["attention_mask"] = input_batch["attention_mask"][:, :num_effective_token]
+        input_batch["input_ids"] = input_batch["input_ids"][:, :num_effective_token]
+        print(input_batch["attention_mask"].shape)
+        print(input_batch["input_ids"].shape)
+        # Until here
         response_batch = model.run_inference(
             inputs=input_batch, outputs={ri.name for ri in response_infos}
         )

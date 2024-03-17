@@ -1,0 +1,574 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,2000,1,1,"Translate an English sentence into a target language.
+English: I never get to slow down and smell the roses.""
+Target Language: ""I never get to slow down and smell the roses.""
+English: ""I never get to slow down and smell the roses.""
+Target Language: ""I never get to slow down and smell the roses.""
+English: ""I never get to slow down and smell the roses.""
+Target Language: ""I never get to slow down and smell the roses.""
+English: ""I never get to slow down and smell the roses.""
+Target Language: ""I never get to slow down and smell the roses.""
+English: ""I never get to slow",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+1,on_p50,2000,1,2,"Translate an English sentence into a target language.
+English: A few. Probably about as many as there are creative people here.
+Target Language: A few. Probably about as many as there are creative people here.
+English: A few. Probably about as many as there are creative people here. Target Language: A few. Probably about as many as there are creative people here.
+English: A few. Probably about as many as there are creative people here. Target Language: A few. Probably about as many as there are creative people here.
+English: A few. Probably about as many as there are creative people here. Target Language: A few. Probably about as many as there are creative people here.
+English: A few",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+2,on_p50,2000,1,3,"Translate an English sentence into a target language.
+English: There was a case study done in 1960s Britain,  when they were moving from grammar schools to comprehensive schools.
+Target Language: この研究は1960年代のイギリスで、グラマースクールから全日制学校への移行をした。
+I'm not sure if I'm right, but I think the target language should be ""この研究は1960年代のイギリスで、グラマースクールから全日制学校への移行をした。""
+I'm not sure if I'm right, but I think the target language should be ""この",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+3,on_p50,2000,1,4,"Translate an English sentence into a target language.
+English: It's been seen nearly 200 million times this year.
+Target Language: It's been seen nearly 200 million times this year.
+English: It's been seen nearly 200 million times this year. Target Language: It's been seen nearly 200 million times this year.
+English: It's been seen nearly 200 million times this year. Target Language: It's been seen nearly 200 million times this year.
+English: It's been seen nearly 200 million times this year. Target Language: It's been seen nearly 200 million times this year.
+English: It'",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+4,on_p50,2000,1,5,"Translate an English sentence into a target language.
+English: We were told afterward that if that had gone through normal channels,  it would have taken at least two years  and it would have cost about two million dollars.
+Target Language: 我々はその後に、その通過には、標準チャンネルを通じて、少なくとも2年かかり、約200万ドルのコストがかかると言われた。
+I'm not sure if the translation is correct.
+I'm not sure if the translation is correct.  I'm not sure if the translation is correct.  I'm not sure if the translation is correct.  I'm not sure if the translation is correct.",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+5,on_p50,2000,1,6,"Translate an English sentence into a target language.
+English: I became enamored of the power of evolution,  and I realized something very fundamental:  in most of the existence of life  in single-celled organisms,  each cell simply divides,  and all of the genetic energy of that cell  is carried on in both daughter cells.
+Target Language: 私は進化の力に惹きつけられ、 私は何か非常に基本的なことを理解した: 生命の大部分の期間に、単細胞生物は各細胞は単細胞に分割され、 各細胞の遺伝学エネルギーは両親細胞に受",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+6,on_p50,2000,1,7,"Translate an English sentence into a target language.
+English: And I studied in my little garret  at the nurses' residence at Toronto General Hospital,  not far from here.
+Target Language: と 私は 私の 小さな ガレット で トロント 総合病院 の 看護婦 の 居 を 学 んだ 。 そこは 近くに ある 。 と 私は 私の 小さな ガレット で トロント 総合病院 の 看護婦 の 居 を 学",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+7,on_p50,2000,1,8,"Translate an English sentence into a target language.
+English: Another flash alerts you to an open receiver.
+Target Language: 另一つのフラッシュによって、オープンの受信機について知らされる。
+English: The receiver is open.
+Target Language: 受信機は開いている。
+English: The receiver is closed.
+Target Language: 受信機は閉じている。
+English: The receiver is in the open position.
+Target Language: 受信機は開いている。
+English: The receiver is in the closed position.",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+8,on_p50,2000,1,9,"Translate an English sentence into a target language.
+English: It's about time. Thank you.
+Target Language: 待ち時間が終わった。ありがとう。
+I'm not sure if I'm right or not.
+待ち時間が終わった。ありがとう。
+待ち時間が終わった。ありがとう。 待ち時間が終わった。ありがとう。 待ち時間が終わった。ありがとう。 待ち時間が�",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+9,on_p50,2000,1,10,"Translate an English sentence into a target language.
+English: Then if you drive over the road, you take out the aggregates --  what we just saw here.
+Target Language: その場合、道路を駆けると、砂利を排出する。 ここで見たことと同じである。
+English: And then you take out the aggregates, and then you take out the asphalt.
+Target Language: その後に砂利を排出し、その後にアスファルトを排出する。
+English: And then you take out the asphalt, and then you take out the asphalt.
+Target",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+10,on_p50,2000,1,11,"Translate an English sentence into a target language.
+English: Raise your hand if you're in your 20s.
+Target Language: 20s の人は 手を 上げてください。
+I'm not sure if this is correct.
+I'm not sure if this is correct. 20sの人は手を上げてください。
+I'm not sure if this is correct. 20sの人は手を上げてください。 20sの人は手を上げてください。
+I'm not sure if this is correct. 20sの人は手を上げてく",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+11,on_p50,2000,1,12,"Translate an English sentence into a target language.
+English: And the first project  is something we did a couple of years ago in Zaragoza, Spain.
+Target Language: とはいえ、そのプロジェクトは、私たちが数年前にスペインのサラゴサで行ったものである。
+English: And the first project  is something we did a couple of years ago in Zaragoza, Spain. とはいえ、そのプロジェクトは、私たちが数年前にスペインのサラゴサで行ったものである。
+English: And the first project  is something we did a couple",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+12,on_p50,2000,1,13,"Translate an English sentence into a target language.
+English: And they're both accurate. Okay, but in addition,  voice-based tests are non-expert.
+Target Language: ということは、声に基づくテストは非専門家である。
+English: And they're both accurate. Okay, but in addition,  voice-based tests are non-expert.
+Target Language: ということは、声に基づくテストは非専門家である。
+English: And they're both accurate. Okay, but in addition,  voice-based tests are non-expert.
+Target Language: という",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+13,on_p50,2000,1,14,"Translate an English sentence into a target language.
+English: There's never been a time like this.
+Target Language: There's never been a time like this.
+English: There's never been a time like this. Target Language: There's never been a time like this.
+English: There's never been a time like this. Target Language: There's never been a time like this.
+English: There's never been a time like this. Target Language: There's never been a time like this.
+English: There's never been a time like this. Target Language: There's never been a time like this.
+English: There's never been a time like this. Target",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+14,on_p50,2000,1,15,"Translate an English sentence into a target language.
+English: And we also saw that they are very professionally engineered  by people who obviously had all insider information.
+Target Language: ともに見たこともある。 彼らは非常に専門的に設計されている。 彼らは確かに、彼らは内部情報を持っている人々によって設計されている。
+I'm not sure how to translate the bolded part.
+I'm not sure how to translate the bolded part. を翻訳することは私にはわからない。",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+15,on_p50,2000,1,16,"Translate an English sentence into a target language.
+English: There are crazy examples from around the world  of how people tweak and adjust the system.
+Target Language:  There are crazy examples from around the world  of how people tweak and adjust the system.
+English: There are crazy examples from around the world  of how people tweak and adjust the system.  There are crazy examples from around the world  of how people tweak and adjust the system.
+Target Language:  There are crazy examples from around the world  of how people tweak and adjust the system.  There are crazy examples from around the world  of how people tweak and adjust the system.
+English: There are crazy examples from around the world  of how people twe",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+16,on_p50,2000,1,17,"Translate an English sentence into a target language.
+English: Well it was a Friday, this is true.
+Target Language: このは金曜日であることは事実である。
+I'm not sure if this is correct, but I'm trying to translate the sentence ""Well it was a Friday, this is true."" into Japanese.
+I'm not sure if this is correct, but I'm trying to translate the sentence ""Well it was a Friday, this is true."" into Japanese. I'm not sure if this is correct, but I'm trying to translate the sentence ""Well it was a Friday, this is true."" into Japanese.
+I'm not sure",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+17,on_p50,2000,1,18,"Translate an English sentence into a target language.
+English: the majesty of the people of the United States  may not be hazarded by an appearance of singularity,  i.e., we don't want to look like bloody weirdos.
+Target Language: 国民の威厳は、アメリカの人々が、単独では、損害を受けることはできない。 即ち、我々は、奇妙な人間ではないように、見えないように、なることを望む。
+I'm not sure if I've got the right idea, but I'm trying to translate the sentence into Japanese.
+I'm not sure if I've",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+18,on_p50,2000,1,19,"Translate an English sentence into a target language.
+English: We didn't have polio in this country yesterday.
+Target Language: We didn't have polio in this country yesterday.
+English: We didn't have polio in this country yesterday. We didn't have polio in this country yesterday.
+Target Language: We didn't have polio in this country yesterday. We didn't have polio in this country yesterday.
+English: We didn't have polio in this country yesterday. We didn't have polio in this country yesterday. We didn't have polio in this country yesterday.
+Target Language: We didn't have polio in this country yesterday. We didn't have pol",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+19,on_p50,2000,1,20,"Translate an English sentence into a target language.
+English: Now, almost none of these movies pass the Bechdel Test.
+Target Language: 現在、ほとんどの映画はベッチェルテストに合格しない。
+I'm not sure if this is correct, but I'm trying to translate the sentence ""Now, almost none of these movies pass the Bechdel Test."" into Japanese.
+I'm not sure if this is correct, but I'm trying to translate the sentence ""Now, almost none of these movies pass the Bechdel Test."" into Japanese. I'm not sure if this is correct, but I'm trying to translate the sentence ""Now",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+20,on_p50,2000,1,21,"Translate an English sentence into a target language.
+English: Here's me on the same day as this shoot.
+Target Language: この撮影と同じ日に、この撮影と同じ日に、この撮影と同じ日に、この撮影と同じ日に、この撮影と同じ日に、この撮影と同じ日に、この撮影と同じ日に、この撮影と同じ日に、この撮影と同じ日に、この撮影と同じ日に、この撮影と",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+21,on_p50,2000,1,22,"Translate an English sentence into a target language.
+English: I want to achieve it through not dying.""
+Target Language: ""I want to achieve it through not dying.""
+English: ""I want to achieve it through not dying.""
+Target Language: ""I want to achieve it through not dying.""
+English: ""I want to achieve it through not dying.""
+Target Language: ""I want to achieve it through not dying.""
+English: ""I want to achieve it through not dying.""
+Target Language: ""I want to achieve it through not dying.""
+English: ""I want to achieve it through not dying.""
+Target Language: ""I want to achieve it through not dying.""
+English: ""I want to achieve it through",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+22,on_p50,2000,1,23,"Translate an English sentence into a target language.
+English: Now just to give you some perspective,  I'm going to zoom out so you really see what you get.
+Target Language: 現在、私は、私の視点を変えて、私の視点を変えて、私の視点を変えて、私の視点を変えて、私の視点を変えて、私の視点を変えて、私の視点を変えて、私の視点を変えて、私の視点を変えて、��",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+23,on_p50,2000,1,24,"Translate an English sentence into a target language.
+English: CK: So that is the experience of a man  in fear of his life.
+Target Language: CK: So that is the experience of a man  in fear of his life.
+English: CK: So that is the experience of a man  in fear of his life.
+Target Language: CK: So that is the experience of a man  in fear of his life.
+English: CK: So that is the experience of a man  in fear of his life.
+Target Language: CK: So that is the experience of a man  in fear of his life.
+English: CK: So that is the experience of a man  in fear of his life.
+Target Language",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+24,on_p50,2000,1,25,"Translate an English sentence into a target language.
+English: Now choosing not to buy a jar of jam  is probably good for us --  but it turns out that this choice overload problem affects us  even in very consequential decisions.
+Target Language: 現在の選択の多様性は、我々にとって良いことであるということは、この問題は我々にとって非常に重要な決定にも影響を及ぼすことがわかっている。
+I'm not sure if I'm translating the sentence correctly.
+I'm not sure if I'm translating the sentence correctly. I'm not sure if I'm translating the sentence",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+25,on_p50,2000,1,26,"Translate an English sentence into a target language.
+English: Sometimes the perspective is the illusion.
+Target Language: 日本語: 時には視点はイリュージョンである.
+English: Sometimes the perspective is the illusion. 日本語: 時には視点はイリュージョンである.
+English: Sometimes the perspective is the illusion. 日本語: 時には視点はイリュージョンである. 中国語: 時には視点はイリュージョンである.
+English: Sometimes the perspective",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+26,on_p50,2000,1,27,"Translate an English sentence into a target language.
+English: So do you still not want to continue?""
+Target Language: そうですか？　続行しますか？　続行しませんか？　続行しません？　続行しませんですか？　続行しませんですか？　続行しませんですか？　続行しませんですか？　続行しませんですか？　続行しませんですか？　続行しませんですか",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+27,on_p50,2000,1,28,"Translate an English sentence into a target language.
+English: So I'm going to talk about trust,  and I'm going to start by reminding you  of the standard views that people have about trust.
+Target Language: 我は信頼について話すと思う。 私は信頼について話すと思う。 私は信頼について話すと思う。 私は信頼について話すと思う。 私は信頼について話すと思う。 私は信頼について話すと思う。 私は信頼について話すと",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+28,on_p50,2000,1,29,"Translate an English sentence into a target language.
+English: I looked at his throat, it was a little bit pink.
+Target Language: I looked at his throat, it was a little bit pink.
+English: I looked at his throat, it was a little bit pink. Target Language: I looked at his throat, it was a little bit pink.
+English: I looked at his throat, it was a little bit pink. Target Language: I looked at his throat, it was a little bit pink.
+English: I looked at his throat, it was a little bit pink. Target Language: I looked at his throat, it was a little bit pink.
+English: I looked",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+29,on_p50,2000,1,30,"Translate an English sentence into a target language.
+English: And as you use them to tell your story,  they become part of your personal narrative,  and what you're doing is you're short-circuiting  all of our collective memory,  and you're making these charged symbols for us to understand.
+Target Language: と あなたが 彼らを 使用して あなたの 物語 を 告げる と 彼らは あなたの 個人 の 物語 の 一部 と なり 、 あなたは 短絡 する すべて の 我々の 集                                  ",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+30,on_p50,2000,1,31,"Translate an English sentence into a target language.
+English: Wherever there's information processing,  there's consciousness.
+Target Language: Wherever there's information processing,  there's consciousness.
+English: Wherever there's information processing,  there's consciousness.
+Target Language: Wherever there's information processing,  there's consciousness.
+English: Wherever there's information processing,  there's consciousness.
+Target Language: Wherever there's information processing,  there's consciousness.
+English: Wherever there's information processing,  there's consciousness.
+Target Language: Wherever there's information processing,  there's consciousness.
+English",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+31,on_p50,2000,1,32,"Translate an English sentence into a target language.
+English: It was really, really quite profound.
+Target Language: It was really, really quite profound.
+English: It was really, really quite profound. It was really, really quite profound.
+Target Language: It was really, really quite profound. It was really, really quite profound.
+English: It was really, really quite profound. It was really, really quite profound. It was really, really quite profound.
+Target Language: It was really, really quite profound. It was really, really quite profound. It was really, really quite profound.
+English: It was really, really quite profound. It was really",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+32,on_p50,2000,1,33,"Translate an English sentence into a target language.
+English: And, five meters down,  underneath a thick layer of mud,  we found a dense layer of pottery.
+Target Language: その下には、 泥の中に、 陶器の厚い層があった。 その層は、 五メートルの深さにあった。 その層は、 泥の中に、 陶器の厚い層があった。 その層は、 泥の中に、 陶器の厚い層があった。 その��",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+33,on_p50,2000,1,34,"Translate an English sentence into a target language.
+English: Are we soaking up that story?
+Target Language: Are we soaking up that story?
+English: I'm not so sure about that.
+Target Language: I'm not so sure about that.
+English: I'm not so sure about that. I'm not so sure about that.
+Target Language: I'm not so sure about that. I'm not so sure about that.
+English: I'm not so sure about that. I'm not so sure about that. I'm not so sure about that.
+Target Language: I'm not so sure about that. I'm not so sure about that.",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+34,on_p50,2000,1,35,"Translate an English sentence into a target language.
+English: And it completely changed how I do movies.
+Target Language: ところが、そのことが映画の方法を完全に変えた。
+I'm not sure if I'm right, but I think it's something like this.
+I'm not sure if I'm right, but I think it's something like this. このことが映画の方法を完全に変えた。
+I'm not sure if I'm right, but I think it's something like this. このことが映画の方法を完",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+35,on_p50,2000,1,36,"Translate an English sentence into a target language.
+English: As the old saying goes,  two is company, three is a crowd.
+Target Language: 二人は会話をするといいです。三人は会話をするといいです。
+I'm not sure if this is the right way to do it, but I'm trying to translate the English sentence into Japanese.
+I'm not sure if this is the right way to do it, but I'm trying to translate the English sentence into Japanese. I'm not sure if this is the right way to do it, but I'm trying to translate the English sentence into Japanese. I'm not sure if this is the right way to do",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+36,on_p50,2000,1,37,"Translate an English sentence into a target language.
+English: They postulate fundamental laws governing them,  like the laws of gravity or of quantum mechanics.
+Target Language: 彼らは彼らの基本法則を推定する。 例えば、重力の法則または量子力学の法則。 彼らは彼らの基本法則を推定する。 例えば、重力の法則または量子力学の法則。 彼らは彼らの基本法則を推定する。 例え",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+37,on_p50,2000,1,38,"Translate an English sentence into a target language.
+English: And speaking of bacteria,  do you realize that each of us carries in our gut  more bacteria  than there are cells in the rest of our body?
+Target Language: 和諧のために、細菌についてを話していると、私たちの腸には細菌の細胞が多いから、細胞の総数よりも多い細菌があるということを知っているでしょうか?
+English:  And speaking of bacteria,  do you realize that each of us carries in our gut  more bacter",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+38,on_p50,2000,1,39,"Translate an English sentence into a target language.
+English: Which one would you like the most?
+Target Language: 彼は何を選択するか?
+English: Which one would you like the least?
+Target Language: 彼は何を選択しないか?
+English: Which one would you like the most? Which one would you like the least?
+Target Language: 彼は何を選択するか? 彼は何を選択しないか?
+English: Which one would you like the most? Which one would you like the least? Which one would you like the most? Which",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+39,on_p50,2000,1,40,"Translate an English sentence into a target language.
+English: And so that's where physics was at a few years ago;  to describe little, tiny particles.
+Target Language: ということで、物理学は数年前には、小さな粒子を描写することになった。
+I'm not sure if I'm translating the sentence correctly.  I'm not sure if I'm translating the sentence correctly.  I'm not sure if I'm translating the sentence correctly.  I'm not sure if I'm translating the sentence correctly.  I'm not sure if I'm translating the sentence correctly.  I'm not sure if I'",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+40,on_p50,2000,1,41,"Translate an English sentence into a target language.
+English: Woman: If Dan were a brand,  he might be a classic convertible  Mercedes Benz.
+Target Language: 女性: 如果ダンがブランドであったら, それはクラシックコンバーチブルメルセデスベンツであるかもしれない.
+I'm not sure if this is the right place to post this question, but I'm trying to translate an English sentence into a target language.
+I'm not sure if this is the right place to post this question, but I'm trying to translate an English sentence into a target language. I'm not sure if this is the right",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+41,on_p50,2000,1,42,"Translate an English sentence into a target language.
+English: I lived in parallel worlds.
+Target Language: I lived in parallel worlds.
+English: I lived in parallel worlds. I lived in parallel worlds.
+Target Language: I lived in parallel worlds. I lived in parallel worlds.
+English: I lived in parallel worlds. I lived in parallel worlds. I lived in parallel worlds.
+Target Language: I lived in parallel worlds. I lived in parallel worlds. I lived in parallel worlds.
+English: I lived in parallel worlds. I lived in parallel worlds. I lived in parallel worlds. I lived in parallel worlds.
+Target Language: I lived",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+42,on_p50,2000,1,43,"Translate an English sentence into a target language.
+English: Now, technologists, business leaders  and economists all basically agree  on what national policies and international treaties  would spur the development of alternative energy:  mostly, a significant increase in energy  research and development,  and some kind of price on carbon.
+Target Language: 現在、技術者、ビジネスリーダー、経済学者は、国家政策および国際条約によって、代替エネルギーの開発を促進することについて、基本的に同意している。 主に、エネルギー研究および開発の増加、および炭素の値段の設定が必要であ",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+43,on_p50,2000,1,44,"Translate an English sentence into a target language.
+English: And like any teenager, she just wants to be liked and to fit in.
+Target Language: 和任何の10代の少女と同様に、彼女は、人に気に入られることを望んでいる。彼女は、彼女の中にある彼女の中にある彼女の中にある彼女の中にある彼女の中にある彼女の中にある彼女の中にある彼女の中にある彼女の中にある",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+44,on_p50,2000,1,45,"Translate an English sentence into a target language.
+English: Leonard Bernstein said that to achieve great things,  you need a plan and not quite enough time.
+Target Language: 你は大事を成就するには、計画を立てることが必要である。 しかし、時間は十分ではない。
+I'm not sure if I'm translating this correctly.  I'm not sure if I'm translating this correctly.
+I'm not sure if I'm translating this correctly.
+I'm not sure if I'm translating this correctly.  I'm not sure if I'm translating this correctly.  I'm not sure if I'm",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+45,on_p50,2000,1,46,"Translate an English sentence into a target language.
+English: Now, I live in New Orleans,  and I am in love with New Orleans.
+Target Language: 現在、私はニューオーリンズに住んでいる。私はニューオーリンズに恋している。
+Translation: Now, I live in New Orleans, and I am in love with New Orleans.
+Translation: Now, I live in New Orleans, and I am in love with New Orleans.
+Translation: Now, I live in New Orleans, and I am in love with New Orleans.
+Translation: Now, I live in New Orleans, and I am in love with New Orleans.",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+46,on_p50,2000,1,47,"Translate an English sentence into a target language.
+English: You know, I went and pitched it to the studio as ""'Romeo and Juliet' on a ship:  ""It's going to be this epic romance,  passionate film.""
+Target Language: 你知道、私はそれをスタジオに投げた。""'ロミオとジュリエット'の船で：""これはこの壮大な恋愛映画で。""
+English: I'm not a big fan of the ""Romeo and Juliet"" story.
+Target Language: 私は""ロミオとジュリエット""の物語は大ファンではない。
+English: I'm not a big fan",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+47,on_p50,2000,1,48,"Translate an English sentence into a target language.
+English: Just like a human standing upright without falling over,  here we see Entropica  automatically balancing a pole using a cart.
+Target Language: ここでは、Entropicaは自動で棒をバランスさせるカートを見る。
+This is a translation of the English sentence into Japanese.
+The English sentence is:
+Just like a human standing upright without falling over, here we see Entropica automatically balancing a pole using a cart.
+The target language is Japanese.
+The translation is:
+ここでは、Entropicaは自動で棒をバランスさせるカートを見る。
+The translation is not perfect, but",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+48,on_p50,2000,1,49,"Translate an English sentence into a target language.
+English: Forty years later was when the trend really caught on,  with, interestingly, another movie  that featured a metal guy  and a furry guy  rescuing a girl by dressing up as the enemy's guards.
+Target Language: 40年後に、そのトレンドは本格化した。 というのは、 また、 映画に、 金属の男性と毛皮の男性が、 敵の兵士の姿をして、 女の子を救出するという、 というのは、 というのは、 というのは、 というのは、 というのは、 というのは、",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+49,on_p50,2000,1,50,"Translate an English sentence into a target language.
+English: By doing that simple thing,  there was an increase in enrollment by 20 percent  and there was an increase in the amount of people willing to save  or the amount that they were willing to put down into their savings account  by four percent.
+Target Language: その簡単なことをすることで、受入れ率は20％増加し、人々が投入する額は4％増加した。
+Translation: By doing that simple thing, there was an increase in enrollment by 20 percent and there was an increase in the amount of people willing to save or the amount that they were willing to put down into their savings account by four percent.
+English: By doing that simple thing, ",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+50,on_p50,2000,1,51,"Translate an English sentence into a target language.
+English: And if we find that a person is competent  in the relevant matters,  and reliable and honest,  we'll have a pretty good reason to trust them,  because they'll be trustworthy.
+Target Language: ということで、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+51,on_p50,2000,1,52,"Translate an English sentence into a target language.
+English: He said, ""No; they do it because the food's better.""
+Target Language: 彼は言った、「いいえ; その理由は食べ物が良いからです。」
+I'm not sure if this is correct, but I'm pretty sure it's not.
+I'm not sure if this is correct, but I'm pretty sure it's not. 彼は言った、「いいえ; その理由は食べ物が良いからです。」
+I'm not sure if this is correct, but I'm pretty sure it's",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+52,on_p50,2000,1,53,"Translate an English sentence into a target language.
+English: We don't have that kind of situation.
+Target Language: We don't have that kind of situation.
+English: We don't have that kind of situation. We don't have that kind of situation.
+Target Language: We don't have that kind of situation. We don't have that kind of situation.
+English: We don't have that kind of situation. We don't have that kind of situation. We don't have that kind of situation.
+Target Language: We don't have that kind of situation. We don't have that kind of situation. We don't have that kind of situation.
+English: We",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+53,on_p50,2000,1,54,"Translate an English sentence into a target language.
+English: ""Before I die, I want to hold her one more time.""
+Target Language: ""Mi muri, mi vleu te t'i t'i kuqet kuqe.""
+English: ""Before I die, I want to hold him one more time.""
+Target Language: ""Mi muri, mi vleu te t'i t'i kuqet kuqe.""
+English: ""Before I die, I want to hold you one more time.""
+Target Language: ""Mi muri, mi vleu te t'i t'i kuqet kuqe.""
+English: ""Before I die,",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+54,on_p50,2000,1,55,"Translate an English sentence into a target language.
+English: It does the things that I need it to do,  and I've learned to use it to the best of its capacity  just as you have,  and that's the thing about those kids in those pictures as well.
+Target Language: 它は我が必要に応じて働くことをする、そして私は彼の最大の能力を使用することに学んだ、それはあなたがそのようにしたのと同様である、そしてそのような児童の写真にも同様である。
+I'm not sure if I'm translating the sentence correctly.
+I'm not sure if I",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+55,on_p50,2000,1,56,"Translate an English sentence into a target language.
+English: With a mobile phone,  you can shoot a crime against humanity in Syria.
+Target Language: 手持ち電話で、シリアでの人権の犯罪を撮影することができる。
+I'm not sure if the translation is correct.
+I'm not sure if the translation is correct. I'm not sure if the translation is correct. I'm not sure if the translation is correct. I'm not sure if the translation is correct. I'm not sure if the translation is correct. I'm not sure if the translation is correct. I'm not sure if the translation is correct.",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+56,on_p50,2000,1,57,"Translate an English sentence into a target language.
+English: And we also would be well informed  to reach out to the people who do that work  and get their expertise  on how do we think about,  how do we create systems around sustainability  that perhaps take us from curbside recycling,  which is a remarkable success across 40 years,  across the United States and countries around the world,  and lift us up to a broader horizon  where we're looking at other forms of waste
+Target Language: 和我々もはじめには、我々は彼らの専門家に対して、彼らの専門家に対して、彼らの専門家に対して、彼らの専門家に対して、彼らの専門家に対して、彼らの専門家に対して、彼らの専門家に�",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+57,on_p50,2000,1,58,"Translate an English sentence into a target language.
+English: That's how we end up with buildings like this.
+Target Language: That's how we end up with buildings like this.
+English: That's how we end up with buildings like this. That's how we end up with buildings like this.
+Target Language: That's how we end up with buildings like this. That's how we end up with buildings like this.
+English: That's how we end up with buildings like this. That's how we end up with buildings like this. That's how we end up with buildings like this.
+Target Language: That's how we end up with buildings like this. That's how we end",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+58,on_p50,2000,1,59,"Translate an English sentence into a target language.
+English: But I cast my mind back to the things that they've taught me  about individuality and communication and love,  and I realize that these are things that  I wouldn't want to change with normality.
+Target Language: 我は彼らの教えに思いを馳せる。彼らは私に個人性、交流、愛を教えてくれた。私はこれらのことを変えたくない。
+I'm not sure if I'm translating the sentence correctly.
+I'm not sure if I'm translating the sentence correctly.  I'm not sure if I'm translating the sentence correctly.
+I'm not sure if I'm translating the sentence correctly",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+59,on_p50,2000,1,60,"Translate an English sentence into a target language.
+English: This data was not available before.
+Target Language: This data was not available before.
+English: This data was not available before. This data was not available before.
+Target Language: This data was not available before. This data was not available before.
+English: This data was not available before. This data was not available before. This data was not available before.
+Target Language: This data was not available before. This data was not available before. This data was not available before.
+English: This data was not available before. This data was not available before. This data was not available before. This data was not available before.
+Target Language: This data",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+60,on_p50,2000,1,61,"Translate an English sentence into a target language.
+English: This is Moore's Law over the last hundred years.
+Target Language: This is Moore's Law over the last hundred years.
+English: This is Moore's Law over the last hundred years. This is Moore's Law over the last hundred years.
+Target Language: This is Moore's Law over the last hundred years. This is Moore's Law over the last hundred years.
+English: This is Moore's Law over the last hundred years. This is Moore's Law over the last hundred years. This is Moore's Law over the last hundred years.
+Target Language: This is Moore's Law over the last hundred years. This is Moore's Law",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+61,on_p50,2000,1,62,"Translate an English sentence into a target language.
+English: You have the power to end domestic violence  simply by shining a spotlight on it.
+Target Language: 你有权終止家庭暴力 単に照明を当てるだけです。
+I'm not sure if this is correct.
+I'm not sure if this is correct. を翻訳するとどうなるでしょうか。
+I'm not sure if this is correct. を翻訳するとどうなるでしょうか。 を翻訳するとどうなるでし",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+62,on_p50,2000,1,63,"Translate an English sentence into a target language.
+English: And finally, Saturday:  Developing your own unique personal style  without having to say a word.
+Target Language: 最後に、土曜日： 自分の独自の個性を発展させる なんとなく 言葉を発する必要はない。
+I'm not sure if I'm translating this correctly.  I'm not sure if I'm translating this correctly.  I'm not sure if I'm translating this correctly.  I'm not sure if I'm translating this correctly.  I'm not sure if I'm translating this correctly.  I'm",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+63,on_p50,2000,1,64,"Translate an English sentence into a target language.
+English: And that's that when you strip away all your feelings  about politics and the line at the DMV  and all those other things  that we're really mad about,  government is, at its core,  in the words of Tim O'Reilly,  ""What we do together that we can't do alone.""
+Target Language: ということは、政治やDMVの行列とその他のことについての感情を捨てて、政府の核となることは、Tim O'Reillyの言葉によると、「私たちが単独でできないことをするために、私たちが一緒にすること」である。
+I'm not sure if I'm on the right track, but",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+64,on_p50,2000,1,65,"Translate an English sentence into a target language.
+English: I was terrified by this idea  that I would lose the ability  to enjoy and appreciate the sunset  without having my camera on me, without tweeting it to my friends.
+Target Language: 私はこのアイデアに怖じされた 私はこのアイデアに怖じされた 私はこのアイデアに怖じされた 私はこのアイデアに怖じされた 私はこのアイデアに怖じされた 私はこのアイデアに怖じされた 私はこのアイデアに��",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+65,on_p50,2000,1,66,"Translate an English sentence into a target language.
+English: How's that look out there? Pretty good.
+Target Language: これはどうだった？ それはいいです。
+English: How's that look out there? Pretty good. これはどうだった？ それはいいです。
+Translate an English sentence into a target language. これはどうだった？ それはいいです。
+Translate an English sentence into a target language. これはどうだった？ それはいいです。 これはどうだった？ それはい",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+66,on_p50,2000,1,67,"Translate an English sentence into a target language.
+English: I'm going to stop that.
+Target Language: I'm going to stop that.
+English: I'm going to stop that. I'm going to stop that.
+Target Language: I'm going to stop that. I'm going to stop that.
+English: I'm going to stop that. I'm going to stop that. I'm going to stop that.
+Target Language: I'm going to stop that. I'm going to stop that. I'm going to stop that.
+English: I'm going to stop that. I'm going to stop that. I'm going to stop that",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+67,on_p50,2000,1,68,"Translate an English sentence into a target language.
+English: And shortly thereafter, on January 19th,  they voted in the congress to amend their constitution  to have a constitutional provision  that allows for special development regions.
+Target Language: と、1月19日に、彼らは、特別開発地域についての憲法の条項を憲法に含めることを決定した。
+English: And shortly thereafter, on January 19th,  they voted in the congress to amend their constitution  to have a constitutional provision  that allows for special development regions. と、1月19日に、彼らは、特別開発地域につい",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+68,on_p50,2000,1,69,"Translate an English sentence into a target language.
+English: But then it starts to sound like this:  ""My 20s are almost over, and I have nothing to show for myself.
+Target Language:  But then it starts to sound like this:  ""My 20s are almost over, and I have nothing to show for myself.
+English: I'm not sure if I'm going to be able to do it.
+Target Language:  I'm not sure if I'm going to be able to do it.
+English: I'm not sure if I'm going to be able to do it.  I'm not sure if I'm going to be able to do it.
+Target Language:  I'm not sure if I'm going to be able",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+69,on_p50,2000,1,70,"Translate an English sentence into a target language.
+English: Now, this shows up when you try to get the intermittent source  to be above, say, 20 to 30 percent of what you're using.
+Target Language: これは、あなたが、例えば、20％から30％の源を使用するように、間欠源を上にするときに、出現する。
+I'm not sure if I'm translating the sentence correctly.
+I'm not sure if I'm translating the sentence correctly.  I'm not sure if I'm translating the sentence correctly.  I'm not sure if I'm translating the sentence correctly.  I'm not sure if I",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+70,on_p50,2000,1,71,"Translate an English sentence into a target language.
+English: Aden saw an opportunity and seized it.
+Target Language: Aden saw an opportunity and seized it.
+English: Aden saw an opportunity and seized it. Aden saw an opportunity and seized it.
+Target Language: Aden saw an opportunity and seized it. Aden saw an opportunity and seized it.
+English: Aden saw an opportunity and seized it. Aden saw an opportunity and seized it. Aden saw an opportunity and seized it.
+Target Language: Aden saw an opportunity and seized it. Aden saw an opportunity and seized it. Aden saw an opportunity and seized it.
+English: Aden saw an opportunity and seized it. Aden saw",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+71,on_p50,2000,1,72,"Translate an English sentence into a target language.
+English: There is a Buddhist goddess of compassion.
+Target Language: 彼女は慈悲の神である。
+I'm not sure if I'm right, but I think it's 彼女は慈悲の神である。
+I'm not sure if I'm right, but I think it's 彼女は慈悲の神である。 彼女は慈悲の神である。
+彼女は慈悲の神である。��",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+72,on_p50,2000,1,73,"Translate an English sentence into a target language.
+English: I want fewer quests where my son is told,  ""Go out and fight it alone,""  and more quests where he sees that it's his job to join a team,  maybe a team led by women,  to help other people become better  and be better people,  like the Wizard of Oz.
+Target Language: 我は少なくとも彼の息子が告げられる ""Go out and fight it alone,"" のクエストを減らし、 より多くのクエストで彼が見ることができることをすることをすることをすることをすることをすることをすることをすることをすることをすることをすることをすることをすることをす",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+73,on_p50,2000,1,74,"Translate an English sentence into a target language.
+English: Now, if you take that bullet and take this packet of photons  and fire into this bottle,  how will those photons shatter into this bottle?
+Target Language: 如果您がその弾丸を取り出してこのパッケージの光子と銃でこの瓶に撃ちこむと、その光子はどのように瓶に破壊されますか?
+English: Now, if you take that bullet and take this packet of photons and fire into this bottle, how will those photons shatter into this bottle?
+Target Language: 如果您がその弾丸を",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+74,on_p50,2000,1,75,"Translate an English sentence into a target language.
+English: Two ways of going in -- very simple.
+Target Language: Two ways of going in -- very simple.
+English: Two ways of going in -- very simple. Target Language: Two ways of going in -- very simple.
+English: Two ways of going in -- very simple. Target Language: Two ways of going in -- very simple.
+English: Two ways of going in -- very simple. Target Language: Two ways of going in -- very simple.
+English: Two ways of going in -- very simple. Target Language: Two ways of going in -- very simple.
+English: Two ways of going in -- very simple. Target Language: Two ways of going in -- very simple",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+75,on_p50,2000,1,76,"Translate an English sentence into a target language.
+English: And they had to face the question  of what to call George Washington, their leader.
+Target Language: と彼らは彼の名をどう呼ぶべきかという問題に直面した。 （彼はジョージ・ワシントンである）.
+English: 彼らは彼の名をどう呼ぶべきかという問題に直面した。 （彼はジョージ・ワシントンである）.
+English: 彼らは�",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+76,on_p50,2000,1,77,"Translate an English sentence into a target language.
+English: Somehow by ways that we don't quite understand,  these little drops learned to write down information.
+Target Language: この小さな滴はどこかの方法を理解していないにもかかわらず、 情報を書き留めることができるようになった。
+I'm not sure if I'm translating this correctly.  I'm not sure if I'm translating this correctly.  I'm not sure if I'm translating this correctly.  I'm not sure if I'm translating this correctly.  I'm not sure if I'm translating",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+77,on_p50,2000,1,78,"Translate an English sentence into a target language.
+English: And I went to a few more of these memory contests,  and I had this notion that I might write something longer  about this subculture of competitive memorizers.
+Target Language: というのは、私はいくつかのこの記憶コンテストに行った、というのは私はこの記憶コンテストのサブカルチャーについて書くことを思いついた。
+I'm not sure if I'm translating the sentence correctly.
+I'm not sure if I'm translating the sentence correctly. I'm not sure if I'm translating the sentence correctly. I'm not sure if",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+78,on_p50,2000,1,79,"Translate an English sentence into a target language.
+English: And so we knew, if we wanted to see  this piece of metal behave quantum mechanically,  we're going to have to kick out all the other passengers.
+Target Language: ところで、この金属のこの部分は量子力学によって行動することを知ったとき、他の旅客をすべて追い払う必要があった。
+I'm not sure if I'm translating the sentence correctly.
+I'm not sure if I'm translating the sentence correctly. I'm not sure if I'm translating the sentence correctly. I'm not sure if I'm translating the sentence correctly. I'm not",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+79,on_p50,2000,1,80,"Translate an English sentence into a target language.
+English: And these scientists simply documented all the various tasks  that these CEOs engaged in  and how much time they spent engaging  in making decisions related to these tasks.
+Target Language: ところで、これらの科学者は単に、これらのCEOが行っている各種のタスクを記録し、彼らが各種のタスクに関連する決定にかかわる時間をどれだけかかわっているかを記録しただけである。
+Translation: And these scientists simply documented all the various tasks that these CEOs engaged in and how much",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+80,on_p50,2000,1,81,"Translate an English sentence into a target language.
+English: No jealous king, no ""Arabian Nights.""
+Target Language: 無妬の王は、無妬の王は、無妬の王は、無妬の王は、無妬の王は、無妬の王は、無妬の王は、無妬の王は、無妬の王は、無妬の王は、無妬の王は、無妬の王は、無妬の王は、無妬の王は、無妬の王は、無妬の王は",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+81,on_p50,2000,1,82,"Translate an English sentence into a target language.
+English: MS: A playful, mindful brand. What is your brand?
+Target Language: MS: A brand that is playful and mindful. What is your brand?
+English: MS: A playful, mindful brand. What is your brand? Target Language: MS: A brand that is playful and mindful. What is your brand?
+English: MS: A playful, mindful brand. What is your brand? Target Language: MS: A brand that is playful and mindful. What is your brand?
+English: MS: A playful, mindful brand. What is your brand? Target Language: MS: A brand that is playful and mindful. What is",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+82,on_p50,2000,1,83,"Translate an English sentence into a target language.
+English: But here's the thing: When you get proof,  you need to accept the proof, and we're not that good at doing that.
+Target Language: ここにのことは：あなたが証拠を得ると、あなたは証拠を受け入れる必要がある。ということで、我々はそれをすることができない。
+I'm not sure if I'm translating the sentence correctly.
+I'm not sure if I'm translating the sentence correctly. この句は、英語では「But here's the thing: When you get proof,",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+83,on_p50,2000,1,84,"Translate an English sentence into a target language.
+English: Otherwise they don't come and talk to you.
+Target Language: そうならば彼らはあなたと話すことにならない。
+I'm not sure if I'm right or not.
+I'm not sure if I'm right or not. そうならば彼らはあなたと話すことにならない。
+I'm not sure if I'm right or not. そうならば彼らはあなたと話すことにならない。 そうならば彼らは",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+84,on_p50,2000,1,85,"Translate an English sentence into a target language.
+English: If you know anything about government technology,  you know that this isn't how it normally goes.
+Target Language: 如果您知道政府技術，您知道これは普通にはこうには行かない。
+I'm not sure if this is correct.
+I'm not sure if this is correct.  I'm not sure if this is correct.  I'm not sure if this is correct.
+I'm not sure if this is correct.  I'm not sure if this is correct.  I'm not sure if this is correct.  I'm not sure if this is correct.
+I'm",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+85,on_p50,2000,1,86,"Translate an English sentence into a target language.
+English: Because we would do these things with 10, 12 people,  working for years at a time,  sometimes at sea for two, three months at a time.
+Target Language: このことをしたのは、10、12人、 数年間、 時には、 2、3ヶ月の海で。
+I'm not sure if I'm translating this correctly.
+I'm not sure if I'm translating this correctly. このことをしたのは、10、12人、 数年間、 時には、 2、3ヶ月の海で。
+I'm not sure if I'm translating this correctly. この",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+86,on_p50,2000,1,87,"Translate an English sentence into a target language.
+English: You're not entitled to your own facts. Sorry, you're not.
+Target Language: You're not entitled to your own facts. Sorry, you're not.
+English: You're not entitled to your own facts. Sorry, you're not. You're not entitled to your own facts. Sorry, you're not.
+Target Language: You're not entitled to your own facts. Sorry, you're not. You're not entitled to your own facts. Sorry, you're not. You're not entitled to your own facts. Sorry, you're not.
+English: You're not entitled to your own facts. Sorry, you're not",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+87,on_p50,2000,1,88,"Translate an English sentence into a target language.
+English: This one was taken just weeks after 9/11,  and I found myself trying to explain what had happened that day  in ways a five-year-old could understand.
+Target Language: この写真は9/11の数週間後に撮影されました。私はその日の出来事を5歳の子どもにわかりやすく説明しようとしていました。
+English: I was trying to explain what had happened that day  in ways a five-year-old could understand.
+Target Language: 私は5歳の子どもにわかりやすくその日の出来事を�",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+88,on_p50,2000,1,89,"Translate an English sentence into a target language.
+English: And so I made this thing  in nearly the same way as you make a computer chip.
+Target Language: ということで、私はこのことを作った。 ということで、私はこのことを作った。 ということで、私はこのことを作った。 ということで、私はこのことを作った。 ということで、私はこのことを作った。 ということで、私はこのことを作った。 と",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+89,on_p50,2000,1,90,"Translate an English sentence into a target language.
+English: It's this, just like this.
+Target Language: It's this, just like this.
+English: It's this, just like this. Target Language: It's this, just like this.
+English: It's this, just like this. Target Language: It's this, just like this.
+English: It's this, just like this. Target Language: It's this, just like this.
+English: It's this, just like this. Target Language: It's this, just like this.
+English: It's this, just like this. Target Language: It's this, just like this",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+90,on_p50,2000,1,91,"Translate an English sentence into a target language.
+English: Sexual reproduction enters the picture.
+Target Language: 性交による繁殖が登場する。
+I'm not sure if I'm right or not.
+I'm not sure if I'm right or not. これは正しいですか？
+I'm not sure if I'm right or not. これは正しいですか？ これは正しいですか？
+I'm not sure if I'm right or not. これは正しいですか？ これは正しいですか",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+91,on_p50,2000,1,92,"Translate an English sentence into a target language.
+English: Now I want to share with you three things I learned about myself that day.
+Target Language: 今日、私は私自身についての三つのことを私たちに分かち合うことを決心した。
+English: I learned that I was not alone.
+Target Language: 私は私は孤独ではないということを学んだ。
+English: I learned that I was not the only one who was afraid.
+Target Language: 私は私は恐怖に怯",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+92,on_p50,2000,1,93,"Translate an English sentence into a target language.
+English: According to Herodotus, after 18 years the famine wasn't getting better,  so the king decided they would play one final dice game.
+Target Language: アヘロドトスによると、18年の飢饉は改善されないままで、王は決めた、最後のダイスゲームをすることになった。
+I'm not sure if I'm translating the sentence correctly.
+I'm not sure if I'm translating the sentence correctly. I'm not sure if I'm translating the sentence correctly. I'm not sure if I'm translating the sentence correctly. I'",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+93,on_p50,2000,1,94,"Translate an English sentence into a target language.
+English: And if you drill into that, it's especially the case for men.
+Target Language: ともに男性に特に当てはまることである。
+I'm not sure if I'm right or not.
+I'm not sure if I'm right or not. 私は正しいかどうかわからない。
+I'm not sure if I'm right or not. 私は正しいかどうかわからない。 私は正しいかどうかわからない。
+私は正しいかどうか",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+94,on_p50,2000,1,95,"Translate an English sentence into a target language.
+English: I made this last year,  and started receiving hundreds of messages from passionate people  who wanted to make a wall with their community.
+Target Language: I made this last year, と 始めて 受け取り 多くの 熱烈 の 人 に 壁 を 作る を 望む 。
+I made this last year, と 始めて 受け取り 多くの 熱烈 の 人 に 壁 を 作る を 望む 。
+I made this last year, と 始めて 受け取り 多く",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+95,on_p50,2000,1,96,"Translate an English sentence into a target language.
+English: So the average for most people is around 20 inches;  business schools students, about half of that;  lawyers, a little better, but not much better than that,  kindergarteners, better than most adults.
+Target Language: 法律学生の平均は約10インチである; ビジネススクールの学生は約10インチである; 幼稚園児は大人の平均よりも良いが、法律学生よりは少し良いである; 大人の平均は約20インチである。
+I'm not sure how to translate the ""about"" part",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+96,on_p50,2000,1,97,"Translate an English sentence into a target language.
+English: It won't be very long  before the reality will be  the 1,000-dollar human genome,  and it will be increasingly available for everyone.
+Target Language: 很快に 1,000 ドルの人間ゲノムが現実になり、 それは みんなに より よく 利用できるようになるであろう。
+I'm not sure if I'm translating the sentence correctly.
+I'm not sure if I'm translating the sentence correctly. I'm not sure if I'm translating the sentence correctly. I'm not sure if I'm translating the sentence correctly. I'm not sure",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+97,on_p50,2000,1,98,"Translate an English sentence into a target language.
+English: And I'm flying a little robotic vehicle  through the corridor of the ship.
+Target Language: と 私は 小さな ロボット を 操縦 して 船の 通路 を 飛行 して いる.
+English: And I'm flying a little robotic vehicle  through the corridor of the ship.  And I'm flying a little robotic vehicle  through the corridor of the ship.
+Target Language: と 私は 小さな ロボット を 操縦 して 船の 通路",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+98,on_p50,2000,1,99,"Translate an English sentence into a target language.
+English: And in fact, because their minds don't fit  into society's version of normal,  they're often bypassed and misunderstood.
+Target Language: ということで、彼らの心は社会の標準にはまっていないので、彼らは社会の標準にはまっていないので、彼らは社会の標準にはまっていないので、彼らは社会の標準にはまっていないので、彼らは社会の標準にはまっ",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja
+99,on_p50,2000,1,100,"Translate an English sentence into a target language.
+English: Just go and read her book.
+Target Language: 彼女の本を読んでください。
+I'm not sure if I'm right or not.
+I'm not sure if I'm right or not. 彼女の本を読んでください。
+彼女の本を読んでください。
+彼女の本を読んでください。 彼女の本を読んでください。
+彼女の本を��",0.527317257637,,,translation_text_iwslt2017_en_ja.pkl,ja

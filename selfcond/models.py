@@ -12,8 +12,7 @@ import torch
 from torch import nn
 from torch.utils.hooks import RemovableHandle
 from dataclasses import dataclass
-from transformers import AutoModelForPreTraining, AutoConfig
-
+from transformers import AutoModelForCausalLM, AutoModelForPreTraining, AutoConfig, LlamaForCausalLM, XGLMForCausalLM, BloomForCausalLM
 
 MODEL_INPUT_FIELDS = ["input_ids", "attention_mask"]
 LABELS_FIELD = "labels"
@@ -65,6 +64,7 @@ class TorchModel:
         input_type: t.Mapping[str, torch.dtype],
         name: str,
         device: str = None,
+
     ) -> None:
         """
         Wraps a pytorch module to enable reading intermediate responses.
@@ -76,12 +76,17 @@ class TorchModel:
             device: A string that indicates where the model should run (cpu, cuda:0, etc...)
         """
         self.name = name
+        """
+        device = accelerator.device
         self._device = device
         if device is None:
             self._device = "cuda:0" if torch.cuda.is_available() else "cpu"
-
+        
         print(f"Model to {self._device}")
-        self._pytorch_module = module.to(self._device).float().eval()
+        """
+        # self._pytorch_module = module.to(self._device).float().eval()
+        # self._pytorch_module = module.float().eval()
+        self._pytorch_module = module.eval()
 
         if set(input_size.keys()) != set(input_type.keys()):
             raise RuntimeError(
@@ -148,7 +153,7 @@ class TorchModel:
         x = {
             input_name: torch.rand(tuple(fixed_shaped_list + [*self._input_size[input_name]]))
             .type(self._input_types[input_name])
-            .to(self._device)
+            .to(torch.device('cuda', 0))
             for input_name in arg_names
         }
 
@@ -171,14 +176,16 @@ class TorchModel:
         only_last_token: bool,
     ) -> t.Callable:
         assert len(units) == len(values), "The number of values must match the number of units."
-        assert units.dtype == torch.int64, "Unit indices must be int64."
-        assert values.dtype == torch.float32, "Values must be float32."
+        # assert units.dtype == torch.int64, "Unit indices must be int64."
+        # assert values.dtype == torch.float32, "Values must be float32."
 
         def forward_hook(module, input, output):
             # Modify the output of the layer.
             if only_last_token:
+                # output[:, -1, units] = values.to(output.device)
                 output[:, -1, units] = values.to(output.device)
             else:
+                #output[:, :, units] = values.to(output.device)
                 output[:, :, units] = values.to(output.device)
             return output
 
@@ -237,7 +244,8 @@ class TorchModel:
         a_key = list(inputs.keys())[0]
         torch_inputs: t.MutableMapping[str, torch.Tensor] = {}
         if isinstance(inputs[a_key][0], torch.Tensor):
-            torch_inputs = {k: v.to(device=self._device) for k, v in inputs.items()}
+            #torch_inputs = {k: v.to(device=self._device) for k, v in inputs.items()}
+            torch_inputs = {k: v.to(torch.device('cuda', 0)) for k, v in inputs.items()}
 
         response_dict: t.Dict[str, t.Any] = {}
 
@@ -249,9 +257,20 @@ class TorchModel:
             for output_idx, o in enumerate(module_output):
                 response_name = "{}:{}".format(module_name, output_idx)
                 if response_name in outputs:
+                    """
                     tensor = (
                         o.detach().numpy() if self._device == "cpu" else o.detach().cpu().numpy()
                     )
+                    """
+                    if o.dtype == torch.float32:
+                        tensor = (
+                            o.detach().cpu().numpy()
+                        )
+                    else:
+                        tensor = (
+                            o.detach().cpu().to(dtype=torch.float32).numpy()
+                        )
+
                     response_dict[response_name] = tensor
 
         # register forward hook for all modules in the network with the exception of the root
@@ -289,7 +308,9 @@ class PytorchTransformersModel(TorchModel):
         model_name: str,
         cache_dir: t.Optional[pathlib.Path],
         seq_len: int,
-        device: str,
+        device: str = None,
+        #clm: str = False,
+        #bit: str = False,
     ) -> None:
         """
         Loads a HuggingFace Transformers given its name.
@@ -299,7 +320,8 @@ class PytorchTransformersModel(TorchModel):
             cache_dir: Local dir where the model is fetched/saved
             seq_len: Input sequence length considered.
         """
-        torch_model = transformers_class_from_name(model_name, cache_dir=cache_dir)
+        torch_model = transformers_class_from_name(model_name, cache_dir=cache_dir) #, clm=clm, bit=bit)
+        #torch_model = accelerator.prepare(torch_model)
         super().__init__(
             module=torch_model,
             input_size={input_name: (seq_len,) for input_name in MODEL_INPUT_FIELDS},
@@ -337,12 +359,22 @@ def transformers_model_name_to_family(model_name: str) -> str:
         return "distilbert"
     elif model_name.startswith("ctrl"):
         return "ctrl"
+    elif "bloom" in model_name:
+        return "bloom"
+    elif "Llama-2" in model_name:
+        return "Llama-2"
+    elif "llama" in model_name:
+        return "llama"
+    elif "falcon" in model_name:
+        return "falcon"
+    elif "xglm" in model_name:
+        return "xglm"
     else:
         raise NotImplementedError(f"Model name to type not considered: {model_name}")
 
 
 def transformers_class_from_name(
-    model_name: str, cache_dir: t.Optional[pathlib.Path] = None, rand_weights: bool = False
+    model_name: str, cache_dir: t.Optional[pathlib.Path] = None, rand_weights: bool = False #, clm: bool = False, bit: bool = False,
 ) -> nn.Module:
     """
     Obtain a model as pytorch nn.Module given a name (as defined in the Huggingface transformers repo)
@@ -357,11 +389,52 @@ def transformers_class_from_name(
 
     """
     try:
+        free_in_GB = int(torch.cuda.mem_get_info()[0] / 1024**3)
+        max_memory = f"{free_in_GB-2}GB"
+        n_gpus = torch.cuda.device_count()
+        max_memory = {i: max_memory for i in range(n_gpus)}
         if rand_weights:
             config = AutoConfig.from_pretrained(model_name)
             m = AutoModelForPreTraining.from_config(config)
         else:
-            m = AutoModelForPreTraining.from_pretrained(model_name, cache_dir=cache_dir)
+            if 'Llama-2' in model_name:
+                m = AutoModelForCausalLM.from_pretrained(model_name,
+                                                         trust_remote_code=True,
+                                                         #load_in_8bit=True,
+                                                         #torch_dtype=torch.float16,
+                                                         #offload_folder="offload",
+                                                         cache_dir=cache_dir,
+                                                         device_map="auto"
+                                                         )
+            elif 'xglm' in model_name:
+                m = XGLMForCausalLM.from_pretrained(model_name, 
+                                                    #trust_remote_code=True,
+                                                    #load_in_8bit=True,
+                                                    #torch_dtype=torch.float16,
+                                                    #offload_folder="offload",
+                                                    cache_dir=cache_dir, 
+                                                    #device_map="auto",
+                                                    #device_map = 0,
+                                                   ).to("cuda")
+            elif 'bloom' in model_name:
+                m = BloomForCausalLM.from_pretrained(model_name, 
+                                                     #trust_remote_code=True,
+                                                     #load_in_8bit=True,
+                                                     #torch_dtype=torch.float16,
+                                                     #offload_folder="offload",
+                                                     cache_dir=cache_dir, 
+                                                     #device_map="auto",
+                                                     #device_map = 0,
+                                                    ).to("cuda")
+            else:
+                #m = AutoModelForPreTraining.from_pretrained(model_name, cache_dir=cache_dir, device_map="auto")
+                raise ValueError("error! model_name is not properly defined.")
+            
+            try:
+                print(m.hf_device_map)
+            except:
+                pass
+    
     except OSError:
         raise NotImplementedError(f"Model {model_name} could not be loaded.")
     assert m is not None
@@ -392,6 +465,32 @@ def get_layer_regex(model_name: str) -> t.Optional[t.List[str]]:
             "transformer.h.([0-9]|[0-9][0-9]).mlp.c_fc",
             "transformer.h.([0-9]|[0-9][0-9]).mlp.c_proj",
         ]
+    elif family == "bloom":
+        layer_types = [
+            "transformer.h.([0-9]|[0-9][0-9]).self_attention.query_key_value",
+            "transformer.h.([0-9]|[0-9][0-9]).self_attention.dense",
+            "transformer.h.([0-9]|[0-9][0-9]).mlp.dense_h_to_4h",
+            "transformer.h.([0-9]|[0-9][0-9]).mlp.dense_4h_to_h",
+        ]
+    elif family in ["llama", "Llama-2"]:
+        layer_types = [
+            "transformer.layers.([0-9]|[0-9][0-9]).self_attn.q_proj",
+            "transformer.layers.([0-9]|[0-9][0-9]).self_attn.k_proj",
+            "transformer.layers.([0-9]|[0-9][0-9]).self_attn.v_proj",
+            "transformer.layers.([0-9]|[0-9][0-9]).self_attn.o_proj",
+            "transformer.layers.([0-9]|[0-9][0-9]).mlp.gate_proj",
+            "transformer.layers.([0-9]|[0-9][0-9]).mlp.down_proj",
+            "transformer.layers.([0-9]|[0-9][0-9]).mlp.up_proj",
+        ]
+    if family == "xglm":
+        layer_types = [
+            "model.layers.([0-9]|[0-9][0-9]).self_attn.k_proj",
+            "model.layers.([0-9]|[0-9][0-9]).self_attn.v_proj",
+            "model.layers.([0-9]|[0-9][0-9]).self_attn.q_proj",
+            "model.layers.([0-9]|[0-9][0-9]).self_attn.out_proj",
+            "model.layers.([0-9]|[0-9][0-9]).fc1",
+            "model.layers.([0-9]|[0-9][0-9]).fc2",
+        ]
     # Extend to other model families here if needed
     return layer_types
 
@@ -406,6 +505,41 @@ def _print_responses(ri: t.List[ResponseInfo]) -> None:
 def _collect_responses_info_for_model(model: TorchModel, model_family: str) -> t.List[ResponseInfo]:
     mapping = {
         "gpt2": [
+            ri
+            for ri in model.get_response_infos()
+            if ri.layer.kind in ["Conv1D", "BertLayerNorm", "Linear"]
+            and len(ri.shape) in [2, 3]
+            and "lm_head" not in ri.name
+        ],
+        "bloom": [
+            ri
+            for ri in model.get_response_infos()
+            if ri.layer.kind in ["Conv1D", "BertLayerNorm", "Linear"]
+            and len(ri.shape) in [2, 3]
+            and "lm_head" not in ri.name
+        ],
+        "llama": [
+            ri
+            for ri in model.get_response_infos()
+            if ri.layer.kind in ["Conv1D", "BertLayerNorm", "Linear"]
+            and len(ri.shape) in [2, 3]
+            and "lm_head" not in ri.name
+        ],
+        "Llama-2": [
+            ri
+            for ri in model.get_response_infos()
+            if ri.layer.kind in ["Conv1D", "BertLayerNorm", "Linear"]
+            and len(ri.shape) in [2, 3]
+            and "lm_head" not in ri.name
+        ],
+        "falcon": [
+            ri
+            for ri in model.get_response_infos()
+            if ri.layer.kind in ["Conv1D", "BertLayerNorm", "Linear"]
+            and len(ri.shape) in [2, 3]
+            and "lm_head" not in ri.name
+        ],
+        "xglm": [
             ri
             for ri in model.get_response_infos()
             if ri.layer.kind in ["Conv1D", "BertLayerNorm", "Linear"]
@@ -454,16 +588,27 @@ def pool_responses(
     axis: t.Tuple[int],
     pooling_type: str = "max",
 ) -> t.Dict[str, np.ndarray]:
-    assert pooling_type in ["mean", "sum", "max"]
+    assert pooling_type in ["mean", "sum", "max", "median", "min"]
     pooler_fn = getattr(np, pooling_type)
     fields = response_fields or responses.keys()
+    #print("fields")
+    #print(fields)
     for field in fields:
+        #print("====")
+        #print(field)
+        #print(responses[field].shape)
+        #print(responses[field])
+        #responses[field] = pooler_fn(responses[field][:,5:25], axis=axis)
         responses[field] = pooler_fn(responses[field], axis=axis)
+        #responses[field] = pooler_fn(responses[field][:,5:], axis=axis)
     return responses
 
 
 def processors_per_model(model: TorchModel) -> t.List[t.Callable]:
-    pool_args: t.List[t.Dict] = [dict(response_fields=None, axis=1, pooling_type="max")]
+    #pool_args: t.List[t.Dict] = [dict(response_fields=None, axis=1, pooling_type="min")]
+    pool_args: t.List[t.Dict] = [dict(response_fields=None, axis=1, pooling_type="mean")]
+    #pool_args: t.List[t.Dict] = [dict(response_fields=None, axis=1, pooling_type="median")]
+    #pool_args: t.List[t.Dict] = [dict(response_fields=None, axis=1, pooling_type="max")]
     process_fns: t.List[t.Callable] = []
     process_fns += [partial(pool_responses, **args) for args in pool_args]
     return process_fns

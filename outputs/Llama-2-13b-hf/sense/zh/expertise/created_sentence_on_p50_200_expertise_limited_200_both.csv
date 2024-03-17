@@ -1,0 +1,406 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,200,1,1,"South Africa Net Profit Stable
+In 2019, South Africa’s net profit rose 1.1% to R 107.7 billion, although the country’s population has increased by only 1.2 million in the last 20 years.
+The BEE",0.5439949359149999,,,,zh
+1,on_p50,200,1,2,"import React, { Component } from'react'
+import PropTypes from 'prop-types'
+
+
+export default class Info extends Component {
+  render () {
+    const { title, description, full, highlight } = this.props
+    return (
+      <div className='Info'>
+",0.5439949359149999,,,,zh
+2,on_p50,200,1,3,"Systematic classification of Type 2 diabetes, Type 2 diabetes complications, and related terms in MEDLINE: a systematic mapping review
+Olivia C. J. Staplin1,
+Jenny A. Tiwari2,
+Annette Kifley",0.5439949359149999,,,,zh
+3,on_p50,200,1,4,"2020-09-15 2022-01-13 afp.admin 0 Comments
+In 1968, the economic problems of the society and the political crisis of the autocratic Monarchy made it possible for a military coup to be",0.5439949359149999,,,,zh
+4,on_p50,200,1,5,"Chapter 1 (See the unabridged version of this chapter)
+The future—at least the near future—seems a little less certain than it did a few months ago. The financial crisis that began in the United States in the fall of 2008 has spread around the world, and",0.5439949359149999,,,,zh
+5,on_p50,200,1,6,"2018 Honda CRF 125F: First Look
+Honda’s smallest dirt bike gets a facelift
+Honda has made some minor changes to the 2018 Honda CRF 125F, its smallest dirt bike for",0.5439949359149999,,,,zh
+6,on_p50,200,1,7,"# 小行星4463
+
+小行星4463（1981 TM，赫拉克勒斯1981年10月发现）是扬·帕尔·赫拉克勒",0.5439949359149999,,,,zh
+7,on_p50,200,1,8,"Home > Opinion > 2015 > 12 > 23 > Kashmir from a US Perspective
+Kashmir from a US Perspective
+Kashmir has been a flash point between India and Pakistan since partition, but it is also an issue within India itself. This",0.5439949359149999,,,,zh
+8,on_p50,200,1,9,"A Farewell to the Nutt House
+I wanted to wrap up the semester with a farewell to the Nutt House, the classroom building housing the EAP program. I have no idea why this building is so special to me, but it is.
+The Nutt House, named for a",0.5439949359149999,,,,zh
+9,on_p50,200,1,10,"← Roxbury Presbyterian Church to Hold Special Sunday Service and Carols
+Getting Your Kids Inspired for the Festive Season at the Nutcracker →
+Flood Hazard Area Map Now Available for Bayonne
+City of Bayonne, Hudson County, New Jersey",0.5439949359149999,,,,zh
+10,on_p50,200,1,11,"""Meeting; what was learned about the rose, and the way to find it in the desert of this world""
+[Lecture: 11th May, 1921 | Berlin, The Phenomenology of the Spirit | GA0236 | Menschengest",0.5439949359149999,,,,zh
+11,on_p50,200,1,12,"# 上海公交19路
+
+19路，是上海市浦东新区的一条公交线路，由浦东新区浦东火车站到虹桥路浦东新区理工大",0.5439949359149999,,,,zh
+12,on_p50,200,1,13,"The Malibu Coastal Walnut stair railing is an elegant and attractive choice for your home. The rich walnut finish is toned with rustic accents and the smooth, solid wood design is built to last.",0.5439949359149999,,,,zh
+13,on_p50,200,1,14,"News, Reviews and Features ‘A celebration of the human spirit’: IT IS EASY TO GET LOST – The Space ★★★★★
+‘A celebration of the human spirit’: IT IS EASY TO GET LOST – The Space ★★★★★",0.5439949359149999,,,,zh
+14,on_p50,200,1,15,"package com.github.jxen.pudding;
+
+import com.github.jxen.pudding.api.Ranges;
+import org.junit.jupiter.api.Test;
+
+import java.util.Arrays;
+import java.util.List",0.5439949359149999,,,,zh
+15,on_p50,200,1,16,"Tags: python, pytorch, conv-neural-network
+
+Question: How to make Pytorch's Conv2d output three classes?
+
+I am trying to create a neural network that will take in a 300x300 black and white image and output three",0.5439949359149999,,,,zh
+16,on_p50,200,1,17,"# 伯克什 (愛達荷州)
+
+伯克什（當爾語為）是位於愛達荷賽爾斯伯埃爾",0.5439949359149999,,,,zh
+17,on_p50,200,1,18,"#
+Vladimir's mother, Inna Mironovna, aka ""the cook,"" was a small woman with wide hips and the face of a warrior. She was a creature of routine. She was a creature of passion. She was a creature of contradiction.
+During the war",0.5439949359149999,,,,zh
+18,on_p50,200,1,19,"Our one of a kind 100% pre-shrunk cotton flannel shirt is guaranteed to keep you warm, and is great for winter, or any time you want to feel cozy. This is a great shirt to throw on before heading outside to the fire pit this winter.",0.5439949359149999,,,,zh
+19,on_p50,200,1,20,"# Gheorghe Hagi
+
+Gheorghe ""Gica"" Hagi (Băilești, Rumania, 5 de febrero de 1965) es un exfutbolista rumano, con nacionalidad moldava, que se desempeñaba como",0.5439949359149999,,,,zh
+20,on_p50,200,1,21,"clickforsuper.com
+Clickforsuper.com was founded by a team of highly qualified and experienced engineers in 2013, with the goal of delivering quality Engineering Services to our clients. We believe that a company's success is based on the well-informed decisions it",0.5439949359149999,,,,zh
+21,on_p50,200,1,22,"package util
+
+import (
+	""bytes""
+	""encoding/json""
+	""fmt""
+	""io/ioutil""
+	""os""
+	""os/exec""
+	""path/filepath""
+	""runtime""
+	""time""
+)",0.5439949359149999,,,,zh
+22,on_p50,200,1,23,"﻿using System.Collections.Generic;
+using System.Threading.Tasks;
+using FluentAssertions;
+using NUnit.Framework;
+using SFA.DAS.EmployerFinance.Infrastructure.Commands;
+using SFA.DAS.Testing.",0.5439949359149999,,,,zh
+23,on_p50,200,1,24,"# Jean-Victor Moreau
+
+Jean-Victor Moreau, né le 15 septembre 1828 à Nantes et mort le 21 décembre 1889 à Rome, est un sculpteur français du XIXe siècle, élève de James Prad",0.5439949359149999,,,,zh
+24,on_p50,200,1,25,"CNN anchor Don Lemon on Monday delivered an emotional monologue after visiting El Paso, Texas, and Dayton, Ohio, the sites of two mass shootings that occurred within 24 hours last weekend.
+“Sunday evening on the way back from Dayton, my co-",0.5439949359149999,,,,zh
+25,on_p50,200,1,26,"/*---------------------------------------------------------------------------------*/
+
+#include	""CppCoverageMap.h""
+#include ""CppCoverageMapImpl.h""
+#include ""CppCoverageUtil.h""
+#include <fstream>
+#include <cstring>",0.5439949359149999,,,,zh
+26,on_p50,200,1,27,"The following was written by forum member, MilesKm.
+We’re now four months into 2015 and I wanted to bring some statistics to light to get everyone a bit better idea of what we’ve got going on. I’m going to include a few monthly and yearly",0.5439949359149999,,,,zh
+27,on_p50,200,1,28,"Home Fashion and Style A GOOD HEALER
+A GOOD HEALER
+HIP NYC – NEW YORK, NY –
+This past October the Hip Hop Health Club was officially unveiled. This state-of-the-art 6000sqft facility is",0.5439949359149999,,,,zh
+28,on_p50,200,1,29,"Home/Technology/How to Get The Best Car Insurance Policy
+There are several steps you can take to get the best car insurance policy for your needs. You should first compare the rates and coverage of several insurers. Afterward, you should examine the policies to see which one will suit",0.5439949359149999,,,,zh
+29,on_p50,200,1,30,"09/15/2021 08/20/2021 Diana Agarwal 0 Comments Data Mining Projects, Data Mining Projects for Engineering Students, Data Mining Projects for MCA Students, Data Mining Projects for",0.5439949359149999,,,,zh
+30,on_p50,200,1,31,"A WWII U.S. Army Quartermaster Engineer officer's service group with three ribbon bars, a round pin, and U.S. Army patch. Two were awarded for the same campaign, which is rare. The patch is a tough one to find.
+The WWII",0.5439949359149999,,,,zh
+31,on_p50,200,1,32,"# Thamnium trigonum
+
+Thamnium trigonum là một loài Rêu trong họ Neckeraceae. Loài này được (Mont.) M. Fleisch. mô tả khoa học",0.5439949359149999,,,,zh
+32,on_p50,200,1,33,"‘Internal Justice’: How the First Trans Woman of Color to Serve on a State Supreme Court Is Disrupting the System From Within
+Revolutionary. Radical.
+Those are some of the words that have been used to describe how Justice Raquel Montoya-Lewis is trying to",0.5439949359149999,,,,zh
+33,on_p50,200,1,34,"1954 Ford Fairlane Crown Victoria convertible - Survivor, engine rebuild, needs interior, $3500/OBO, drive it away, North Hollywood, Southern California.
+Those who know me know I'm a fan of the 1954 Fairlane",0.5439949359149999,,,,zh
+34,on_p50,200,1,35,"# 铁岭市各级文物保护单位列表
+
+以下是铁岭市的各级文物保护单位列表。
+
+## 黑龙江",0.5439949359149999,,,,zh
+35,on_p50,200,1,36,"import os
+from unittest import TestCase
+
+import numpy as np
+
+from..utils import TestData
+
+
+class TestEigenVectors(TestCase):
+    def test_ei4vec_1d(self):
+        A = TestData.ei4vec_1d
+",0.5439949359149999,,,,zh
+36,on_p50,200,1,37,"@extends('layouts.app')
+
+@section('style')
+<style>
+	@media (min-width: 576px) {
+		.side-menu {
+			display: none;
+		}
+	}
+	@media (",0.5439949359149999,,,,zh
+37,on_p50,200,1,38,"# Kepulauan Chagos
+
+Kepulauan Chagos adalah kepulauan yang berada di Samudra Hindia, sekitar 500 km di selatan Pantai Malabar, India. Daerah ini",0.5439949359149999,,,,zh
+38,on_p50,200,1,39,"# Legg
+
+Legg ist der Familienname folgender Personen:
+
+* Christopher Legg (* 1983), britischer Shorttracker
+* John L. Legg (1897–1973), US-amerikanischer Offizier
+* Marius Legg (* 1",0.5439949359149999,,,,zh
+39,on_p50,200,1,40,"package com.emc.storageos.driver.volume;
+
+import java.util.List;
+import java.util.Map;
+
+import com.emc.storageos.db.client.constraint.PropertyEnum;
+import com.emc.storageos.db.client.",0.5439949359149999,,,,zh
+40,on_p50,200,1,41,"package com.uber.stream.kafka.connect.web.common.model;
+
+import java.io.Serializable;
+
+/**
+ * Model encapsulating an input JSON record.
+ */
+@SuppressWarnings({ ""unused"", ""WeakerAccess"" })
+public class",0.5439949359149999,,,,zh
+41,on_p50,200,1,42,"The Nostalgic Galaxy Detective
+By: Kiki Thong
+Narrated by: Kiki Thong
+Galaxy Detective is a thrilling space adventure with a killer twist!
+What if the key to overcoming your past, is in your past?",0.5439949359149999,,,,zh
+42,on_p50,200,1,43,"# Кісліц (Айфель)
+
+Кісліц (нім. Kirchliess) — громада в Німеччині, розташована в землі Ріпліц-Штраупцинг. Входить до складу района Айфель-Б",0.5439949359149999,,,,zh
+43,on_p50,200,1,44,"package com.zhechen.poi.list;
+
+import java.io.IOException;
+
+import org.junit.Test;
+import org.openxmlformats.schemas.wordprocessingml.x2006.main.CTExcel;
+
+public class TestExcelList {",0.5439949359149999,,,,zh
+44,on_p50,200,1,45,"20% off TENA Products
+Annie's Velvet Soft and Flushable 11.5 Inch Chux
+Annie's Velvet Soft and Flushable 11.5 Inch Chux, $1.99 with Subscribe &",0.5439949359149999,,,,zh
+45,on_p50,200,1,46,"# Ajuga filipendula
+
+Ajuga filipendula là một loài thực vật có hoa trong họ Hoa môi. Loài này được L. mô tả khoa h",0.5439949359149999,,,,zh
+46,on_p50,200,1,47,"Rare Mishna
+The Mishna of Zevachim (63a) says ""Rabbi Yosei ben Kisma said: ""The first day of the Omer is called Yom Kadushin, and it is a Yom Tov at the start of the O",0.5439949359149999,,,,zh
+47,on_p50,200,1,48,"May 1, 2014 @ 5:00 pm–5:45 pm EDT
+« Webinar: “Reimagining the Public University”
+Committee on Planning and Budgeting Meeting »
+On Thursday, May 1, ",0.5439949359149999,,,,zh
+48,on_p50,200,1,49,"VIDEO: David Oyelowo discusses playing the lead in ‘Selma’
+David Oyelowo discusses playing the lead in ‘Selma’ ABC News interview.
+This entry was posted in 2014, David Oyelowo, Interview, Selma",0.5439949359149999,,,,zh
+49,on_p50,200,1,50,"Home/News/Atiku: What I’ll do with oil produce in Niger Delta if elected
+Atiku: What I’ll do with oil produce in Niger Delta if elected
+Former Vice President and Presidential candidate of the Peoples Democratic Party (PDP) Atiku Abubak",0.5439949359149999,,,,zh
+50,on_p50,200,1,51,"# 莱讷河畔吕什
+
+莱讷河畔吕什（法語：，法语发音：[lyʃ syʁ lɛn]）是法国马恩省",0.5439949359149999,,,,zh
+51,on_p50,200,1,52,"Tags: php, database, laravel, eloquent
+
+Question: Laravel 5.3 Database query for related model with condition
+
+I need to execute database query with a related model condition.
+
+Here is my query,
+
+\begin{code}
+Post::where('id', $id",0.5439949359149999,,,,zh
+52,on_p50,200,1,53,"it's basically a textured concrete that's made by using a special form and a special mix of cement, sand, and rocks
+it's really costly to use so it's used in high-end, high-traffic areas of the park
+the concrete was poured into a",0.5439949359149999,,,,zh
+53,on_p50,200,1,54,"# Callixena pica
+
+Callixena pica is een vlinder uit de familie spinneruilen (Erebidae). De wetenschappelijke naam is voor het eerst geldig gepubliceerd in 1914 door Hampson.
+
+De soort komt voor in tropisch Afrika.",0.5439949359149999,,,,zh
+54,on_p50,200,1,55,"# 乌贝讷站
+
+乌贝讷站（法語：）是法国的一个铁路车站，位于法国瓦兹省市镇�������",0.5439949359149999,,,,zh
+55,on_p50,200,1,56,"2013-2014 Graduate Catalog > The Graduate School > Graduate School Policies and Procedures > Academic Appeals
+All students who believe that improper treatment has occurred within the classroom, laboratory, or other areas of the University must",0.5439949359149999,,,,zh
+56,on_p50,200,1,57,"“My last comment is that Kodak, as a member of the photographic community, should be ashamed of itself for producing such a disgusting product and for claiming it to be 'professional.'”
+– Ken Rockwell, reviewing Kodak’s Easyshare CD-",0.5439949359149999,,,,zh
+57,on_p50,200,1,58,"Victoria's Secret lingerie Super Bowl ad deemed too racy for TV
+The Super Bowl broadcast will feature a swimsuit-style ad by Victoria's Secret Pink
+Victoria's Secret's lingerie Super Bowl ad won't air.
+The lingerie ret",0.5439949359149999,,,,zh
+58,on_p50,200,1,59,"""Live Aid"" is to be shown on Channel 4 tonight, so we're pulling out the black and white TV, sweeping the cobwebs out of the air vents, and getting ready for ""the day rock and roll came home."" You can get set by revisiting the story",0.5439949359149999,,,,zh
+59,on_p50,200,1,60,"<?php
+
+namespace App\Http\Controllers\Admin;
+
+use App\Http\Controllers\Controller;
+use Illuminate\Http\Request;
+use App\Models\user;
+use App\Models\getuser;
+class UserController extends Controller
+{
+    /**
+",0.5439949359149999,,,,zh
+60,on_p50,200,1,61,"# 庞培尼亚
+
+庞培尼亚（法語：，法语发音：[pɑ̃p(ə)ɲa] （ 聆聽）；加泰隆�",0.5439949359149999,,,,zh
+61,on_p50,200,1,62,"ocean, beach, shores, islands, mangroves, swamps, waterfalls, rivers, mountains, forests, and wildlife.
+Our primary purpose is to promote the preservation and sustainable use of these resources.
+The Ensenada del Oro Foundation (EDOF) is",0.5439949359149999,,,,zh
+62,on_p50,200,1,63,"PLEASE NOTE: Any tickets purchased with the wrong moniker will be cancelled and refunded.
+RSVP is required for this event. No tickets will be sold at the door.
+Tickets can be purchased from the Club or sent by email to the Club’s Treas",0.5439949359149999,,,,zh
+63,on_p50,200,1,64,"\title{Efficient Convex Optimization for Sparsity-Aware Linear Regression}
+
+\begin{abstract}
+Dictionary learning is an ill-posed non-convex problem that finds a dictionary to represent a given set of sparse samples.
+We present an efficient and scalable convex",0.5439949359149999,,,,zh
+64,on_p50,200,1,65,"NHS Information and Reporting
+Fairfield Community NHS Trust is committed to keeping patients, visitors and staff up to date with our most recent performance and quality information.
+We want to provide an accurate picture of our organisation to stakeholders, including the public, the regulatory bodies, commissioners,",0.5439949359149999,,,,zh
+65,on_p50,200,1,66,"# Раві (Іран)
+
+Раві (перс. راوي‎) — місто в Ірані, у провінції Хамадан.
+
+## Географія
+
+Із західніні порідні з іншими містами, що",0.5439949359149999,,,,zh
+66,on_p50,200,1,67,"WSE is a ‘warm’ and friendly environment for learning, where pupils are encouraged to take risks and where every child is supported and stretched.
+Wolsey House School is an independent, co-educational day and boarding school with a global reputation for academic excellence, making",0.5439949359149999,,,,zh
+67,on_p50,200,1,68,"How to Invest in Bitcoin: A Beginner’s Guide
+Bitcoin has been the best-performing asset of the past decade. The value of the coin has risen from less than $100 to an all-time high of more than $64,800",0.5439949359149999,,,,zh
+68,on_p50,200,1,69,"The Alberta Court of Queen’s Bench and the Alberta Court of Appeal are amending their rules of court to implement the Family Law Act. The amendments will come into effect on September 1, 2019.
+The rules will also make other changes, including:
+",0.5439949359149999,,,,zh
+69,on_p50,200,1,70,"#ifndef _WX_CINT_H_
+#define _WX_CINT_H_
+
+// wxCint 2.1 interface
+#ifdef __BORLANDC__
+  #include <wx.h>
+  #undef uInt
+",0.5439949359149999,,,,zh
+70,on_p50,200,1,71,"Bhuwang Valley Trek
+The Bhuwang Valley Trek is one of the best treks in the Garhwal region, offering some of the most dramatic mountain scenery to be had in the whole of India. The trek starts from the village of Ranikhet, taking the ancient",0.5439949359149999,,,,zh
+71,on_p50,200,1,72,"A few weeks back, I was asked by a friend to help with an event she was putting on. She’s the owner of a small boutique who was offering discounts to mothers of children with special needs.
+I’m not around kids very often, so I don’t get to",0.5439949359149999,,,,zh
+72,on_p50,200,1,73,"2013 – Bridging the Gap
+An important focus of the SAA’s work continues to be the facilitation of a balanced approach to education that bridges the gap between the international and Chinese education systems. In 2013, the SAA continued to engage with",0.5439949359149999,,,,zh
+73,on_p50,200,1,74,"# Ketgutang
+
+Ketgutang (Bassia) is een geslacht uit de amarantenfamilie (Amaranthaceae). De soorten komen voor van in West-Azië tot aan de Himalaya.
+
+## Soorten
+
+* Bassia",0.5439949359149999,,,,zh
+74,on_p50,200,1,75,"# Szűrő-Kőbány
+
+A Szűrő-Kőbány lévő sziklakeresztek száma – a legutóbbi felmérés szerint – 30 fő, ez viszont még nem teljesen kiderült",0.5439949359149999,,,,zh
+75,on_p50,200,1,76,"# David Hindman
+
+David Hindman (September 11, 1842 – October 21, 1875) was an American lawyer and politician who served as a member of the Wisconsin State Senate.
+
+For those of the same or a similar name,",0.5439949359149999,,,,zh
+76,on_p50,200,1,77,"Gold, Golds, or Goulds may refer to:
+Gold (color)
+Aureus, a gold coin
+Gold (surname)
+Gold (film), a 2014 film
+Gold (album), a 1982 album by Lone Justice",0.5439949359149999,,,,zh
+77,on_p50,200,1,78,"
+A. In the beginning God created the heavens and the earth.
+
+B. (Isa 45:11-13 KJV) Thus saith the LORD, the Holy One of Israel, and his Maker, Ask me of things to come concerning my sons, and",0.5439949359149999,,,,zh
+78,on_p50,200,1,79,"# Liège-Bastogne-Liège 1977
+
+La 63ª edizione della Liège-Bastogne-Liège, valida come prova del campionato mondiale di ciclismo su strada 1977, si svolse il 17 aprile",0.5439949359149999,,,,zh
+79,on_p50,200,1,80,"x Criminal-Law
+1 - 20 于 28 纪录 (0.01 秒) 搜索
+摘要: In 1976, the California Legislature enacted the Uniform Commercial Code",0.5439949359149999,,,,zh
+80,on_p50,200,1,81,"catants.
+Catants’s Achievements
+Catants gave
+Catants gave 1.000 points
+Commented on the question ""What is 2x + 1/2x + 1/8x + 6/8x + 2/8x + ",0.5439949359149999,,,,zh
+81,on_p50,200,1,82,"Taking a break from a stressful weekend, I decided to watch two movies on Sunday. The first was Wall-E, and I'll review that one in a separate post. But I was also really curious to check out the Terrence Malick film, The Tree of Life, which I had",0.5439949359149999,,,,zh
+82,on_p50,200,1,83,"The City of Hartford is a vibrant community in which people live, work, and play, and is the most economically diversified community in the area, with a rich mix of large and small businesses, including manufacturing, retail, arts, higher education, and a rapidly growing medical community.",0.5439949359149999,,,,zh
+83,on_p50,200,1,84,"# Oregon
+
+Oregon (IPA: [ˌɔɹɪˈɡoɚn] Audio), conosciuta anche come Beaver State (lo Stato della castorina), è uno Stato dell'America del Nord. È il 9º stato per estensione degli Stati Uniti,",0.5439949359149999,,,,zh
+84,on_p50,200,1,85,"# [
+<?php
+include 'init_common.php';
+include 'conexao.php';
+$id = $_SESSION['id'];
+$id_equipe = $_SESSION['id_equipe'];
+$sql_tipo = ""SELECT * FROM TIPOSALL"";
+",0.5439949359149999,,,,zh
+85,on_p50,200,1,86,"A thoughtful formulation, a pleasing fragrance, and a completely natural, cruelty-free deodorant that actually works.
+In the mood for a trip to outer space? This deodorant is undeniably cosmic, and will make a good impression while you’re at the",0.5439949359149999,,,,zh
+86,on_p50,200,1,87,"Tags: web-services, xsd
+
+Question: How to generate schema files from the WSDL?
+
+I have a WSDL file as follows
+
+\begin{code}
+<wsdl:definitions xmlns:wsdl=""http://schemas.xmlsoap.org/wsdl",0.5439949359149999,,,,zh
+87,on_p50,200,1,88,This study was undertaken to systematically ascertain the current level of evidence for the practice of adjunctive therapies in the management of children with cerebral palsy (CP) and to determine what evidence exists to guide the use of these therapies in the empirical treatment of children with,0.5439949359149999,,,,zh
+88,on_p50,200,1,89,"The Instructional Technology & Library Media Services Department provides support and instruction to students, faculty, and staff. The department is responsible for the management of the Library and Media Centers, for the maintenance of computer hardware and software, and for the selection of electronic resources. The department supports student, faculty, and",0.5439949359149999,,,,zh
+89,on_p50,200,1,90,"work by Nicolaides
+history of the siege
+in bloody siege of Mallakastë
+...its southernmost limit. In the summer of 1444 the town has been assigned by Sultan Murād II (reigned 1421–44, 144",0.5439949359149999,,,,zh
+90,on_p50,200,1,91,"	. $this->load->view('admin/header');
+	?>
+	
+	<div class=""content-wrapper"">
+		<!-- Content Header (Page header) -->
+		<section class=""content-header"">
+			<h1><?= $title;",0.5439949359149999,,,,zh
+91,on_p50,200,1,92,"<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class ProductoptionImage extends Model
+{
+  protected $guarded = [];
+
+  public function image()
+  {
+    return $this->hasOne('App\Image');
+ ",0.5439949359149999,,,,zh
+92,on_p50,200,1,93,"<?php
+namespace App\Traits;
+
+use Symfony\Component\Security\Core\Authentication\Token\Storage\TokenStorage;
+use App\Entity\User;
+use App\Entity\Thread;
+use App\Entity\Post;
+use App\Repository\UserRepository;
+",0.5439949359149999,,,,zh
+93,on_p50,200,1,94,"# 阮貴
+
+阮貴（1531年－1603年），字碩允，後改為萬允，號雲溪，又號雲溪子，��",0.5439949359149999,,,,zh
+94,on_p50,200,1,95,"What is the Best Way to Learn a Language?
+How to Learn a Language Fast and Effectively
+Studying a new language is exciting, interesting, and fun. But the process of learning a new language is also time-consuming, challenging, and sometimes frustrating. Although it",0.5439949359149999,,,,zh
+95,on_p50,200,1,96,"The forced funding of the Planned Parenthood abortion business is looking for a way to force funding for abortion on demand. During a Senate Committee on the Budget hearing, pro-abortion lawmakers are supporting a funding bill that has a provision to strip what they call the “Hy",0.5439949359149999,,,,zh
+96,on_p50,200,1,97,"A transparent soap bubble is the perfect sphere, and the first thing you observe about it is a sense of well-being. The world seems softer, more gentle, more colorful. How did an ancient Middle Eastern invention give us such an intense experience?
+For thousands of years, soap b",0.5439949359149999,,,,zh
+97,on_p50,200,1,98,"# 佩尔赖境
+
+佩尔赖境（英語：，又称为佩尔赖境（Perry Region），是位于冰川人类学与考",0.5439949359149999,,,,zh
+98,on_p50,200,1,99,"Two hundred thousand dollars is a lot of money for most homebuyers, but for one family, it was just enough to purchase a home. A while back, my husband and I toured a home in our town, mostly because we were curious as to how the size of the home compared to the price.",0.5439949359149999,,,,zh
+99,on_p50,200,1,100,"A simple, strong ring with a ball pattern, this is a versatile piece of handmade silver jewellery which can be worn every day or on special occasions.",0.5439949359149999,,,,zh

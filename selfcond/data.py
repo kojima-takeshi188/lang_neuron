@@ -123,7 +123,12 @@ class PytorchTransformersTokenizer:
         Returns:
             named_data: dict of extra data, for example: `{'attention_mask': attention_mask_values}`
         """
+        
         indexed_tokens: List[int] = self._tokenizer.encode(text)
+        #indexed_tokens: List[int] = self._tokenizer.encode(text, add_special_tokens=True)
+        #indexed_tokens: List[int] = self._tokenizer.encode(self._tokenizer.eos_token + text, add_special_tokens=False)
+        print("check")
+        print(indexed_tokens)
 
         num_effective_tokens = len(indexed_tokens)
         if min_num_tokens is not None:
@@ -322,8 +327,13 @@ class ConceptDataset(DatasetForSeqModels):
     ) -> None:
         print(f"Creating dataset from {json_file}")
         assert str(json_file).endswith(".json")
-        with json_file.open("r") as fp:
+        #with json_file.open("r") as fp:
+        with json_file.open("r", encoding='utf-8') as fp:
+        #with json_file.open("r", encoding='shift-jis') as fp:
             json_data = json.load(fp)
+        print(json_data["sentences"]["positive"][0])
+        print(json_data["sentences"]["positive"][1])
+        print(json_data["sentences"]["positive"][2])
         self._concept = json_data["concept"]
         self._concept_group = json_data["group"]
         super().__init__(
@@ -350,6 +360,10 @@ class ConceptDataset(DatasetForSeqModels):
             json_data = json.load(fp)
 
         json_sentences = json_data["sentences"]
+
+        # for TEXT
+        #json_sentences = {d:json_sentences[d][:1] for d in json_sentences}
+        
         unique_labels = sorted(list(json_sentences.keys()))
 
         # Reduce amount of data to required.

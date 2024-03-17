@@ -1,0 +1,430 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,1000,1,1,"South Africa Net Profit Stable
+In 2019, South Africa’s net profit rose 0.1% to R 107.7 billion, according to the latest figures published by the National Treasury.
+The country’s net profit was 145.4",0.088713556077,,,,zh
+1,on_p50,1000,1,2,"import { NgModule } from '@angular/core';
+import { Routes, RouterModule } from '@angular/router';
+import { ChatComponent } from './chat.component';
+import { ChatsService } from '../services/chats.service';
+import { CommonModule, }",0.088713556077,,,,zh
+2,on_p50,1000,1,3,"Systematic and comparative analysis of the in vivo biopharmaceutical properties of 1,3-β-glucans and their oligosaccharides.
+The in vivo biopharmaceutical properties of 1,3-β-glucans, their mon",0.088713556077,,,,zh
+3,on_p50,1000,1,4,"2020-09-15 2022-01-13 afp.china.org.cn Editor: Hao
+The China-Africa Cooperation Expo, due to open on Sept. 29 in Dakar, Senegal, has",0.088713556077,,,,zh
+4,on_p50,1000,1,5,"8 Best (See the movie)
+8 Best (See the movie) the title of the show, brings to mind a variety of thoughts. At first, I thought it was a light comedy, sort of second rate, in the same vein as The Office, or Waiting for Guffman, except",0.088713556077,,,,zh
+5,on_p50,1000,1,6,"2018 Honda CRF150F is one of the most popular ATVs for sale this year. If this is not the case, we suggest you consider buying another Honda ATV.
+The listing price of this 2018 Honda CRF150",0.088713556077,,,,zh
+6,on_p50,1000,1,7,"# 小行星4463
+
+小行星4463（1981 TM，1981 TM13，1981 T13，4463 Tartaros）是一顆主帶小行星",0.088713556077,,,,zh
+7,on_p50,1000,1,8,"# Piorno
+
+Piorno (en córnico: Piorno, IPA: ) es una isla deshabitada del archipiélago de las Hébridas Exteriores, en Escocia. Se encuentra en las islas Barra de la autoridad",0.088713556077,,,,zh
+8,on_p50,1000,1,9,"300 Things I've Learned So Far in My 20's
+I can't believe I'm 23..
+I'm starting this post with the name of one of my favorite books, the Secret Lives of Color.
+I've read it and rere",0.088713556077,,,,zh
+9,on_p50,1000,1,10,"← Roxbury Presbyterian Church to Hold Special Sunday Service and Carols
+Getting Your Kids Inspired for the Festive Season at the Nutcracker →
+Flood Hazard Area Map Now Available for the Upper West Side
+The Upper West Side is generally considered to",0.088713556077,,,,zh
+10,on_p50,1000,1,11,"""Meeting; what was learned about the rose, and the way to find it in the desert of this world""
+[Lecture: S-4974: 23rd May, 1922 | Berlin] [Sauerbruch]
+We will begin with a few",0.088713556077,,,,zh
+11,on_p50,1000,1,12,"#include <linux/init.h>
+#include <linux/slab.h>
+#include <linux/export.h>
+#include <linux/kthread.h>
+#include <linux/mutex.h>
+#include <linux/module.h>
+#",0.088713556077,,,,zh
+12,on_p50,1000,1,13,"The Malibu Coastal Classic features an International Fell Race on trails above Malibu, California. The race is held on the Sunday after Thanksgiving as part of the Malibu Marathon, known as the ""People's Marathon."" The course is a 5K with ",0.088713556077,,,,zh
+13,on_p50,1000,1,14,"http://www.ctpost.com/uconn/article/NCAA-gives-UConn-35k-for-Nike-apparel-5320757.php
+NCAA gives UConn $35K for Nike apparel
+BRID",0.088713556077,,,,zh
+14,on_p50,1000,1,15,"package com.github.jxen.pudding;
+
+import com.github.jxen.pudding.api.Ranges;
+import org.junit.jupiter.api.Test;
+
+import java.util.Arrays;
+import java.util.List",0.088713556077,,,,zh
+15,on_p50,1000,1,16,"Tags: python, pytorch, conv-neural-network
+
+Question: How to make Pytorch's Conv2d with multiple inputs?
+
+I am trying to create a neural network that takes an image as a input and its label, a text, as another input.
+
+",0.088713556077,,,,zh
+16,on_p50,1000,1,17,"# フレット・浜崎ゆう子
+
+フレット・浜崎 ゆう子（フレット・浜崎 優子、1981年1月13日 - ）は、日本の�",0.088713556077,,,,zh
+17,on_p50,1000,1,18,"#
+Victoria's room at Roxbury was the same size as the one she and David had shared, but the ceilings were higher and the windows more modern. It was a corner room, with two big windows facing the backyard, while a smaller sliding window overlooked the front",0.088713556077,,,,zh
+18,on_p50,1000,1,19,Our one of a kind 100% pre-shrunk cotton flannel shirt is designed with the versatility and comfort to handle any task. The durability of the cotton flannel fabric is a perfect match for our original “intended use” design that includes four large front patch,0.088713556077,,,,zh
+19,on_p50,1000,1,20,"# Gheorghe Hagi
+
+Gheorghe ""Gica"" Hagi (Băileşti, 5 februari 1965) is een Roemeens voetballer en trainer, die speelde voor onder meer FC Viitorul Constanţa, AS Roma",0.088713556077,,,,zh
+20,on_p50,1000,1,21,"clickforsound 04:12 AM 03-04-2007
+Originally Posted by freedomfighter:
+For outdoor concerts, the best venue I have been to is the ruins of the ancient Roman Imperial Palace (in the Prosek",0.088713556077,,,,zh
+21,on_p50,1000,1,22,"3-Year-Old Letha Sends a Message to Her Mother's Killers
+Updated: July 23, 2014 7:32 PM ET | Originally published: July 23, 2014 4:46 PM EDT",0.088713556077,,,,zh
+22,on_p50,1000,1,23,"﻿using System.Collections.Generic;
+using System.Threading.Tasks;
+using FluentAssertions;
+using NUnit.Framework;
+using SFA.DAS.EmployerIncentives.Application.Commands.CreateNegotiatedPrice;
+using SFA.",0.088713556077,,,,zh
+23,on_p50,1000,1,24,"⬅ Getting to the Heart of Discipleship
+Learning from a Non-Christian ➡
+What to Do When God Doesn’t Show up on Time
+How to respond when God doesn’t answer your prayers
+Patrick’s experiences in the past",0.088713556077,,,,zh
+24,on_p50,1000,1,25,"2017-9-15 · gangue, and where the desired gangue is relatively free of contaminating silicates, it is possible to produce a metallurgical coke product from the run of mine coal 6.1.2.2.2. Over",0.088713556077,,,,zh
+25,on_p50,1000,1,26,"View all 5 available Ys V: Ushinawareta Suna no Daichi images
+Ys V: Ushinawareta Suna no Daichi review
+Another Ys game, another bunch of monsters to kill.
+Ys V: Ushinawareta Suna no",0.088713556077,,,,zh
+26,on_p50,1000,1,27,"The following was written by forum member, MilesKm.
+We’re now four months into 2021 and our experiences have been anything but ordinary, to say the least. Many of you are probably wondering where our industry is headed and what the future holds for the freelance copywriting",0.088713556077,,,,zh
+27,on_p50,1000,1,28,"﻿using System;
+
+namespace Closed.Models.Interfaces
+{
+    public interface ISendMessageShim
+    {
+        Guid Id { get; }
+        string Message { get; }
+        DateTime SendDate { get; }
+
+        bool MessageSent { get",0.088713556077,,,,zh
+28,on_p50,1000,1,29,"2022: Let’s ‘put out the fire on the altar’
+The following article appears in the 2021-2022 Catholic Ministries Annual Report, which is available to download as a free e-book.
+What a 2021",0.088713556077,,,,zh
+29,on_p50,1000,1,30,"09/15/2021 08/20/2021 wview	0 Comments	Review: Star Trek: Prodigy
+The first thing you need to understand is that the latest Star Trek TV series is not for you. Whether you’",0.088713556077,,,,zh
+30,on_p50,1000,1,31,"A WWII U.S. Army Quartermaster Engineer officer's service...
+A WWII U.S. Army Quartermaster Engineer officer's service visor cap, Major, 72nd Quartermaster Engineer Regiment, Major General Samuel H. Boyd, Silver",0.088713556077,,,,zh
+31,on_p50,1000,1,32,"# Thyreus cruentus
+
+Thyreus cruentus är en biart som beskrevs av Smith 1854. Thyreus cruentus ingår i släktet Thyreus och familjen långtungebin. Inga underarter finns listade i Catalogue of Life.",0.088713556077,,,,zh
+32,on_p50,1000,1,33,"‘That’s some line dancing, fellas’: Ariana Grande is the subject of a bizarre meme after she was filmed doing an odd dance with pals on her 27th birthday
+Ariana Grande has been the subject of a bizarre meme circulating",0.088713556077,,,,zh
+33,on_p50,1000,1,34,"1954 Ford Fairlane Crown Victoria convertible - Survivor
+By: Ian Cougill, Photography by: Ian Cougill
+The 1954 Ford Fairlane Crown Victoria convertible is one of just five known to exist – and the only one in Australia
+19",0.088713556077,,,,zh
+34,on_p50,1000,1,35,"# 铁岭市
+
+铁岭市，简称“铁”，古称“铁山”，是中国辽宁省南部的一个县级市，是����",0.088713556077,,,,zh
+35,on_p50,1000,1,36,"import os
+import sys
+import re
+import subprocess
+import shutil
+
+def get_dictionary(file_path):
+  dic = {}
+  if not file_path:
+    return dic
+  fd = open(file_path, 'r')
+  for f in f",0.088713556077,,,,zh
+36,on_p50,1000,1,37,"@extends('layouts.app')
+
+@section('style')
+<style>
+	@media (min-width: 576px) {
+		.card-body {
+			padding: 0;
+		}
+	}
+</style>",0.088713556077,,,,zh
+37,on_p50,1000,1,38,"# Kepulauan Belitung
+
+Kepulauan Belitung (disebut juga Belitong, Belitong Selatan, atau Bangka Belitung) merupakan sekelompok pulau-pulau yang terdiri dari Pulau Bel",0.088713556077,,,,zh
+38,on_p50,1000,1,39,"# Legg Mason Tennis Classic 2004 - Doppio
+
+Il doppio del torneo di tennis Legg Mason Tennis Classic 2004, facente parte dell'ATP Tour, ha avuto come vincitori James Blake e Mark Merklein che hanno battuto",0.088713556077,,,,zh
+39,on_p50,1000,1,40,"﻿using System;
+using System.ComponentModel.Composition;
+using System.Text.RegularExpressions;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Collections.Generic;
+using System.Collections.Specialized;
+using System.Collections",0.088713556077,,,,zh
+40,on_p50,1000,1,41,"06/09/2016 Thu 11:02 in China by Rezwana Manjur
+Nike to acquire Tiempo
+Nike has announced the acquisition of Tiempo, a team-based-on-demand service. Both will join forces",0.088713556077,,,,zh
+41,on_p50,1000,1,42,"Harry Potter: Wizards Unite Q&A with WB Games SVP and GM of Portkey Games David Haddad
+Wizards Unite is a new location-based augmented reality game from WB Games and Niantic, Inc. and will launch in June 201",0.088713556077,,,,zh
+42,on_p50,1000,1,43,"# Кларса (Агваскалијентес)
+
+Кларса (шп. ) насеље је у Мексику у савезној држави Агваскалијентес у општини Агваскалијентес. Насеље се налази на надморској висини од 18",0.088713556077,,,,zh
+43,on_p50,1000,1,44,"package com.cloud.network.as;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+import java.util.",0.088713556077,,,,zh
+44,on_p50,1000,1,45,"2014-01-13 REGISTERED
+2009-08-13 Assigned to HUBBELL INCORPORATED reassignment HUBBELL INCORPORATED ASSIGNMENT OF ASSIGNORS",0.088713556077,,,,zh
+45,on_p50,1000,1,46,"“It’s All About The Routine”: Twins CEO Dave St Peter on His Quest To Improve The Economic Model Of The Game
+MLB, Twins
+For the third time in four seasons, the Minnesota Twins posted a winning record (85-77), which",0.088713556077,,,,zh
+46,on_p50,1000,1,47,"2 MONTHS AFTER--A LETTER FROM HER
+
+BY
+
+P. G. WODEHOUSE
+
+1919
+
+_That manic-depressive person, the author of ""Psmith, Journalist"" and ""The Man with",0.088713556077,,,,zh
+47,on_p50,1000,1,48,"May 1, 2014 @ 5:00 pm–5:45 pm EDT
+« Webinar: “Reimagining the Public University”
+Committee on Planning and Budgeting »
+The meeting begins at 5:00 p.m",0.088713556077,,,,zh
+48,on_p50,1000,1,49,"﻿using System;
+using System.ComponentModel;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Controls.Primitives;
+using System.Windows.Input;
+using RebarStore.Common;
+using RebarStore.Common.Entities",0.088713556077,,,,zh
+49,on_p50,1000,1,50,"Home/News/Atiku: What I’ll do with oil produce in Niger Delta if elected
+Atiku: What I’ll do with oil produce in Niger Delta if elected
+Former Vice President and 2019 presidential candidate of the People’s Democratic Party, PDP,",0.088713556077,,,,zh
+50,on_p50,1000,1,51,"# John J. Suh
+
+John J. Suh is a South Korean-American businessman and a former student body president of UC Berkeley. In September 2017, he was named global president of the Korea Trade-Investment Promotion Agency (KOTRA), a policy",0.088713556077,,,,zh
+51,on_p50,1000,1,52,"package com.hazelcast.internal.cluster.impl.operations;
+
+import com.hazelcast.nio.Address;
+import com.hazelcast.nio.ObjectDataInput;
+import com.hazelcast.nio.ObjectDataOutput;
+import com",0.088713556077,,,,zh
+52,on_p50,1000,1,53,"it's basically a text adventure that's entirely conversational but still feels like a game (even though you don't really interact with it)
+I'm actually working on a full length fanfiction (plan to release it on the birthday of the original game, June 30,",0.088713556077,,,,zh
+53,on_p50,1000,1,54,"# Callixena pica
+
+Callixena pica is een vlinder uit de familie spinneruilen (Erebidae). De wetenschappelijke naam is voor het eerst geldig gepubliceerd in 1914 door Hampson.
+
+De soort komt voor in tropisch Afrika.",0.088713556077,,,,zh
+54,on_p50,1000,1,55,"9.26.2011 New Inserts Progress Report
+On September 26th, 2011, a new (48 pages) issue of ""New Inserts Progress Report"" was published in Russian.
+This issue contains information on the progress of the translation of",0.088713556077,,,,zh
+55,on_p50,1000,1,56,"2013-2014 Graduate Catalog
+Master of Global Arts (M.G.A.)
+The Master of Global Arts (M.G.A.) program is an interdisciplinary and cross-cultural program that examines the role of the arts in social and",0.088713556077,,,,zh
+56,on_p50,1000,1,57,"“My last comment is that Kodak, as a member of the photographic community, should be ashamed of itself for producing such a disgusting product and for claiming it to be 'professional.'”
+– Ken Rockwell, reviewing Kodak’s Easyshare CD-",0.088713556077,,,,zh
+57,on_p50,1000,1,58,"Victoria's Secret lingerie Super Bowl ad deemed too racy for TV
+Victoria's Secret airs racy Super Bowl ad
+Victoria's Secret will air a ""strong"" racy lingerie ad during the Super Bowl, but not before it was deemed too ",0.088713556077,,,,zh
+58,on_p50,1000,1,59,"""Live Aid"" is to be repeated on Channel 4 next month.
+The concerts, held on the same day at Wembley Stadium and JFK Stadium in Philadelphia, raised over £150m for famine relief in Ethiopia.
+The 1985 gigs",0.088713556077,,,,zh
+59,on_p50,1000,1,60,"﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace HCMS.Entity
+{
+    /// <summary>
+    /// 用户基础信息
+    /// </summary>
+    public class UserBase
+",0.088713556077,,,,zh
+60,on_p50,1000,1,61,"# 庞塞尼·洛普
+
+庞塞尼·洛普（羅馬尼亞語：，1969年10月20日－），是一",0.088713556077,,,,zh
+61,on_p50,1000,1,62,"ocean, beach, shoreline, and other puddles.
+Today, I’m investigating the relationship between a number of hazardous substances and the groundwater.
+I’ll look at how these substances may move underground, and the potential impacts they could",0.088713556077,,,,zh
+62,on_p50,1000,1,63,"PLEASE NOTE: Any tickets purchased with the intention of reselling will be cancelled and funds refunded. No exceptions.
+This ticket is for entry to the event, and does not guarantee an autograph.",0.088713556077,,,,zh
+63,on_p50,1000,1,64,"﻿using System;
+using System.Collections.Generic;
+using NSubstitute;
+using NUnit.Framework;
+using Toggl.Foundation;
+
+namespace Toggl.Multivac.Tests.Modules
+{
+    [TestFixture]
+   ",0.088713556077,,,,zh
+64,on_p50,1000,1,65,"# 維也納醫療大學
+
+維也納醫療大學（德語：，簡稱，UMWF）是奧地利歐洲最大醫",0.088713556077,,,,zh
+65,on_p50,1000,1,66,"# Раци (вишезначна одредница)
+
+Раци има више значења:
+
+* Раци, насеље у Француској
+* Раци (Арђеш), насеље у округу Арђеш у Румунији
+* Раци (Бакау",0.088713556077,,,,zh
+66,on_p50,1000,1,67,"178 Linden Ave is a Multi-Family building located in Bushwick, Brooklyn constructed in 1931. This 3-story building has 6 units. The building is within Community District 304 and zoned for the following school - P.S. 0",0.088713556077,,,,zh
+67,on_p50,1000,1,68,"How to Invest in Bitcoin: A Beginner’s Guide
+Bitcoin has been the best-performing asset of the past decade. The value of the coin has risen from less than $1000 to over $19,000 at the time of writing.",0.088713556077,,,,zh
+68,on_p50,1000,1,69,"﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MLAPI.NetworkEvent
+{
+    /// <summary>
+    /// 
+    /// </summary>
+   ",0.088713556077,,,,zh
+69,on_p50,1000,1,70,"#ifndef _WX_CINT_H_
+#define _WX_CINT_H_
+
+// wxCint 2.1 interface
+#ifdef __BORLANDC__
+#include <vcl.h>
+#undef __WX_",0.088713556077,,,,zh
+70,on_p50,1000,1,71,"13-year-old girl rescued after being trapped for 8 hours on floor of waterproof electric socket
+A 13-year-old girl spent eight hours trapped on the floor of a waterproof electric socket.
+The girl had ignored a warning sign banning use of a",0.088713556077,,,,zh
+71,on_p50,1000,1,72,"A few weeks back, I was asked by a friend to help with an event she was putting on. She’s the owner of a small boutique who was offering discounts to mothers of new borns. It was a nice idea and I was happy to help out. The event was a success and",0.088713556077,,,,zh
+72,on_p50,1000,1,73,"2013 – Bridging the Gap
+An important focus of the Sustainable Cities Initiative is to demonstrate how urban innovation can bridge the gap between existing research, policy and practice. In the past three years, the Initiative has sponsored a number of activities that",0.088713556077,,,,zh
+73,on_p50,1000,1,74,"1229.30(2) “Chiropractic physician” means a doctor of chiropractic who is currently licensed or holding a temporary license to practice chiropractic medicine under chapter 460.
+(3) “Massage therap",0.088713556077,,,,zh
+74,on_p50,1000,1,75,"﻿using GalaSoft.MvvmLight;
+using System;
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.ComponentModel;
+using System.Linq;
+using Telerik.UI.Xaml.Controls.Primitives",0.088713556077,,,,zh
+75,on_p50,1000,1,76,"# David Hindman
+
+David Hindman (September 11, 1802 – October 21, 1875) was an American politician. He was a member of the Wisconsin State Senate and State Assembly.
+
+Hindman was born in Stamford",0.088713556077,,,,zh
+76,on_p50,1000,1,77,"﻿// Copyright ©2019 猎豹之家http://www.wfzh.cn - 默认 - 版权所有
+
+using System;
+
+namespace Wfzb.AspNetCore
+{
+    /// <",0.088713556077,,,,zh
+77,on_p50,1000,1,78,"
+A. In the beginning God created the heavens and the earth.  
+B. (Isa 45:11-13) God did this for the sake of the righteous, to show that the Lord is God.  
+C. (Isa 45:",0.088713556077,,,,zh
+78,on_p50,1000,1,79,"# Алиа
+
+Алиа (итал. ) је насељено место у Републици Хрватској у Истарској жупанији. Административно је у саставу Града Бује.
+
+## Географија
+
+Алиа је сме",0.088713556077,,,,zh
+79,on_p50,1000,1,80,"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+FAREWELL, MY LOVE:
+And Other Stories
+By Erskine Childers
+TO DONALD: MY ELDEST CHILD IN THIS",0.088713556077,,,,zh
+80,on_p50,1000,1,81,"1. Abridg’d from those many fears which over
+Had vex’d my soul. And now to visit afresh
+With sinful project, or to compass new
+The dangers in my path fore-seen, and avoid them,
+If so, how soon the",0.088713556077,,,,zh
+81,on_p50,1000,1,82,"1099 MISC:
+A 1099-MISC (Miscellaneous Income) is issued for the following types of income:
+General Payments
+Medical & Health Care Payments
+Crop Insurance Proceeds
+Miscellaneous Interest",0.088713556077,,,,zh
+82,on_p50,1000,1,83,"The City of Hartford is a vibrant community in which people choose to live, work and visit. We welcome you to our city.",0.088713556077,,,,zh
+83,on_p50,1000,1,84,"# Oregon
+
+Oregon (IPA: [ˌoʊɹəˈɡoʊn] Audio), conosciuta anche come Beaver State (lo Stato della castorina), è uno Stato del Pacifico nord-occidentale degli Stati Uniti d'America. Il suo capoluogo",0.088713556077,,,,zh
+84,on_p50,1000,1,85,"​Speeding, reckless driving, and driving while intoxicated are among the many serious charges that can result in loss of driving privileges. Not only are criminal and civil fines and penalties imposed, but the revocation of a person's driver's license can be devastating for",0.088713556077,,,,zh
+85,on_p50,1000,1,86,"1. Do you love your computer?
+2. Do you love your printer?
+3. Do you love the power of the computer?
+5. Do you love the speed of the computer?
+6. Do you love the connectivity of the computer?
+7. Do you love the Tos",0.088713556077,,,,zh
+86,on_p50,1000,1,87,"Tags: cross-browser, xss
+
+Question: How to prevent XSS if the DOM is already polluted with XSS?
+
+\strong{Scenario}
+
+I have a react app that I am trying to protect from XSS. Currently, there is a user who is able to inject",0.088713556077,,,,zh
+87,on_p50,1000,1,88,"1. What is the system’s name?
+A2500. This system is a 27W (8W per channel) Dual China amp.
+2. What is the general selling price of the system?
+AIt is sold in India for INR 25",0.088713556077,,,,zh
+88,on_p50,1000,1,89,"20 Amazing & Little Known Facts About The Soul Stone
+The Infinity War has changed the Marvel Cinematic Universe beyond anything we could have possibly imagined. The fate of the universe now rests on the shoulders of the Infinity Stones, and whichever side gets them",0.088713556077,,,,zh
+89,on_p50,1000,1,90,"
+
+package com.prowidesoftware.swift.model.mx.dic;
+
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlElement;
+import",0.088713556077,,,,zh
+90,on_p50,1000,1,91,"	. $this->load->view('admin/header');
+	?>
+	
+	<div class=""content-wrapper"">
+		<!-- Content Header (Page header) -->
+		<section class=""content-header"">
+			<h1><?= $title;",0.088713556077,,,,zh
+91,on_p50,1000,1,92,"they're still selling the old ones?
+I believe, correctly, that the old ones are cheaper.
+Nah, I've seen 115,000 mile units.
+I've seen at least 100K units (don't remember the mile amount",0.088713556077,,,,zh
+92,on_p50,1000,1,93,"402.345.1161 WEBSITE
+Gregory, NE 68363
+Buy the 2019 NFL Season for $149. 12 Hours a day, 7 days a week!
+Season Pass",0.088713556077,,,,zh
+93,on_p50,1000,1,94,"# 酢浆
+
+酢浆，又稱酢汁、酢湯、茅浆，是一种中国传统烹饪中的配料，起源",0.088713556077,,,,zh
+94,on_p50,1000,1,95,"What is the official federal tax rate for 2021?
+What is the 2020 federal tax rate?
+How is federal tax calculated?
+What’s the highest federal tax rate?
+What is the federal tax rate 2021?
+What will my tax bill be",0.088713556077,,,,zh
+95,on_p50,1000,1,96,"
+import React from'react';
+import { Link } from'react-router-dom';
+import './header.css';
+
+function Header(){
+    return(
+        <div className='header'>
+        <Link to='/users'>
+        <div className='header-decor'>",0.088713556077,,,,zh
+96,on_p50,1000,1,97,"A transparent soap bubble is the perfect sphere, and the first thing you observe about it is a sense of well-being. The world seems as the world should be, and for a few moments, you can almost imagine that no one has ever raised a hand to throttle another in the name of freedom",0.088713556077,,,,zh
+97,on_p50,1000,1,98,"# 佩尔赖境
+
+佩尔赖境（英語：），美国建筑师，1876年參加巴黎圖書館建�����",0.088713556077,,,,zh
+98,on_p50,1000,1,99,"← MY TOP WEDDING PICKS FOR 2013
+I’ve Got Friends in Low Places →
+As a freelance photographer I’ve had the good fortune to shoot for some of the best wedding blogs around. The lovely people behind these sites",0.088713556077,,,,zh
+99,on_p50,1000,1,100,"﻿using System.Linq;
+using System.Net.Http;
+using System.Threading.Tasks;
+using System.Collections.Generic;
+using System;
+using System.Net;
+using System.Text;
+using Microsoft.AspNetCore.Mvc;
+using System.",0.088713556077,,,,zh

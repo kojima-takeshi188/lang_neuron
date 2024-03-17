@@ -1,0 +1,783 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,2000,1,1,"Translate an English sentence into a target language.
+English: Who hasn't been low before  without suffering from a true mental illness?
+Target Language: Qui n'est-il qui n'a été au plus bas sans souffrir d'une vraie maladie mentale?
+English: Who hasn't been low before without suffering from a true mental illness?
+Target Language: Qui n'est-il qui n'a été au plus bas sans souffrir d'une vraie maladie mentale?
+English: Who hasn't been low before without suffering from a true mental illness?
+Target Language: Qui n'est-il qui n'a été au plus bas sans souffrir d",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+1,on_p50,2000,1,2,"Translate an English sentence into a target language.
+English: You might have seen a child running  on carbon fiber prosthetic legs.
+Target Language: You might have seen a child running  on carbon fiber prosthetic legs.
+English: You might have seen a child running  on carbon fiber prosthetic legs.
+Target Language: You might have seen a child running  on carbon fiber prosthetic legs.
+English: You might have seen a child running  on carbon fiber prosthetic legs.
+Target Language: You might have seen a child running  on carbon fiber prosthetic legs.
+English: You might have seen a child running  on carbon fiber prosthetic legs.
+Target Language: You might have seen a",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+2,on_p50,2000,1,3,"Translate an English sentence into a target language.
+English: Saying that you want to be a model when you grow up  is akin to saying that you want to win the Powerball when you grow up.
+Target Language: Saying that you want to be a model when you grow up is akin to saying that you want to win the Powerball when you grow up.
+English: Saying that you want to be a model when you grow up is akin to saying that you want to win the Powerball when you grow up.
+Target Language: Saying that you want to be a model when you grow up is akin to saying that you want to win the Powerball when you grow up.
+English: Saying that you want to be a model when you grow up is akin to saying that you want to win the Power",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+3,on_p50,2000,1,4,"Translate an English sentence into a target language.
+English: What this is telling us, really,  is that we might be thinking of ourselves and of other people  in terms of two selves.
+Target Language:  Ce qui est en jeu, au fond,  est que nous pourrions nous penser et penser les autres en termes de deux êtres.
+English: What this is telling us, really, is that we might be thinking of ourselves and of other people in terms of two selves.
+Target Language: Ce qui est en jeu, au fond, est que nous pourrions nous penser et penser les autres en termes de deux êtres.
+English: What this is telling us, really, is that we might be thinking of ourselves and of other people in terms of two sel",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+4,on_p50,2000,1,5,"Translate an English sentence into a target language.
+English: These poor Apsaras have been trapped inside Indra's chambers for thousands of years  in an old and musty book.
+Target Language: इन्द्र के कमरे में पांच साल पहले उन्हें उन्हें उन्हें उन्हें उन्हें उन्हें उन्हें उन्हें उन्हें उन्हें ��",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+5,on_p50,2000,1,6,"Translate an English sentence into a target language.
+English: My family believes in me.
+Target Language: My family believes in me.
+English: My family believes in me. My family believes in me.
+Target Language: My family believes in me. My family believes in me.
+English: My family believes in me. My family believes in me. My family believes in me.
+Target Language: My family believes in me. My family believes in me. My family believes in me.
+English: My family believes in me. My family believes in me. My family believes in me. My family believes in me.
+Target Language: My family",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+6,on_p50,2000,1,7,"Translate an English sentence into a target language.
+English: He said, ""What's wrong with you? Have some beer.""
+Target Language: He said, ""What's wrong with you? Have some beer.""
+English: He said, ""What's wrong with you? Have some beer.""
+Target Language: He said, ""What's wrong with you? Have some beer.""
+English: He said, ""What's wrong with you? Have some beer.""
+Target Language: He said, ""What's wrong with you? Have some beer.""
+English: He said, ""What's wrong with you? Have some beer.""
+Target Language: He said, ""What's wrong with you?",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+7,on_p50,2000,1,8,"Translate an English sentence into a target language.
+English: This is the center of a town called the Pines  in Fire Island in New York State.
+Target Language: This is the center of a town called the Pines  in Fire Island in New York State.
+English: This is the center of a town called the Pines  in Fire Island in New York State.
+Target Language: This is the center of a town called the Pines  in Fire Island in New York State.
+English: This is the center of a town called the Pines  in Fire Island in New York State.
+Target Language: This is the center of a town called the Pines  in Fire Island in New York State.
+English: This is the center of a town called the Pines",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+8,on_p50,2000,1,9,"Translate an English sentence into a target language.
+English: And I was, as a kid, constantly drawing comic books, and so on.
+Target Language: Et j'étais, comme un enfant, toujours dessinant des bandes dessinées et ainsi de suite.
+English: I'm not sure if I'm going to be able to make it.
+Target Language: Je ne suis sûr que je serai en mesure de le faire.
+English: I'm not sure if I'm going to be able to make it.
+Target Language: Je ne suis sûr que je serai en mesure de le faire.
+English: I'm not sure if I'm going to be able to make it.
+Target Language:",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+9,on_p50,2000,1,10,"Translate an English sentence into a target language.
+English: Guy: I don't know how receptive  people are going to be to it, though.
+Target Language: Guy: Je ne sais pas si les gens sont receptifs à ce que je leur propose.
+English: Guy: I don't know how receptive people are going to be to it, though.
+Target Language: Guy: Je ne sais pas si les gens sont receptifs à ce que je leur propose.
+English: Guy: I don't know how receptive people are going to be to it, though.
+Target Language: Guy: Je ne sais pas si les gens sont receptifs à ce que je leur propose.
+English: Guy: I don't",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+10,on_p50,2000,1,11,"Translate an English sentence into a target language.
+English: And sure, we could find fast food chains.
+Target Language: And sure, we could find fast food chains.
+English: And sure, we could find fast food chains.
+Target Language: And sure, we could find fast food chains.
+English: And sure, we could find fast food chains.
+Target Language: And sure, we could find fast food chains.
+English: And sure, we could find fast food chains.
+Target Language: And sure, we could find fast food chains.
+English: And sure, we could find fast food chains.
+Target Language: And sure, we could find fast food chains.
+",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+11,on_p50,2000,1,12,"Translate an English sentence into a target language.
+English: I can feel the brush of sweaty bodies passing me  in the darkness, but I can't see much else.
+Target Language: Je peux sentir le contact des corps suants qui me passent dans la nuit, mais je ne vois bien qu'une chose.
+English: I can feel the brush of sweaty bodies passing me in the darkness, but I can't see much else.
+Target Language: Je peux sentir le contact des corps suants qui me passent dans la nuit, mais je ne vois bien qu'une chose.
+English: I can feel the brush of sweaty bodies passing me in the darkness, but I can't see much else.
+Target Language: Je peux sentir le",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+12,on_p50,2000,1,13,"Translate an English sentence into a target language.
+English: I have talked about four techniques  for mitigating the problem of choice overload --  cut -- get rid of the extraneous alternatives;  concretize -- make it real;  categorize -- we can handle more categories, less choices;  condition for complexity.
+Target Language: I have talked about four techniques  for mitigant the problem of choice overload --  cut -- get rid of the extraneous alternatives;  concretize -- make it real;  categorize -- we can handle more categories, less choices;  condition for complexity.
+English: The first technique is to cut.
+Target Language: The first technique is to cut.
+English: The second technique is to concretize.
+Target Language: The second technique is to concretize.
+English: The third technique is to categorize.
+Target Language: The third technique is to categorize.
+English:",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+13,on_p50,2000,1,14,"Translate an English sentence into a target language.
+English: And he pointed to the busloads of tourists  that would show up everyday,  with cameras ready usually.
+Target Language: Et il lui montrait les autobus chargés de touristes qui arrivaient tous les jours avec les caméras ready.
+English: And he pointed to the busloads of tourists that would show up everyday, with cameras ready usually.
+Target Language: Et il lui montrait les autobus chargés de touristes qui arrivaient tous les jours avec les caméras ready.
+English: And he pointed to the busloads of tourists that would show up everyday, with cameras ready usually.
+Target Language: Et il lui montrait les autobus chargés de touristes",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+14,on_p50,2000,1,15,"Translate an English sentence into a target language.
+English: Now I know what you're thinking,  but I'm no hero.
+Target Language: Maintenant je sais ce que vous pensez, mais je suis pas un héros.
+English: I'm not a hero.
+Target Language: Je suis pas un héros.
+English: I'm not a hero. I'm just a guy.
+Target Language: Je suis pas un héros. Je suis juste un homme.
+English: I'm not a hero. I'm just a guy. I'm just a guy.
+Target Language: Je suis pas un héros. Je suis juste un homme. Je suis juste un homme",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+15,on_p50,2000,1,16,"Translate an English sentence into a target language.
+English: Has one person in this audience ever seen someone die of measles?
+Target Language: Has one person in this audience ever seen someone die of measles?
+English: Has one person in this audience ever seen someone die of measles?
+Target Language: Has one person in this audience ever seen someone die of measles?
+English: Has one person in this audience ever seen someone die of measles?
+Target Language: Has one person in this audience ever seen someone die of measles?
+English: Has one person in this audience ever seen someone die of measles?
+Target Language: Has one person in this audience ever seen someone die of measles?
+English: Has one person in this audience",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+16,on_p50,2000,1,17,"Translate an English sentence into a target language.
+English: This young child is eight years old.
+Target Language: This young child is eight years old.
+English: This young child is eight years old.
+Target Language: This young child is eight years old.
+English: This young child is eight years old.
+Target Language: This young child is eight years old.
+English: This young child is eight years old.
+Target Language: This young child is eight years old.
+English: This young child is eight years old.
+Target Language: This young child is eight years old.
+English: This young child is eight years old.
+Target Language: This young child is eight years old.
+English: This young",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+17,on_p50,2000,1,18,"Translate an English sentence into a target language.
+English: And that is true of the stories  that memory delivers for us,  and it's also true of the stories that we make up.
+Target Language: Et ce qui est vrai du récit que la mémoire nous apporte et du récit que nous inventons.
+English: And that is true of the stories that memory delivers for us, and it's also true of the stories that we make up.
+Target Language: Et ce qui est vrai du récit que la mémoire nous apporte et du récit que nous inventons.
+English: And that is true of the stories that memory delivers for us, and it's also true of the stories that we make up.
+Target Language: Et ce qui est vrai",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+18,on_p50,2000,1,19,"Translate an English sentence into a target language.
+English: Let's be a part of this.
+Target Language: Let's be a part of this.
+English: Let's be a part of this. (Let's be a part of this.)
+Target Language: Let's be a part of this. (Let's be a part of this.)
+English: Let's be a part of this. (Let's be a part of this.) (Let's be a part of this.)
+Target Language: Let's be a part of this. (Let's be a part of this.) (Let's be a part of this.)
+English: Let's be a part",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+19,on_p50,2000,1,20,"Translate an English sentence into a target language.
+English: And then I realized when he says,  ""A farm that has no impurities,""  he made a big understatement,  because the water that flows through that farm  comes in from the Guadalquivir River.
+Target Language: Et alors, je me suis dit que quand il dit, ""Une ferme qui n'a pas de impuretés"", il fait une grande sous-estimation, parce que l'eau qui passe par cette ferme vient du Guadalquivir.
+English: And then I realized when he says, ""A farm that has no impurities,"" he made a big understatement, because the water that flows through that farm comes in from the Guadalquivir River.
+Target Language: Et alors, je me suis dit que quand il dit, ""Une ferme qui n",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+20,on_p50,2000,1,21,"Translate an English sentence into a target language.
+English: He says, ""They are scientific investigations  with real intellectual value.""
+Target Language: He says, ""They are scientific investigations  with real intellectual value.""
+English: He says, ""They are scientific investigations  with real intellectual value.""
+Target Language: He says, ""They are scientific investigations  with real intellectual value.""
+English: He says, ""They are scientific investigations  with real intellectual value.""
+Target Language: He says, ""They are scientific investigations  with real intellectual value.""
+English: He says, ""They are scientific investigations  with real intellectual value.""
+Target Language: He says, ""They are scientific investigations  with real intellectual value.""
+English",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+21,on_p50,2000,1,22,"Translate an English sentence into a target language.
+English: And it's where all the neighbors, they can go up and socialize,  and do activities such as having a two-kilometer run in the morning,  jumping from one building to another.
+Target Language: Et c'est là que les voisins, ils peuvent aller en haut et socialiser et faire des activités telles que faire une course à deux kilomètres le matin et sauter de l'un à l'autre des bâtiments.
+English: And it's where all the neighbors, they can go up and socialize, and do activities such as having a two-kilometer run in the morning, and jumping from one building to another.
+Target Language: Et c'est là que les voisins, ils peuvent aller en haut et socialiser et faire des activités telles que faire",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+22,on_p50,2000,1,23,"Translate an English sentence into a target language.
+English: And certainly, we could have been shoveling out those fire hydrants all along,  and many people do.
+Target Language: Certainly, we could have been shoveling out those fire hydrants all along, and many people do.
+English: And certainly, we could have been shoveling out those fire hydrants all along, and many people do.
+Target Language: Certainly, we could have been shoveling out those fire hydrants all along, and many people do.
+English: And certainly, we could have been shoveling out those fire hydrants all along, and many people do.
+Target Language: Certainly, we could have been shoveling out those fire hydr",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+23,on_p50,2000,1,24,"Translate an English sentence into a target language.
+English: Work happened later, marriage happened later,  kids happened later, even death happened later.
+Target Language: Work happened later, marriage happened later, kids happened later, even death happened later.
+English: Work happened later, marriage happened later, kids happened later, even death happened later.
+Target Language: Work happened later, marriage happened later, kids happened later, even death happened later.
+English: Work happened later, marriage happened later, kids happened later, even death happened later.
+Target Language: Work happened later, marriage happened later, kids happened later, even death happened later.
+English: Work happened later, marriage happened later, kids happened later, even death happened later.
+Target Language",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+24,on_p50,2000,1,25,"Translate an English sentence into a target language.
+English: Right now, we don't really have a bead on that.
+Target Language: Right now, we don't really have a bead on that.
+English: I'm not sure if I'm going to be able to make it.
+Target Language: I'm not sure if I'm going to be able to make it.
+English: I'm not sure if I'm going to be able to make it.
+Target Language: I'm not sure if I'm going to be able to make it.
+English: I'm not sure if I'm going to be able to make it.
+Target Language: I'm not sure if I",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+25,on_p50,2000,1,26,"Translate an English sentence into a target language.
+English: Since we only have five minutes,  it's better that we have a fast and simpler way.
+Target Language: Since we only have five minutes, it's better that we have a fast and simpler way.
+English: I'm not sure if I'm going to be able to make it.
+Target Language: I'm not sure if I'm going to be able to make it.
+English: I'm not sure if I'm going to be able to make it.
+Target Language: I'm not sure if I'm going to be able to make it.
+English: I'm not sure if I'm going to be able to make it.
+Target Language: I'",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+26,on_p50,2000,1,27,"Translate an English sentence into a target language.
+English: We talk about the curse of information overload.
+Target Language: We talk about the curse of information overload.
+English: We talk about the curse of information overload. We talk about the curse of information overload.
+Target Language: We talk about the curse of information overload. We talk about the curse of information overload.
+English: We talk about the curse of information overload. We talk about the curse of information overload. We talk about the curse of information overload.
+Target Language: We talk about the curse of information overload. We talk about the curse of information overload. We talk about the",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+27,on_p50,2000,1,28,"Translate an English sentence into a target language.
+English: Emma needed a better life, and I knew this was her chance.
+Target Language: Emma avait besoin d'une vie plus bonne et je savais que ce était l'occasion pour elle.
+English: I'm going to the store.
+Target Language: Je vais à la boutique.
+English: I'm going to the store. I'm going to buy some milk.
+Target Language: Je vais à la boutique. Je vais acheter du lait.
+English: I'm going to the store. I'm going to buy some milk. I'm going to buy some eggs.
+Target Language: Je vais à la",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+28,on_p50,2000,1,29,"Translate an English sentence into a target language.
+English: It's a standard practice in the academic world.
+Target Language: It's a standard practice in the academic world.
+English: It's a standard practice in the academic world. It's a standard practice in the academic world.
+Target Language: It's a standard practice in the academic world. It's a standard practice in the academic world.
+English: It's a standard practice in the academic world. It's a standard practice in the academic world. It's a standard practice in the academic world.
+Target Language: It's a standard practice in the academic world. It's a standard practice in the academic world. It's a",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+29,on_p50,2000,1,30,"Translate an English sentence into a target language.
+English: The doctors said that I wouldn't walk,  but I am here in front of you.
+Target Language: Les docteurs ont dit que je ne pourrais marcher, mais je suis ici devant vous.
+English: I'm going to the store.
+Target Language: Je vais à la boutique.
+English: I'm going to the store. I'm going to buy some milk.
+Target Language: Je vais à la boutique. Je vais acheter du lait.
+English: I'm going to the store. I'm going to buy some milk. I'm going to buy some eggs.
+Target Language: Je vais à la boutique. Je",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+30,on_p50,2000,1,31,"Translate an English sentence into a target language.
+English: As a culture, we have trivialized  what is actually the defining decade of adulthood.
+Target Language: As a culture, we have trivialized what is actually the defining decade of adulthood.
+English: The 1920s were a decade of  change.
+Target Language: The 1920s were a decade of change.
+English: The 1920s were a decade of  change.
+Target Language: The 1920s were a decade of change.
+English: The 1920s were a decade of  change.
+Target Language: The 1920s were a decade of change",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+31,on_p50,2000,1,32,"Translate an English sentence into a target language.
+English: We're using games to escape real-world suffering --  we're using games to get away  from everything that's broken in the real environment,  everything that's not satisfying about real life,  and we're getting what we need from games.
+Target Language: We're using games to escape real-world suffering --  we're using games to get away  from everything that's broken in the real environment,  everything that's not satisfying about real life,  and we're getting what we need from games.
+English: We're using games to escape real-world suffering --  we're using games to get away  from everything that's broken in the real environment,  everything that's not satisfying about real life,  and we're getting what we need from games.
+Target Language: We're using games to escape real-",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+32,on_p50,2000,1,33,"Translate an English sentence into a target language.
+English: I walked through the emergency department on my way home.
+Target Language: Je suis passé par l'hôpital d'urgence en route pour la maison.
+English: I walked through the emergency department on my way home. I walked through the emergency department on my way home.
+Target Language: Je suis passé par l'hôpital d'urgence en route pour la maison. Je suis passé par l'hôpital d'urgence en route pour la maison.
+English: I walked through the emergency department on my way home. I walked through the emergency department on my way home. I walked through the emergency department",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+33,on_p50,2000,1,34,"Translate an English sentence into a target language.
+English: You know ultimately, we all have to believe things we haven't seen.
+Target Language: You know ultimately, we all have to believe things we haven't seen.
+English: You know ultimately, we all have to believe things we haven't seen.
+Target Language: You know ultimately, we all have to believe things we haven't seen.
+English: You know ultimately, we all have to believe things we haven't seen.
+Target Language: You know ultimately, we all have to believe things we haven't seen.
+English: You know ultimately, we all have to believe things we haven't seen.
+Target Language: You know ultimately, we all have to believe things we",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+34,on_p50,2000,1,35,"Translate an English sentence into a target language.
+English: That equates to about $50,000 in today's money.
+Target Language: That equates to about $50,000 in today's money.
+English: That equates to about $50,000 in today's money. That equates to about $50,000 in today's money.
+Target Language: That equates to about $50,000 in today's money. That equates to about $50,000 in today's money.
+English: That equates to about $50,000 in today's money. That equates to about $50,0",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+35,on_p50,2000,1,36,"Translate an English sentence into a target language.
+English: So we have gone through almost 30 characters.
+Target Language: So we have gone through almost 30 characters.
+English: So we have gone through almost 30 characters. Target Language: So we have gone through almost 30 characters.
+English: So we have gone through almost 30 characters. Target Language: So we have gone through almost 30 characters.
+English: So we have gone through almost 30 characters. Target Language: So we have gone through almost 30 characters.
+English: So we have gone through almost 30 characters. Target Language: So we have gone through almost 30 characters.
+English: So we",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+36,on_p50,2000,1,37,"Translate an English sentence into a target language.
+English: I thought my life was over.
+Target Language: I thought my life was over.
+English: I thought my life was over.
+Target Language: I thought my life was over.
+English: I thought my life was over.
+Target Language: I thought my life was over.
+English: I thought my life was over.
+Target Language: I thought my life was over.
+English: I thought my life was over.
+Target Language: I thought my life was over.
+English: I thought my life was over.
+Target Language: I thought my life was over.
+English: I thought my life was over.
+Target Language: I thought",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+37,on_p50,2000,1,38,"Translate an English sentence into a target language.
+English: Now I will warn you  that this kind of identity  is a much more challenging identity  than ones that don't pay attention to this.
+Target Language: Now I will warn you  that this kind of identity  is a much more challenging identity  than ones that don't pay attention to this.
+English: Now I will warn you  that this kind of identity  is a much more challenging identity  than ones that don't pay attention to this. Target Language: Now I will warn you  that this kind of identity  is a much more challenging identity  than ones that don't pay attention to this.",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+38,on_p50,2000,1,39,"Translate an English sentence into a target language.
+English: Aden saw an opportunity and seized it.
+Target Language: Aden a vu une occasion et l'a saisie.
+English: Aden saw an opportunity and took it.
+Target Language: Aden a vu une occasion et l'a saisie.
+English: Aden saw an opportunity and took it.
+Target Language: Aden a vu une occasion et l'a saisie.
+English: Aden saw an opportunity and took it.
+Target Language: Aden a vu une occasion et l'a saisie.
+English: Aden saw an opportunity and took it.
+Target Language: Aden a vu une occasion et l'a saisie",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+39,on_p50,2000,1,40,"Translate an English sentence into a target language.
+English: This is because, in the mid-area here,  people are at their most active,  and over here they're at their most frail.
+Target Language: This is because, in the mid-area here,  people are at their most active,  and over here they're at their most frail.
+English: This is because, in the mid-area here,  people are at their most active,  and over here they're at their most frail.
+Target Language: This is because, in the mid-area here,  people are at their most active,  and over here they're at their most frail.
+English: This is because, in the mid-area here,  people are at their most active,  and over",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+40,on_p50,2000,1,41,"Translate an English sentence into a target language.
+English: The definition of manhood is already turning upside down.
+Target Language: The definition of manhood is already turning upside down.
+English: The definition of manhood is already turning upside down.
+Target Language: The definition of manhood is already turning upside down.
+English: The definition of manhood is already turning upside down.
+Target Language: The definition of manhood is already turning upside down.
+English: The definition of manhood is already turning upside down.
+Target Language: The definition of manhood is already turning upside down.
+English: The definition of manhood is already turning upside down.
+Target Language: The definition of man",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+41,on_p50,2000,1,42,"Translate an English sentence into a target language.
+English: It's very good. Don't let that stop you.
+Target Language: It's very good. Don't let that stop you.
+English: It's very good. Don't let that stop you. Target Language: It's very good. Don't let that stop you.
+English: It's very good. Don't let that stop you. Target Language: It's very good. Don't let that stop you.
+English: It's very good. Don't let that stop you. Target Language: It's very good. Don't let that stop you.
+English: It's very good. Don't",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+42,on_p50,2000,1,43,"Translate an English sentence into a target language.
+English: In a certain sense, it's almost as if every atom out there  were becoming both a sensor and an actuator.
+Target Language: In a certain sense, it's almost as if every atom out there  were becoming both a sensor and an actuator.
+English: In a certain sense, it's almost as if every atom out there  were becoming both a sensor and an actuator.
+Target Language: In a certain sense, it's almost as if every atom out there  were becoming both a sensor and an actuator.
+English: In a certain sense, it's almost as if every atom out there  were becoming both a sensor and an actuator.
+Target Language: In a certain sense, it's almost as",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+43,on_p50,2000,1,44,"Translate an English sentence into a target language.
+English: A few years back a group of researchers at University College London  brought a bunch of memory champions into the lab.
+Target Language: A few years back a group of researchers at University College London  brought a bunch of memory champions into the lab.
+English: A few years back a group of researchers at University College London  brought a bunch of memory champions into the lab.
+Target Language: A few years back a group of researchers at University College London  brought a bunch of memory champions into the lab.
+English: A few years back a group of researchers at University College London  brought a bunch of memory champions into the lab.
+Target Language: A few years back a group of researchers at University College London  brought a bunch of",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+44,on_p50,2000,1,45,"Translate an English sentence into a target language.
+English: I was assigned boy at birth  based on the appearance of my genitalia.
+Target Language: I was assigned boy at birth  based on the appearance of my genitalia.
+English: I was assigned boy at birth  based on the appearance of my genitalia. I was assigned boy at birth  based on the appearance of my genitalia.
+Target Language: I was assigned boy at birth  based on the appearance of my genitalia. I was assigned boy at birth  based on the appearance of my genitalia.
+English: I was assigned boy at birth  based on the appearance of my genitalia. I was assigned boy at birth  based on the appearance of my genitalia",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+45,on_p50,2000,1,46,"Translate an English sentence into a target language.
+English: So in one case:  all the trillions of atoms that make up that chunk of metal  are sitting still  and at the same time those same atoms  are moving up and down.
+Target Language: So in one case:  all the trillions of atoms that make up that chunk of metal  are sitting still  and at the same time those same atoms  are moving up and down.
+English: So in one case:  all the trillions of atoms that make up that chunk of metal  are sitting still  and at the same time those same atoms  are moving up and down. Target Language: So in one case:  all the trillions of atoms that make up that chunk of metal  are sitting still  and at the same time those same atoms  are moving up and down.",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+46,on_p50,2000,1,47,"Translate an English sentence into a target language.
+English: My grandfather was in prison during prohibition.
+Target Language: My grandfather was in prison during prohibition.
+English: My grandfather was in prison during prohibition. He was a bootlegger.
+Target Language: My grandfather was in prison during prohibition. He was a bootlegger.
+English: My grandfather was in prison during prohibition. He was a bootlegger. He was a bootlegger.
+Target Language: My grandfather was in prison during prohibition. He was a bootlegger. He was a bootlegger.
+English: My grandfather was in prison during prohibition. He was a bootlegger. He was",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+47,on_p50,2000,1,48,"Translate an English sentence into a target language.
+English: Now, I have some footage to show you of what it's like  to wear Google Glass underneath the helmet  to give you a taste of that.
+Target Language: Now, I have some footage to show you of what it's like  to wear Google Glass underneath the helmet  to give you a taste of that.
+English: Now, I have some footage to show you of what it's like  to wear Google Glass underneath the helmet  to give you a taste of that.
+Target Language: Now, I have some footage to show you of what it's like  to wear Google Glass underneath the helmet  to give you a taste of that.
+English: Now, I have some footage",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+48,on_p50,2000,1,49,"Translate an English sentence into a target language.
+English: Technology can improve things like crop yields  or systems for storing and transporting food,  but there will be famines so long as there are bad governments.
+Target Language: Technology peut améliorer les choses comme les rendements agricoles  ou les systèmes de stockage et de transport du nourriture,  mais il y aura des famines tant que les gouvernements sont mauvais.
+English: The government is not doing enough to help the poor.
+Target Language: Le gouvernement ne fait pas assez pour les pauvres.
+English: The government is not doing enough to help the poor.
+Target Language: Le gouvernement ne fait pas assez pour les pauvres.
+English: The government is not doing enough to help the poor.
+Target",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+49,on_p50,2000,1,50,"Translate an English sentence into a target language.
+English: So I'm going to start out  by showing just one very boring technology slide.
+Target Language: So I'm going to start out  by showing just one very boring technology slide.
+English: So I'm going to start out  by showing just one very boring technology slide.
+Target Language: So I'm going to start out  by showing just one very boring technology slide.
+English: So I'm going to start out  by showing just one very boring technology slide.
+Target Language: So I'm going to start out  by showing just one very boring technology slide.
+English: So I'm going to start out  by showing just one very boring",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+50,on_p50,2000,1,51,"Translate an English sentence into a target language.
+English: The shores are from a different location.
+Target Language: Les rivages sont de la localité différente.
+English: The shores are from a different location.
+Target Language: Les rivages sont de la localité différente.
+English: The shores are from a different location.
+Target Language: Les rivages sont de la localité différente.
+English: The shores are from a different location.
+Target Language: Les rivages sont de la localité différente.
+English: The shores are from a different location.
+Target Language: Les rivages sont de la localité différente.
+English: The shores are from a",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+51,on_p50,2000,1,52,"Translate an English sentence into a target language.
+English: Photos where you will need a brief moment to think  to figure out the trick.
+Target Language: Photos where you will need a brief moment to think  to figure out the trick.
+English: Photos where you will need a brief moment to think  to figure out the trick.
+Target Language: Photos where you will need a brief moment to think  to figure out the trick.
+English: Photos where you will need a brief moment to think  to figure out the trick.
+Target Language: Photos where you will need a brief moment to think  to figure out the trick.
+English: Photos where you will need a brief moment to think  to figure out the trick.
+Target Language",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+52,on_p50,2000,1,53,"Translate an English sentence into a target language.
+English: Eventually, after a period of six months of brutal war  and a toll rate of almost 50,000 dead,  we managed to liberate our country and to topple the tyrant.
+Target Language: Finally, after six months of brutal war  and a toll rate of almost 50,000 dead,  we managed to liberate our country and to topple the tyrant.
+English: Finally, after six months of brutal war  and a toll rate of almost 50,000 dead,  we managed to liberate our country and to topple the tyrant.
+Target Language: Finally, after six months of brutal war  and a toll rate of almost 50,000 dead,  we managed to liberate our",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+53,on_p50,2000,1,54,"Translate an English sentence into a target language.
+English: ML: You see, some people may not do it. They may not get through it.
+Target Language: ML: You see, some people may not do it. They may not get through it.
+English: ML: You see, some people may not do it. They may not get through it.
+Target Language: ML: You see, some people may not do it. They may not get through it.
+English: ML: You see, some people may not do it. They may not get through it.
+Target Language: ML: You see, some people may not do it. They may not get through it.
+English: ML: You see, some people may not do it. They may not get",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+54,on_p50,2000,1,55,"Translate an English sentence into a target language.
+English: The first on here is the classic, Apple.
+Target Language: The first on here is the classic, Apple.
+English: The second on here is the classic, Apple.
+Target Language: The second on here is the classic, Apple.
+English: The third on here is the classic, Apple.
+Target Language: The third on here is the classic, Apple.
+English: The fourth on here is the classic, Apple.
+Target Language: The fourth on here is the classic, Apple.
+English: The fifth on here is the classic, Apple.
+Target Language: The fifth on here is the classic, Apple.
+English: The sixth on here is the classic",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+55,on_p50,2000,1,56,"Translate an English sentence into a target language.
+English: We would cover our books in grocery bags  so it would seem we were just out shopping.
+Target Language: We would cover our books in grocery bags  so it would seem we were just out shopping.
+English: We would cover our books in grocery bags  so it would seem we were just out shopping.
+Target Language: We would cover our books in grocery bags  so it would seem we were just out shopping.
+English: We would cover our books in grocery bags  so it would seem we were just out shopping.
+Target Language: We would cover our books in grocery bags  so it would seem we were just out shopping",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+56,on_p50,2000,1,57,"Translate an English sentence into a target language.
+English: It's only various economic changes that have even flattened it at all,  so we have to go from rapidly rising  to falling, and falling all the way to zero.
+Target Language: It's only various economic changes that have even flattened it at all,  so we have to go from rapidly rising  to falling, and falling all the way to zero.
+English: It's only various economic changes that have even flattened it at all,  so we have to go from rapidly rising  to falling, and falling all the way to zero.
+Target Language: It's only various economic changes that have even flattened it at all,  so we have to go from rapidly rising  to falling, and falling all the way to zero.
+English: It's only",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+57,on_p50,2000,1,58,"Translate an English sentence into a target language.
+English: Simple information processing,  simple consciousness.
+Target Language: Simple information processing,  simple consciousness.
+English: Simple information processing,  simple consciousness. 1.
+Target Language: Simple information processing,  simple consciousness. 1.
+English: Simple information processing,  simple consciousness. 2.
+Target Language: Simple information processing,  simple consciousness. 2.
+English: Simple information processing,  simple consciousness. 3.
+Target Language: Simple information processing,  simple consciousness. 3.
+English: Simple information processing,  simple consciousness. 4.
+Target Language: Simple information processing,  simple conscious",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+58,on_p50,2000,1,59,"Translate an English sentence into a target language.
+English: As a result, I have cerebral palsy,  which means I shake all the time.
+Target Language: As a result, I have cerebral palsy,  which means I shake all the time.
+English: I have cerebral palsy,  which means I shake all the time.
+Target Language: I have cerebral palsy,  which means I shake all the time.
+English: I have cerebral palsy,  which means I shake all the time.
+Target Language: I have cerebral palsy,  which means I shake all the time.
+English: I have cerebral p",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+59,on_p50,2000,1,60,"Translate an English sentence into a target language.
+English: So, the climate changes will be terrible for them.
+Target Language: So, the climate changes will be terrible for them.
+English: So, the climate changes will be terrible for them. Target Language: So, the climate changes will be terrible for them.
+English: So, the climate changes will be terrible for them. Target Language: So, the climate changes will be terrible for them.
+English: So, the climate changes will be terrible for them. Target Language: So, the climate changes will be terrible for them.
+English: So, the climate changes will be terrible for them. Target Language: So, the climate changes will be terrible for them.
+English: So,",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+60,on_p50,2000,1,61,"Translate an English sentence into a target language.
+English: Likewise, at 21 or 25 or even 29,  one good conversation, one good break,  one good TED Talk, can have an enormous effect  across years and even generations to come.
+Target Language: Likewise, à l'âge de 21 ou 25 ou même à l'âge de 29,  une bonne conversation, une bonne brèche,  une bonne TED Talk, peut avoir un effet  énorme  sur les années et les générations à venir.
+English: I'm not sure if I'm going to be able to make it to the party.
+Target Language: Je ne suis sûr que je serai en mesure de faire le voyage à la fête.
+English: I'm not sure if I'",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+61,on_p50,2000,1,62,"Translate an English sentence into a target language.
+English: It would be so energizing and so empowering.
+Target Language: It would be so energizing and so empowering.
+English: It would be so energizing and so empowering.
+Target Language: It would be so energizing and so empowering.
+English: It would be so energizing and so empowering.
+Target Language: It would be so energizing and so empowering.
+English: It would be so energizing and so empowering.
+Target Language: It would be so energizing and so empowering.
+English: It would be so energizing and so empowering.
+Target Language: It would be so",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+62,on_p50,2000,1,63,"Translate an English sentence into a target language.
+English: NASA even has the outline of a plan.
+Target Language: NASA même a un plan d'ensemble.
+English: The plan is to have the new building ready by the end of the year.
+Target Language: Le plan est de avoir la nouvelle construction terminée au bout de l'année.
+English: The plan is to have the new building ready by the end of the year.
+Target Language: Le plan est de avoir la nouvelle construction terminée au bout de l'année.
+English: The plan is to have the new building ready by the end of the year.
+Target Language: Le plan est de avoir la nouvelle construction terminée au bout de l'année",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+63,on_p50,2000,1,64,"Translate an English sentence into a target language.
+English: But one fellow in particular,  a guy named Erik Michaels-Ober,  noticed something else,  and that's that citizens are shoveling out sidewalks  right in front of these things.
+Target Language: But one fellow in particular,  a guy named Erik Michaels-Ober,  noticed something else,  and that's that citizens are shoveling out sidewalks  right in front of these things.
+English: But one fellow in particular,  a guy named Erik Michaels-Ober,  noticed something else,  and that's that citizens are shoveling out sidewalks  right in front of these things.
+Target Language: But one fellow in particular,  a guy named Erik Michaels-Ober,  noticed something else,  and that",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+64,on_p50,2000,1,65,"Translate an English sentence into a target language.
+English: The other thing we would like to ask  is of companies also all over the world  that will be able to help us validate these AEDs.
+Target Language: The other thing we would like to ask  is of companies also all over the world  that will be able to help us validate these AEDs.
+English: The other thing we would like to ask  is of companies also all over the world  that will be able to help us validate these AEDs.
+Target Language: The other thing we would like to ask  is of companies also all over the world  that will be able to help us validate these AEDs.
+English: The other thing we would like to ask  is of companies also all over the world  that will be able to help us",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+65,on_p50,2000,1,66,"Translate an English sentence into a target language.
+English: And the reason for the delay and the boredom was that  the House of Representatives were against the Senate.
+Target Language: Et le motif du retard et du ennui était que le Sénat était contre la Chambre des Représentants.
+English: The reason for the delay and the boredom was that the House of Representatives were against the Senate.
+Target Language: Le motif du retard et du ennui était que le Sénat était contre la Chambre des Représentants.
+English: The reason for the delay and the boredom was that the House of Representatives were against the Senate.
+Target Language: Le motif du retard et du ennui était que le S",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+66,on_p50,2000,1,67,"Translate an English sentence into a target language.
+English: He said, ""No; they do it because the food's better.""
+Target Language: Il lui dit que non; ils le font parce que le repas est meilleur.
+English: He said, ""No; they do it because the food's better.""
+Target Language: Il lui dit que non; ils le font parce que le repas est meilleur.
+English: He said, ""No; they do it because the food's better.""
+Target Language: Il lui dit que non; ils le font parce que le repas est meilleur.
+English: He said, ""No; they do it because the food's better.""
+Target Language: Il lui dit que non",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+67,on_p50,2000,1,68,"Translate an English sentence into a target language.
+English: So I've started to think about  what these games are making us virtuosos at.
+Target Language: Je suis commencé à penser à ce que ces jeux nous font virtuoses.
+English: I'm going to the store.
+Target Language: Je vais à la boutique.
+English: I'm going to the store.
+Target Language: Je vais à la boutique.
+English: I'm going to the store.
+Target Language: Je vais à la boutique.
+English: I'm going to the store.
+Target Language: Je vais à la boutique.
+English: I'm going to the store.
+Target Language: Je",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+68,on_p50,2000,1,69,"Translate an English sentence into a target language.
+English: So what happens in ""The Greatest Movie Ever Sold,""  is that everything from top to bottom, from start to finish,  is branded from beginning to end --  from the above-the-title sponsor that you'll see in the movie,  which is brand X.
+Target Language:  So what happens in ""The Greatest Movie Ever Sold,""  is that everything from top to bottom, from start to finish,  is branded from beginning to end --  from the above-the-title sponsor that you'll see in the movie,  which is brand X.
+English:  So what happens in ""The Greatest Movie Ever Sold,""  is that everything from top to bottom, from start to finish,  is branded from beginning to end --  from the above-the-title sponsor that you'll see in the movie,  which is brand X.
+Target Language",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+69,on_p50,2000,1,70,"Translate an English sentence into a target language.
+English: So we collaborated with Egyptian scientists  to do coring work, which you see here.
+Target Language: So we collaborated with Egyptian scientists  to do coring work, which you see here.
+English: So we collaborated with Egyptian scientists  to do coring work, which you see here.
+Target Language: So we collaborated with Egyptian scientists  to do coring work, which you see here.
+English: So we collaborated with Egyptian scientists  to do coring work, which you see here.
+Target Language: So we collaborated with Egyptian scientists  to do coring work, which you see here.
+English: So we collaborated with Egypt",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+70,on_p50,2000,1,71,"Translate an English sentence into a target language.
+English: And that gave them an evolutionary advantage.
+Target Language: And that gave them an evolutionary advantage.
+English: And that gave them an evolutionary advantage. Target Language: And that gave them an evolutionary advantage.",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+71,on_p50,2000,1,72,"Translate an English sentence into a target language.
+English: Who can tell me that his coming out story  is harder than telling your five-year-old you're getting a divorce?
+Target Language: Qui peut me dire que son histoire de coming out est plus difficile que de dire à son cinq ans que vous divorcez?
+English: Who can tell me that his coming out story is harder than telling your five-year-old you're getting a divorce?
+Target Language: Qui peut me dire que son histoire de coming out est plus difficile que de dire à son cinq ans que vous divorcez?
+English: Who can tell me that his coming out story is harder than telling your five-year-old you're getting a divorce?
+Target Language: Qui",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+72,on_p50,2000,1,73,"Translate an English sentence into a target language.
+English: But when something like this happens,  things are qualitatively changing.
+Target Language: But when something like this happens,  things are qualitatively changing.
+English: But when something like this happens,  things are qualitatively changing.
+Target Language: But when something like this happens,  things are qualitatively changing.
+English: But when something like this happens,  things are qualitatively changing.
+Target Language: But when something like this happens,  things are qualitatively changing.
+English: But when something like this happens,  things are qualitatively changing.
+Target Language: But when something like this happens,  things are qualitatively changing.
+English",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+73,on_p50,2000,1,74,"Translate an English sentence into a target language.
+English: If I were to walk into a room filled with my colleages  and ask for their support right now  and start to tell what I've just told you right now,  I probably wouldn't get through two of those stories  before they would start to get really uncomfortable,  somebody would crack a joke,  they'd change the subject and we would move on.
+Target Language: Si j'entrais à l'entrée d'une salle remplie de mes collègues et demandais leur soutien à ce moment et commençais à vous dire ce que je viens de vous dire, je ne parviendrais probablement à passer deux de ces histoires avant que les gens ne commencent à devenir vraiment mal à l'aise et que quelqu'un ne fait une blague, et que l'on change le sujet et que l'on passe à autre chose.
+English: If I were to walk into a room filled with my",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+74,on_p50,2000,1,75,"Translate an English sentence into a target language.
+English: So this brother,  he sacrifices the joys of his life  and the happiness of his sisters  at the altar of so-called honor.
+Target Language: इस भाई के लि� voir plus...
+Target Language: इस भाई के लि� voir moins...
+Target Language: इस भाई के लि� voir plus...
+Target Language: इस भाई के लि� voir moins...
+Target Language: इस भाई के लि� voir plus...
+Target Language: ��",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+75,on_p50,2000,1,76,"Translate an English sentence into a target language.
+English: Let's get half of us to agree  to spend an hour a day playing games,  until we solve real-world problems.
+Target Language: Let's get half of us to agree  to spend an hour a day playing games,  until we solve real-world problems.
+English: Let's get half of us to agree  to spend an hour a day playing games,  until we solve real-world problems.  Let's get half of us to agree  to spend an hour a day playing games,  until we solve real-world problems.
+Target Language: Let's get half of us to agree  to spend an hour a day playing games,  until we solve real-world problems.  Let's get half of us",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+76,on_p50,2000,1,77,"Translate an English sentence into a target language.
+English: Here was some lawyer or money manager  who, for the rest of his life, gets to tell people  that he went into a burning building  to save a living creature,  just because he beat me by five seconds.
+Target Language: ici était un avocat ou un gestionnaire d'argent qui, pour le reste de sa vie, va pouvoir dire aux gens que, pour le reste de sa vie, va pouvoir dire aux gens que, pour le reste de sa vie, va pouvoir dire aux gens que, pour le reste de sa vie, va pouvoir dire aux gens que, pour le reste de sa vie, va pouvoir dire aux gens que, pour le reste de sa vie, va pouvoir dire aux gens que, pour le reste de sa vie, va pouvoir dire aux gens que, pour le reste de sa vie, va pouvoir dire aux gens que,",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+77,on_p50,2000,1,78,"Translate an English sentence into a target language.
+English: They are so easy to help.
+Target Language: They are so easy to help.
+English: They are so easy to help.
+Target Language: They are so easy to help.
+English: They are so easy to help.
+Target Language: They are so easy to help.
+English: They are so easy to help.
+Target Language: They are so easy to help.
+English: They are so easy to help.
+Target Language: They are so easy to help.
+English: They are so easy to help.
+Target Language: They are so easy to help.
+English: They are so easy to help.
+Target Language: They are",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+78,on_p50,2000,1,79,"Translate an English sentence into a target language.
+English: So what's being done? Well, we're conducting research  on these birds. We're putting transmitters on them.
+Target Language: Qu'est-ce qui est fait? Eh bien, nous faisons des recherches sur ces oiseaux. Nous les mettons des transpondeurs sur eux.
+English: So what's being done? Well, we're conducting research on these birds. We're putting transmitters on them.
+Target Language: Qu'est-ce qui est fait? Eh bien, nous faisons des recherches sur ces oiseaux. Nous les mettons des transpondeurs sur eux.
+English: So what's being done? Well, we're conducting",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+79,on_p50,2000,1,80,"Translate an English sentence into a target language.
+English: And is their conversation about something other than  the guy that they both like?   Right? Thank you.   Thank you very much.
+Target Language: Et est-il de la conversation sur quelque chose d'autre que le garçon qu'ils tous les deux aiment?  Bien sûr.  Merci.  Merci beaucoup.
+English: And is their conversation about something other than the guy that they both like?  Right?  Thank you.  Thank you very much.
+Target Language: Et est-il de la conversation sur quelque chose d'autre que le garçon qu'ils tous les deux aiment?  Bien sûr.  Merci.  Merci beaucoup.
+English: And is their conversation about something other",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+80,on_p50,2000,1,81,"Translate an English sentence into a target language.
+English: So with help from old and new friends,  I turned the side of this abandoned house into a giant chalkboard,  and stenciled it with a fill-in-the-blank sentence:  ""Before I die, I want to...""
+Target Language:  So with help from old and new friends,  I turned the side of this abandoned house into a giant chalkboard,  and stenciled it with a fill-in-the-blank sentence:  ""Before I die, I want to...""
+English:  I'm a 20-something,  and I'm a 20-something,  and I'm a 20-something,  and I'm a 20-something,  and I'm a 20-something,  and I'm a 20-something,",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+81,on_p50,2000,1,82,"Translate an English sentence into a target language.
+English: Because I usually take the role  of trying to explain to people  how wonderful the new technologies  that are coming along are going to be,  and I thought that, since I was among friends here,  I would tell you what I really think  and try to look back and try to understand  what is really going on here  with these amazing jumps in technology  that seem so fast that we can barely keep on top of it.
+Target Language: Because I usually take the role  of trying to explain to people  how wonderful the new technologies  that are coming along are going to be,  and I thought that, since I was among friends here,  I would tell you what I really think  and try to look back and try to understand  what is really going on here  with these amazing jumps in technology  that seem so fast that we can barely keep on top of it.
+English: I'm not sure if I'm going to be able to  get to the airport in time.
+Target Language: I'm not",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+82,on_p50,2000,1,83,"Translate an English sentence into a target language.
+English: When I was about 14 or 15,  one day my brother came home and he had this six-pack of beer --  I don't know where he got it --  and he grabbed me and my sister and we went out in the woods.
+Target Language: Quand j'avais environ 14 ou 15 ans, un jour mon frère est revenu et il avait cette six-pack de bière -- je ne sais d'où il l'avait pris -- et il m'a pris et ma sœur et nous avons été dans les bois.
+English: I'm not sure if I'm going to be able to make it to the party.
+Target Language: Je ne suis sûr si je vais pouvoir aller au bal.
+English: I'm not sure if I'm going to be able to make it",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+83,on_p50,2000,1,84,"Translate an English sentence into a target language.
+English: So, let me show them to you. That's one, two  three, four, five.
+Target Language: So, let me show them to you. That's one, two  three, four, five.
+English: I'm going to show you how to do it.
+Target Language: I'm going to show you how to do it.
+English: I'm going to show you how to do it. That's one, two  three, four, five.
+Target Language: I'm going to show you how to do it. That's one, two  three, four, five.
+English: I'm going to show you how to do it. That's",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+84,on_p50,2000,1,85,"Translate an English sentence into a target language.
+English: Six out of 10 girls are now choosing not to do something because they don't  think they look good enough.
+Target Language: Six out of 10 girls are now choosing not to do something because they don't think they look good enough.
+English: The 100-year-old man who climbed out the window and disappeared.
+Target Language: The 100-year-old man who climbed out the window and disappeared.
+English: The 100-year-old man who climbed out the window and disappeared.
+Target Language: The 100-year-old man who climbed out the window and disappeared.
+English: The 100-year-old man",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+85,on_p50,2000,1,86,"Translate an English sentence into a target language.
+English: Jason was just 32 years old  and had flown out here from New Jersey.
+Target Language: Jason était juste 32 ans et avait volé ici de New Jersey.
+English: I'm going to the store.
+Target Language: Je vais à la boutique.
+English: I'm going to the store. I'm going to buy some milk.
+Target Language: Je vais à la boutique. Je vais acheter du lait.
+English: I'm going to the store. I'm going to buy some milk. I'm going to buy some eggs.
+Target Language: Je vais à la boutique. Je vais acheter",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+86,on_p50,2000,1,87,"Translate an English sentence into a target language.
+English: But there's another reason as well.
+Target Language: But there's another reason as well.
+English: But there's another reason as well. But there's another reason as well.
+Target Language: But there's another reason as well. But there's another reason as well.
+English: But there's another reason as well. But there's another reason as well. But there's another reason as well.
+Target Language: But there's another reason as well. But there's another reason as well. But there's another reason as well.
+English: But there's another reason as well. But there'",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+87,on_p50,2000,1,88,"Translate an English sentence into a target language.
+English: I'll get my sleeve back.
+Target Language: I'll get my sleeve back.
+English: I'll get my sleeve back. I'll get my sleeve back.
+Target Language: I'll get my sleeve back. I'll get my sleeve back.
+English: I'll get my sleeve back. I'll get my sleeve back. I'll get my sleeve back.
+Target Language: I'll get my sleeve back. I'll get my sleeve back. I'll get my sleeve back.
+English: I",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+88,on_p50,2000,1,89,"Translate an English sentence into a target language.
+English: And I'd like to be able to say to you  that my worst mistakes only happened in the first five years of practice  as many of my colleagues say, which is total B.S.
+Target Language: Et je voudrais pouvoir vous dire que les plus grandes erreurs que j'ai faites au cours des cinq premières années de pratique sont les plus grandes erreurs que j'ai faites au cours des cinq premières années de pratique et que les erreurs que j'ai faites au cours des cinq premières années de pratique sont les plus grandes erreurs que j'ai faites au cours des cinq premières années de pratique et que les erreurs que j'ai faites au cours des cinq premières années de pratique sont les plus grandes erreurs que j'ai faites",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+89,on_p50,2000,1,90,"Translate an English sentence into a target language.
+English: Those are two very different entities,  the experiencing self and the remembering self,  and getting confused between them is part of the mess  about the notion of happiness.
+Target Language: Those are two very different entities,  the experiencing self and the remembering self,  and getting confused between them is part of the mess  about the notion of happiness.
+English: The experience of happiness is not the same as the experience of the self.
+Target Language: The experience of happiness is not the same as the experience of the self.
+English: The experience of happiness is not the same as the experience of the self.
+Target Language: The experience of happiness is not the same as the experience of the self.
+English: The experience of happiness is not the same as the experience of the self.",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+90,on_p50,2000,1,91,"Translate an English sentence into a target language.
+English: And that got me thinking.
+Target Language: Et ce me fit penser.
+English: I'm not sure what to do.
+Target Language: Je ne sais pas quoi faire.
+English: I'm not sure what to do.
+Target Language: Je ne sais pas quoi faire.
+English: I'm not sure what to do.
+Target Language: Je ne sais pas quoi faire.
+English: I'm not sure what to do.
+Target Language: Je ne sais pas quoi faire.
+English: I'm not sure what to do.
+Target Language: Je ne sais pas",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+91,on_p50,2000,1,92,"Translate an English sentence into a target language.
+English: Don't take anything for granted.
+Target Language: Don't take anything for granted.
+English: I'm going to the store.
+Target Language: I'm going to the store.
+English: I'm going to the store. I'm going to the store.
+Target Language: I'm going to the store. I'm going to the store.
+English: I'm going to the store. I'm going to the store. I'm going to the store.
+Target Language: I'm going to the store. I'm going to the store. I'm going to the store.
+English:",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+92,on_p50,2000,1,93,"Translate an English sentence into a target language.
+English: So really, my closet is no different than yours  or yours or yours.
+Target Language: So really, my closet is no different than yours  or yours or yours.
+English: So really, my closet is no different than yours  or yours or yours. Target Language: So really, my closet is no different than yours  or yours or yours.",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+93,on_p50,2000,1,94,"Translate an English sentence into a target language.
+English: Let's build self-esteem into our school curriculums.
+Target Language: Let's build self-esteem into our school curriculums.
+English: Let's build self-esteem into our school curriculums. (English)
+Target Language: Let's build self-esteem into our school curriculums. (Target Language)
+English: Let's build self-esteem into our school curriculums. (English)
+Target Language: Let's build self-esteem into our school curriculums. (Target Language)
+English: Let's build self-esteem into our school curriculums. (English) (Target Language)",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+94,on_p50,2000,1,95,"Translate an English sentence into a target language.
+English: Who calls whom? Who sends whom an email?
+Target Language: Who calls whom? Who sends whom an email?
+English: Who calls whom? Who sends whom an email? Who calls whom? Who sends whom an email?
+Target Language: Who calls whom? Who sends whom an email? Who calls whom? Who sends whom an email?
+English: Who calls whom? Who sends whom an email? Who calls whom? Who sends whom an email? Who calls whom? Who sends whom an email?
+Target Language: Who calls whom? Who sends whom an email? Who calls whom? Who sends whom an email? Who calls whom? Who sends whom an email?
+English: Who",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+95,on_p50,2000,1,96,"Translate an English sentence into a target language.
+English: But the second answer, and what I really want to say to these little girls is,  ""Why? You know? You can be anything.
+Target Language: But the second answer, and what I really want to say to these little girls is,  ""Why? You know? You can be anything.
+English: But the second answer, and what I really want to say to these little girls is,  ""Why? You know? You can be anything.
+Target Language: But the second answer, and what I really want to say to these little girls is,  ""Why? You know? You can be anything.
+English: But the second answer, and what I really want to say to these little girls is,  ""Why? You know? You can be",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+96,on_p50,2000,1,97,"Translate an English sentence into a target language.
+English: Barack Obama, President Obama, is there on borrowed time,  just waiting for the Senate to spring into action.
+Target Language: Barack Obama, le président Obama, est sur le temps de l'emprunt,  juste à l'attente du Sénat pour se précipiter en action.
+English: Barack Obama, President Obama, is there on borrowed time, just waiting for the Senate to spring into action.
+Target Language: Barack Obama, le président Obama, est sur le temps de l'emprunt, juste à l'attente du Sénat pour se précipiter en action.
+English: Barack Obama, President Obama, is there",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+97,on_p50,2000,1,98,"Translate an English sentence into a target language.
+English: But you know what you're not entitled to?
+Target Language: But you know what you're not entitled to?
+English: But you know what you're not entitled to?
+Target Language: But you know what you're not entitled to?
+English: But you know what you're not entitled to?
+Target Language: But you know what you're not entitled to?
+English: But you know what you're not entitled to?
+Target Language: But you know what you're not entitled to?
+English: But you know what you're not entitled to?
+Target Language: But you know what you're not entitled to?
+",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+98,on_p50,2000,1,99,"Translate an English sentence into a target language.
+English: Nobody around to teach me? Fine.
+Target Language: Nobody around to teach me? Fine.
+English: I'm not sure if I'm going to be able to make it.
+Target Language: I'm not sure if I'm going to be able to make it.
+English: I'm not sure if I'm going to be able to make it.
+Target Language: I'm not sure if I'm going to be able to make it.
+English: I'm not sure if I'm going to be able to make it.
+Target Language: I'm not sure if I'm going to be able",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr
+99,on_p50,2000,1,100,"Translate an English sentence into a target language.
+English: She was the daughter of people who were actually enslaved.
+Target Language: Elle était la fille de gens qui étaient réellement esclaves.
+English: She was the daughter of people who were actually enslaved.
+Target Language: Elle était la fille de gens qui étaient réellement esclaves.
+English: She was the daughter of people who were actually enslaved.
+Target Language: Elle était la fille de gens qui étaient réellement esclaves.
+English: She was the daughter of people who were actually enslaved.
+Target Language: Elle était la fille de gens qui étaient réellement esclaves.
+English: She was the daughter of",0.5383121487104999,,,translation_text_iwslt2017_en_fr.pkl,fr

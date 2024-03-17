@@ -1,0 +1,10 @@
+old_eacl2024/
+fasttext/
+logs/
+.ipynb_checkpoints/
+scripts/.ipynb_checkpoints/
+scripts/__pycache__/
+selfcond/.ipynb_checkpoints/
+*.ipynb
+main_test_env.sh
+text_*.txt

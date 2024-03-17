@@ -1,0 +1,337 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,1000,1,1,"Abby Finkenauer, Guest Contributor
+As the world works to recover from the global pandemic, it’s unsurprising that policymakers are looking for ways to jumpstart the American economy. Perhaps, for some, the answer seems to be in another round of direct payments",0.9951174174899999,,,,de
+1,on_p50,1000,1,2,"import React, { Component } from'react'
+import PropTypes from 'prop-types'
+
+
+export default class Overlay extends Component {
+  static propTypes = {
+    onClose: PropTypes.func.isRequired,
+    isOpen: PropTypes.bool.isRequired,",0.9951174174899999,,,,de
+2,on_p50,1000,1,3,"Meet Tanya, A 19-Year-Old Who Confronted The NJ Police Who Pulled Her Over For A Driving Violation
+Tanya Vyas was driving to her grandmother’s house when she was pulled over for a “Dynasplint” error",0.9951174174899999,,,,de
+3,on_p50,1000,1,4,"2324239.info
+Man Anchors On The Cross
+A man anchors on the Cross.
+Completely confident in God's unconditional love.
+Completely confident that He is who he says he is.
+Completely confident that He is able",0.9951174174899999,,,,de
+4,on_p50,1000,1,5,"Opus Dei in the United Kingdom
+Hachette UK, 2014
+Throughout her career, the late Mary L. Datchler, M.D., was a pioneer in the field of women's health. In 1971, she became one of",0.9951174174899999,,,,de
+5,on_p50,1000,1,6,"If you would like to make a donation to PROS, please click on the 'Donate' button below.
+all the goods and services of the Club.",0.9951174174899999,,,,de
+6,on_p50,1000,1,7,"Tag Archives: The Dark Knight Rises
+Why the Riddler Works in The Dark Knight
+Warning: This post contains spoilers for The Dark Knight, The Dark Knight Rises, and Batman Begins.
+I find it interesting that The Riddler is a character that is very polarizing among Bat",0.9951174174899999,,,,de
+7,on_p50,1000,1,8,"Tresa Russo Balater
+Tresa Russo Balater, 63, passed away at 11:57 p.m. Thursday, Nov. 19, 2020, at her home in Vandalia.
+She was born April 1",0.9951174174899999,,,,de
+8,on_p50,1000,1,9,"A Few Things I've Learned So Far: Joshua Sunda
+Joshua Sunda is the author of the novel The Lazarus Effect (Penguin/Riverhead, 2012).",0.9951174174899999,,,,de
+9,on_p50,1000,1,10,"Landscape in the former 4 Towns
+The village derives its name from a nearby Roman settlement, Cenoz, and was itself the site of a Roman villa. It was recorded in the 10th century as Cenodis, and was granted to the Abbey of Sherborne",0.9951174174899999,,,,de
+10,on_p50,1000,1,11,"A Grammar;
+
+OR,
+
+THE SCIENCE OF LANGUAGE
+
+IN ITS PRINCIPLES AND GENERAL
+
+ORAL MORPHOLOGY
+
+BY
+
+WILLIAM E. GARDNER
+
+(Former",0.9951174174899999,,,,de
+11,on_p50,1000,1,12,"#include <iostream>
+#include <functional>
+#include <algorithm>
+
+using namespace std;
+
+typedef pair<int, int> P;
+
+int main() {
+    int A[6] = {1, 2, 3, 4, ",0.9951174174899999,,,,de
+12,on_p50,1000,1,13,"The Malta Labour Party has been in the news this week, on account of its newsletter published last Friday. The newsletter is the ‘Malta Labour Party Newsletter’ and is purportedly ‘A Voice of the Workers’.
+It is worth noting that the MLP Newsletter is",0.9951174174899999,,,,de
+13,on_p50,1000,1,14,"Over the course of two years, I have been blogging at A Fresh Dill Pickle and have truly enjoyed the experience. I have met some amazing fellow bloggers and have found a new way to express myself.
+I have been blogging for a while now and am curious to know how I can",0.9951174174899999,,,,de
+14,on_p50,1000,1,15,"Gwinnett County Housing Authority
+Often referred to as ""GCHA""
+Gwinnett County Housing Authority (GCHA) currently manages 1,358 units of public housing in 10 separate sites.
+GWINNETT COUNTY HOUS",0.9951174174899999,,,,de
+15,on_p50,1000,1,16,"Tags: python, pytorch, conv-neural-network
+
+Question: How to make Pytorch Network that produces a range of values given a user input
+
+I have a problem regarding my network.
+
+I want to create a network that generates a range of values given a user input (",0.9951174174899999,,,,de
+16,on_p50,1000,1,17,"# Tracery
+
+Tracery or trefoil is a medieval architectural term for the stonework which fills the space between the windows and the gargoyles of a Gothic (or other) cathedral. It is ornamented with decorations of the same style as the window tracery",0.9951174174899999,,,,de
+17,on_p50,1000,1,18,"#
+Vierzehn Monate später
+Dawns Aufzeichnungen
+Ich schreibe hier inmitten eines Blitzkriegs und im Begriff zu sterben.
+Sie sagen, dass die Männer die Welt retten werden und die Frauen mit den Kindern zu den basementen",0.9951174174899999,,,,de
+18,on_p50,1000,1,19,"Our one of a kind 100% pre-shrunk cotton flannel shirt is designed with the versatility and subtlety of a classic check pattern. Cut from our top-shelf 16.5 oz. flannel and made in the USA, this sh",0.9951174174899999,,,,de
+19,on_p50,1000,1,20,"The Gift of God's Love
+Another well-known Christmas carol tells us:
+Not a creature was stirring, not even a mouse.
+I know I'm not the only one who's dreamed the dream described in this carol. What a glorious, peaceful,",0.9951174174899999,,,,de
+20,on_p50,1000,1,21,"This is a placeholder page for Mary Mead, which means this person is not currently on this site. We do suggest using the tools below to find Mary Mead.
+You are visiting the placeholder page for Mary Mead. This page is here because someone used our placeholder utility to look for Mary Mead.",0.9951174174899999,,,,de
+21,on_p50,1000,1,22,"US v. Morrison
+US v. Morrison, 529 U.S. 598 (2000)
+Virginia enacted a law that restricted the activities of abortion counselors, and imposed criminal penalties for violations.",0.9951174174899999,,,,de
+22,on_p50,1000,1,23,"HP’s LMA technology broadens A4 range
+HP is expanding its A4 page volume production offering, with a new family of new presses based on its new Light Measurement and Adjustment technology.
+The new HP Indigo 5500, 750",0.9951174174899999,,,,de
+23,on_p50,1000,1,24,"No. 31. The Rum-Mill
+No. 31. The Rum-Mill1
+1. The following paper was read by Mr. Henry B. Haight, President of the California State Board of Equalization, before the Economic Club of San Francisco on the 18th",0.9951174174899999,,,,de
+24,on_p50,1000,1,25,"Jaime Pressly: '90210 is like Melrose Place'
+Jaime Pressly says that 90210 is like a soap opera.
+It's a wrap for The Mick
+It's a wrap for The Mick It's a wrap for The",0.9951174174899999,,,,de
+25,on_p50,1000,1,26,"View all Events ›
+The 12th FINA World Swimming Championships were held in Barcelona, Spain from August 7 to 13, 2003.
+This was the first world championship hosted in a city that would later host a Summer Olympic Games. The facilities were built to",0.9951174174899999,,,,de
+26,on_p50,1000,1,27,"The following was written by forum member, MilesKmiles (aka Mike), and was originally posted in the ""Extra Fiction"" subforum.
+*I'm back! This is a piece I've been working on for a while - the story of how Liara and I got together. I",0.9951174174899999,,,,de
+27,on_p50,1000,1,28,"Home Fashion and Style A GOOD WATCH CAN HELP YOU BECOME A BETTER MAN
+A GOOD WATCH CAN HELP YOU BECOME A BETTER MAN
+Mr. Andrew, a 46-year-old London-based",0.9951174174899999,,,,de
+28,on_p50,1000,1,29,"Home/Fundraising Letter Samples/Getting your Non-Profit Organization On-Line
+So you’ve decided to put your non-profit organization on-line. So what does that mean? It means that you need to have an Internet connection. It also means that you need",0.9951174174899999,,,,de
+29,on_p50,1000,1,30,"09/15/2021 09/20/2021 Diana Makarova	0 Comments	Alice Glass, Deamland, Memphis May Fire, Rob Halford, Starset, The Ghost Inside
+Alice Glass is a",0.9951174174899999,,,,de
+30,on_p50,1000,1,31,"A WWII ACE HISTORIAN
+95 years old, and he was still flying for his life.
+My father, U.S. Army Air Corps ace Ray Hanna, spoke and signed books at Oshkosh last Monday. He’s 95. Wanting",0.9951174174899999,,,,de
+31,on_p50,1000,1,32,"At last year's Milken Institute Global Conference, we were privileged to host, in person, the 2022 Global Scholars: 120 of the brightest students from 45 countries around the world, representing 169 universities from 30 countries.
+",0.9951174174899999,,,,de
+32,on_p50,1000,1,33,"Kinds of Cancer
+Cancer, A Dreaded Disease
+Cancer is a dreaded disease that is affecting a large number of people. It is the second leading cause of death in the United States and more and more people are getting it. There are thought to be about 2 million",0.9951174174899999,,,,de
+33,on_p50,1000,1,34,"1954 Article about Mr. Gomes and the Manufacturing of the Deluxe S-33
+Here is a very interesting article that was found in the 1954 Hoffman/Goldberg Book of Guitar Solos Volume 1 - Deluxe Edition.",0.9951174174899999,,,,de
+34,on_p50,1000,1,35,"Tags: vector-spaces
+
+Question: How does one show that the sum of two linearly independent vectors is linearly independent?
+
+I was asked in an exam to prove that the sum of linearly independent vectors is linearly independent.
+
+I have no idea how to begin the proof. I am",0.9951174174899999,,,,de
+35,on_p50,1000,1,36,"Unlimited Data Plans: A Scam?
+22 Oct Unlimited Data Plans: A Scam?
+In a recent article, the Huffington Post wrote that “unlimited data plans are the worst thing to ever happen to mobile users.” This was based on the author’s experience with his",0.9951174174899999,,,,de
+36,on_p50,1000,1,37,"We provide our customers with a comprehensive range of general property services across East London and the rest of London, from end of tenancy cleaning, deep cleaning, deep cleaning, dry carpet cleaning, to carpet cleaning, upholstery cleaning, grime and stain removing",0.9951174174899999,,,,de
+37,on_p50,1000,1,38,"Bama Leads the Pack
+Alabama is the first state to announce it will require the new U.S. Department of Defense Interstate Passenger Conveyance Safety Act (IPCSA) Certification.
+Schools in other states have been given a little more time to comply with",0.9951174174899999,,,,de
+38,on_p50,1000,1,39,Werkend / Zaterdag 31 augustus is het vrij fietfietsdag. Voor een weekend vol fiets en fiets onderwerpen. Ook onderstaande fietsdocumentatiespecial en over andere mogingen om fietsen en fietsers een koep tijdens de maand,0.9951174174899999,,,,de
+39,on_p50,1000,1,40,"Tags: linux, centos, user-accounts, selinux
+
+Question: Centos 7 SELinux won't allow su
+
+I have been trying to get SE Linux in Centos 7 to allow `su` without success.
+
+I've tried modifying the SE Linux parameters",0.9951174174899999,,,,de
+40,on_p50,1000,1,41,"How to Dress for a Church Wedding
+Photo credit: Holly T Photography
+If you’re a woman, there’s no denying that today’s conservative church weddings can be a bit tricky to figure out. What should you wear? Where does modesty begin and end?",0.9951174174899999,,,,de
+41,on_p50,1000,1,42,"Start your 2021 in the QEII with a new Thrift Shop!
+A new Thrift Shop is opening in the QEII on Tuesday 16th February! We are so grateful to the QEII Foundation for funding the new shop and helping us to",0.9951174174899999,,,,de
+42,on_p50,1000,1,43,"Eight Books on the Great War
+Not all the books I read about the First World War were on the small side.
+There were some rather large volumes of military history, but even more that were just plain long. Here are a few of the longer books I read.
+1. The Pity of War",0.9951174174899999,,,,de
+43,on_p50,1000,1,44,"Genealogy goes beyond the data
+Dad's name: George Cunningham.
+Mom's name: Stella May Cunningham.
+Birth date: 28 December 1889, Portland, Oregon.
+Birth date: 3 April 18",0.9951174174899999,,,,de
+44,on_p50,1000,1,45,"2014-01-13 REGISTERED - PUBLIC NOTICE EFFECTIVE DATE:
+2014-01-13 PUBLISHED FOR Opposition - 2014-01-13 LAW O",0.9951174174899999,,,,de
+45,on_p50,1000,1,46,"Planning an event in Hamilton? We've put together a variety of step-by-step planning guides to help you plan a successful event. Simply select your package below to get started!
+Tell us about your event by filling out the form below.
+Need more space? Our Main Hall",0.9951174174899999,,,,de
+46,on_p50,1000,1,47,"Woody Moulden
+Woodrow Moulden was born in 1955 in Pine Bluff, Arkansas, where his father was a pastor. He graduated from Shorter College in Rome, Georgia, and later received a Master of Divinity from Southwestern Baptist Theological Sem",0.9951174174899999,,,,de
+47,on_p50,1000,1,48,"Engadget: Samsung Gear VR: The Mobile Showcase of the Future?
+Samsung Gear VR: The Mobile Showcase of the Future?
+The Samsung Gear VR is the latest in a long line of headgear that we've tested, and what makes it",0.9951174174899999,,,,de
+48,on_p50,1000,1,49,"Sony Screens New 'The Amazing Spider-Man' Footage For Fans
+If you are a comic book fan, you are probably looking forward to the upcoming ABC series ""The Avengers,"" ""The Dark Knight Rises,"" and ""The Amazing Spider-Man."" The latter is getting",0.9951174174899999,,,,de
+49,on_p50,1000,1,50,"Home/News/Atiku: What I’ll do with oil produce in Niger Delta if elected
+Atiku: What I’ll do with oil produce in Niger Delta if elected
+Former Vice President and 2019 presidential candidate of the People’s Democratic Party (PDP),",0.9951174174899999,,,,de
+50,on_p50,1000,1,51,"Train to Point Shirley
+The trail to Point Shirley is a short, flat walk along the water, and makes for a great quick exploration of the Kiskiminetas River.
+The Kiskiminetas River is the largest tributary of the Allegheny River, and",0.9951174174899999,,,,de
+51,on_p50,1000,1,52,"Tags: php, database, laravel, eloquent
+
+Question: Laravel 5.3 Database query for related model with condition
+
+I need to execute database query with a related model condition.
+
+Here is my query,
+
+\begin{code}
+Post::where('status', 'PU",0.9951174174899999,,,,de
+52,on_p50,1000,1,53,"LCMS/LCWO Newsletter
+Elective Hysterectomy: Who Should Get it And Who Shouldn't
+William H. Parker, MD
+Surgeon-in-Chief, The Woman's Hospital of Texas
+Professor and Chair, Department of Gyne",0.9951174174899999,,,,de
+53,on_p50,1000,1,54,"Delhi: BJP, Aam Aadmi Party trade charges in Maharashtra, late CM Bal Thackeray
+According to a report in 'The Times of India' the Bhagwat asked why the Sena had disregarded the sacrifices made by the country'",0.9951174174899999,,,,de
+54,on_p50,1000,1,55,"We provide a free monthly newsletter to all interested In2IT customers. In our newsletter you will find the latest information on upcoming events, new product releases, special offers and more. Sign up for our free newsletter, and you will be automatically entered in our monthly drawing for a $25",0.9951174174899999,,,,de
+55,on_p50,1000,1,56,"2013-2014 Graduate Hooding Ceremony
+The Graduate School held its third annual hooding ceremony, where graduates were honored and hooded by faculty.
+View all 59 images from 2013-20",0.9951174174899999,,,,de
+56,on_p50,1000,1,57,"“I am,” I informed Kris, “going to be a star.”
+“You are a freak who can’t keep a job and every time you try to get a job they kick you out of it in twenty-four hours for theft or vandalism. What makes you think you’",0.9951174174899999,,,,de
+57,on_p50,1000,1,58,"Been there, done that, and now I’m going.
+I started out as a wide-eyed, unpaid volunteer at my church in 2007. I was working as a bank teller at the time, and I noticed something in people’s faces, words,",0.9951174174899999,,,,de
+58,on_p50,1000,1,59,"-->
+
+<template>
+  <div class=""title-layout"">
+    <i class=""iconfont icon-logo"" v-if=""!hideIcon""></i>
+    <span class=""text"" v-if=""!hideTitle"">{{title}}</span>
+  </div",0.9951174174899999,,,,de
+59,on_p50,1000,1,60,"<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use App\Event;
+use App\User;
+use App\Serie;
+use App\SerieEvents;
+use App\Schedule;
+use App\EventsSchedule;",0.9951174174899999,,,,de
+60,on_p50,1000,1,61,"Tags: python, websocket, pysimplegui
+
+Question: SimpyGUI WebSocket Error
+
+I'm using `Pysimplegui` and doing some basic Python coding experiments. I've been trying to make a simple WebSocket client and server. I'm just trying",0.9951174174899999,,,,de
+61,on_p50,1000,1,62,"ASSORTED: my mind is a mess; God will not be mocked; Time Magazine; Divine proportions; and more!
+My mind is a mess.
+I could not sleep last night and my mind was racing. It was not a good think! I was thinking about this and that and",0.9951174174899999,,,,de
+62,on_p50,1000,1,63,"PLEASE NOTE: Any tickets purchased with the wrong moniker will be cancelled and refunded.
+Ring in the New Year at the most exclusive Masked Ball in Seattle!
+Enjoy the best party in Seattle with five levels of music and entertainment, a grand buffet and",0.9951174174899999,,,,de
+63,on_p50,1000,1,64,"Tags: javascript, function, jsf, wicket
+
+Question: Which is the best way to write a reusable function in Jsf?
+
+I am trying to re-create this function in JSF to use it in multiple places.
+
+\begin{code}
+function checkCN(conObj",0.9951174174899999,,,,de
+64,on_p50,1000,1,65,"Nostradamus and the 57877 Year
+May 23, 2013 in 2013, Nostradamus, Prophecy, Strange days | Tags: 2013, October 13, Nostradamus",0.9951174174899999,,,,de
+65,on_p50,1000,1,66,"If you are looking for a top-notch solution to your plumbing in Cedarhurst, NY, look no further than the experts at Shoreline Plumbing LLC. We are the go-to source for plumbing and heating repairs, and our experienced technicians",0.9951174174899999,,,,de
+66,on_p50,1000,1,67,"WSE:EZA - Ekomi Group SE S.A. WSE:EZA
+EKOMI Group SE S.A. operates as a provider of e-commerce platforms and services in Poland. The company operates in three segments: e-Commerce Solutions, Market",0.9951174174899999,,,,de
+67,on_p50,1000,1,68,"How to Invest in Bitcoin: A Beginner’s Guide
+Bitcoin has been the best-performing asset of the last decade. The value of the coin has risen from less than $10 back in 2010 to more than $60,000",0.9951174174899999,,,,de
+68,on_p50,1000,1,69,"Tags: c#, list, key, count
+
+Question: count a specific value from a list
+
+I have a list of objects, each of which has a number of variables. One of the variables is a string and each string can be one of three possible values. I would like to count how many of",0.9951174174899999,,,,de
+69,on_p50,1000,1,70,"We offer an extensive range of Natural and Borosilicate glass tubes in a variety of colours and sizes, ranging from 4mm up to 100mm with lengths up to 2 meters. Lead-free, these glass tubes are ideal for making drinking glasses.
+O",0.9951174174899999,,,,de
+70,on_p50,1000,1,71,"Bhuwana 720 (Bhuwana 720)
+Bhuwana 720 is a newly launched 2BHK residential apartments by Bhuwana Group. Bhuwana 720 offers a luxurious lifestyle with",0.9951174174899999,,,,de
+71,on_p50,1000,1,72,"A few weeks back, I was asked by a friend to help with an event she was putting on. She’s the owner of a small boutique who was offering discounts to mothers of newborns. This was my first time attending a shopping event for moms and I was told that",0.9951174174899999,,,,de
+72,on_p50,1000,1,73,"2013 – Bridging the Gap
+An important focus of the SAA’s work in 2013 has been on “Bridging the Gap” in the archival profession. In the past three years, SAA has undertaken a series of initiatives to identify",0.9951174174899999,,,,de
+73,on_p50,1000,1,74,"A Large Scale Modular Hydro Power Generation System (Power Source)
+A Small Scale Modular Hydro Power Generation System (Power Source)
+A Large Scale Modular Hydro Power Generation System (Power Storage)
+A Small Scale Modular Hydro Power Generation System (Power Storage",0.9951174174899999,,,,de
+74,on_p50,1000,1,75,"Do you have a business in Ravalli County Montana and are looking for a Customized Recycling Rate Quote?
+What do Waste Management charges for recycling in Ravalli County 59863?",0.9951174174899999,,,,de
+75,on_p50,1000,1,76,Cookies are small text files that are sent to your computer or mobile phone when you access a website. They allow us to collect anonymous data and to enhance your use of the website. Essential cookies help make eCommerce and eBooks possible. They are not used to track a user’s activity outside,0.9951174174899999,,,,de
+76,on_p50,1000,1,77,"Gold, Guns, and Cryptocurrency: The Future of Money
+EvonS
+Gold, Guns, and Cryptocurrency: The Future of Money by EvonS
+Cryptocurrency is a digital currency that uses cryptography to secure its transactions and control the creation of",0.9951174174899999,,,,de
+77,on_p50,1000,1,78,"
+A. In the beginning God created the heavens and the earth.  
+B. (A) The earth was without form, and void; and darkness was upon the face of the deep.  
+C. (B) And the Spirit of God moved upon the face of the waters. And God said",0.9951174174899999,,,,de
+78,on_p50,1000,1,79,"# Liège-Bastogne-Liège 1977
+
+De 63e editie van de voorlopen van 1 april 1977 en de 64e wedstrijd. Voor een LBL de laatste stalkoers van het voor de een",0.9951174174899999,,,,de
+79,on_p50,1000,1,80,"This is a placeholder page for Beth Cogburn, which means this person is not currently on this site. We do suggest using the tools below to find Beth Cogburn.
+You are visiting the placeholder page for Beth Cogburn. This page is here because someone used our placeholder utility to look for Beth",0.9951174174899999,,,,de
+80,on_p50,1000,1,81,"We convey the feeling of tropical romance with a cool, minimalistic design
+HELLEN KACHAF
+I always wanted to live in someplace tropical, so I invested a lot of my time in finding a way to build a business in a tropical place. Checking out Palm Springs",0.9951174174899999,,,,de
+81,on_p50,1000,1,82,Taking a break from a stressful weekend I came upon a picture of my Mom and Dad on their wedding day. Dad is 28 and Mom was 19. This was ten years after they married. Terrific looking couple. What a nice memory of my childhood.,0.9951174174899999,,,,de
+82,on_p50,1000,1,83,"The Robert Ferst Amphitheater is a beautiful and unique venue for special events. It features 28,350 square feet under a spacious canopy, state-of-the-art lighting and sound systems, comfortable seating for up to 2,000",0.9951174174899999,,,,de
+83,on_p50,1000,1,84,"Three Oregon Zoo rhinos are pregnant
+The Oregon Zoo announced Wednesday that three of its female rhinos are pregnant, a huge feat for the endangered species.
+Three Oregon Zoo rhinos are pregnant The Oregon Zoo announced Wednesday that three of",0.9951174174899999,,,,de
+84,on_p50,1000,1,85,"Putin is getting ready to do something really bad in Ukraine
+Russia is getting ready to go to war in Ukraine and the world is sitting idly by.
+On the first day of 2015, the Kremlin gave the green light for Vladimir Putin to order the Russian military to do",0.9951174174899999,,,,de
+85,on_p50,1000,1,86,"A thoughtful formulation, a pleasing presentation and a few simple steps to the perfect pour. The Riedel Single Malt Whisky Glass is designed to enhance the aromas and flavors of the finest single malt whiskies. A good single malt whisky glass should",0.9951174174899999,,,,de
+86,on_p50,1000,1,87,"Tags: web-services, xsd
+
+Question: How to generate schema files from WSDL?
+
+I have a `.NET` application that I want to build that will act as a Web Service. I am a Java guy coming to.NET, so I would prefer to use a tool to",0.9951174174899999,,,,de
+87,on_p50,1000,1,88,This study was designed to investigate the use of the German discontinuous relaxation technique (DRT) for the evaluation of the visual response times of optic neuritis in multiple sclerosis (MS) patients. The DRT is a modification of the conventional RTs that allow for the assessment of,0.9951174174899999,,,,de
+88,on_p50,1000,1,89,"The Instructional Racquet Course is the starting point for any student wishing to learn (or improve on) the basic skills of the game of tennis. Students are instructed on every aspect of the game but a specific emphasis will be on basic strokes, grips, and serve.",0.9951174174899999,,,,de
+89,on_p50,1000,1,90,"Do I Find Myself Or Don’t I?
+We Are All Born Blind
+What Does It Mean To Find Myself?
+I’ve been reading a book called The Idiots Guide To Meditation by Alan Cohen. In it he talks about his organic spiritual autobiography.",0.9951174174899999,,,,de
+90,on_p50,1000,1,91,"1.2 What is the Hollye Fodassa College Scholarship?
+1.1 What is the Hollye Fodassa Inspire Scholarship?
+1.2 How can you apply?
+1.3 How much is the Hollye Fodassa scholarship?",0.9951174174899999,,,,de
+91,on_p50,1000,1,92,Zegal Games is a free online Adventure game which can be played at Plonga.com. Enjoy this great game with your friends. You are a Zegal and your goal is to get as many Zegas to the end of each level as possible. Don’t get hit by,0.9951174174899999,,,,de
+92,on_p50,1000,1,93,"Tags: matlab, simulink, mdl-compiler
+
+Question: simulink: long delay between u and y for matlab function
+
+I am using simulink to model the dynamics of a DSP processor. I am using a state variable as a model of the complexity of the processor",0.9951174174899999,,,,de
+93,on_p50,1000,1,94,"Friedrich-Wilhelm-Park
+
+Motto: Für die Freunde des Friedens und der Natur
+
+Friedrich-Wilhelm-Park im Jahre 2008
+
+## Lage
+
+Das 13,8 Hektar große Gelände des Friedrich-Wilhelm",0.9951174174899999,,,,de
+94,on_p50,1000,1,95,"What Makes a Good Leader in a Business?
+How to Respond to a Wrongful Termination Inquiry
+How to Get a Job After Being Fired for Attitude
+What Is a Good Way to Start a Strong Letter of Recommendation for a Job?
+Even",0.9951174174899999,,,,de
+95,on_p50,1000,1,96,"AI Member Corner: AAA
+The Alzheimer’s Association is a global force united in the fight to end Alzheimer’s.
+The Alzheimer’s Association is a global force united in the fight to end Alzheimer's and all other dementia.",0.9951174174899999,,,,de
+96,on_p50,1000,1,97,"A transparent soap available in 100ml quantity.
+A transparent soap available in 100ml quantity. A soap from the House of the International Men's Grooming Brand, Bombay Shaving Company.",0.9951174174899999,,,,de
+97,on_p50,1000,1,98,"# 佩斯利
+
+佩斯利（德語：；丹麥語：）是德國梅克倫堡-前波美拉尼亞州的城鎮，人口約1,",0.9951174174899999,,,,de
+98,on_p50,1000,1,99,"Two hundred thousand dollars is a lot of money for most homebuyers, but for one family, it was just enough to purchase a home. A while back, my husband and I toured a home in our town, mostly because we were curious as to how the size of the home compared to the price.",0.9951174174899999,,,,de
+99,on_p50,1000,1,100,"A simple, strong ring with a ball pattern, this is a must-have accessory. This large ring is handcrafted of 18k yellow gold and 18k rose gold. The size of the ball is: 1.1cm in diameter.",0.9951174174899999,,,,de

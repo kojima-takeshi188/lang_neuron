@@ -1,0 +1,246 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,20,1,1,"El gobernador bonaerense, Axel Kicillof, manifestó este lunes que “hay que ponerle fin a la cuarentena” y apuntó contra las reuniones sociales. “Nadie quiere cuarentena, nadie quiere que estemos encerrados”, dijo.
+Kicillof, en una conferencia de prensa junto al ministro de Salud, Daniel Gollan, señaló que el",0.5442608387499999,,,</s>,de
+1,on_p50,20,1,2,"/* This file is part of the KDE project
+   Copyright (C) 2003 Ariya Hidayat <ariya@kde.org>
+
+   This library is free software; you can redistribute it and/or
+   modify it under the terms of the GNU Library General Public
+   License as published by the Free Software Foundation; either
+   version 2 of the",0.5442608387499999,,,</s>,de
+2,on_p50,20,1,3,"#!/usr/bin/env python
+
+import os
+import pandas as pd
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import LabelEncoder
+from sklearn.classification import SVM
+from sklearn.svm_objective import minimize_s
+
+train_dataset = pd.read_csv(",0.5442608387499999,,,</s>,de
+3,on_p50,20,1,4,"TOMATE. Cuando un tomate está más maduro se desprende de la piel. El tomate crujiente y agudo en el gusto es el que es más fresco.
+ZUMBA. Una de las formas más fáciles de obtener jugos de repollo es triturarlo y luego añadir un poco de agua.",0.5442608387499999,,,</s>,de
+4,on_p50,20,1,5,"3 Temas: Justiça do Trabalho, Funcionários públicos, Magistrados e Procuradores do Trabalho. A Professora Dra. Maria Alice Schurier.
+4 Temas: Justiça do Trabalho, Funcionários públicos, Magistrados e Procuradores do Trabalho. A Professora Dra. Maria Alice Schurier.
+5 Tem",0.5442608387499999,,,</s>,de
+5,on_p50,20,1,6,"Q:
+
+Verifying the type of a method parameter with reflection
+
+I am trying to implement the following method...
+// Registration of a MethodBase
+public static void Register(string name, MethodBase method, Type[] parameterTypes)
+
+I am having a problem with reflection, I am not sure how to do this. How",0.5442608387499999,,,</s>,de
+6,on_p50,20,1,7,"Neuromorphisms
+Neuromorphic is a new paradigm in computation [1]. Neuromorphic computers are used to build computer systems based on the cellular automaton concept. Human brains are continuous units, whereas computational units are discrete. The continuous unit is the neurons. The discrete unit is the state of the neurons. Neuromorphic computers",0.5442608387499999,,,</s>,de
+7,on_p50,20,1,8,"A nível de produção, a empresa detém cerca de 7 milhões de toneladas de açúcar por ano, produzindo cerca de 16 milhões de toneladas de açúcar por ano. A empresa é proprietária e operada pela companhia de açúcar de Almeirim.",0.5442608387499999,,,</s>,de
+8,on_p50,20,1,9,"The two queens have a right to be.
+But they won't listen to them.
+And this is not just about China.
+This is about the future of the world.
+And we shall fight this war together.
+- So you wanted to see me?
+- Yes.
+I was thinking about a matter that concerns you.
+Yes",0.5442608387499999,,,</s>,de
+9,on_p50,20,1,10,"The human genome is extremely complex and is made up of two different types of DNA, one of which is called the ‘intron’. Introns are segments of DNA on one strand of the genome. Introns are extremely useful parts of the genome because they allow the mRNA to be translated into the protein which it is",0.5442608387499999,,,</s>,de
+10,on_p50,20,1,11,"Il y a un peu plus de trois mois, j’ai eu le privilège d’assister à la conférence « Comprendre le meilleur business model » organisée par les étudiants de l’école Polytech Paris Sud. Moussa, Etonnés, Amani, Mika, Désirée, Delphine, Guillaume et les autres (je",0.5442608387499999,,,</s>,de
+11,on_p50,20,1,12,"A garbage truck came at this point, and when a man was cleaning out the old garage, he noticed some steam from it and decided to inspect it.",0.5442608387499999,,,</s>,de
+12,on_p50,20,1,13,"Por todo esto, desde la dirección de la escuela se ha pedido a los padres que se informen sobre la situación de los estudiantes que han tenido que abandonar por el “abandono de las familias”.
+También la asociación de padres ha puesto en marcha un plan para que las familias de Mondragón que no puedan hacer",0.5442608387499999,,,</s>,de
+13,on_p50,20,1,14,"Exactly. This is the sixth year of the TV series “Women in Tech” on TechCrunch. If you missed the first two episodes, you can catch them now on the TechCrunch app.",0.5442608387499999,,,</s>,de
+14,on_p50,20,1,15,"Q:
+
+Find the t value for each t value for each name using equation in R
+
+I use the code below to find the t value for each t value for each name for a given time span.
+    time <- rbind(NA, rnorm(3))
+    names <- c(""John Doe"", ""Mary",0.5442608387499999,,,</s>,de
+15,on_p50,20,1,16,"Introduction
+The first known publication of the largest and deepest ocean vent in the world is from the Eastern North Pacific (SNAP). It is located at a depth of 3.5 km near New Zealand's southwest coast, at a latitude of 45°E, a longitude of 162°E, and a distance from",0.5442608387499999,,,</s>,de
+16,on_p50,20,1,17,"The dextrose group of insulin is often used to treat type 1 diabetes mellitus, which is when (or when insulin or insulin-like growth factor 1 (IGF-1) is not functioning). It is also useful in the treatment of type 2 diabetes, when the body does not produce enough insulin. Type 2 diabetes",0.5442608387499999,,,</s>,de
+17,on_p50,20,1,18,"Après avoir mis à jour votre application, vous pourrez voir la version installée actuellement sur votre iPhone, iPad et iPod touch et décider de mettre à jour votre application en cliquant sur l’icône téléchargement située dans le coin supérieur gauche.
+Comme d’habitude, notre équipe de développement teste chaque nouvelle version avant de la publier sur Mac",0.5442608387499999,,,</s>,de
+18,on_p50,20,1,19,"Beautiful Location near the beach, small town with stores, restaurants and local shops. 45 min to the beautiful island of Bra Por, approximately 15 min by car to the surfing beach of the city.
+Enjoy your morning or evening at the beach or in Pinos Bay, the beautiful surroundings of the town, or",0.5442608387499999,,,</s>,de
+19,on_p50,20,1,20,The information presented on this page is about the nearest Ackermann City District Schools bus stops to Mersa Loka.,0.5442608387499999,,,</s>,de
+20,on_p50,20,1,21,"Sabes que todas las cosas con algún sentido tienen un significado. Mi mamá siempre me dijo que todo lo que no me gustaba en este mundo tenía un significado. Me di cuenta de esto cuando era una niña.
+Por ejemplo, el hecho de que las personas sigan enredándose en el mundo de Internet sin sentido. Tengo",0.5442608387499999,,,</s>,de
+21,on_p50,20,1,22,"/*
+ *  Armadillo Workflow Platform v1.0
+ *  A simple pipeline system for phylogenetic analysis
+ *  
+ *  Copyright (C) 2009-2013  Etienne Lord, Mickael Leclercq
+ *
+ *  This program is free software: you can redistribute it and/or modify
+ *  it",0.5442608387499999,,,</s>,de
+22,on_p50,20,1,23,第四步，实施。管理者要选取合适的方式将员工组织起来，告诉员工们，他们认可什么、不认可什么，是企业发展的需要，还是个人的需要。让员工清楚地了解自己的工作职责，明确工作的意义，明确自己应尽的义务和责任，由员工学习自身的价值和作用,0.5442608387499999,,,</s>,de
+23,on_p50,20,1,24,"Scott Williams, director of Retail Revenue for CapSuper, said, “We know that our retailer partners are dependent on the Chain. If they need a tool to quickly and easily get information to their team, they can always rely on our technology.”",0.5442608387499999,,,</s>,de
+24,on_p50,20,1,25,"Personnalisation: les informations sont saisies et stockées sur l'ordinateur de l'utilisateur, il ne peut être transmis à une organisation externe.
+Cette page est une page de présentation des causes de la perte de mémoire pouvant survenir plus tard dans la vie.
+La perte de mémoire peut survenir n'importe quand mais plus fréquemment en raison",0.5442608387499999,,,</s>,de
+25,on_p50,20,1,26,Le système de production de beurre et de fromage La Caillette a été mis en place en 1996 à Saint-Nazaire par le groupe La Caillette. Les produits sont vendus en France mais aussi exportés dans certains pays d'Europe. Ce nouveau mode de production permet une diminution drastique des émissions de gaz à effet de serre,0.5442608387499999,,,</s>,de
+26,on_p50,20,1,27,"Et voilà une nouvelle recette de pizzas, pas du type pâte fine et croustillante, mais plutôt fine et légère....",0.5442608387499999,,,</s>,de
+27,on_p50,20,1,28,"There is no doubt that we are entering an unprecedented period of unprecedented challenges to the health, safety and wellbeing of students and workers, and we will all need the support and guidance we can get.
+But what we can do with a renewed focus on learning is to make sure we are preparing for the challenges that lie ahead",0.5442608387499999,,,</s>,de
+28,on_p50,20,1,29,PHP存储过程主要的工作就是执行程序，执行过程一般有两种：一次性输入型（一次输入）、一次性过程型（一次过程）。一次性输入型存储过程的参数一般会在一条语句中完成，一次输入型存储过程的工作方式跟普通数据库的存储过程是一样的，存储过程的参数,0.5442608387499999,,,</s>,de
+29,on_p50,20,1,30,"حكومتي تتحمل الأخطاء
+والخطأ لا يعفى
+من المذنب
+حاتم فقيه ـ الاثنين
+تكون الحكومة دائما مصدرا للملل والاستنفار، حتى في الأوقات التي تتحمل فيها المسؤولية، والوقت هيَ ملك المواطن، وأمامه مفتوح أمامه، كما هوَ مس",0.5442608387499999,,,</s>,de
+30,on_p50,20,1,31,"“Jika saya tidak jadi ketua, maka Pak Rohidin akan jadi Ketua PKS. Kalau Pak Rohidin jadi ketua, maka PKS akan menjadi yang terbesar kedua,” kata Marzuki.
+Menurut Marzuki, jika PKS tidak bisa menjadi partai yang paling dominan di pemilu pada 2024, maka PKS yang akan menjadi partai yang dominan di Pemilu",0.5442608387499999,,,</s>,de
+31,on_p50,20,1,32,"El segundo paso, y sin duda una de las más importantes, es tener un plan de consumo. No basta con tener un presupuesto para hacer la compra que se merecen los productos, es necesario que se den cuenta de sus necesidades y sus hábitos de consumo. Esta información les ayudará a reconocer las opciones y los beneficios que se",0.5442608387499999,,,</s>,de
+32,on_p50,20,1,33,"Charles Ellis (1573-1632)
+
+Charles Ellis was an English artist, born in or near London on April 4, 1573. He worked as a portrait-painter and he later became a noted landscape- and forest-painter. He was known for his depictions of tenors in the churchyard scenes",0.5442608387499999,,,</s>,de
+33,on_p50,20,1,34,"- Ah, ma pauvre fille, vous êtes malade.
+- Je n'ai pas de maladie.
+Je n'ai rien.
+Venez, je vous emmène dans un endroit où on peut vous soigner.
+Je suis tout à vous.
+Je vous dis adieu.
+Et vous, on se voit.
+Je sais ce que vous ressentez.
+",0.5442608387499999,,,</s>,de
+34,on_p50,20,1,35,"Dungus, a Gujarat-based online education platform, has partnered with Tech For Good to provide free access to curated courses for people who live in slums.
+Dungus founder Rahul Gandhi, a student of IIT Kharagpur in Gujarat, says, “We don’t provide online training courses just for gainful",0.5442608387499999,,,</s>,de
+35,on_p50,20,1,36,"En cuanto al tema del libro que mencionas, sigue (siempre) en silencio, no hagas que los demás opinen y opinen de ti (como lo haces tú), no hay que dejar que la realidad nos afecte. Eres muy guapa (no lo digo como disculpa, sino como sinceridad",0.5442608387499999,,,</s>,de
+36,on_p50,20,1,37,"//------------------------------------------------------------------------------
+// <auto-generated>
+//     Dieser Code wurde von einem Tool generiert.
+//     Laufzeitversion:4.0.30319.42000
+//
+//     Änderungen an dieser Datei können falsches Verhalten verursachen und gehen verloren, wenn",0.5442608387499999,,,</s>,de
+37,on_p50,20,1,38,"صعدت مبيعات التجزئة الأميركية إلى مستويات قياسية في أغسطس، بدعم من قوة الطلب المحلي وتوقعات بشأن استمرار التحسن في الوظائف، مدعومة بارحمة للمؤسسات المالية.
+وأظهرت بيانات معهد بلومبرج للبحوث الاقتصادية، والتي تأتي في إطار التحليله الشهري لتوقعات المحللين",0.5442608387499999,,,</s>,de
+38,on_p50,20,1,39,"TPO - Nhiều chính trị gia Mỹ kêu gọi Trung Quốc kiềm chế trước những lời kêu gọi tự do kinh doanh, trong bối cảnh quan hệ giữa hai bên đang căng thẳng về thương mại, các vụ tai tiếng khác và quan hệ minh bạch hơn, ngoài ra còn đụng độ quân sự tại Biển Đông.
+Các quan",0.5442608387499999,,,</s>,de
+39,on_p50,20,1,40,"A partir desta terça-feira, 1º de dezembro, a Coordenadoria de Controle e Custeio da Educação Básica da Secretaria de Estado da Educação vai oferecer uma nova oferta de conteúdo no site da Coordenadoria, com a publicação de diferentes conteúdos para os módulos de Educação Infantil, Ensino Fundamental I, Ensino Fundamental II e Ensino",0.5442608387499999,,,</s>,de
+40,on_p50,20,1,41,"/*
+ * Copyright (C) 2008-2018 TrinityCore <https://www.trinitycore.org/>
+ * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
+ *
+ * This program is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public",0.5442608387499999,,,</s>,de
+41,on_p50,20,1,42,"Manja de Franziska Roemer e mostra de filmes do grupo de teatro da Universidade de Pomerânia
+O Grupo de Teatro da Universidade de Pomerânia promove a mostra de filmes da cinematógrafa alemã Franziska Roemer.A relação entre a professora e o grupo se inicia em 2007.Ela faz visitas ao",0.5442608387499999,,,</s>,de
+42,on_p50,20,1,43,"Arquivo da categoria :Prefeitura inicia recuperação da ponte
+Porto-alegrense que faz a travessia pelo rio Guaíba precisa de ajuda para recuperar a ponte.A prefeitura de Porto Alegre está nesta terça ( 5 ) com a rodovia que liga as duas cidades interditada.Segundo a Companhia de Engenharia de Tr",0.5442608387499999,,,</s>,de
+43,on_p50,20,1,44,"Hillary Clinton lên đường tới Điện Kremlin Moscow - hãng tin Sputnik dẫn lời ngoại trưởng Nga Sergei Lavrov cho biết, chính quyền của bà Hillary Clinton đã sẵn sàng chào đón bất cứ người nào tìm cách đến Moscow và tham dự cuộc gặp bên lề hội nghị thượng đỉnh Nhóm BRICS (gồm Nga, Brazil, Ấn",0.5442608387499999,,,</s>,de
+44,on_p50,20,1,45,"A partir de ahora, Alliance For Peace quiere que nuestros lectores sean bienvenidos y bien recibidos, ya sea que hayan estado en Peace Corps, sean nuevos en el programa o ya estén en camino. Hay muchos beneficios para nuestros lectores que nos gustaría compartir con ustedes.
+La Paz es un programa de la Misión Amiga de",0.5442608387499999,,,</s>,de
+45,on_p50,20,1,46,"Charli XCX, et ses camarades, participent à une émission de télé-réalité pour gagner plus d'argent. Par le biais de la plateforme LOVE&FUN, elles ont la possibilité de gagner de nombreux cadeaux. Ce n'est pas si différent des autres programmes de télé-réalité, mais la particularité de celui-ci",0.5442608387499999,,,</s>,de
+46,on_p50,20,1,47,,0.5442608387499999,,,</s>,de
+47,on_p50,20,1,48,"“We are very proud of our team for the excellent work they do. We are currently in the process of working with our responsible customers to ensure the safe delivery of the project.”
+This is the official website of the Association of Malaysian Regional Training Centres (AMTRC), which is responsible for the management of",0.5442608387499999,,,</s>,de
+48,on_p50,20,1,49,"L'espectacle, que es podrà veure el 26 de juny a les 20.00 hores a la Sala Leopoldo María Panero, serà dirigit pel dramaturg Raúl Romero i protagonitzarà la soprano Germana Arroyave i el tenor Nicolás Navarro.
+L'espectacle està inspirada en una de les obres més importants del dramaturg",0.5442608387499999,,,</s>,de
+49,on_p50,20,1,50,"Oh, yeah, I’m sure there are some. But, there was no agreement, and the battle was not over. As a boy, I like to think I had a good feeling about the game that started in my classroom some months ago at a small elementary school where I was learning about the history of the American Revolution",0.5442608387499999,,,</s>,de
+50,on_p50,20,1,51,"O conteúdo do texto ""Onde Encontrar Assistência Técnica de Aquecedor Rinnai Jardim"" é de direito reservado. Sua reprodução, parcial ou total, mesmo citando nossos links, é proibida sem a autorização do autor. Crime de violação de direito autoral – artigo 184 do Código Penal – Lei 9610/98 -",0.5442608387499999,,,</s>,de
+51,on_p50,20,1,52,"Q:
+
+Why are various versions of the first-order logic expressible in different modal logics, but not
+
+I'm trying to simulate the idea of an AFA (Arithmetic Fragments for Applicative Functions) that has been given to compare the modal logic of each. The following nonmonotonic version of the",0.5442608387499999,,,</s>,de
+52,on_p50,20,1,53,"Kylie Jenner prepara un coche para niños: será el primer coche eléctrico para niños
+Kylie Jenner, vecina de la localidad californiana de Los Angeles, ha publicado una fotografía en su cuenta de Instagram de un rudimentario coche eléctrico para niños.
+A través de la red social, la hija de Kim Kardashian, publicó una",0.5442608387499999,,,</s>,de
+53,on_p50,20,1,54,"El motivo principal de los cambios de este tipo, es que al pasar del tiempo, el vinilo pierde su adherencia al papel, quedando este con una superficie rugosa que puede ser muy molesta a la hora de escribir en él.",0.5442608387499999,,,</s>,de
+54,on_p50,20,1,55,"El Museo de la Industria Turística, en Manzanares, es un lugar donde se pueden ver exposiciones de los diferentes ámbitos que conforman el turismo.
+Hemos visitado el Museo de la industria turística de Manzanares (Madrid) y podemos decir que hay por fin un museo dedicado a este sector. Se trata de uno de",0.5442608387499999,,,</s>,de
+55,on_p50,20,1,56,"أطلقت كليفاليتا آيسوجاندز، وهي مؤسسة مسجلة في الولايات المتحدة، حملة إعلانية لجمع التبرعات بقيمة عشرة ملايين دولار لإغاثة ضحايا الإعصار ""تسونامي""، الذي ضرب الساحل الغربي للبلاد في نوفمبر/تشرين الثاني الماضي، وأدى إلى وفاة ما يزيد عن سبعة",0.5442608387499999,,,</s>,de
+56,on_p50,20,1,57,"I. INTRODUCTION
+A natural question is how the nonlinearity of the wave field is transformed into the nonlinearity of the nonlinear wave field. In this paper, we use the field theoretic formulation of the wave equation in an infinite volume to investigate the dynamical effect of the wave field on the underlying underlying matter",0.5442608387499999,,,</s>,de
+57,on_p50,20,1,58,"Q:
+
+ASP.NET Core and Async Execution
+
+I am trying to understand the difference between Async and Asynctask in ASP.NET Core.
+I know that async means blocking and the result will wait until the task completes. But I can not understand how Async Task works with Asynctask. 
+In ASP.",0.5442608387499999,,,</s>,de
+58,on_p50,20,1,59,"Les 34 recettes de pâte brisée sont mises en scène au fil des pages de ce livre, accompagnées de nombreux conseils de préparation et de présentation. De la pâte brisée revisitée aux brioches aux fruits et fromages, les recettes sont faciles et rapides à préparer, tout en respectant les goûts et les",0.5442608387499999,,,</s>,de
+59,on_p50,20,1,60,"Una plataforma de trabajo para las comunidades de mujeres y niñas que trabajan y viven el cambio climático en tres países de América Latina. En el primer informe de este año, la Plataforma analizó los desafíos de la comunidad de mujeres y niñas que trabajan y viven el cambio climático con la finalidad de generar estrategias y acciones para implementar en sus",0.5442608387499999,,,</s>,de
+60,on_p50,20,1,61,"Yakuza: Kiwami – The Gathering es una adaptación con guión y dirección de Takashi Murakami, que cuenta con Naoko Takeuchi, Takahiro Karasu, Kazunori Yamada y Masayuki Higashikawa como productores, con la música de Junya Watanabe y el",0.5442608387499999,,,</s>,de
+61,on_p50,20,1,62,"Why is it that, in the world of advertising, content is now so important today when the consumer is more and more conditioned to Google, and the advertiser is more and more conditioned to Facebook, and the website is not so important anymore?",0.5442608387499999,,,</s>,de
+62,on_p50,20,1,63,"Assim, JOAO IMANUEL, que não estava, como não está, no Purgatório, mas que guardava a sua alma em estado de resignação e de fé, Filho único, que foi concebido pelo Espírito Santo e gerado pelo Verbo encarnado, que foi batizado pelo Espírito Santo e",0.5442608387499999,,,</s>,de
+63,on_p50,20,1,64,"Zigler: The New Economics of Science & Society
+As we have seen in the last few weeks, the leading assumptions of the New Economics of Science have been challenged, and in some cases rejected, by a number of experimental studies. These studies have shown that basic economic concepts are not always coherent and even inconsistent.",0.5442608387499999,,,</s>,de
+64,on_p50,20,1,65,"Listado en Blanco y Negro, la serie de televisión sobre el Grupo Zeta, que es una de las compañías más importantes de la industria musical del mundo, y que da vida a la banda estadounidense de rock nacional Eagles of Death Metal, llega a su recta final en un capítulo que nos contará el desenlace de",0.5442608387499999,,,</s>,de
+65,on_p50,20,1,66,"As euclidianas são superfícies espaciais, que representam as circunferências e as retas em um plano. Seus infinitos pontos são representados por vértices. Elas possuem três lados e sextos pontos são chamados de pontos em bisância.
+As euclidianas são usadas para representar a circunferência, a",0.5442608387499999,,,</s>,de
+66,on_p50,20,1,67,نيودلهي - رويترز - انخفض مؤشر السوق الرئيسي في الهند بنسبة 1.4% في حين أغلق مؤشر داو جونز الصناعي منخفضا 3.5%. وسجل مؤشر سوق الأسهم الهندي أدنى مستوى له خلال أربعة أشهر بفعل استمرار الاضطرابات السياسية وعدم الاستقرار الاقتصادي في البلاد ونتائج أعمال الربع الأول. وتراجعت مؤشرات,0.5442608387499999,,,</s>,de
+67,on_p50,20,1,68,"Oh, yeah.
+I was, um...
+I was on a nearby flight.
+I had to make a quick stop.
+I was thinking about Michael and how...
+Okay.
+This is important to me too.
+But it's not important enough.
+But I really want to help.
+But I really want to help.
+What are you",0.5442608387499999,,,</s>,de
+68,on_p50,20,1,69,"ptions have been made on the causal link between the plantain industry and the arthritis in the
+Ghana. Because of the high cost of labor and the shortage of the skilled labor, the local
+indigenees have not been allowed to participate in the production of plantsain. Therefore, the
+institution has to",0.5442608387499999,,,</s>,de
+69,on_p50,20,1,70,"Para algunas personas, la naturaleza es un lugar de placer, de aventura y de tranquilidad. Otras, la naturaleza es un gran lugar de trabajo.
+Bienvenidos a la naturaleza. Nacidos para la aventura, estamos aquí para compartir experiencias con ustedes. Un lugar lleno de sorpresas y aventuras, donde la belleza de la",0.5442608387499999,,,</s>,de
+70,on_p50,20,1,71,"Now they are getting a little more excited, but they still talk down to us. We are all very sensitive to the virus and his physical and mental changes. I tell them he will be fine and that it is with his best wishes that I leave these words behind for him and his family.
+The last few days have",0.5442608387499999,,,</s>,de
+71,on_p50,20,1,72,"Disponer de los equipos adecuados y eficaces para garantizar una atención de calidad y un control riguroso de los resultados.
+Todo ello acompañado de un equipo de profesionales con experiencia y conocimientos cualificados para resolver las necesidades de nuestros pacientes.
+Esderma es una empresa líder en el desarrollo y fabricación de productos dermocosméticos",0.5442608387499999,,,</s>,de
+72,on_p50,20,1,73,"Bonne nouvelle pour les éleveurs : « À partir du 1er septembre, le prix du lait devra passer en caisse de 2,75 céntimos par litre. Pour autant, les éleveurs restent vigilants sur le prix du lait qui peut être revu à la hausse sur le long terme. »",0.5442608387499999,,,</s>,de
+73,on_p50,20,1,74,"Vai atuar como: Assistente Comercial, Você vai atender clientes com vendas no varejo e atacado, possuem fácil acesso a estação de metrô Bela Vista
+Maiores informações, favor colete abaixo os dados do currículo, e entre em contato com a gente. Atenciosamente, Lívia.",0.5442608387499999,,,</s>,de
+74,on_p50,20,1,75,"Pour la rentrée, nos opticiens de Marseille vous offrent des remises allant jusqu'à 40% sur leurs lunettes de soleil et verres solaires.
+Lac de Gérardmer - Réservation de berges à forfait en ligne - Réservation de berges à forfait en ligne
+Envie de faire découvrir la vallée du",0.5442608387499999,,,</s>,de
+75,on_p50,20,1,76,"Who's Afraid Of Black Friday? - CNN has pounced on one of the challenges of online shopping and how big of a deal it is.
+A Black Friday-type event is a big deal in India, where it's also synonymous with the festive season and the name of the shopping festival. But it's not everywhere",0.5442608387499999,,,</s>,de
+76,on_p50,20,1,77,"El Gobierno de La Pampa anunció hoy un nuevo programa especial de ayuda a las familias pampeanas que han sufrido el impacto económico por la crisis generada por la pandemia del coronavirus.
+A través del Plan ""Paso a paso"", El Gobierno de La Pampa, a través del Ministerio de Desarrollo Social y Familia, va a destinar",0.5442608387499999,,,</s>,de
+77,on_p50,20,1,78,"Método para obtener la fórmula de una masa común entre dos masas elementares que fueran iguales
+La siguiente es la solución obtenida por la asignatura de vectores de la Facultad de Ingeniería de la Universidad de Antioquia
+Debemos comprobar que con el calculo que hemos hecho la masa de la partícula tiene la relación",0.5442608387499999,,,</s>,de
+78,on_p50,20,1,79,"Kohlrabi adalah tanaman sayuran berkalori tinggi yang biasa tumbuh di garis pantai di lingkungan temperatur hangat. Kohlrabi adalah makanan yang baik untuk umum untuk kesehatan.
+Kohlrabi mengandung zat anti-oksidan yang dapat mengurangi peradangan yang dialami pada kulit dan juga sangat banyak kandungan vitamin A. Kandungan ini",0.5442608387499999,,,</s>,de
+79,on_p50,20,1,80,"L'édifice s'inspire de la forme de la croix de Malte, comme les cryptes sud du couvent des Dominicains à Paris (1628).",0.5442608387499999,,,</s>,de
+80,on_p50,20,1,81,"En 2008, la Fundación L’Oréal anunció una recaudación de fondos anual para financiar una investigación sobre la alopecia femenina. Esta fundación se inspiró en un estudio que realizó la Universidad de California en Berkeley, la Universidad de Duke, la Universidad de Stanford y la Universidad de Harvard.
+El estudio de 6 años de duración",0.5442608387499999,,,</s>,de
+81,on_p50,20,1,82,"Lors de leur dernière journée, les Haras nationaux d’Auteuil et de Vétroz ont été classés deuxième et quatrième. Une bonne performance pour ces deux disciplines qui relancent l’activité au...
+Le Grand National a ouvert ses portes ce mardi 16 février à Clairefontaine. Six épreuves se sont disputées dans",0.5442608387499999,,,</s>,de
+82,on_p50,20,1,83,"3. Derecha: Actualizar los archivos de menor tamaño hasta que no quede más disponible y no haya espacio libre.
+4. Izquierda: Iniciador (Start), Encienda y haga clic en Inicio (Start), o haga clic en la flecha que indica iniciar la actualización.",0.5442608387499999,,,</s>,de
+83,on_p50,20,1,84,"Et à vrai dire, je suis un peu déçue par le résultat. Honnêtement, la bande passante était suffisante sur le réseau de mon domicile, mais pour la suite, dans les transports en commun ou dans mon bureau, la vitesse de connexion a diminué.
+Malgré des problèmes de câble, la qualité d’",0.5442608387499999,,,</s>,de
+84,on_p50,20,1,85,"- « Ne vous inquiétez pas, vous ne serez pas seul » [V.]. Il faut que nos pensées soient à la disposition de Dieu, que nous cherchions à lui plaire, afin qu’il nous aide à le faire.",0.5442608387499999,,,</s>,de
+85,on_p50,20,1,86,12月5日，由重庆日报报业集团主办的“重庆日报报业集团新闻发布会暨2020重庆·重庆晚报年会在上海举行。中共重庆市委统战部副部长、市工商联党组书记顾江峰，上海市总商会党委副书记、秘书长陈建华，重庆市统战部副部长、市工商,0.5442608387499999,,,</s>,de
+86,on_p50,20,1,87,"Notre entreprise RGE offre des compétences dans tout type de travaux de changement, installation ou réparation de vos chaudières à gaz.",0.5442608387499999,,,</s>,de
+87,on_p50,20,1,88,"Les Canadiens pourront utiliser leurs cartes bancaires pour effectuer des achats. Les titulaires de la carte peuvent être reconnus par une icône de cadenas figurant sur le bord inférieur de la carte. Les titulaires de cartes en plastique ne recevront pas de cadenas.
+Depuis le 1er avril, les ventes à emporter sont autorisées moyennant un",0.5442608387499999,,,</s>,de
+88,on_p50,20,1,89,"O endereço de email utilizado na inscrição deverá ser válido e atualizado, para que possamos comunicá-lo da abertura do prazo de inscrição e recebimento das informações sobre as oportunidades da empresa.
+Os candidatos que se inscreverem para vagas no período de 23/04/2019 a 04/05/2019, poderão ser eliminados no dia 04/05",0.5442608387499999,,,</s>,de
+89,on_p50,20,1,90,"Il a ensuite apporté quelques précisions sur le financement de la mesure puis annoncé certaines nouveautés.
+""Motto O"" : une campagne de communication destinée en priorité aux jeunes, ouverte sur l’ensemble du territoire, avec 3 reportages liés à la campagne.
+""Mot du Jour"" : une campagne de communication nationale avec des envoyés spéciaux",0.5442608387499999,,,</s>,de
+90,on_p50,20,1,91,"Ahora en un componente de la parte trasera del vehículo, que quedará pegado a la puerta de la carga. Este componente es donde instalaremos la batería. Deberemos utilizar un taladro con lámina de seguridad para abrir la puerta, y pasar la batería por debajo de la puerta hacia adelante. Después de esto,",0.5442608387499999,,,</s>,de
+91,on_p50,20,1,92,"Based on the information we received, we looked at the existing systems, as well as the search and purchase functions on eBay.
+We implemented a mobile-friendly search engine that was easy to navigate and fast to search for specific products. The system worked very well – not only was the new interface easy to use, but the products",0.5442608387499999,,,</s>,de
+92,on_p50,20,1,93,"Ce contenu a été publié dans Dernières nouvelles d'Alsace, Infos Vosges, avec comme mot(s)-clé(s) accident, Allemagne, accident de la route. Vous pouvez le mettre en favoris avec ce permalien.
+fabien, je pense que le problème vient des jeunes…",0.5442608387499999,,,</s>,de
+93,on_p50,20,1,94,"Hướng dẫn sử dụng bếp từ Teka FE241B (2 trong 1) - Mã sản phẩm: FE241B - Công suất: 2,2 kW - Điện áp: 220V - Bảo hành: 12 tháng. - Vận chuyển. Đặt hàng trực tiếp tại:
+- Hệ thống bảng điều khiển",0.5442608387499999,,,</s>,de
+94,on_p50,20,1,95,"Mapei e organize a informação e a tecnologia de sua empresa para tornar o gerenciamento da estratégia mais eficiente e reduzir custos.
+Gerencie as informações com a ajuda de um moderno sistema de gerenciamento integrado de dados que permitem que você controle e gerencie as aplicações e seus recursos de forma integrada, segura e",0.5442608387499999,,,</s>,de
+95,on_p50,20,1,96,,0.5442608387499999,,,</s>,de
+96,on_p50,20,1,97,斑鸠鸟，是鸟纲鸠鸽科鸟类，斑鸠鸟的学名叫做Croiceros Croiceros。是一种小型，羽毛鲜艳的鸟类。斑鸠鸟形态特征 斑鸠鸟雄鸟 雄鸟的头部和背部是黑色的，翅膀和腹部是蓝色的。它具有,0.5442608387499999,,,</s>,de
+97,on_p50,20,1,98,"Nhằm lấy lại niềm tin của người dân, trong năm 2019, Đà Nẵng sẽ tập trung giải quyết các việc thu hồi đất mà thành phố đã nợ cấp huyện trên địa bàn thành phố, kết hợp với thực hiện các dự án, công trình hạ tầng lớn trên địa bàn thành phố.",0.5442608387499999,,,</s>,de
+98,on_p50,20,1,99,"Como cada jueves, desde Legazpi Televisión, llega el programa de actualidad más escuchado de la estación. Aquí, veremos la actualidad de la ciudad, los partidos de la NBA, etc.
+Este jueves, Legazpi Televisión presenta la séptima temporada del podcast de actualidad y opinión ‘Legazpi Directo’. Aquí, el programa",0.5442608387499999,,,</s>,de
+99,on_p50,20,1,100,"Our company is one of the leading manufacturers and suppliers of Stone Hire Truck in Lahore. Available in various specifications, these are manufactured using latest technology and the quality of the products is checked on various parameters. For more details, please call us!
+This entry was posted in Archive, Caledonia, Clothing and",0.5442608387499999,,,</s>,de

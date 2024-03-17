@@ -3,6 +3,7 @@
 # Copyright (C) 2022 Apple Inc. All Rights Reserved.
 #
 
+import re
 import typing as t
 
 import numpy as np
@@ -59,7 +60,7 @@ def top_k_top_p_filtering(
 
     if top_p > 0.0:
         sorted_logits, sorted_indices = torch.sort(logits, descending=True)
-        cumulative_probs = torch.cumsum(F.softmax(sorted_logits, dim=-1), dim=-1)
+        cumulative_probs = torch.cumsum(F.softmax(sorted_logits.float(), dim=-1), dim=-1)
 
         # Remove tokens with cumulative probability above the threshold
         sorted_indices_to_remove = cumulative_probs > top_p
@@ -83,19 +84,20 @@ def sample_sequence(
     model: torch.nn.Module,
     length: int,
     inputs: t.Dict,
-    device: str,
-    temperature: float = 0.8,
+    device: str = None,
+    temperature: float = 0.0,
     top_k: int = 0,
     top_p: float = 0.0,
     tokenizer=None,
     verbose: bool = False,
 ) -> torch.Tensor:
-    inputs = {k: v.to(device) for k, v in inputs.items()}
+    # inputs = {k: v.to(device) for k, v in inputs.items()}
+    inputs = {k: v.to(torch.device('cuda', 0)) for k, v in inputs.items()}
 
     past = None
     last_token = None
     inputs["use_cache"] = True
-    generated = inputs["input_ids"]
+    generated = inputs["input_ids"].cpu()
 
     with torch.no_grad():
         shown = 0
@@ -104,27 +106,35 @@ def sample_sequence(
             inputs["past_key_values"] = past
             if last_token is not None:
                 inputs["input_ids"] = last_token.unsqueeze(0)
-                inputs["attention_mask"] = torch.ones_like(inputs["input_ids"], device=device)
+                inputs["attention_mask"] = torch.cat((inputs["attention_mask"], torch.tensor([1]).unsqueeze(-1).to(torch.device('cuda', 0))), dim=1)#device=device)
 
             # Run inference
             outputs = model(**inputs)
             past = outputs.past_key_values
-            next_token_logits = outputs.logits[0, -1, :] / temperature
-            filtered_logits = top_k_top_p_filtering(next_token_logits, top_k=top_k, top_p=top_p)
-            last_token = torch.multinomial(F.softmax(filtered_logits, dim=-1), num_samples=1)
-            generated = torch.cat((generated, last_token.unsqueeze(0)), dim=1)
+            if temperature == 0.0:
+	            next_token_logits = outputs.logits[0, -1, :]
+	            last_token = torch.argmax(next_token_logits.float(), dim=-1).unsqueeze(-1)
+            else:
+	            next_token_logits = outputs.logits[0, -1, :] / temperature
+	            # filtered_logits = top_k_top_p_filtering(next_token_logits, top_k=top_k, top_p=top_p)
+	            last_token = torch.multinomial(F.softmax(next_token_logits.float(), dim=-1), num_samples=1)
+            generated = torch.cat((generated, last_token.unsqueeze(0).cpu()), dim=1)
 
             if i % 3 == 0 and tokenizer is not None and verbose:
                 out = generated[0, :].tolist()
                 sentence = decode_sentence(out, tokenizer)
                 print(sentence[shown:], end="", flush=True)
                 shown = len(sentence)
+            if int(last_token) == tokenizer.eos_token_id:
+                break
+
+        del inputs
 
     return generated
 
 
 def perplexity(
-    sentences: t.Sequence[str], tokenizer: PreTrainedTokenizer, model: PreTrainedModel, device: str
+    sentences: t.Sequence[str], tokenizer: PreTrainedTokenizer, model: PreTrainedModel, device: str = None
 ) -> t.Tuple[float, float]:
     """
     Compute the perplexity of the passed ``sentences`` according to a specific ``model``.
@@ -146,7 +156,7 @@ def perplexity(
             full_tensor_input = tokenizer.encode(
                 sos_token + sentence.replace(EOT_TOKEN, " ").strip(),
                 return_tensors="pt",
-            ).to(device)
+            ).to(torch.device('cuda', 0))
             full_loss = model(full_tensor_input, labels=full_tensor_input)[0].mean()
             ppl.append(torch.exp(full_loss).flatten().cpu().item())
     return float(np.mean(ppl)), float(np.std(ppl))
@@ -156,13 +166,15 @@ def generate_sentence(
     model: PreTrainedModel,
     tokenizer,
     prompt: str,
-    length: int,
+    length: int = 128,
     top_k: int = 0,
-    top_p: float = 0.9,
-    temperature: float = 0.8,
-    device: str = "cpu",
+    top_p: float = 0.0,
+    temperature: float = 0.0,
+    # device: str = "cpu",
+    device: str = None,
     eos: bool = False,
     verbose: bool = False,
+    remove_another_q: bool = False,
 ) -> t.Tuple[str, float]:
     """
     Generate a sentence with nucleus sampling using a `context` as initial model input.
@@ -184,15 +196,22 @@ def generate_sentence(
         Perplexity of the generated sentence.
 
     """
+    """
     if length < 0 and model.config.max_position_embeddings > 0:
         length = model.config.max_position_embeddings
     elif 0 < model.config.max_position_embeddings < length:
         length = model.config.max_position_embeddings  # No generation bigger than model size
     elif length < 0:
         length = MAX_LENGTH  # avoid infinite loop
+    """
 
     raw_prompt_text = prompt
     inputs = tokenizer(raw_prompt_text, return_tensors="pt")
+    #inputs = tokenizer(raw_prompt_text, return_tensors="pt", add_special_tokens=True)
+    #inputs = tokenizer(tokenizer.eos_token + raw_prompt_text, return_tensors="pt", add_special_tokens=False)
+
+    print("check")
+    print(inputs)
     out = sample_sequence(
         model=model,
         inputs=inputs,
@@ -200,7 +219,7 @@ def generate_sentence(
         temperature=temperature,
         top_k=top_k,
         top_p=top_p,
-        device=device,
+        #device=device,
         tokenizer=tokenizer,
         verbose=verbose,
     )
@@ -215,17 +234,24 @@ def generate_sentence(
                 print("Found eos!!!", generated_sentence.index(tokenizer.eos_token))
         except ValueError:
             pass
-
+    """
     ppl, ppl_std = perplexity(
         sentences=[
             generated_sentence,
         ],
         model=model,
         tokenizer=tokenizer,
-        device=device,
+        #device=device,
     )
+    """
+    if remove_another_q:
+        match = re.search(r"(Q:\s*[\s\S]*?)(?:\n*Q:|$)", generated_sentence)
+        if match:
+            generated_sentence = match.group(1)
+        
 
-    return generated_sentence, ppl
+    # return generated_sentence, ppl
+    return generated_sentence, None
 
 
 def force_units_hooks(
@@ -294,8 +320,10 @@ def force_units_hooks(
         units_force = torch.tensor(layer_df["unit"].values, dtype=torch.int64)
         if value == "zero":
             vals_force = torch.zeros_like(units_force, dtype=torch.float32)
+            # vals_force = torch.zeros_like(units_force, dtype=torch.int8)
         else:
             vals_force = torch.tensor(layer_df[value].values, dtype=torch.float32)
+            # vals_force = torch.tensor(layer_df[value].values, dtype=torch.int8)
 
         model.set_units_in_layer(
             layer_name=layer_name,

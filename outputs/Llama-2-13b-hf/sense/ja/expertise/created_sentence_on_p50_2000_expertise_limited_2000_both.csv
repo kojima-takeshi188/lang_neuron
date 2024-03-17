@@ -1,0 +1,383 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,2000,1,1,"You are here: Home / Summer Guest
+Spend your summer in an exciting new environment while exploring your passion for art or music with a workshop at Bard Summer.
+At Bard Summer, our mission is to give bright, talented, and artistic high school students a place to explore",0.527317257637,,,,ja
+1,on_p50,2000,1,2,"＜Inside N.Korea＞ Father’s Passing Away Propels Flow of Talented, Ambitious Youths Abroad - 08
+＜Inside N.Korea＞ Father's Passing Away Propels Flow of Tal",0.527317257637,,,,ja
+2,on_p50,2000,1,3,"We are a dedicated group of 12 and 5 year olds who meet for the 10:30 service on Sunday mornings, and the 5 year olds attend Sunday School as well. We combine the 5 year olds with the 12 year olds for certain activities",0.527317257637,,,,ja
+3,on_p50,2000,1,4,2020-09-15T23:20:13-04:00 2020-09-15T23:20:13-04:00 https://www.ussh.vnu.edu.,0.527317257637,,,,ja
+4,on_p50,2000,1,5,"
+
+import (
+	""encoding/json""
+	""errors""
+	""fmt""
+	""github.com/sacloud/usacloud/pkg/cmd/cflag""
+	""github.com/sacloud/usacloud/pkg/",0.527317257637,,,,ja
+5,on_p50,2000,1,6,"2018 Honda CRF450RX: First Look
+Honda’s Weapon for the GNCC and Hare & Hound Series.
+It’s no secret that Honda recently reconfigured its motocross-focused CRF450",0.527317257637,,,,ja
+6,on_p50,2000,1,7,"The numbers are in, and it turns out that the Raptors seemingly never-ending string of trades and roster churning has paid off in a major way.
+According to a new report from HoopsHype's Yossi Gozlan, the Toronto Raptors have",0.527317257637,,,,ja
+7,on_p50,2000,1,8,"
+def read_file_bytes(filepath):
+    with open(filepath, 'rb') as f:
+        return f.read()
+
+
+def read_file_lines(filepath):
+    with open(filepath, 'r') as f:
+        return f.",0.527317257637,,,,ja
+8,on_p50,2000,1,9,"300 Things I've Learned So Far in My 20's
+I can't believe I'm 23..
+I'm starting this post 23 days before I turn 23.
+Here are 300 things I've learned so far in",0.527317257637,,,,ja
+9,on_p50,2000,1,10,"← Roxanne
+An American Town →
+The Life Of A Pimp
+The air was still, the stars lit the sky and the moons path was set. The atmosphere was cool, most people were sound asleep. Cars raced by and the wind blew by my face I stood there",0.527317257637,,,,ja
+10,on_p50,2000,1,11,"A Grammar;
+Or, The English
+Language, Spoken and
+Written....
+The Seventeenth Edition, with Additions and Corrections.
+By R. BLOOMFIELD, M. A.
+MATRONAL.
+No. 14,",0.527317257637,,,,ja
+11,on_p50,2000,1,12,"# 上條恒志
+
+上條恒志（うえじょう つねし、1935年1月25日 - ）は、日本の政治家。自由民主党所属の元",0.527317257637,,,,ja
+12,on_p50,2000,1,13,"
+    :cond_2
+    invoke-virtual {v0, v1}, Landroid/content/Context;->getContentResolver()Landroid/content/ContentResolver;
+
+    move-result-object v0
+
+   .line 710
+    new-instance v1",0.527317257637,,,,ja
+13,on_p50,2000,1,14,"I am a photographer and image-maker based in Sydney. A lot of my work is shot in SE Asia and a lot of it is landscape. I also shoot fine art nudes (the occasional wedding, portraits and the odd event).
+My images are all available for licensing and",0.527317257637,,,,ja
+14,on_p50,2000,1,15,"package com.github.dreamhead.moco;
+
+import com.github.dreamhead.moco.model.Response;
+import org.junit.Test;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file",0.527317257637,,,,ja
+15,on_p50,2000,1,16,"Tags: python, pytorch, conv-neural-network
+
+Question: How to make Pytorch's Conv2dLayers take the output of a LSTM layer as input?
+
+I'm trying to use the Conv2d layers of Pytorch as",0.527317257637,,,,ja
+16,on_p50,2000,1,17,"# ファウンテンズ (アイルランド)
+
+ファウンテンズ(The Fountain)は、アイルランドのアルスター地方にある町。
+
+## 概要
+Available on",0.527317257637,,,,ja
+17,on_p50,2000,1,18,"#
+Vier
+Het is goed dat mijn vader niet in het hiernamaals in staat was om met ons te praten. Hij had me dat overigens wel geprobeerd. Toen ik tien jaar oud was, sliep ik in mijn k",0.527317257637,,,,ja
+18,on_p50,2000,1,19,"Our one-day workshop on Vulnerability Management best practices will introduce you to the fundamentals of Vulnerability Management and help you to define, assess, prioritize, and remediate risks that are present in your organization’s IT infrastructure.
+In this training, you",0.527317257637,,,,ja
+19,on_p50,2000,1,20,"# Gheorghe Hagi
+
+Gheorghe ""Gica"" Hagi (Bălți, RSS de Molda, 5 de febrer de 1965) és un exfutbolista i entrenador de futbol romanès. Va disputar ",0.527317257637,,,,ja
+20,on_p50,2000,1,21,"This is a placeholder page for Mary Mead, which means this person is not currently on this site. We do suggest using the tools below to find Mary Mead.
+You are visiting the placeholder page for Mary Mead. This page is here because someone used our placeholder utility to look for Mary Mead.",0.527317257637,,,,ja
+21,on_p50,2000,1,22,"3D CAD Graphic Designers In Goulburn
+3D CAD Graphic Designers In Goulburn NSW
+Tell us what you need. Our experts will call you back as soon as possible.
+Confidentiality and data protection. We will never share your personal information",0.527317257637,,,,ja
+22,on_p50,2000,1,23,"5 Secrets to be a Successful Startup
+5 Secrets to be a Successful Startup Successful entrepr
+5 Secrets to be a Successful Startup Successful startup requires
+5 Secrets to be a Successful Startup Successful startup re
+5 Secrets to be a Successful",0.527317257637,,,,ja
+23,on_p50,2000,1,24,"⬅ Getting to the Heart of Discipleship
+Learning from a Non-Christian ➡
+What to Do When God Doesn’t Show up
+The past few years have been an interesting journey, and I’ve realized I’ve grown a lot. But when",0.527317257637,,,,ja
+24,on_p50,2000,1,25,"CNN's Samantha Bee Explains How She Survives The Trump Era
+""There seems to be a weird outrage vacuum where people are like, 'It's all about the Clintons!' And I'm like, 'No, they literally raped a masse",0.527317257637,,,,ja
+25,on_p50,2000,1,26,"This is a 2016 Nissan Pathfinder Platinum with 40,586 miles on it. This SUV has 4WD and is Extremely Clean. It has 3rd Row Seating, Backup Camera, Bluetooth, Push to Start",0.527317257637,,,,ja
+26,on_p50,2000,1,27,"The Forgotten History Behind Los Angeles’s Famed Sentinel Artworks By John And Lora Little
+The Forgotten History Behind Los Angeles’s Famed Sentinel Artworks
+By John And Lora Little
+Los Angeles artist John Little and his wife Lora Little",0.527317257637,,,,ja
+27,on_p50,2000,1,28,"
+        :type res: :class:`~roboflow.dataset.Variant`
+
+    :return: The number of elements in this dataset.
+
+    :rtype: int
+    :type count:
+    """"""
+    return int(sum(len(v) for v in",0.527317257637,,,,ja
+28,on_p50,2000,1,29,"I have known for a few years that I had a fairly serious nutritional deficiency. But I always chose to ignore it and hope it would get better on its own.
+A few years ago I got tested for nutrient deficiencies. I was lacking in 3 out of the",0.527317257637,,,,ja
+29,on_p50,2000,1,30,"09/15/2021 08/20/2021 Dale HinnantLeave a comment
+One of the most unpopular and misunderstood aspects of the Christian faith is the fact that God is sovereign. The doctrine of God’s so",0.527317257637,,,,ja
+30,on_p50,2000,1,31,"A WWII U.S. M1A1 carbine as used by the Third Army, U.S. 104th U.S. Infantry “Timberwolf” Division, and 761st Tank Battalion, and at the Battle of the Bulge.
+The",0.527317257637,,,,ja
+31,on_p50,2000,1,32,"At last year's PICNIC Conference in Amsterdam, the designers of PICNIC helped to solve the problem of raising the kids off the floor. And it was a problem as a couple of guests had fallen into the water-filled crates that were used as ""chairs"" during the",0.527317257637,,,,ja
+32,on_p50,2000,1,33,"
+
+[![Build Status](https://travis-ci.org/igo-jp/apm-metric-d.png?branch=master)](https://travis-ci.org/igo-jp/apm-metric-d)
+
+[![NPM package](https://node",0.527317257637,,,,ja
+33,on_p50,2000,1,34,"1954 Ford Ranch Wagon - 6500 Sq Ft
+In 1954, the automotive industry was going full boar, as the post-war economy was more than strong enough to support a plethora of new cars and trucks.",0.527317257637,,,,ja
+34,on_p50,2000,1,35,"The 35-year-old has been out of action since the World Cup
+Pedro has returned to Barcelona training, a step closer to returning to the first-team fold.
+The 35-year-old has not played for the Blaugrana since the World Cup in November",0.527317257637,,,,ja
+35,on_p50,2000,1,36,I have a new project to work on. I can't wait to start on it and I hope I can get it done in a timely manner. It is a Christmas gift for my son's teacher. I'm going to use some of the kits I bought at the stitching show for,0.527317257637,,,,ja
+36,on_p50,2000,1,37,"
+> # regroup
+>
+> (let* ((cl: (load ""cl:""))
+>       (log: (make-instance 'tlog:logger :name 'cl: :level :debug))
+>       (repl: (log:start-repl log cl:)))",0.527317257637,,,,ja
+37,on_p50,2000,1,38,"# Kuh Gār
+
+Kuh Gār (persiska: کوه گار, Ḵūh Gār) är en ort i Iran. Den ligger i provinsen Kermanshah, i den nordvästra delen av landet, 4",0.527317257637,,,,ja
+38,on_p50,2000,1,39,"# Legg
+
+Legg is a surname. It may refer to:
+
+* Anne Legg (born 1952), English television presenter and broadcaster, best known for working for the BBC
+* Andrew Legg (born 1986), Australian cricketer
+",0.527317257637,,,,ja
+39,on_p50,2000,1,40,"﻿using System;
+using System.ComponentModel.Composition;
+using System.Text.RegularExpressions;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Collections.Generic;
+using System.Collections.Specialized;
+using System.Collections",0.527317257637,,,,ja
+40,on_p50,2000,1,41,"06/09/2016 Thu 11:02 in China by Angel Tang
+佩蒂+ジミー、包斗娘の率団で騒擾中秋祭
+Chinese",0.527317257637,,,,ja
+41,on_p50,2000,1,42,There are 2 other files named sts.rnd in the archive. Click here to see a list.,0.527317257637,,,,ja
+42,on_p50,2000,1,43,"
+
+      var newId = this.indeks.insertBefore( newNode, this.noder.filter( function( elem ) {
+        return elem!== node;
+      } ).length > 0? this.noder.filter( function( elem ) {
+        return elem!== node",0.527317257637,,,,ja
+43,on_p50,2000,1,44,"I’ve got a thing for DD. I’ve known about them for years. I followed the rise of their enclosed double-decker bus, the “Jumbojet”. I liked their ads. I even took a ride with them once. But I have to admit, they’ve",0.527317257637,,,,ja
+44,on_p50,2000,1,45,2014-01-13T10:02:00-05:00https://images.c-span.org/Files/8a4/20140113100443002_hd.jpgForm,0.527317257637,,,,ja
+45,on_p50,2000,1,46,"
+        assertEquals(0, test.getWidth());
+        assertEquals(0, test.getHeight());
+        assertEquals(0, test.getChannelCount());
+
+        // sanity check (getVolume)
+        double volume = test.getVolume();
+        assertNotNull(",0.527317257637,,,,ja
+46,on_p50,2000,1,47,"Rare Mormon Manuscript--Joseph Smith's Translation of the Bible--Being Restored to Utah
+SALT LAKE CITY, UT -- After a 158-year odyssey, one of the world's rarest manuscripts is coming",0.527317257637,,,,ja
+47,on_p50,2000,1,48,"
+
+#include ""test.h""
+
+#include <stddef.h>
+#include <sys/types.h>
+#イ
+#include <unistd.h>
+#include <stdlib.h>
+#include <stdbool.h>
+
+#include",0.527317257637,,,,ja
+48,on_p50,2000,1,49,"Sony Screens ‘Morbius’ in 1,000 Theaters
+Sony Pictures has announced the company screened its upcoming horror film Morbius in over 1,000 theaters in the U.S. over the weekend.
+Sony hired about ",0.527317257637,,,,ja
+49,on_p50,2000,1,50,"What are the Chances of Pregnancy After IVF?
+The most common question we get is, “what are the chances of pregnancy after IVF?”. The answer to this question is complicated, but to put it simply, it depends on the type of IVF you’ve had",0.527317257637,,,,ja
+50,on_p50,2000,1,51,"
+        Point current = initial;
+        while (isOnPath(current, waypoints))
+        {
+            current = next_wp(current, waypoints);
+        }
+        // subtract this distance
+        result = 0;
+        for (size_t i = 0;",0.527317257637,,,,ja
+51,on_p50,2000,1,52,"AUD/USD Price Outlook: Will Australian Dollar Bulls Rebound from 76.4% Fibonacci?
+Australian Dollar, AUD/USD, RBA Rate Decision, Australia Jobs Report, U.S. NFP Jobs – TAL",0.527317257637,,,,ja
+52,on_p50,2000,1,53,"← Gotta love the people of Melbourne
+Elective Hysterectomy →
+New HCJB-International VP
+Willow Creek makes an effort to reach out to people outside of their own congregation. They have a slogan: We exist to meet the spiritual needs of",0.527317257637,,,,ja
+53,on_p50,2000,1,54,"# Calin B.
+
+Calin B. (born 19 March 1987) is a Romanian former rugby union player. He played as a scrum-half.
+
+Calin B.
+
+He played for Boteşti, IJAR București,",0.527317257637,,,,ja
+54,on_p50,2000,1,55,"We provide a free, comprehensive and detailed valuation on most vehicles.
+Call us on 0161 870 0555 or contact us online and we'll call you back.
+We stock over 650 top quality used cars, vans, 4x",0.527317257637,,,,ja
+55,on_p50,2000,1,56,"2013-2014 Graduate Hooding Ceremony
+The Graduate School held its third annual hooding ceremony, where graduates were honored and hooded by faculty.
+View all 59 images from 2013-20",0.527317257637,,,,ja
+56,on_p50,2000,1,57,"“My last comment is that Kodak, as a member of the board, is the ultimate responsible party who has to make sure that the right things happen on the football field,” he said. “It’s not always as clear as we want it to be. It’s not as clear as it",0.527317257637,,,,ja
+57,on_p50,2000,1,58,"Victoria's Secret lingerie Super Bowl ad deemed too racy for TV
+The Super Bowl broadcast will feature a swimsuit-style ad for Victoria's Secret Pink
+Victoria's Secret's lingerie Super Bowl ad won't air in its original form, due to",0.527317257637,,,,ja
+58,on_p50,2000,1,59,"""Live Aid""
+On Sunday, July 13, 1985, a 16-hour long, worldwide rock and roll concert was held to raise money to help drought victims in Ethiopia. The concerts in England and the United States were televised, making",0.527317257637,,,,ja
+59,on_p50,2000,1,60,"﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using System.Data.SQLite;
+",0.527317257637,,,,ja
+60,on_p50,2000,1,61,"
+    - ECR に構成されているイメージ。
+    - 各イメージは Amazon ECR のプライベートレジストリでホストされている。
+    - こ",0.527317257637,,,,ja
+61,on_p50,2000,1,62,"ASSORTED: my latest work in progress; God of the Hive
+January 16, 2013 By: TempestMy Fiction
+A few months ago I wrote about my work in progress and how it is a story about memory and a story about a person dealing with",0.527317257637,,,,ja
+62,on_p50,2000,1,63,"PEOPLE’S LEGISLATIVE CANDIDATES SOUGHT
+The Greater Taunton Area Democratic City Committee is seeking people’s legislative candidates for the 2010 election. Candidates must reside in Taunton, be a registered Democrat",0.527317257637,,,,ja
+63,on_p50,2000,1,64,"3001 W. Cuthbert Ave.
+www.solacewomensretreat.com
+info@solacewomensretreat.com
+Solace is a beautiful and peaceful retreat designed for spiritual renewal and personal healing.
+Solace has",0.527317257637,,,,ja
+64,on_p50,2000,1,65,"Nestled in the central highlands of Kenya, the 660 acre, 3000ft. private farm, Undugu Farm, set in the shadow of Mt. Kenya is the perfect place to work…
+The October 17, 2018",0.527317257637,,,,ja
+65,on_p50,2000,1,66,"If you are looking for a top-notch solution to your plumbing and heating problems, then you need to choose the right plumbers. From domestic and commercial plumbing services to heating services, our fully accredited plumbers and heating engineers have got the right skills and",0.527317257637,,,,ja
+66,on_p50,2000,1,67,"
+
+# LICENSING NOTICE
+
+    EyeD3 is a high-level C++3D video analysis toolkit.
+    Copyright 2014,2015,2016  Centre for Biological Timing,
+    Queensland Brain",0.527317257637,,,,ja
+67,on_p50,2000,1,68,"How to Invest in Bitcoin: A Beginner’s Guide
+Bitcoin has been the best-performing asset of the past decade. The cryptocurrency, which was worth pennies when it was introduced in 2009, is worth thousands at the time of this writing",0.527317257637,,,,ja
+68,on_p50,2000,1,69,"The Alberta Wilderness Association (AWA) has received a donation of more than $7,000 from Calgary-based company Enbridge in support of the organization’s efforts to enhance and protect Alberta’s wildlands.
+Enbridge has supported AWA’s efforts",0.527317257637,,,,ja
+69,on_p50,2000,1,70,"#13038720 – Get the Deal
+Topic: In the year 2019, Al-Athar Al-Alamiya for Trading and Development Company (ATDC) was established and had its head office in Riyadh, specialized in importing",0.527317257637,,,,ja
+70,on_p50,2000,1,71,"
+
+																																																														",0.527317257637,,,,ja
+71,on_p50,2000,1,72,"
+    def restrict(self, *paths, **kwargs):
+        """"""Restrict the current view to only match the given
+        paths.
+
+        Example::
+
+            # Restrict to /models/admin
+            # and /resources/admin
+            m.restrict(r'^",0.527317257637,,,,ja
+72,on_p50,2000,1,73,"2016 – Bridging the Gap
+An important focus of the SAA’s work is to build strong partnerships with other organisations in Australia and internationally.
+Australian Medical Association (AMA)
+The Australian Medical Association (AMA)
+The Australian Medical Association (",0.527317257637,,,,ja
+73,on_p50,2000,1,74,"1229.30(2) 1229.30(2) Out-of-service.
+1229.30(2)(a) (a) No employe may operate a motor vehicle if the vehicle is out-of-service as determined",0.527317257637,,,,ja
+74,on_p50,2000,1,75,"﻿using GalaSoft.MvvmLight;
+using GalaSoft.MvvmLight.Command;
+using LiveUp.Common.Contracts;
+using LiveUp.Common.Interfaces;
+using LiveUp.Common.Messaging;
+using LiveUp.Common.",0.527317257637,,,,ja
+75,on_p50,2000,1,76,"Cookies can be set for today’s visit as well as a permaent cookie, which is a cookie that is placed on a computer so that it can be used during future visits. The latter is e.g. used to remember if a certain message has been displayed.
+We use Google Analytics",0.527317257637,,,,ja
+76,on_p50,2000,1,77,"When you think about it you realize that all your goals are really just a series of numerous choices.
+When you’re a pro at making those choices, then your actions will always be in the direction of your goals.
+But why are some of us so much better at making choices than others?
+Tod",0.527317257637,,,,ja
+77,on_p50,2000,1,78,"
+A. In the beginning God created the heaven and the earth.
+
+B. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+
+C. And God said, Let there be light:",0.527317257637,,,,ja
+78,on_p50,2000,1,79,"# Liège-Bastogne-Liège 1977
+
+La 63e édition de Liège-Bastogne-Liège a lieu le 24 avril 1977 et est remportée par le Belge Hennie Kuiper, il est su",0.527317257637,,,,ja
+79,on_p50,2000,1,80,"This is a placeholder page for Beth Cog, which means this person is not currently on this site. We do suggest using the tools below to find Beth Cog.
+You are visiting the placeholder page for Beth Cog. This page is here because someone used our placeholder utility to look for Beth Cog.",0.527317257637,,,,ja
+80,on_p50,2000,1,81,"1. Abridg’d from those many fears which weight
+His vex’d heart down. And now to Rowe he flies,
+Finding the noblest of the gods his fate,
+God-like in sway and most in good report,
+His",0.527317257637,,,,ja
+81,on_p50,2000,1,82,"1099 MISC:
+A 1099-MISC (Miscellaneous Income) is an information return that is sent to the Internal Revenue Service each year. It reports payments made during the year from any business, including non-profit organizations,",0.527317257637,,,,ja
+82,on_p50,2000,1,83,"The City of Hartford and the Friends of Bushnell Park are pleased to announce that the park’s signature fountain will be turned back on tomorrow, Saturday, May 30, 2015, in a ceremony that will take place at the fountain at 11",0.527317257637,,,,ja
+83,on_p50,2000,1,84,"
+\title{Instantaneous nonlinear dynamics of the two-dimensional Fermi-Pasta-Ulam-Tsingou rattler}
+
+\begin{abstract}
+We study the nonequilibrium dynamics of the nonlinear Fermi-Pasta-Ulam-Tsing",0.527317257637,,,,ja
+84,on_p50,2000,1,85,"I’m getting the feeling that I can’t go to Japan without getting lost.
+Just a few years ago I was in Tokyo for a week and I got so lost I was crying. Now I’ve been lost in both Akihabara and Harajuku. It’s a cruel coinc",0.527317257637,,,,ja
+85,on_p50,2000,1,86,"A thoughtful form to remind us to live and love life. Wear this bracelet as a reminder to be in the moment and cherish every moment because ""life is short, cherish every moment""
+This is such a beautiful bag! I love this bag so much and the quality is the",0.527317257637,,,,ja
+86,on_p50,2000,1,87,"BrewDog Warns of Potential Data Breach, Says Hacker May Have Accessed Certain Information from Customers’ Accounts
+BrewDog USA, a U.S. based entity of the U.K. brewer and pub operator, BrewDog PLC, is",0.527317257637,,,,ja
+87,on_p50,2000,1,88,"This study was undertaken to systematically ascertain the relationship between the presence of the HLA-DRB1*0101 allele, a HLA-DRB1 polymorphic haplotype associated with rheumatoid arthritis (RA), and the incidence of RA",0.527317257637,,,,ja
+88,on_p50,2000,1,89,"The Rise of Rimfire
+Benchrest, High Power, and Silhouette rifles are now available in a.22 caliber, and interest is growing in this small-bore, big-bore cartridge.
+by Rifle Shooter Staff - Friday, March 6",0.527317257637,,,,ja
+89,on_p50,2000,1,90,"
+
+package com.prowidesoftware.swift.model.mx.dic;
+
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlElement;
+import",0.527317257637,,,,ja
+90,on_p50,2000,1,91,"1.2 What is the Holly ghost?
+1.7 When does Halloween 2016 End?
+1.8 What is the famous quote “Halloween”?
+Halloween is a holiday that is celebrated on 31st October every year",0.527317257637,,,,ja
+91,on_p50,2000,1,92,"they're still selling the hatch?
+I believe, correctly, that the hatch is one of the rarest and most valuable of the 1991-2001 Lotus models.
+Sorry to hijack the thread a little, but I’m intrigued",0.527317257637,,,,ja
+92,on_p50,2000,1,93,"402.345.1161 info@heartlandtech.com
+HBA Leadership
+HBA Committees
+HBA Chapters
+SMS for HBA Members
+HBA Events
+HBA Events Calendar
+HBA Dues
+HBA Memb",0.527317257637,,,,ja
+93,on_p50,2000,1,94,"
+Official College FPV Drone: DUO 250
+Official College FPV X-Copter: RACER 250
+Author: Virgil T. Rogers
+This is a re-posting of the original content.
+Hey Guys",0.527317257637,,,,ja
+94,on_p50,2000,1,95,"What Makes a Good Leader, According to a Top Leadership Expert
+By J.T. O'Donnell, Founder and CEO @ Work It Daily
+Leadership can mean different things to different people.
+Some say it’s part art. Some say it’s",0.527317257637,,,,ja
+95,on_p50,2000,1,96,"The forced funding of the AAA, AFC, FJC, NAB, and AIC showed that the RCD was becoming increasingly intolerant of dissenting opinion. These organisations were all expressly founded to promote peaceful and democratic means of settling the conflict.",0.527317257637,,,,ja
+96,on_p50,2000,1,97,"A transparent soap bubble is the perfect sphere, and the first step for us in realizing a soap bubble is to create the perfect sphere. In the 17th century, Robert Hooke described and sketched the perfect sphere. Hooke's pineapple experiment was done by hanging",0.527317257637,,,,ja
+97,on_p50,2000,1,98,"# 兼自资増
+
+兼自资増（かねじしま、?～?）は、平安時代末期の武将。九州の豪族で人吉兼自の",0.527317257637,,,,ja
+98,on_p50,2000,1,99,"Two years ago, my world was torn apart.
+My aunt, the only one who held our family together, was taken from this world.
+She was a beautiful and vivacious person, loved by all who knew her.
+Since her passing, I have struggled to make sense of the world.",0.527317257637,,,,ja
+99,on_p50,2000,1,100,"A simple and strong ring with a ball pattern, made of sterling silver.
+This ring is large, a finger size 22, please get in touch if you would like a smaller size.",0.527317257637,,,,ja

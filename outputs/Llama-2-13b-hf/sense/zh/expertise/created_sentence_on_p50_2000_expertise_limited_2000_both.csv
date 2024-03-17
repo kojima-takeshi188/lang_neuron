@@ -1,0 +1,548 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,2000,1,1,"﻿using System;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace DXFramework
+{
+    /// <summary>
+    /// 字符串工具类
+    /// </summary>
+    public static class String",0.5325163935235,,,,zh
+1,on_p50,2000,1,2,"
+$(document).ready(function(){
+	$(document).on(""click"","".submit"",function(){
+		var id = $(this).data('id');
+		var userid = $(this).data('userid');
+		var name = $(this).data('name');",0.5325163935235,,,,zh
+2,on_p50,2000,1,3,"﻿using System;
+
+namespace TheWorldAroundUS.Domain
+{
+    /// <summary>
+    /// The base class of every event that is going to be send from the gateway to the application.
+    /// </summary>
+    [Serializable]
+    public abstract class Event
+",0.5325163935235,,,,zh
+3,on_p50,2000,1,4,"2020-09-15 2022-01-13 afp.admin 0 Comments
+In 1968, the economic crisis coincided with the cultural revolution of the decade. In the world of fashion, the social changes that affected the",0.5325163935235,,,,zh
+4,on_p50,2000,1,5,"
+import (
+	""encoding/json""
+	""errors""
+	""net/url""
+	""strconv""
+	""sync""
+
+	""github.com/ZupIT/ritchie-cli/pkg/ritchie/repository/entity""
+	",0.5325163935235,,,,zh
+5,on_p50,2000,1,6,"﻿using Serilog;
+using SlimShader.Core;
+using SlimShader.Graphics;
+using System;
+using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
+using System.Threading.Tasks;
+
+namespace SlimShader",0.5325163935235,,,,zh
+6,on_p50,2000,1,7,"← A Beginner’s Guide to Finding a Good Fitness Tracker
+10 Steps to a New Business Idea →
+5 Things You Should Know Before You Try and Get a Home Loan
+Posted on November 3, 2017 by Financial
+Get",0.5325163935235,,,,zh
+7,on_p50,2000,1,8,"﻿using System;
+using UnityEngine;
+using Verse;
+
+namespace Cactus
+{
+	public class CactusDoor : Thing
+	{
+		public bool Enabled { get; private set; } = true;
+
+		public override void Expose",0.5325163935235,,,,zh
+8,on_p50,2000,1,9,"300 Things I've Learned So Far in My 20's
+I can't believe I'm 23..
+I'm starting this post with the name of one of my favorite books, the Secret Lives of Color.
+I am incredibly drawn to colors,",0.5325163935235,,,,zh
+9,on_p50,2000,1,10,"← Roxbury Presbyterian Church to host domestic violence panel and discussion
+The airwaves come alive in December →",0.5325163935235,,,,zh
+10,on_p50,2000,1,11,"""Meeting; what was learned about the rose, and the way to find it in the desert,"" Quimby said.
+They had just finished their meal.
+""I'll tell you now, it's a long story,"" Quimby said.
+""No, but I do recall",0.5325163935235,,,,zh
+11,on_p50,2000,1,12,"
+var check = require('check-types')(require('../'));
+
+var js = [
+    'var a = 1',
+    'var b = 2',
+    'var c = 3'
+];
+var css = [
+    '.foo {color: red",0.5325163935235,,,,zh
+12,on_p50,2000,1,13,"01-02-2014, 06:01 PM (This post was last modified: 01-02-2014, 06:06 PM by s0n0:)
+http://www.youtube.com/watch?v=",0.5325163935235,,,,zh
+13,on_p50,2000,1,14,"17 Nov 2019 — 22 Feb 2020 at the CAC in Vilnius, Lithuania
+Anri Sala. Courtesy of CAC
+For us, the music of Anri Sala (b. 1974) is",0.5325163935235,,,,zh
+14,on_p50,2000,1,15,"package com.github.jxen.pudding;
+
+import com.github.jxen.pudding.api.Ranges;
+import org.junit.Test;
+
+import java.util.regex.Pattern;
+
+import static org.hamcrest.CoreMatch",0.5325163935235,,,,zh
+15,on_p50,2000,1,16,"﻿@model CnShop.Web.Areas.Payment.Models.PaymentModel
+@{
+    ViewBag.Title = ""激活账户"";
+}
+@section head{
+    <style>
+        a {
+            text-decoration:",0.5325163935235,,,,zh
+16,on_p50,2000,1,17,"# 伯克利浸会大学
+
+伯克利浸会大学（Berkeley Divinity School）是美国哈佛大学下属的一所神学研究院，成立于1816年，",0.5325163935235,,,,zh
+17,on_p50,2000,1,18,"#
+Vladimir's mother, Inna, was the same age as Rosa. She and Rosa had a lot in common. They both worked the night shift at the same hospital. They both had a young son. They both had husbands who were somewhere far away, or else missing or dead.",0.5325163935235,,,,zh
+18,on_p50,2000,1,19,"Our one of a kind 100% pre-shrunk cotton flannel shirt is guaranteed to keep you warm and cozy all season long, but they are also great for any occasion. Whether it is a night out on the town or a big game watching party, this flannel shirt",0.5325163935235,,,,zh
+19,on_p50,2000,1,20,"
+
+ <div class=""card"">
+  <div class=""card-body"">
+  <div class=""card-title mt-4"">
+  
+    <h4>Customer Data</h4>
+  </div>
+ 
+  <?php
+
+  if(count",0.5325163935235,,,,zh
+20,on_p50,2000,1,21,"clickforsms.com 9 out of 10 based on 400 ratings. 700 user reviews.
+The 1200 outboard is a 12 hp outboard, which is a staple of the Mercury brand. The 120",0.5325163935235,,,,zh
+21,on_p50,2000,1,22,"
+<div class=""row"">
+	<div class=""col-sm-8"">
+		<div class=""panel panel-primary"">
+			<div class=""panel-heading"">
+				<h3 class=""panel-title"">添加时��",0.5325163935235,,,,zh
+22,on_p50,2000,1,23,"﻿using System.Web.Mvc;
+using System.Web.Routing;
+using FluentAssertions;
+using NUnit.Framework;
+using Squidex.Infrastructure;
+using Squidex.Infrastructure.Helpers;
+using Squidex.",0.5325163935235,,,,zh
+23,on_p50,2000,1,24,"⚡️Read the latest news about Chelsea and Primeira Liga. Follow @en_btctop👨‍💻
+‘Ancelotti is an opinionated man’
+Former Chelsea man Paulo Ferreira has rejected Jurgen Klopp’",0.5325163935235,,,,zh
+24,on_p50,2000,1,25,"九宫娱乐平台 is a way to visit the universe, a way to have fun. Flight simulator can imitate physics, flight rules and even weather. But it is not possible to have the same experience as in 真人游戏. So if",0.5325163935235,,,,zh
+25,on_p50,2000,1,26,"05 22 00 - Masonry Wall Drainage
+One of BIM (Building Information Modelling) main goals is to enhance the Visualization of the Building Designs, thus, the 3D BIM Model is the most convenient tool to show the Client the objectives",0.5325163935235,,,,zh
+26,on_p50,2000,1,27,"﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Eccentri.Core.Attributes
+{
+    [AttributeUsage(AttributeTargets.Property, AllowMultiple=false)]
+    public class KeyAttribute :",0.5325163935235,,,,zh
+27,on_p50,2000,1,28,"﻿using System;
+
+namespace Closed.Models.Interfaces
+{
+    public interface ISendMessageShopDetails
+    {
+        string Message { get; set; }
+        string ShopId { get; set; }
+        string Name { get; set; }
+       ",0.5325163935235,,,,zh
+28,on_p50,2000,1,29,"2022 Power Of Collecting: The Power of Collecting
+Power Of Collecting: The Power of Collecting
+2022 1oz Colour Changing Coloured Coin
+2022 1oz Colour Changing Coloured Coin in 3D Snowg",0.5325163935235,,,,zh
+29,on_p50,2000,1,30,"09/15/2021 08/20/2021 wikikarazalezdog, family, pet, protection, security
+In order to correctly care for a dog, correct nutrition is one of the most important components.
+Many dog bre",0.5325163935235,,,,zh
+30,on_p50,2000,1,31,"← Recipe: slow cooker beef brisket
+Recipe: BLT salad →
+Recipe: Slow cooker Indian beef curry
+Things were a bit brown in the cupboard tonight, and there was a tad bit of confusion over what to eat, so",0.5325163935235,,,,zh
+31,on_p50,2000,1,32,"← Catching up with the Easter Programme
+by Phil Lane | May 6, 2014 · 1:06 pm
+RAF vows to improve as a better-equipped RAF Linton-on-Ouse takes the trophy
+The RAF squad",0.5325163935235,,,,zh
+32,on_p50,2000,1,33,"1. Can’t remember what you had for lunch yesterday? You might have dementia – 123.hp.com/setup.
+2. Your ability to work is diminishing? You might have dementia – 123.hp.com/setup.
+3",0.5325163935235,,,,zh
+33,on_p50,2000,1,34,"1954 Ford F-100 6-cyl. engine, 3-speed manual transmission, 2WD, running gear, 14mm, 12mm, 14mm, 13mm taps & dies, new brake cylinder,",0.5325163935235,,,,zh
+34,on_p50,2000,1,35,"1754 - 1763（29）
+'Equity' in 1754-1763 1754 - 1763（29件）
+Attachment of Goods, for the Benefit of Creditors in America",0.5325163935235,,,,zh
+35,on_p50,2000,1,36,"​Catching Up with Amber Hay - Rodeo Reality
+Amber Hay is a barrel rider that’s been in the rodeo world since she was a young girl. Growing up in Texas, she’s got rodeo and horses in her blood. In 2",0.5325163935235,,,,zh
+36,on_p50,2000,1,37,"100 Greatest Players: Kareem Abdul-Jabbar
+Class of 1977 (Number 10)
+A 19-year NBA veteran, Kareem Abdul-Jabbar is the league’s all-time leading scorer with",0.5325163935235,,,,zh
+37,on_p50,2000,1,38,"
+    </div>
+    <!-- /.container-fluid -->
+
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.",0.5325163935235,,,,zh
+38,on_p50,2000,1,39,"9 / 10.0 - Dishonored: Death of the Outsider
+Dishonored: Death of the Outsider is a great experience for players, whether you are familiar with the Dishonored universe or not. It provides new gameplay mechanics, an interesting story",0.5325163935235,,,,zh
+39,on_p50,2000,1,40,"﻿using System;
+using System.ComponentModel.Composition;
+using System.Text.RegularExpressions;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Collections.Generic;
+using System.Collections.Specialized;
+using System.Component",0.5325163935235,,,,zh
+40,on_p50,2000,1,41,"06/09/2016 Thu 11:02 in China by Rezwana Manjur
+Nike to acquire Tiempo Istinto football boots brand
+FOOTWEAR BRAND Tiempo has been acquired by Nike, as the sportswear",0.5325163935235,,,,zh
+41,on_p50,2000,1,42,"← 2005-12-23-3 Thoughts on a Flower
+2006-01-06-1 Feeding Energy →
+2005-12-30-2 Mindfulness and Precision
+1.1 ",0.5325163935235,,,,zh
+42,on_p50,2000,1,43,"1 And Abraham went thence southward to Beer-sheba, and dwelt there for a long time.
+2 And it came to pass at that time, that Ab′ram bared his bosom, and let Noaḥ, the son of three years old, walk upon his bosom",0.5325163935235,,,,zh
+43,on_p50,2000,1,44,"﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Text;
+using System.Text.RegularExpressions;
+
+namespace LeetCode.Leet
+{
+    public class Unique_Paths
+    {
+        public int Un",0.5325163935235,,,,zh
+44,on_p50,2000,1,45,"2014-01-13 REGULAR BOARD MEETING
+The meeting of the Stillwater Board of Education was held in the Administration Building at 809 North Main on Monday, January 13, 2014 at 7:00 p.",0.5325163935235,,,,zh
+45,on_p50,2000,1,46,"，  
+""  
+""  iTerm 2 - A sexy, feature-filled, open source, terminal emulator for 
+""  Mac, Linux, and  BSD
+""  Copyright 2006-2011, George Nachman <george@it",0.5325163935235,,,,zh
+46,on_p50,2000,1,47,"2 MONTHS AFTER--A LETTER FROM HER
+
+BY
+
+P. G. WODEHOUSE
+
+1919
+
+_That manic-depressive person, the author of ""The Man Upstairs,"" at the age of twenty-",0.5325163935235,,,,zh
+47,on_p50,2000,1,48,"May 1, 2014 @ 5:00 pm–5:45 pm EDT
+« Webinar: “Reimagining the Public Schools: What Will It Take?”
+Teacher Forum: “Building Relationships with Other Teachers” »
+",0.5325163935235,,,,zh
+48,on_p50,2000,1,49,"﻿using System;
+using System.ComponentModel;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Controls.Primitives;
+using System.Windows.Media;
+
+namespace AIM.FontAwesomeIcons
+{
+    /// <",0.5325163935235,,,,zh
+49,on_p50,2000,1,50,"1.  Aim: What is the goal?
+2.  Purpose: Why are we doing this?
+4.  Approaches: What are our ideas?
+5.  Audience: Who are they?
+6.  Key Questions: What do they care about?
+",0.5325163935235,,,,zh
+50,on_p50,2000,1,51,"﻿using SharpDX;
+using SharpDX.Direct3D11;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System",0.5325163935235,,,,zh
+51,on_p50,2000,1,52,"﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AH.INVMS.UI.VM
+{
+    public  class VMProduct
+    {
+        public string",0.5325163935235,,,,zh
+52,on_p50,2000,1,53,"← Gotta love the people of Melbourne
+Electricity →
+The Bourne Ultimatum, the third of the Bourne movies and my favourite.
+I’ve not read the books so cannot comment, but I like the movies.
+The Ultimatum is a good,",0.5325163935235,,,,zh
+53,on_p50,2000,1,54,"# Callixena pica
+
+Callixena pica is a moth of the family Xyloryctidae. It was described by Edward Meyrick in 1921. It is found in Australia, where it has been recorded from New South Wales, the Australian Capital Territory and Queensland",0.5325163935235,,,,zh
+54,on_p50,2000,1,55,"9.26.2011 New Inserts Progress Report
+On September 26th, 2011, a new (48 pages) issue of ""New Inserts Progress Report"" was published in the internet. This issue and all previous issues of this newsletter are",0.5325163935235,,,,zh
+55,on_p50,2000,1,56,"2013-2014 Graduate Catalog
+Master of Global Management (MGM)
+Master of Global Management/JD
+Master of Global Management/MSN
+Master of Global Management/MBA
+Executive Master of Global Management (MGM)
+Executive Master of Global",0.5325163935235,,,,zh
+56,on_p50,2000,1,57,"“My last comment is that Kodak, as a member of the board, is the biggest moron I've ever met.”
+Donatello:
+“In this world, nothing can be said to be certain, except death and taxes. (Benjamin Franklin)
+And Micaelang",0.5325163935235,,,,zh
+57,on_p50,2000,1,58,"Victoria's Secret lingerie Super Bowl ad deemed too racy for TV
+Victoria's Secret airs racy Super Bowl ad
+Victoria's Secret will air a ""strong"" racy lingerie ad during the Super Bowl, but not before it was deemed too ",0.5325163935235,,,,zh
+58,on_p50,2000,1,59,"﻿/*
+* Copyright (c) 2007-2008 重庆美园网络科技有限公司
+* All rights reserved.
+* 隐私保护通知：",0.5325163935235,,,,zh
+59,on_p50,2000,1,60,"﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace HaiRent.Model
+{
+    public class ExtraPropertiesType
+    {
+        /// <summary>
+        /// 住户姓名
+",0.5325163935235,,,,zh
+60,on_p50,2000,1,61,"﻿using Eto.Forms;
+using PaintMania.Data;
+using PaintMania.Domain;
+using PaintMania.Services;
+using PaintMania.Views;
+using System;
+using System.Linq;
+using System.Threading.Tasks;",0.5325163935235,,,,zh
+61,on_p50,2000,1,62,"﻿namespace DotNet.Native
+{
+    using System;
+
+    /// <summary>
+    /// 表示时间。
+    /// </summary>
+    public class Time
+    {
+        /// <summary>
+        /// 获取当前时间。
+       ",0.5325163935235,,,,zh
+62,on_p50,2000,1,63,"2017 2018 2019 2020 2021 2022 2023 2024 March 2020
+2021 2022 2023 20",0.5325163935235,,,,zh
+63,on_p50,2000,1,64,"﻿using System;
+using System.Collections.Generic;
+using NSubstitute;
+using NUnit.Framework;
+using Toggl.Foundation;
+
+namespace Toggl.Networking
+{
+    [TestFixture]
+    public class TimeEntriesTests",0.5325163935235,,,,zh
+64,on_p50,2000,1,65,"﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using",0.5325163935235,,,,zh
+65,on_p50,2000,1,66,"﻿using System;
+using System.Collections.Generic;
+
+namespace iqonta.NET.Data.Models
+{
+    public class AccountBalanceDetailModel
+    {
+        public Guid AccountBalanceDetailId { get; set; }
+
+        public Guid AccountId",0.5325163935235,,,,zh
+66,on_p50,2000,1,67,"178 Loneliness Quotes: What Is Loneliness?
+Loneliness is a common thing that comes to everybody at certain points of their life. What makes people feel lonely? What is loneliness?
+Loneliness is a feeling of solitude, isolation and longing",0.5325163935235,,,,zh
+67,on_p50,2000,1,68,"← Infrastructure development a prerequisite for achieving ‘Golden Bangladesh’, says IFC President
+‘We’ll measure success by how much we’ve done for people’s health’ →
+US Foreign Affairs Committee Chairman calls on Hasina
+A US Congr",0.5325163935235,,,,zh
+68,on_p50,2000,1,69,"﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MLAPI.NetworkEvent
+{
+    /// <summary>
+    /// 
+    /// </summary>
+   ",0.5325163935235,,,,zh
+69,on_p50,2000,1,70,"#ifndef _WX_CINT_H_
+#define _WX_CINT_H_
+
+typedef int  Cint_t;
+#include <stdlib.h>
+
+#include <time.h>
+
+extern Cint_t *",0.5325163935235,,,,zh
+70,on_p50,2000,1,71,"13-year-old girl rescued after being trapped for 8 hours on floor of waterproof electric socket
+A 13-year-old girl spent the night trapped on the floor of a waterproof electric socket.
+The girl had ignored a warning from an adult relative that a",0.5325163935235,,,,zh
+71,on_p50,2000,1,72,"2020 BC Craft Beverage Festival
+Tickets $15.00 at the door
+Virtual Tasting Passes
+BC Craft Beverage Festival
+BC Craft Beverage Festival’s 2020 Virtual Tasting Passes allow you to",0.5325163935235,,,,zh
+72,on_p50,2000,1,73,"2013 – Brings change
+Thank you for the wonderful year that was 2013. In 2013, we continued to grow our business in Sharm el Sheikh. We have also started our operations in Mount Sinai. We hope to move our main office to",0.5325163935235,,,,zh
+73,on_p50,2000,1,74,"1229.30(2) ▶ A. Estimated emergency contents;
+1229.30(2) ▶ B. Storage;
+1229.30(2) ▶ C. Labeling;
+1229.3",0.5325163935235,,,,zh
+74,on_p50,2000,1,75,"﻿using GalaSoft.MvvmLight;
+using System;
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.ComponentModel;
+using System.Linq;
+using TTT.Models;
+using System.Threading.Tasks;",0.5325163935235,,,,zh
+75,on_p50,2000,1,76,"← 31 Days of Horror: Day 27-I CAN’T GO ON! I’LL GO ON!
+31 Days of Horror: Day 29-Zombies Just Want to Love You →
+31 Days of Horror: Day 28",0.5325163935235,,,,zh
+76,on_p50,2000,1,77,"﻿// Copyright ©2009-2012 Nikola Milenkovic, Nikola Jovanovic -  http://www.xfx.b9.com
+
+// Licensed under the Apache License, Version 2.0 (the ""License"");",0.5325163935235,,,,zh
+77,on_p50,2000,1,78,"1. In a saucepan over medium heat, melt butter and brown sugar (mixture will bubble and splatter).
+3. Add vanilla and stir until the sugar is dissolved.
+4. Remove the mixture from the heat and let it cool for a couple of minutes (only",0.5325163935235,,,,zh
+78,on_p50,2000,1,79,"
+
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.lines as mlines
+
+#from matplotlib import pyplot as plt
+from matplotlib.patches import Poly
+from matplotlib.patches import Rectangle
+from matplotlib.patches import Ellipse
+
+from skimage",0.5325163935235,,,,zh
+79,on_p50,2000,1,80,"xxxxxxxxx-xxxxxxxx-xxxxxxxx, 2019
+# 很久以前，我妈妈和我一起看了某一频道的童话故事节目，执着，一",0.5325163935235,,,,zh
+80,on_p50,2000,1,81,"﻿
+using System;
+using System.Net.Http;
+
+namespace API
+{
+    public class LocalApi
+    {
+        public static HttpClient HttpClient { get; private set; }
+
+        public LocalApi(LocalConfiguration config)
+            => HttpClient = new HttpClient",0.5325163935235,,,,zh
+81,on_p50,2000,1,82,"10912 Cedar St, Gardner, Kansas 66030
+www.bakeru.edu/
+Baker University is a private, four-year university serving students of traditional and nontraditional backgrounds and academic preparation through programs offered in multiple delivery modes.",0.5325163935235,,,,zh
+82,on_p50,2000,1,83,"1. What are the opening hours of the pool?
+2. Is parking available?
+Yes, the Westgate Pool parking facility has 213 parking bays
+3. Can I hire the pool for a private function?
+Yes, the pool is available for hire for",0.5325163935235,,,,zh
+83,on_p50,2000,1,84,"2018 Psychiatry Internship
+The Department of Psychiatry will be accepting residency applications to its I-1 Psychiatry Internship for 2018 - 2019. Applications will be accepted through the Electronic Residency Application Service (ERAS",0.5325163935235,,,,zh
+84,on_p50,2000,1,85,"​Speeding, Red Light Running, Left Turns and Cell Phones Affect Everyone
+Over the past few weeks, there have been several news reports about people being hurt in traffic accidents. Most of these accidents have been the result of speeding and/or red light running. The sad part",0.5325163935235,,,,zh
+85,on_p50,2000,1,86,"1. Do you love your computer?
+2. Do you love your printer?
+3. Do you love the power of the internet?
+5. Do you love saving money?
+6. Do you love the convenience of home delivery?
+7. Do you love to have cash in your pocket",0.5325163935235,,,,zh
+86,on_p50,2000,1,87,"BrewDog Warns of Possible Data Breach
+BrewDog has warned customers that a data breach may have exposed certain customer information.
+The Scottish craft beer company which operates a bar and live music venue in Aberdeen, sent an email to customers stating that a “third",0.5325163935235,,,,zh
+87,on_p50,2000,1,88,"1. What is the system of subsoil roads and where are they located?
+2. How long is the road from my town to the nearest main subsoil road? How many km of main subsoil road will I travel before I come to the nearest highway or interstate highway?
+3",0.5325163935235,,,,zh
+88,on_p50,2000,1,89,"20 Amazing & Creative Pinball Machines
+If you love playing pinball, then you should check out these amazing creative pinball machines that are really a work of art.
+Pinball machines are a great way to bring people together during parties, especially among groups of friends and family.",0.5325163935235,,,,zh
+89,on_p50,2000,1,90,"
+
+package com.prowidesoftware.swift.model.mx.financial.mx.doc.gr;
+
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind",0.5325163935235,,,,zh
+90,on_p50,2000,1,91,"	. $this->load->view('admin/header');
+	?>
+	
+	<div class=""content-wrapper"">
+		<!-- Content Header (Page header) -->
+		<section class=""content-header"">
+			<h1><?= $title;",0.5325163935235,,,,zh
+91,on_p50,2000,1,92,"they're still selling the hatch?
+I believe, correctly, that the hatch is one of the rarest and most valuable of the 1991-2001 Lotus models. The hatch has the 220 Supercharged engine.
+Last edited by",0.5325163935235,,,,zh
+92,on_p50,2000,1,93,"﻿namespace TxOld.App.Application.Contracts.Schools
+{
+    public class SchoolIn
+    {
+        public string Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public int",0.5325163935235,,,,zh
+93,on_p50,2000,1,94,"← Guest Post: The Federal Reserve: An Experiment in Crony Capitalism
+EU Chief Calls For Creation Of New Global Currency →
+Art Cashin: Gold Trade “A Dangerous Game”
+In recent weeks, precious metals have become a hotly deb",0.5325163935235,,,,zh
+94,on_p50,2000,1,95,"What Makes a Good Leader in a Business or Other Organization?
+Ghana allows bitcoin trading, to regulate it
+IBM has been at the forefront of advanced computing, but its true blockchain system could be much more disruptive.
+Ethereum Devs Rach",0.5325163935235,,,,zh
+95,on_p50,2000,1,96,"
+import React from'react';
+import { useDispatch, useSelector } from'react-redux';
+import {
+  Topbar,
+  TopbarLeft,
+  TopbarRight,
+  TopbarLogo,
+  SearchIcon,
+  SearchForm,
+  Search",0.5325163935235,,,,zh
+96,on_p50,2000,1,97,"← This means you: the Great Ibuprofen Shortage
+The Guardian Obit for the Greatest Woman Writer You Never Read →
+Sacrilegious Humor: Catholic School Sex Ed and 40 Days
+A Catholic School Sex Ed class shows the necessity for condoms even for married",0.5325163935235,,,,zh
+97,on_p50,2000,1,98,"# 兰斯赖勒
+
+兰斯赖勒（德語：，德语发音：[ˈlanst͡ʁaɪl] （ 聆聽））是德国巴伐利�",0.5325163935235,,,,zh
+98,on_p50,2000,1,99,"← MY TOP WEDDING PICKS FOR 2013
+embracing my inner bride →
+Why you should choose your bouquet and your bridesmaid’s dresses at the same time.
+Guys, the wedding talk on the blog is coming to",0.5325163935235,,,,zh
+99,on_p50,2000,1,100,"﻿using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Mvc.Rendering;
+
+namespace AspNetCore",0.5325163935235,,,,zh

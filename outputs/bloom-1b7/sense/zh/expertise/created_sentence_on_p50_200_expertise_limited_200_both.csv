@@ -1,0 +1,165 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,200,1,1,从整个北方来看，北方地区冬季较为寒冷，大部分地区年降雨量较少，再加上冬季北方气温较低，通常不会出现大风或降雪，基本处于干燥状态，一般植物生长较快，因此北方地区为冬季蔬菜的培育提供了良好的条件。对北方地区丰收和供应蔬菜，,0.53361792622,,,</s>,zh
+1,on_p50,200,1,2,"/*
+ *  Copyright (c) 2012 The WebRTC project authors. All Rights Reserved.
+ *
+ *  Use of this source code受到著作权法的保护。任何再使用此
+ * 源码的行为，都必须注明出处为“WebRTC项目组”。
+ *
+ * 未经本项目组授权",0.53361792622,,,</s>,zh
+2,on_p50,200,1,3,"六一儿童节儿童节是中国的传统节日,每年的6月1日这一天,全国各行各业都会举行庆祝活动,关心儿童健康成长,创造一个安全、健康、快乐、有益的儿童节日。 节日简介:六一儿童节又称世界儿童节,其起源是联合国于1969年12月21日",0.53361792622,,,</s>,zh
+3,on_p50,200,1,4,12月5日，太原大唐国际城项目顺利通过验收和交付，这标志着太原大唐国际城项目建设已进入收尾阶段，正式进入“收心”和“治心”的阶段。太原大唐国际城项目是太原重点建设工程，也是山西省落实“1+3+3”城市发展新,0.53361792622,,,</s>,zh
+4,on_p50,200,1,5,"3. Yolanda.- El fin de semana pasado me dió un ataque de matatras y sonó el teléfono de “medical atención”. Me llamó para preguntarme si quería mandar a Yolanda, una niñera, a supervisar la casa por si estaba la menor. Esta chica no tenía licencia. No me preocupé",0.53361792622,,,</s>,zh
+5,on_p50,200,1,6,"Q:
+
+Verifying the type of a method parameter with reflection
+
+I am trying to implement the following method...
+public static void Method_Execute(object param)
+{
+    var value = param.GetType().GetMethod(""Execute"").Invoke(param, null);
+}
+
+I am trying to verify the",0.53361792622,,,</s>,zh
+6,on_p50,200,1,7,"Neuromorphisms
+Neurologic disorders affect an estimated 600,000 individuals every year in the United States, 1 with a prevalence ranging from 1% to 3%. 2, 3 Until the late 1990s, all forms of neurologic disorders were considered to be of ""natural"" origin, that is, idiopathic.",0.53361792622,,,</s>,zh
+7,on_p50,200,1,8,"A nível de produção, a empresa detém cerca de 7,6 mil hectares, abrange a região do Alentejo e Évora, estando presente na comercialização de produtos de qualidade, principalmente nos setores da apicultura, da milhagem, da piscicultura e dos produtos não processados.",0.53361792622,,,</s>,zh
+8,on_p50,200,1,9,"The two queer characters in this book are opposites. While Ellie is different, it is not as different as Jaxon and is just as interesting.",0.53361792622,,,</s>,zh
+9,on_p50,200,1,10,"QĐND Online - Năm 2014, công tác bảo vệ, chăm sóc, nâng cao sức khỏe nhân dân (BV,CCPS) của tỉnh Quảng Ninh đã đạt được những kết quả quan trọng, góp phần quan trọng vào tiến trình công nghiệp hóa, hiện đại hóa, tạo nền tảng để tỉnh Quảng Ninh thực",0.53361792622,,,</s>,zh
+10,on_p50,200,1,11,欧姆龙（OMRON）集团（上市编号：3038.HK），是香港电子产品制造巨头。公司总部位于香港中区，产品广泛应用于消费电子、计算机、汽车电子、家用电器、医疗设备、工业自动化、运动与娱乐电子等领域，客户遍及全球220,0.53361792622,,,</s>,zh
+11,on_p50,200,1,12,"A partir del 1 de octubre del 2014, los autónomos, y también las PYMES, deberán presentar la declaración censal del Impuesto sobre Sociedades, IRPF y IVA (Multiple SVI) para personas físicas, de acuerdo con el real decreto 629/2014, de 30 de abril, para reducir la morosidad.
+La",0.53361792622,,,</s>,zh
+12,on_p50,200,1,13,在时代进步中不断发展，如今我们每个人身边都有一个电子产品，电子产品正在越来越多的走进我们的家庭中，而在家庭中，电脑成为大家必备的一个电子产品，不过电脑虽然方便快捷，但是长时间使用电脑，难免会出现各种问题，其中最常见的就是鼠标坏了，鼠标坏了，,0.53361792622,,,</s>,zh
+13,on_p50,200,1,14,"我们都知道在语文试卷中,有一道非常经典的文言文阅读题,题目叫做《送东阳马生序》,它是以我国伟大的文学家苏轼的作品为题材,而苏轼是我国宋朝比较有名气的文人,而苏轼在第19回中就曾经",0.53361792622,,,</s>,zh
+14,on_p50,200,1,15,大观园，是一个有30多年历史的具有民族特色的旅游胜地，位于温州市鹿城区瓯江口南，它由大观园正门和观澜亭连接，观澜亭是连接大观园前后两个景区的主要一点，是温州市著名的旅游景点之一，2005年被,0.53361792622,,,</s>,zh
+15,on_p50,200,1,16,原始人为了防止赤裸裸的裸露，会用石膏包裹和包扎起来。石膏是一种多孔材料，可以吸收汗液，还可以屏蔽灰尘和细菌。石膏是空气和皮肤的屏障，帮助防止日光直射和热辐射，防止皮肤和皮肤之间的湿度和,0.53361792622,,,</s>,zh
+16,on_p50,200,1,17,"-Không, em không cần phải mất công trời, em chỉ cần một cái đồng hồ, em có thể làm được, không cần anh phải mất công. -
+Em đang cười, anh nghe thấy, cười không đúng, anh biết, anh được gọi là anh, nên em có thể cười, nhưng cũng chỉ",0.53361792622,,,</s>,zh
+17,on_p50,200,1,18,"#!/usr/bin/env python
+# This script is intended to be run alone. It is NOT recommended to run this in
+# a cluster.
+
+# Python modules
+import argparse
+
+from sitelabs import config
+from sitelabs import util
+from sitelabs.config import Config
+from sitelabs.",0.53361792622,,,</s>,zh
+18,on_p50,200,1,19,采购产品 地铁专用电缆 兴杭州脚踏式车自动驾驶无人驾驶 率领全国首辆商业化应用无人驾驶微卡 浙江电动化载客小卡客车制造有限公司 浙江东风轻型卡车有限公司 浙江非机动车制造有限公司 浙江汽车控股有限公司 浙江广厦汽车集团有限公司,0.53361792622,,,</s>,zh
+19,on_p50,200,1,20,"此后，双方围绕数据资产管理解决方案展开深入交流，车安科技CEO张坚博士对车安科技作为一家专业的资产管理公司，在数据资产管理领域的创新发展，以及在车联网、大数据、人工智能、5G、物联网等新兴产业中的应用做了深入浅出的讲解。
+作为中国",0.53361792622,,,</s>,zh
+20,on_p50,200,1,21,《3d立体车库建筑设计》是2005年金盾出版社出版的图书，作者是刘俊为。本书主要介绍了立体车库设计的方法、技巧及CAD工程制图等。3d立体车库建筑设计内容简介 本书是一本立体车库建筑设计书籍，本书在介绍立体车库建设计算,0.53361792622,,,</s>,zh
+21,on_p50,200,1,22,在金庸先生笔下，武功最厉害的“五绝”，其中“独孤求败”无疑是天下闻名的。对于“独孤求败”这个人物，相信很多书迷们并不陌生，毕竟他的精彩表现，也是多部武侠小说里不可或缺的部分。不过，我们今天,0.53361792622,,,</s>,zh
+22,on_p50,200,1,23,第四步，实施。管理者要规定全球女演员候选人必需参加拍摄影片的截止日期，影片结束后，管理者必须进行考核，根据考核结果决定授予每个女演员奖项。在影视剧中，管理者要制定严格的奖惩制度，奖赏和惩戒由公司负责实施，并规定,0.53361792622,,,</s>,zh
+23,on_p50,200,1,24,"﻿namespace HomePage
+{
+    partial class AboutBox1
+    {
+        /// <summary>
+        /// 必要なデザイン元素。
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// 清理所有正在使用的资源。
+        /// </summary>
+        /// <param name=""disposing"">true",0.53361792622,,,</s>,zh
+24,on_p50,200,1,25,《距离·之主题词》是2005年湖南文艺出版社出版的图书，作者是(美)阿兰·尼希曼。同义词 距离（美国女作家阿兰·尼希曼创作的小说、散文集）一般指距离·之主题词 距离·之主题词内容介绍 莫德纳与,0.53361792622,,,</s>,zh
+25,on_p50,200,1,26,《特种兵之师》是北京极乐文化传媒有限公司、北京寰星天下影视制作发行有限公司联合出品的军事动作片，由陈玉勋执导，王博文、夏雨、申东、孙艺洲领衔主演，王静雯、刘子千、杨小野、黄,0.53361792622,,,</s>,zh
+26,on_p50,200,1,27,"冬至已过,还剩几日时间,阳历已过,农历还未到,但这个特殊的节日,对许多人来说,是一天中最想念的日子,这个节日的由来,也已经众说纷纭,""冬至""这个节日在《礼记》中,已经有了明确的记载",0.53361792622,,,</s>,zh
+27,on_p50,200,1,28,"There is no doubt that we are entering an era of uncertainty and the overwhelming need to bring down the cloud. Without the ability to trust the reliability of an IT infrastructure, a variety of organizational choices will be made to allow firms to return to business as usual as quickly as possible. But the ultimate strategic objective remains the same",0.53361792622,,,</s>,zh
+28,on_p50,200,1,29,PHP存储过程主要的工作就是执行程序，执行过程一般有两种： One，是单步执行，就是程序过程(PHP代码)只在对某个局部变量进行修改的情况下执行，程序不会改变数据库。Two，是多步执行，即程序过程可以执行多个次，每次修改不同的变量，每次,0.53361792622,,,</s>,zh
+29,on_p50,200,1,30,"/*
+ * This file is part of Arduino.
+ *
+ *  Arduino是一个集成了Google、Apple、微軟、Nokia等公司硬件資源的 公共云之上的开源软体平台。你可以在上面开发各种 硬件，比如高性能的计算平台、互联网连接、生物识别等等。
+ *",0.53361792622,,,</s>,zh
+30,on_p50,200,1,31,"“If the [biosimilars] market is going to grow, they’ll buy public companies.”
+Michael Williams, a 22year-old who worked as a researcher at the South Africa Institute for Animal Health, says biosimilars are a new, promising technology that could be a key to delivering a more sustainable and",0.53361792622,,,</s>,zh
+31,on_p50,200,1,32,"El segundo paso, y quizás más importante, es el que se realiza directamente en lo que llamamos “material”, o sea, el “ser” que se experimenta. Cuando te haces consciente, que es cuando te haces consciente de tu verdadera esencia, entonces descubres tu propia esencia. Cuando te tienes a ti mismo",0.53361792622,,,</s>,zh
+32,on_p50,200,1,33,"Charlesinox，世界著名的瑞士钟表制造商，于1906年在瑞士创立，位于日内瓦，主要生产运动计时仪器，产品深受众多运动爱好者的喜爱。Charlesinox公司于1906年创建，位于日内瓦, 产品主要涉及运动计时仪器, 深受众多运动爱好者的喜爱，主要生产运动计时仪器,",0.53361792622,,,</s>,zh
+33,on_p50,200,1,34,"- Ah, ma chère, presque rien... Je me suis faite engueuler parce que je ne me suis pas maquillée avec la poudre libre et donc il faut que je me rince les yeux avant de m’endormir. Et je me suis aussi fait engueuler parce que je n’ai pas fait mes ong",0.53361792622,,,</s>,zh
+34,on_p50,200,1,35,"《有句话想说》是由中国网大联盟出品，张永智，孙杰，刘宝良，王政等联合执导，张浩,袁亚冰,黄子琳,蔡晶盛,王少华等主演的都市情感剧。 该剧讲述了三个性格迥异的",0.53361792622,,,</s>,zh
+35,on_p50,200,1,36,"En cuanto al tema del libro, debo decir que sigue (y seguirá) en mi estantería, a la espera de conseguir una segunda lectura. La reseña la realicé hace un tiempo, y me gustó mucho, así que te confirmo que en lo que se refiere a esta segunda parte, no",0.53361792622,,,</s>,zh
+36,on_p50,200,1,37,,0.53361792622,,,</s>,zh
+37,on_p50,200,1,38,从传统工艺到现代工艺，从单一产品到多元产品，从单一产品到配套的多种工业，从手工制作到机械自动化和自动化生产，我国纺织机械行业近年来实现了跨越式发展，随着纺织工业的持续快速发展，纺织机械行业发展空间巨大，国家产业政策不断调整，,0.53361792622,,,</s>,zh
+38,on_p50,200,1,39,近日，由福建省泉州市泉港区李桥镇福然村党总支部、村委会、郑山社区党总支共同主办，泉港区检察院附设未成年人检察部承办的“福然·零距离”法治宣讲走进郑山社区的情况通报会在郑山社区会议室举行。,0.53361792622,,,</s>,zh
+39,on_p50,200,1,40,"A partir de então, a empresa começou a investir no uso da tecnologia nas operações, tanto para a otimização da gestão de pessoas, quanto para melhoria de processos e redução de custos. “Investimos e passamos a automatizar o controle de processos e de estoque, além de ampliar as operações das redes vare",0.53361792622,,,</s>,zh
+40,on_p50,200,1,41,赵丹华，男，1958年2月生，汉族，河北广饶人，大学学历，中共党员，1979年9月参加工作。曾任中共河北省委组织部部长。 1989.11—1992.02 河北省石家庄市长安区委副书记、区长 1992.02—1994.10 河北省石家庄市长安,0.53361792622,,,</s>,zh
+41,on_p50,200,1,42,"为了获取更多关于我要买维修房的问题,您可以拨打全国统一客服电话,获取最专业的资讯！ 详细咨询丨www.xiaoq i。 关注苏宁易购官方微信公众号:苏宁家电,了解更多苏宁家电优惠活动。 想知道你买的冰箱、",0.53361792622,,,</s>,zh
+42,on_p50,200,1,43,"今天要和大家聊聊关于我们新浪微博的一些小知识！ 微博是什么？ 微博是新浪微博官方为用户开发的一个微博客服务平台,用户可以通过微博访问新浪微博,与其他用户进行交流、互动。新浪微博由新浪公司运营,中国最大的中文信息服务提供商新浪公司-全球",0.53361792622,,,</s>,zh
+43,on_p50,200,1,44,"“Occasionally, people talk about the way that America is different from Europe. I think they’re probably talking about the way that we take care of the people.”
+“It’s also the opposite of the way we take care of people in Europe. I’ve seen quite a difference. But there are aspects that",0.53361792622,,,</s>,zh
+44,on_p50,200,1,45,"A partir de la próxima semana, se disputará en Argentina la Copa del Mundo de Patinaje, que por primera vez contará con la participación de una española en el equipo.",0.53361792622,,,</s>,zh
+45,on_p50,200,1,46,"Charli&243; et Ange, le duo de sculpteurs, sont n&232;s en 1969, de la m&233;moire et de l'amour de deux amis, carri&233;s dans le monde de la sculpture. Retrouvez les indispensables de votre trousse et m&",0.53361792622,,,</s>,zh
+46,on_p50,200,1,47,,0.53361792622,,,</s>,zh
+47,on_p50,200,1,48,"“ edifícios em que o piso é o único revestimento estrutural ”, como a casa própria, os prédios do governo e da iniciativa privada com base em alvenaria de tijolos, as áreas de uso exclusivamente residencial e o trecho da ponte Rio-Niterói.“ O piso de concreto armado é o tratado nas",0.53361792622,,,</s>,zh
+48,on_p50,200,1,49,"这两年,国内手机厂商的更新换代速度越来越慢,尤其是国产手机品牌,几乎每年都在发布新机。最明显的变化就是,以前品牌的旗舰都配备了全面屏设计,如今则情况相反,国产手机厂商中,6.5英寸屏幕占据了绝大部分的手机市场。不过",0.53361792622,,,</s>,zh
+49,on_p50,200,1,50,"        //Add Rule
+
+        if(!empty($rule)){
+            //create a new rule
+            //rule: http://example.com/mypage/
+            //rule: http://example.com/mypage/?param=My%2C%2C%2C%29&param=My%2C%2C%",0.53361792622,,,</s>,zh
+50,on_p50,200,1,51,"1. Field of Invention
+The present invention relates to an ultrasonic imaging system and an ultrasonic diagnosis tool.
+2. Description of Related Art
+In the field of medical imaging, ultrasonic imaging systems can measure the internal tissue structure using ultrasonic waves. Ultrasonic waves are formed by accelerating an ultras",0.53361792622,,,</s>,zh
+51,on_p50,200,1,52,市商務委副主任王希臻表示，為更好地跟上我市經濟低迷期，推動我市時尚產業穩步向前，市商務委會同相關部門積極推動我市“十四五”期間智慧化發展步伐，創新“百企百店百區”智慧化建設模式，,0.53361792622,,,</s>,zh
+52,on_p50,200,1,53,"1. Field of the Invention
+The present invention relates to a liquid crystal display (lcd) device, and more particularly, to an improvement in liquid crystal display device which can achieve high display brightness and maintain a large display area.
+2. Description of the Related Art
+A classical liquid crystal display (lcd",0.53361792622,,,</s>,zh
+53,on_p50,200,1,54,"关于妇产科疾病的症状及病因,大家一定有所了解,在生活中,我们经常遇到女性出现妇科疾病,需要咨询有关医生,了解哪些死环可能引起,出现什么症状,需要注意哪些问题,这些问题都是很关键的,在生活中,建议大家要关注这方面的知识。 导致子宫",0.53361792622,,,</s>,zh
+54,on_p50,200,1,55,我公司生產的永磁吸盤采用高強度永磁材料，加上一定的組分，可以通過磁力吸附和穿線等方法或工件表面特性，使工件固定在移動至其他位置，該永磁吸盤有,0.53361792622,,,</s>,zh
+55,on_p50,200,1,56,"在上一篇文章中，我们介绍了如何设置 Google 帐号密码重置时间，取消有效期和重置密码。如果用户取消有效期，重置密码，或将有效期延长，则他们的帐户密码仍然存在，代码可能会继续使用，直到他们设置重新密码或重新激活。
+如果包含 Google 帐号密码重置按钮，",0.53361792622,,,</s>,zh
+56,on_p50,200,1,57,"通常,一个人从出生后大约拥有350万个记忆细胞。当人们遇到新奇事物,就会对大脑中的记忆细胞进行学习,把这些新奇事物变成熟悉的记忆,这是大脑的学习能力。这种学习能力是在婴儿早期形成的。 婴儿出生时,胎盘和母体之间的联系已经",0.53361792622,,,</s>,zh
+57,on_p50,200,1,58,公司介绍：开店至今，高档茶叶包与Bk国内能发声玩具受到用户的一致好评，我们将继续努力提高服务和“kB永新iphone8手带”的产品质量，让您在网上也能买性价比高的档高茶叶包和Bj西宁鲜花一束送花人,0.53361792622,,,</s>,zh
+58,on_p50,200,1,59,"昨天,由中国旅游研究院、市场调查中心联合发布的数据显示,2018年春节黄金周,全国旅游人数约4.28亿人次,同比增加1723万人,增长9.3% ；实现旅游收入3199.6亿元,同比增长19.5%,其中,景区接待游客1.17亿",0.53361792622,,,</s>,zh
+59,on_p50,200,1,60,于婉晴 ，女，博士，副教授，硕士生导师，研究方向为纯天然药材应用开发及相关药学原理与应用，现任南京师范大学药学院药剂学教研室副主任，南京师范大学药学院药学院拔尖人才培养基地负责人。主要承担本科生和研究生《药理,0.53361792622,,,</s>,zh
+60,on_p50,200,1,61,"Yakuza: Kiwami 2 PSN+Xbox 360/PS3 - Todas las noticias,解读，评论，攻略。游戏概览。 介绍： Yakuza: Kiwami 2 PSP / PS3 / PS4 发布日期： 21.11.2013 游戏简介： 游戏主题： 犯罪、",0.53361792622,,,</s>,zh
+61,on_p50,200,1,62,"近几年来,随着中国汽车行业的不断发展,汽车行业已经有了长足的进步与飞速的发展,随着汽车行业的红火发展,豪华品牌的汽车也相继进入中国市场,逐渐占据中国高端汽车市场的中坚力量。最近几年,由于中国的一系列政策,以及人们消费观念的变化,",0.53361792622,,,</s>,zh
+62,on_p50,200,1,63,"角逐中的主人公们上演一场抢占歌剧舞台的争风抗雨之战。从剧目内容来看,不少剧目艺术地描述了戏剧游离于舞台表演之外的情境和人物,较有代表性的是《男耕女织》、《群英会》、《罗密欧与朱",0.53361792622,,,</s>,zh
+63,on_p50,200,1,64,Zig Ziglar以直觉式概念，从设计、生产、行销及研发，步步延迟、步步推进，甚至要以牺牲品来换取成功的自信。虽然如此，Zig Ziglar 仍不断推陈出新，不只延续其经典，更让更多人开始使用,0.53361792622,,,</s>,zh
+64,on_p50,200,1,65,"在苹果手机中,通过一个屏幕,我们就可以同时看到两个窗口。由于我们经常会同时打开两个非常大的文件,我们经常需要另外设置一个窗口,让这两个窗口同时显示。不过,现在有一种软件,可以把屏幕上的两个窗口同时显示,也许你并不需要两种功能。",0.53361792622,,,</s>,zh
+65,on_p50,200,1,66,"正值国庆黄金周,不少市民与家人来到东湖公园游玩,作为东湖公园最醒目的标志性建筑,水立方历年来是游客们争先观看的热门景点之一。然而,近日,在巨大的桃形喷泉和喷水飞机矗立在东湖公园中心之际,",0.53361792622,,,</s>,zh
+66,on_p50,200,1,67,在中國，每年約有數億的人為各種疾病致死，其中有400萬人是癌症患者，而中國每年死於癌症的人數高達960萬人。癌症，尤其是預後不佳的癌症，對於中國和全世界的人來說是一個巨大的負擔。被診斷為癌症後，治療和復原超過90%的癌症,0.53361792622,,,</s>,zh
+67,on_p50,200,1,68,"斗地主游戏规则通常情况下,由于牌手之间的牌形差不多,因此算牌的过程往往都类似,下面就来为大家分享一下斗地主的四个人最低的牌概率。 1、首先计算每人手上的牌,然后从这四人手中比较小的牌的概率,然后从这四人手中比较大的",0.53361792622,,,</s>,zh
+68,on_p50,200,1,69,人类的生物圈是命运共同体、命运共同体必须坚持平等相待、相互尊重、合作共赢理念，共同建设美好世界。，据悉，欧盟委员会主席容克在2015年曾提议建设欧盟军队，但这一提议遭到了时任英国首相卡梅伦的坚决反对，后不了了之。。很快，,0.53361792622,,,</s>,zh
+69,on_p50,200,1,70,"Para algunas personas, el rinconcito de la cocina supone un auténtico quebradero de cabeza. Gracias a la campana extractora para cocina con filtro, puedes hacerte con uno de los rincones del hogar más seguros y agradables. Te contamos…
+¿Estás pensando en comprar una campana extractora para cocina? ¿Cuáles",0.53361792622,,,</s>,zh
+70,on_p50,200,1,71,"Now they are getting a little mad and asking for $20 for the elephant. The owners of the elephant will take their money and leave. This little boy is daring enough to say he will take the money and go remain with the elephant. He truly is a boy!
+We had a very interesting visit to the Royal Ballet.",0.53361792622,,,</s>,zh
+71,on_p50,200,1,72,"Converse con los que han tomado la decisión de invertir o de no invertir en bienes raíces, te ayudarán a entender mejor el mercado y la rentabilidad que ofrece.
+Si tus ingresos mensuales son bastante altos, debes considerar comprar un departamento. De hecho, la renta de un departamento puede ayudarte a ahorrar en el pago del",0.53361792622,,,</s>,zh
+72,on_p50,200,1,73,说起分形，可能会有许多人感到陌生，今天就和大家来聊聊关于分形的一些基本概念。首先，什么是分形？分形，是一种几何学理论，它有一个奇特的性质，就是任何一个点都和周围的点有密切关系，包括给定一个点，我们,0.53361792622,,,</s>,zh
+73,on_p50,200,1,74,"原文地址:哈佛哥:2013年""一带一路""绿色金融全球峰会在海南开幕作者:哈佛哥 2013""一带一路""绿色金融全球峰会在海南开幕 【环球网讯】2013年7月15日,2013年""一带一路""绿色金融全球峰会(refinitiv china)的新闻发布会在海南三亚召开。本次会议由中国",0.53361792622,,,</s>,zh
+74,on_p50,200,1,75,"Pour la rentrée, nos locaux seront tous fermés du mardi 29 août au Jeudi 08 septembre inclus. Veuillez nous excuser pour la gêne occasionnée. Vous pouvez nous contacter directement, par mail à ou par téléphone au 0560 15 15 15.",0.53361792622,,,</s>,zh
+75,on_p50,200,1,76,林熙蕾（1972年3月16日－），本名林宇萍，是台湾著名歌手、演员、主持人，为20世纪90年代最为知名的一颗巨星，也是台湾流行乐坛90年代后半段的代表人物之一。林熙蕾以抒情歌走红，曾红遍两岸三地，后来由于政治事件,0.53361792622,,,</s>,zh
+76,on_p50,200,1,77,（四）建立健全群众性安全生产监督管理工作机制。健全安全生产监督管理部门与各部门、各行业、各企业的安全生产责任体系，明确各级安全生产责任，并以法律、法规和行政规章的形式明确各部门的职责，使安全生产监督管理工作有章可循、有据可依、有,0.53361792622,,,</s>,zh
+77,on_p50,200,1,78,"“Ể THAO SCIENCE” (“Eu acerto com a ciência”) – uma coleção de artigos científicos e curtas-metragens sobre Ciência. Escrito em parceria com a professora de biologia Sandra Kessler, o livro é um guia para a vida do aluno de ciências, que aborda os principais",0.53361792622,,,</s>,zh
+78,on_p50,200,1,79,"Kategoria :Artigos, Brasil, Brasil, Cidades, Cultura, Economia, Meio Ambiente, Política, Segurança, Turismo
+A cidade de São Paulo ocupa a segunda posição no ranking das 10 maiores geradoras de empregos informais do país, pelo Instituto Brasileiro de Geografia e Estatística ( IBGE ).A cidade também é",0.53361792622,,,</s>,zh
+79,on_p50,200,1,80,"有人说中国人是容易上当、吃亏、受骗的,而外国人却相信并乐于受人骗。事实证明,其实我们中国人真这么坏,而外国人却这么聪明。虽然中国人骗了外国人,但外国人却通过中国人骗了我们。 下面两个故事,一个出自印度的骗",0.53361792622,,,</s>,zh
+80,on_p50,200,1,81,"这是笔者从景区设施管理方面了解到的情况。据悉,景区设施管理实际就是景区的人文环境。由于景区面积较大,这一方面的管理难度较大。在旅游管理体系中,景区负责人是其中最重要的节点,也是景区管理者。众所周知,景区管理运营主要包含三方面内容:一",0.53361792622,,,</s>,zh
+81,on_p50,200,1,82,"大家好,我是附和,希望大家多多关注。 王珞丹可以说是娱乐圈中的不老女神,从出道到现在,已经出演过多部大热电视剧,收视率一直居高不下。 王珞丹32岁零3个月情人节当天,和老公王思聪一起到海边",0.53361792622,,,</s>,zh
+82,on_p50,200,1,83,3.1.5 消费者在购买前应详细阅读该商品《使用说明书》，要正确使用产品，并遵守有关保险、使用说明书、操作规程和本产品三包规定，否则，责任自负。零售商(小企业)和代理商(批发商)在销售,0.53361792622,,,</s>,zh
+83,on_p50,200,1,84,有人說，殺士婆婆者，即是你，你曾有一段生命，曾經犯下許多罪孽，卻沒有被打倒，也沒有被屠戮。所以，你消滅了人的生命，卻依然存在、存在、又存在，生死未泯。這，就是佛陀的智慧，也是佛陀,0.53361792622,,,</s>,zh
+84,on_p50,200,1,85,"-Ngày 6/1, Thủ tướng Chính phủ Nguyễn Tấn Dũng đã gửi công điện khẩn yêu cầu các Bộ, ngành, địa phương, cơ quan, đơn vị trong và ngoài nước, các hiệp hội, doanh nghiệp và toàn dân tích cực tham gia đối thoại, tháo gỡ khó khăn, vướng mắc, tạo mọi điều",0.53361792622,,,</s>,zh
+85,on_p50,200,1,86,12月5日，由重庆日报报业集团主办的“重庆日报报业集团新闻发布会暨2020重庆·重庆晚报年会”在重庆国贸大酒店举行。大会以“时代力量 聚焦重庆 赋能未来”为主题，来自重庆日报报业集团及各媒体单位的近400人参加了此次,0.53361792622,,,</s>,zh
+86,on_p50,200,1,87,无独有偶，去年10月份，行车记录仪厂商金龙汽车也发布公告，称公司子公司成都金龙汽车部件有限公司授权成都金龙汽车部件有限公司创新中心和金龙汽车技术中心，将自主研发的超智能汽车安全电子系统整合到汽车产品的设计当中，为公司未来,0.53361792622,,,</s>,zh
+87,on_p50,200,1,88,"交友时间地点 大家好,我是起名专家. 笔者从事起名研究二十多年,总结了众多成功案例,形成了独到见解和独特见解,擅长奇门,命理,姓名学研究,擅长根据生辰八字预测未来人生轨迹,把握人生命运方向,及个人",0.53361792622,,,</s>,zh
+88,on_p50,200,1,89,为贯彻落实党中央、国务院关于知识产权强国的战略决策部署，助力知识产权强国建设，规范商标评审工作，提高司法公信力，司法部部长傅政华29日在国新办新闻发布会上表示，商标评审机关要准确把握相关法律法规和内涵，坚持以特色化、专业,0.53361792622,,,</s>,zh
+89,on_p50,200,1,90,"原文地址:怎样获取爱情作者:白衣观音 爱情是美妙而神奇的。当爱情降临在身上,你是否感觉幸福？当你心爱的人离开你,你会感觉到无比的寂寞和空虚。然而,其实,不管世界的对与错,不管你身处何方,幸福总能驻",0.53361792622,,,</s>,zh
+90,on_p50,200,1,91,全民的购网-大乐透开奖结果|大乐透开奖结果|大乐透开奖结果|大乐透开奖结果|大乐透开奖结果|大乐透开奖结果|大乐透开奖结果|大乐透开奖结果|大乐透,0.53361792622,,,</s>,zh
+91,on_p50,200,1,92,"在去年年底的时候,博主就曾爆料过,吉利即将推出一款全新改款远景suv,它命名为帝豪gx,而此次吉利帝豪gx官图也终于正式曝光,从图片中我们也可以看出,帝豪gx采用的是家族式的设计,相比",0.53361792622,,,</s>,zh
+92,on_p50,200,1,93,功课制是 教学论的 重要理论之一，是十九世纪末20世纪初，西方教育思想家们为回答 教学论问题而创造的一套理论体系。它的基本思想是：教学不是单纯地传授知识，而主要是传授 思想和 品德，因而整个教学过程必须是,0.53361792622,,,</s>,zh
+93,on_p50,200,1,94,在您的入住期间，请您谨记酒店安全注意事项：务必锁好房门、锁好床头柜，不要将贵重物品放在床上，也不要在床上吸烟，不要使用明火，不要击打玻璃，不要使用大功率电器，不要在宾客休息时使用卫生间，不要,0.53361792622,,,</s>,zh
+94,on_p50,200,1,95,"Mãi mãi, người dân trên đảo sẽ luôn nhớ về hai anh hùng liệt sĩ Tô Quang Lịch - Nguyễn Hữu Cầu, những anh hùng chưa tròn 18 tuổi đã hy sinh ở Trường Sa, đã gánh vác cả một vùng biển miền nam, cả những gian nan, hiểm trở, vượt muôn vàn khó khăn, nguy",0.53361792622,,,</s>,zh
+95,on_p50,200,1,96,,0.53361792622,,,</s>,zh
+96,on_p50,200,1,97,斑马TV，是腾讯视频推出的为年轻人打造的移动视频、TV版的“月卡清空”服务。用户通过斑马TV，可观看电视台及电影频道的最新节目，而每月仅需缴收少量的月租费。 斑马TV于2020年5月正式上架安卓和苹果,0.53361792622,,,</s>,zh
+97,on_p50,200,1,98,为进一步贯彻落实国家精算师职业资格制度，提高精算从业人员的精算素养和业务水平，中国精算师俱乐部（以下简称“俱乐部”）和中国精算师协会（以下简称“协会”）在2019年12月份组织开展“精算师培训项目”一期。来自,0.53361792622,,,</s>,zh
+98,on_p50,200,1,99,精确的掌握脱毛方法和脱毛仪器也是很关键的，因为脱毛的方法和脱毛仪器的选择关系着治疗结果和会不会对皮肤造成任何伤害。激光脱毛虽然也是一种物理脱毛方法，但是效果却比传统的激光脱毛方法要快得多，而且只需一次脱,0.53361792622,,,</s>,zh
+99,on_p50,200,1,100,"在期货市场中,投资者阅读盘面信息对分析掌握走势大有裨益,盘面信息主要有三大类:一是价格信息,如当日、昨日、前一日或前几日盘中价格走势等；二是市场变动消息,如突发消息、管理层宣布的政策消息、公布的历史数据等；",0.53361792622,,,</s>,zh

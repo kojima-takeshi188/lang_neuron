@@ -1,0 +1,230 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,1000,1,1,"El actual entrenador de porteros, Luis Alberto Hernando, era el responsable de la última convocatoria del portero amarillo y de las retiradas de Gerard Piqué, Pedro, Sergi Roberto y Dani Alves.
+En la convocatoria de Zidane compartía portería con Casemiro, Sergio Ramos, Raphael Varane, Marcelo, Lucas Vázquez y James",0.8366883637399999,,,</s>,fr
+1,on_p50,1000,1,2,"/*
+ * Copyright (c) 2015, Oracle and/or its affiliates. All rights reserved.
+ * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
+ *
+ * This code is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public License version 2 only, as",0.8366883637399999,,,</s>,fr
+2,on_p50,1000,1,3,"#!/usr/bin/env python
+
+import os
+import sys
+import shutil
+
+# A quick way to update the config file
+def changeConfig(oldFile, newFile):
+	oldFile.close()
+	newFile.close()
+
+
+# This is the main function. It will take an input file and look for a",0.8366883637399999,,,</s>,fr
+3,on_p50,1000,1,4,"Le tout dans un décor qui fera le bonheur des plus petits avec de jolis éléments comme des crèches et autres objets en bois, du verre et, pour les plus grands, de la pâte à modeler.
+Le Centre Pompidou et la ville de Bobigny invitent les enfants à venir participer à une grande fête",0.8366883637399999,,,</s>,fr
+4,on_p50,1000,1,5,"L'henne à dents du Pérou ou H. licolops, est un mammifère de la famille des canidés. C'est un quadrupède herbivore qui se distingue par une fourrure de couleur blanc et des dents pointues. Elle affectionne les savanes et les terres hautes, et se",0.8366883637399999,,,</s>,fr
+5,on_p50,1000,1,6,"Vous êtes ici : Accueil / Download / Vidéos / Partie 3 : L’essentiel de la théorie quantique de la physique et de la métaphysique
+Les vidéos de Partie 3 : L’essentiel de la théorie quantique de la physique et de la métaphysique sont à télécharger gratuitement et à partager!
+",0.8366883637399999,,,</s>,fr
+6,on_p50,1000,1,7,"Né le 11 avril 1927 à St-Dié, près de Mulhouse, dans une famille bourgeoise de commerçants, il entre à la École nationale de théâtre de Strasbourg en 1941 et en ressort en 1945 avec le titre de fin d’études.
+Il fait ses débuts à la télévision française dans un téléfilm réalisé",0.8366883637399999,,,</s>,fr
+7,on_p50,1000,1,8,"Pourquoi sont les vols au départ de la France rares? En moyenne, les départs à la France sont rares par rapport à un autre aéroport pour la période de location souhaitée. Les départs sont plutôt rares en basse saison, mais très fréquents en haute saison.
+Il est important de connaître la météo locale avant de",0.8366883637399999,,,</s>,fr
+8,on_p50,1000,1,9,"The occasion que vous attendez depuis quelques semaines.
+Bienvenue à la société.
+Je suis...
+Ce n'est pas ce dont je parlais.
+Ici, tout le monde est là.
+Comment ça va?
+Bien.
+Bien.
+Nous avons une très bonne nouvelle à vous annoncer.
+- Quoi?
+- C'est un ami de...
+Je",0.8366883637399999,,,</s>,fr
+9,on_p50,1000,1,10,"Introduction
+Devises are tools in the market of interbank opinion where an agent or bank quotes a price at a given time. The quotes are often accepted or rejected on the basis of their adjustment to the actual interbank market situation, which is measured by the spot rates. If the quote is accepted, it is",0.8366883637399999,,,</s>,fr
+10,on_p50,1000,1,11,"C'est une histoire qui commence à être connue et qui continue à le être partout. Mais cette histoire n'est une énième excentricité de d'Brad Pitt, l'acteur qui depuis le début de la...
+Ils sont tous là, les quatre membres du jury du prix de la Critique de l’Admission au Festival de Cannes,",0.8366883637399999,,,</s>,fr
+11,on_p50,1000,1,12,"Comme pour un troisième ou un quatrième enfant, le bien-être de votre bébé et de vous pendant et après la grossesse est aussi important. C’est un fait, le bébé est plus sensible à ce qu’on lui offre, à ce qu’on lui apporte, et à ce qu’on lui montre. Les parents doivent donc apprendre à mieux communiquer, à",0.8366883637399999,,,</s>,fr
+12,on_p50,1000,1,13,"Por todo ello, desde la dirección de la escuela se ha pedido, en un comunicado, al Gobierno extremeño que realice ""ajustes en los presupuestos y convoque esta convocatoria de un mes de duración que, en caso de no realizarse, supondría un grave retroceso en la escuela de Monduejo"".
+En la",0.8366883637399999,,,</s>,fr
+13,on_p50,1000,1,14,"Exactement! Pour le premier j’ai utilisé en même temps une cartouche ancienne pour les heures et une autre pour les minutes, puis j’ai rajouté une aiguille ou une valve pour la seconde, et le tour est joué! 😉
+Le second mais il me semble que ça fait longtemps qu’il est passé. Il",0.8366883637399999,,,</s>,fr
+14,on_p50,1000,1,15,"Les utilisateurs de réseaux sociaux telles que Facebook ou encore Instagram sont le plus touchés par les fake news et les fake news sont mal comprises par une partie de la population que ce soit via les réseaux sociaux et les sites d’informations. L’objectif est donc de montrer à quelles conséquences les fausses informations peuvent avoir dans le quotidien.
+Les",0.8366883637399999,,,</s>,fr
+15,on_p50,1000,1,16,"Introduction
+The merger rate is an important cosmological parameter. Of particular interest is the mass ratio q = M 1 /M 2 : the relative mass of two galaxies. A merger rate of q = 1 corresponds to a pure collision, a merger rate of q = −1 corresponds to a pure capture, and a merger rate",0.8366883637399999,,,</s>,fr
+16,on_p50,1000,1,17,"Cette fois-ci nous vous invitons à découvrir un beau témoignage sur la difficulté de mettre en place un groupe (ou une équipe) dans un contexte de entrepreneuriat féminin, auprès d'une jeune femme qui portera le flambeau en assistant à à la cérémonie de remise des prix et à la soirée d'entreprises qui suivra",0.8366883637399999,,,</s>,fr
+17,on_p50,1000,1,18,"Après avoir longé un moment le pont de la rivière, les enfants ont pu pique-niquer confortablement dans les berges du Canal et du pont du Suze. Les enfants, également, ont pu profiter de la tranquillité et du calme de notre coin de nature.
+avec une carte blanche pour le chef Christophe,",0.8366883637399999,,,</s>,fr
+18,on_p50,1000,1,19,"Les bateaux de croisière à moteurs électriques ou à hydrogène sont interdits dans le port de Saint-Pétersbourg, les bateaux à moteur à essence ou à diesel engagés dans le trafic fluvial sont également interdits.
+Les avions et hélicoptères à moteur ainsi que les bateaux à moteur sont également interdits dans les zones de rassemblement.
+",0.8366883637399999,,,</s>,fr
+19,on_p50,1000,1,20,3 : * : bleu: par cohérence avec le surfe sur le même principe de fenêtres et tout en extérieur et à chacun de en fonctionnement de faire face aux exigences et les conséquences d’une fenêtre et climatisation ou porte fenêtre et ouverture automatique en rénovation à la double vitrage ou de le rapport qualité/prix exceptionnels,0.8366883637399999,,,</s>,fr
+20,on_p50,1000,1,21,"Pour la cinquième année consécutive, FSMW est partenaire de la journée internationale des femmes et pour la cinquième année consécutive, la ville de Strasbourg se mobilise pour cette journée du 8 mars.
+Pour cette cinquième année, FSMW et la ville de Strasbourg se sont associés pour donner à la journée internationale",0.8366883637399999,,,</s>,fr
+21,on_p50,1000,1,22,Le fait de tout cela impute au procureur de la République près le tribunal de grande instance de Saint-Etienne la mission de contrôle du respect de la présomption d'innocence et de garantir la indépendance du parquet et du juge d'instruction. L'autorité administrative doit être entendue par le procureur de la République dans les mêmes,0.8366883637399999,,,</s>,fr
+22,on_p50,1000,1,23,"On sait que LeBron James et Tony Parker sont deux stars au caractère très bien trempé. Ils sont également très divers et différents les uns des autres. Retour sur les 6...
+Et oui, tout le monde le sait désormais : Kobe Bryant et LeBron James sont les deux meilleurs joueurs du monde. Mais alors, qui",0.8366883637399999,,,</s>,fr
+23,on_p50,1000,1,24,"﻿namespace Logic.Evaluation
+{
+    public class SocialSituation
+    {
+        public int SocialPlace { get; set; }
+
+        public int PartyPlace { get; set; }
+
+        public int SocietyPlace { get; set; }
+
+        public int Rank { get; set; }
+
+        public int RankDiff { get; set; }
+
+        public int Total",0.8366883637399999,,,</s>,fr
+24,on_p50,1000,1,25,"Le projet est porté par une fondation qui regroupe une quinzaine d’acteurs et donneurs de sens qui se sont déjà investis dans la structuration du projet.
+Enfin, le projet est structuré autour d’un socle commun de valeurs et de valeurs partagées qui sont :
+Une approche située et pluraliste : Ici,",0.8366883637399999,,,</s>,fr
+25,on_p50,1000,1,26,"Le système de sécurité à 3 points de fixation et à la rotule du volant, le repose pieds et la partie latérale sont tous en acier pour leur solidité et durabilité. Les 2 coussins de siège de qualité supérieure et le cadre en aluminium robuste et résistant à la corrosion le rendent",0.8366883637399999,,,</s>,fr
+26,on_p50,1000,1,27,"Mais de 300 chefs de la délégation française à la Conférence sur les changements climatiques de Bali ont appelé le président français à prendre des mesures urgentes pour éviter la destruction de la biosphère.
+« Nous en saluons la déclaration », selon une déclaration publiée sur le site officiel de la Conférence des changements climatiques, ajoutant que ces",0.8366883637399999,,,</s>,fr
+27,on_p50,1000,1,28,"Les femmes sont plus susceptibles de être victimes de violences dans la sphère privée de trois façons. D’abord, parce que elles sont plus vulnérables à la violence parce que elles sont plus proches de leurs partenaires, et donc sont davantage susceptibles d’être en danger. Ensuite, parce que elles sont plus susceptibles de se sentir responsables de la violence",0.8366883637399999,,,</s>,fr
+28,on_p50,1000,1,29,"PHP pour faire le script et faire la connexion, et dans ""formatting"" pour que le fichier soit comme dans le post (100 lignes pour le net et 5 pour le net avec la date et le nombre de fichiers)
+je peu pas posté de code car j'ai pas de pc tout vas bien tout va bien tout",0.8366883637399999,,,</s>,fr
+29,on_p50,1000,1,30,"/*
+ * This file is part of rasdaman community.
+ *
+ * Rasdaman community is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your",0.8366883637399999,,,</s>,fr
+30,on_p50,1000,1,31,"Une partie des données utilisées pour les études de cosmétique et de santé (ainsi que pour les études cliniques pour lesquelles l’Utilisateur est volontaire et par conséquent à titre personnel) :
+La liste et description complète des études et des données collectées, avec le type et la ou les variable(s) étudiée",0.8366883637399999,,,</s>,fr
+31,on_p50,1000,1,32,"Les PME et les ETI ont en général une durée de vie plus longue et leur modèle économique est plus capitaliste.
+Les PME et les ETI sont plus dépendantes des subventions et des financements publics et moins flexibles à la baisse, par rapport à les grandes entreprises.
+En outre, les ETI et PME sont",0.8366883637399999,,,</s>,fr
+32,on_p50,1000,1,33,"Charles, le beau et riche duc de Nevers, épouse Mathilde de Savoie. Ce mariage est le théâtre d’une querelle entre deux des enfants du couple. A la mort de Charles, le jeune Louis de Bourgogne fait le siège de la ville et condamne avec beaucoup de brutalité les tenants et les aboutissants de",0.8366883637399999,,,</s>,fr
+33,on_p50,1000,1,34,"Vous pouvez également exercer votre droit de vous opposer au traitement de vos données pour les finalités de prospection en nous contactant à la rubrique « contact ».
+Il est également possible de revoter par voie électronique sur le site. Vous pouvez vous inscrire sur ce site pour voter afin de pouvoir voter sur le vote",0.8366883637399999,,,</s>,fr
+34,on_p50,1000,1,35,"Pour profiter de la déduction, vous devez avoir fait au moins deux des dépenses suivantes : le paiement d’une cotisation à titre de frais de santé, le dossier médical et la cotisation à titre de frais de famille. Vous devez également prouver une réduction de revenus du fait de la perte du emploi et d’une réduction du niveau",0.8366883637399999,,,</s>,fr
+35,on_p50,1000,1,36,"En cuanto al tema del libro, debo decir que sigue (siendo) una de mis lecturas preferidas. Y a bienaventurados los que a bienaventurados les suceda. En todo caso, esta saga de Harry Potter es un imprescindible.
+J'ai pris en compte que vous avez peut-être des difficultés pour vous conn",0.8366883637399999,,,</s>,fr
+36,on_p50,1000,1,37,"Pourtant, malgré les remises en cause, les réticences, les difficultés et les coûts liés à la transition, soit plus de 3,5 milliards de euros pour le seul Fonds européen agricole pour le développement rural (FEADER), pour être précis, nous devons nous rappeler que le FEADER s’inscrit dans la",0.8366883637399999,,,</s>,fr
+37,on_p50,1000,1,38,"Je vous invite à faire un petit tour sur ce gâteau qui fait appel à des jaunes d’œuf, parsemé d’une ganache à la vanille et à la noix de coco.
+L’Année européenne de la mobilité durable (AEMD) est une initiative de la Commission européenne qui vise à renforcer la",0.8366883637399999,,,</s>,fr
+38,on_p50,1000,1,39,"Je crois que c'est un peu plus de trois ans, mais le temps n'a rien fait. Les visites de ce blog, c'est depuis mai 2012.
+Entre les aléas de la vie et les contraintes de la maison, je pencherais plutôt pour trois ans, mais peu importe.
+C'est un plaisir de venir ici le soir",0.8366883637399999,,,</s>,fr
+39,on_p50,1000,1,40,"A partir de então, a empresa começou a investir no setor de construção civil, que é o principal de suas atividades.",0.8366883637399999,,,</s>,fr
+40,on_p50,1000,1,41,"/*
+ * Copyright (c) 1998, Oracle and/or its affiliates. All rights reserved.
+ * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
+ *
+ * This code is free software; you can redistribute it and/or modify it
+ * sous réserve de l’autorisation de Denys Loucheur et Pascal Per",0.8366883637399999,,,</s>,fr
+41,on_p50,1000,1,42,"Le directeur de la École nationale de finances publiques (ENPF), M. Augustine Duakou fait le point dans cette interview sur la situation de la formation du personnel de la Fonction publique au Tchad
+Le enrobé routier est un revêtement souple pour la réalisation de une couche de enrobage entre deux",0.8366883637399999,,,</s>,fr
+42,on_p50,1000,1,43,"Les Occidentaux ont donc désormais trois prérogatives pour rétablir la paix au Sahel : soutenir les populations, les pouvoirs centraux et les États concernés ; participer à une opération militaire ; ou encore, pour prévenir une guerre civile : rétablir le respect des droits de l'homme.",0.8366883637399999,,,</s>,fr
+43,on_p50,1000,1,44,"Héritage de mai 68, le mouvement de grève de décembre 1969 et le mouvement social de décembre 1970 sont aussi à prendre en compte dans cette étude où les conséquences de la grève sont analysées dans leurs différentes dimensions : du point de vue de la filature à celui des travailleurs et du patronat et en termes de politiques",0.8366883637399999,,,</s>,fr
+44,on_p50,1000,1,45,"A partir de la próxima semana, se constituirá un comité de seguimiento de la mesa de Aging Families, que entre otras cosas, elaborará las propuestas de la Política de Inclusión.",0.8366883637399999,,,</s>,fr
+45,on_p50,1000,1,46,"Je souhaite être prévenu par e-mail lorsque l'article ""Table ronde en bois massif, pieds compas et cornières"" sera de nouveau en stock
+Cette table ronde en bois massif peut être décorée et utilisée pour différentes différentes occasions en tant que centre de table, centre de repas ou pour une table de fête.
+Pour un petit déjeuner",0.8366883637399999,,,</s>,fr
+46,on_p50,1000,1,47,Les commandes sont traitées par notre prestataire de service LEGARD et sont expédiées par un service de livraison mandaté par LEGARD.,0.8366883637399999,,,</s>,fr
+47,on_p50,1000,1,48,"Qu'est-ce qu'elle fait?
+- Elle cherche un job.
+- Un travail?
+Elle fait du travail.
+C'est le travail.
+- C'est le travail?
+- C'est le travail.
+Je suis une femme de ménage!
+Je suis une femme de ménage!
+Regarde!
+Je suis une femme de ménage!
+Vous pouvez pas faire ça!
+Vous m'",0.8366883637399999,,,</s>,fr
+48,on_p50,1000,1,49,"Le problème avec les conventions qui établissent des règles et qui sont obligatoires, c'est que de nos jours, ça devient plus rare. Ça fait partie du monde du travail et des entreprises qui s'adaptent à la situation.
+C'est vrai qu'il y a de moins en moins de conventions qui sont rédigées dans ce sens.",0.8366883637399999,,,</s>,fr
+49,on_p50,1000,1,50,"Oh, oui, je sais, c'est samedi. Je lui ai déjà dit que dimanche serait plus adapté. Je vais aller à Paris pour le boulot et c'est possible que je revienne le Jeudi 30. J'ai le vendredi aussi à me taper mais j'aurais sans doute du annuler, c'est pas évident et comme je pars de",0.8366883637399999,,,</s>,fr
+50,on_p50,1000,1,51,"La terre sur laquelle vivent les Eaglets de Montluçon est très fertile : les vignes s’étendent sur 400 hectares, et la tartine à salade, un des plats de la gastronomie française, est à base de produites locales : une variété de pommes et de poires.",0.8366883637399999,,,</s>,fr
+51,on_p50,1000,1,52,"Les deux tiers de la population française sont équipés de internet et utilisent en moyenne trois téléphones portables par individu. L'âge moyen des nouveaux utilisateurs du téléphone portable est de 5 ans.
+Les caractéristiques principales du numérique sont : le développement des applications (e-mail, jeux, musique, télévision en ligne), des services (vie",0.8366883637399999,,,</s>,fr
+52,on_p50,1000,1,53,"Les sociétés de Gestion de fonds et les sociétés de Gestion de risques peuvent également générer des revenus grâce à des fonds de placement dans lesquels sont investis par le biais de participations et sont cotés sur Euronext Paris ou à d’autres places boursières étrangères.
+Cette stratégie peut être idéalement adaptée aux sociétés à taille",0.8366883637399999,,,</s>,fr
+53,on_p50,1000,1,54,"El motivo principal de la pérdida de este tipo de ressources es que se trabaja muy poco en el développement de las applications.
+Las empresas que ofrecen un service de développement de applications, deben ser conscientes de que su taux de retour sur investissement (retour sur investissement) est généralement de 1 à 2 ans.
+Malgré tout, vous devez",0.8366883637399999,,,</s>,fr
+54,on_p50,1000,1,55,"El Museo de la Cerámica de Irubide, inaugurée en 1995, fue objeto de un important etége de reformas y mejoras, pero el impulso de la Diputación foral de Gipuzkoa, en la que se encontraba incluida la Fundación, ha hecho posible que la colección del Museo, que incluye más de 350 piezas,",0.8366883637399999,,,</s>,fr
+55,on_p50,1000,1,56,"Commentaire : Nous avons le plaisir de vous proposer le livre ""Le siege des pyramides : Transformations et traces du patrimoine local"" de Bruno AUMONT, article de Bruno AUMONT dans le numéro de septembre du magazine Les Etudiants de la Ville, Maison des étudiants et de la culture : ""La pyramide d'E",0.8366883637399999,,,</s>,fr
+56,on_p50,1000,1,57,"I. INTRODUCTION
+A natural question is how the baryons and mesons are produced in collisions. This question has been studied from several points of view. First, in dilute matter and high energy collisions, where the excitation of baryons and mesons is possible, a hot dense dense medium is formed",0.8366883637399999,,,</s>,fr
+57,on_p50,1000,1,58,"Quand il entendit les paroles de la dernière personne à avoir le privilège de connaître la vérité, il était envahi par une grande découragement.
+Parce que la personne à qui tout le monde savait le plus la vérité, était seulement la personne qui avait le plus de pouvoir pour manipuler les personnes à plus haute position",0.8366883637399999,,,</s>,fr
+58,on_p50,1000,1,59,Les 34 recettes de pâte à tarte les plus faciles et rapides pour faire chez soi et avec amour. Et si vous goutiez à la tarte à la crème moelleuse ou à la tarte aux pommes blondes?,0.8366883637399999,,,</s>,fr
+59,on_p50,1000,1,60,"Le problème c’est qu’il y en a de plus en plus que ce soit par buée ou rincage. La goutte se réduit à un Je Dah, Je Dah, Je Dah et à chaque fois une goutte ou une bouffée et puis plus rien. C’est surtout parce que je me suis mis au jus de fruits",0.8366883637399999,,,</s>,fr
+60,on_p50,1000,1,61,"Yak et al (2002) examined the effect of breastfeeding on infant mortality, morbidity, and mortality in the United States. The authors found that breastfeeding was associated with a 17% reduction in infant mortality rates (versus non-breastfeeding) and a 36% reduction in the infant morbidity rate",0.8366883637399999,,,</s>,fr
+61,on_p50,1000,1,62,"Dans ce contexte, les États-Unis se sont abstenus de participer à la réunion, ce qui laisse entendre qu'il n'y aurait plus de discussions lors de la prochaine session.
+Nous souscrivons à la déclaration de M. Brader, et notons par ailleurs que les États-Unis étaient absents à la dernière session du Conseil de sécurité",0.8366883637399999,,,</s>,fr
+62,on_p50,1000,1,63,"Voici quelques connexes de meubles de salle de bains. Si ces modèles ne correspondent à vos attentes, assurez-vous de consulter d'autres options.",0.8366883637399999,,,</s>,fr
+63,on_p50,1000,1,64,"Vous avez accès à tous les articles de web dédiés à la course à pied, à la marche nordique, mais aussi à la marche en douceur, à la randonnée, à la ski de randonnée et à la randonnée pédestre.
+Les articles sont classés par thème et par maillot de course à pied. Vous pouvez",0.8366883637399999,,,</s>,fr
+64,on_p50,1000,1,65,Listes de Tener jeux de casino la main noire. Vous pouvez parier en ligne et tout aussi bien en casino terrestre et vous pouvez même vous divertir en ligne avec des paris sportifs et jackpots. Afficher les jeux du casino en direct et live. Les jeux de casino sont parmi les jeux les plus appréc,0.8366883637399999,,,</s>,fr
+65,on_p50,1000,1,66,"Pour ce qui est de la zone que j'ai choisi (ancienne usine du groupe Renault) pour le déménagement, les frais ont été estimés à environ 12 500 euros pour la livraison, et une petite partie effectuée par un déménageur, avec de très bons conseils, qui m'ont facilité la tâche.
+Je vous invite à",0.8366883637399999,,,</s>,fr
+66,on_p50,1000,1,67,"Une, deux, trois, quatre, cinq, six, sept, huit, neuf, dix, ou onze, et c’est parti, nous partons à la découverte de l’île du Gosier. Une petite île située au milieu de la mer des Caraïbes, à l’est de Saint Barthélemy et à bientôt 200 km",0.8366883637399999,,,</s>,fr
+67,on_p50,1000,1,68,"Selon la presse brésilienne, la chaîne de télévision qui présente la compétition aurait perçu une indemnité de 25 000 euros par match pour faire venir le défenseur.
+« Ce serait très bien si Neymar se joignait à nous », aurait déclaré le directeur général de Flamengo, Leonardo, selon la télévision brésilienne TV Globo.",0.8366883637399999,,,</s>,fr
+68,on_p50,1000,1,69,"Pour les commandes réalisées avant le 11 août 2020, le délai moyen de livraison est de 3 à 7 jours ouvrés. Pour les commandes réalisées après le 11 août et même pendant la période du confinement, les commandes seront livrées sous 48h ouvrées.
+Les différents produits sont stockés par nos soins, dans nos locaux",0.8366883637399999,,,</s>,fr
+69,on_p50,1000,1,70,"No último sábado (9), visitamos o Instituto danés de Recherche pour le Développement (RIDI) que esteve em São Paulo pour fazer uma série de shows e de apresentações ao vivo. É impressionante a grandiosidade do lugar com…
+Fala Pessoal! Hoje eu vou falar sobre uma importante área da",0.8366883637399999,,,</s>,fr
+70,on_p50,1000,1,71,"L’ancien DT de la Juventus et aujourd’hui entraîneur de l’Ajax Amsterdam, l’Italien Antonio Conte, a été nommé entraîneur de la première équipe de Chelsea, en remplacement du Portugais José Mourinho, qui laissera la place à l’Italien Maurizio Sarri au terme de la saison.",0.8366883637399999,,,</s>,fr
+71,on_p50,1000,1,72,"Disini akan saya jelaskan tentang pengertian, Sejarah, Jenis, dan Sifat Togel, Selain itu untuk panduan cara mainnya, dan apa yang harus dilakukan.
+Judi Togel Online menjadi salah satu yang paling populer di kalangan masyarakat. Didalamnya terdapat berbagai macam permainan yang sangat mengasyikkan dan bisa memberikan",0.8366883637399999,,,</s>,fr
+72,on_p50,1000,1,73,"Le vice-président de la République, Elhadj Mohamed Ould Tih adjoint au ministre de l’Agriculture, de l’Elevage et de l’Agroalimentaire, fait savoir que le ministère de l’Agriculture, de l’Elevage et de l’Agroalimentaire, s’engage à poursuivre le programme d’appui à la",0.8366883637399999,,,</s>,fr
+73,on_p50,1000,1,74,"L'activitat promocional que s'organitza és l'auxiliar per a la recerca de clients durant la campanya (en els moments en que un client és més incisiu).
+L'assessorament és en termes quantitatiu: amb la finalitat d'orientar i, en cas de èxit, incentivar la compra del producte, especialment a partir",0.8366883637399999,,,</s>,fr
+74,on_p50,1000,1,75,"Pour une peau plus souple et hydratée La crème gaufrée Jeune âge au beurre de karité et aloe vera Confort et hydratation aux extraits de plantes, aux huiles végétales et à la cire d'abeille, pour une peau plus souple et hydratée.Riche en",0.8366883637399999,,,</s>,fr
+75,on_p50,1000,1,76,Cette catégorie de produit est utile pour réaliser des relevés poissonneux. Il est très pratique de pouvoir toujours avoir sous la main un gabarit pour le positionnement des prises et le handicap de ligne pour une meilleure orientation des prises et pour suivre à tout moment leur évolution. Ce gabarit pour prises de,0.8366883637399999,,,</s>,fr
+76,on_p50,1000,1,77,"El Gobierno ha aprobado un decreto por el que se regulan las autorizaciones de instalación de nuevos equipos de géothermie en la red de distribution de électricité de France Télécom, filial del grupo Orange, ce...",0.8366883637399999,,,</s>,fr
+77,on_p50,1000,1,78,"Pour tout ce qui est électronique, le camping possède un grand nombre d’équipements, comme par exemple :
+Pour ce qui est du logement, le camping dispose de 4 emplacements, avec 3 qui sont réservés aux camping-caristes et un pour les caravanes. Dans les camping-cars et dans les",0.8366883637399999,,,</s>,fr
+78,on_p50,1000,1,79,"L’histoire de ce projet de deux ans entre l’Université de Guelph et la Société canadienne pour le développement durable est le résultat de trois ans de travail entre les deux parties.
+Les résultats sont éloquents. Cette collaboration innovante permettra à la société de rendre une consultation publique dans la province, qui sera menée par les",0.8366883637399999,,,</s>,fr
+79,on_p50,1000,1,80,"L'application Android pour télécharger les vidéos de YouTube sur votre ordinateur. pour les fichiers vidéo et les fichiers audio via Chrome ou Safari. Pour télécharger les vidéos dans Chrome, vous devez avoir une clef de. Bonjour pour les fichiers vidéo et audio via Chrome ou Safari (sans avoir à utiliser les. Pour télécharger les",0.8366883637399999,,,</s>,fr
+80,on_p50,1000,1,81,"Pour les personnes qui appellent à réagir : Alexis Buvet, du collectif « Les oubliés de la ville » et Françoise Faure, du collectif « Autorisez-vous à être árvores à Valence »
+Après la semaine du 24 au 28 mai où plus de 30.000 personnes ont participé à une initiative en ligne pour",0.8366883637399999,,,</s>,fr
+81,on_p50,1000,1,82,"Lors de ce championnat des bâtisseurs et des bâtisseurs 2017 des bibliothèques, Véra, Virginie et Maxime, tous trois bibliothécaires, ont partagé leur expérience et répondu à toutes vos questions!
+Documentaire, Documentaire, Documentaire, Documentaire, Documentaire, Documentaire, Documentaire, Documentaire
+Les",0.8366883637399999,,,</s>,fr
+82,on_p50,1000,1,83,"3 août 2019. La Ministre de la culture et de la République numérique dévoilait le 6 juin 2019, le Plan national pour la culture et la création numérique.
+Le Ministère de la Culture et de la République numérique se préoccupe de la culture numérique française et fait part de la volonté de garantir un accès à la culture",0.8366883637399999,,,</s>,fr
+83,on_p50,1000,1,84,"C'est à dire qu'on peut faire un truc que tu trouveras sans trop de difficulté, et que de toute façon tu fais déjà :
+Comme on voit sur le schéma, pour la première étape, c'est très simple : trouver un point P dans le plan, et calculer ainsi les directions des deux vecteurs passant par P :
+",0.8366883637399999,,,</s>,fr
+84,on_p50,1000,1,85,"- « Nous devons comprendre le message des autres, pour ainsi dire, pour toute compréhension », déclare la philosophe Isabelle Stengers",0.8366883637399999,,,</s>,fr
+85,on_p50,1000,1,86,"La actividad contó con la presencia de la embajadora de Francia, Madame Sophie de Monté, la vicecanciller Karen Ballinger, la intendenta de Salto, María José Micaela Crovato, la directora de la escuela Ana Gagnon, María Teresa Dab, la secretaria de la concejal",0.8366883637399999,,,</s>,fr
+86,on_p50,1000,1,87,"Notre entreprise RGE Thury Hoult vous propose de nombreuses offres de travaux de rénovation énergétique. Pour tous vos besoins de travaux à Thury Hoult, nous mettons à votre disposition un excellent réseau de professionnels de rénovation énergétique à Thury Hoult.
+Appelez-nous pour étudier ensemble le programme qui vous correspond",0.8366883637399999,,,</s>,fr
+87,on_p50,1000,1,88,"Les accros à One Piece sont à la recherche de emojis pour One Piece : Nouvelle Génération. Vous en avez mis un, mais vous voulez le partager?
+Configurez votre smartphone, épatez un ou plusieurs de vos proches et affrontez une vague de attaques à plusieurs. Vous pouvez utiliser émoticôn",0.8366883637399999,,,</s>,fr
+88,on_p50,1000,1,89,"Déjà dans la première partie, il y avait un exemple de la façon dont dont nous pouvons utiliser un plugin pour empêcher les […]
+Si vous souhaitez augmenter la durée de vie de votre Google My Business et obtenir des données clients de qualité, vous avez besoin […]
+Selon le dernier rapport de Forrester",0.8366883637399999,,,</s>,fr
+89,on_p50,1000,1,90,"Il partageait aussi le fait qu’il n’avait été témoin de la mue de plusieurs d’entres eux, mais que ces changements étaient surtout due à des choses plus personnelles.
+« Le plus grand changement qui m’est arrivé ensuite, c’est à présent. Je ne vous apprends rien. Rien que pour cela je ne pense plus pouvoir",0.8366883637399999,,,</s>,fr
+90,on_p50,1000,1,91,"Ahora en un bol pon la harina, la levure, la canela, el sel, la cardamome, la poudre à pâte, les graines de sésame et le cumin, et en faire une boule.",0.8366883637399999,,,</s>,fr
+91,on_p50,1000,1,92,"La semaine dernière nous avions parlé du projet “Le Moyen-âge à travers la méditerranée”, et les résultats sont très encourageants, et montrent que c’est une ambition qui peut être concrétisée. La semaine prochaine nous parlerons du même projet en région Centre-Val de Loire.
+Une assistante maternelle à domicile peut",0.8366883637399999,,,</s>,fr
+92,on_p50,1000,1,93,"Ce contenu à été publié dans Détecteur réactif par Pierre, et marqué avec Eau de javel, Eau de javel dans un champ avec une gardienne de chèvre, Eau de javel dans un champ avec des chevaux, Eau de javel dans une petite rivière, Eau",0.8366883637399999,,,</s>,fr
+93,on_p50,1000,1,94,"Les douze premières minutes de cette bataille dans la cour de récréation de l’immeuble sont convaincantes. On peut voir les jeunes tout juste sortis de la prépa chez eux le regard happé par les caméras, le cœur serré. Ils sont prêts à tout pour protéger leur famille, à tout pour être",0.8366883637399999,,,</s>,fr
+94,on_p50,1000,1,95,"Mécanisme de réglage de la température et du débit. Accès au réservoir d'eau avec une maintenance du bac de récupération et du bidon très simple.
+Fonctionnalités : Contacteur de sécurité à barillet, Interrupteur des deux côtés, Système de refoulement, Sécurité et débit réglables.
+",0.8366883637399999,,,</s>,fr
+95,on_p50,1000,1,96,"Tout d’abord, il vous suffit de sélectionner le premier bouton, le de votre choix, sur le clavier de votre ordinateur. Cette fois, une liste de commandes apparaît avec le nombre de tours que vous pouvez faire dans cette zone.
+Pour la première fois, choisissez «lancer la vidéo» et cliquez sur la flèche à",0.8366883637399999,,,</s>,fr
+96,on_p50,1000,1,97,"Les cartouches d'encre pour imprimantes Epson sont d'origine Epson et compatibles avec la plupart des marques d'imprimantes et des modèles d'imprimantes, professionnels et personnels. Epson propose un large choix de cartouches d'encre, a prix discount, pour imprimantes Epson et toutes les grandes marques d'imprimantes",0.8366883637399999,,,</s>,fr
+97,on_p50,1000,1,98,"Malgré une actualité très chargée (sans parler des actualités politiques ou de sujets sociaux à traiter, je me présente ici pour parler de danseurs et danseuses, de chorégraphes et chorégraphes, de projets et projets, et de ce que cela implique comme travail et comme évolution), je vous invite",0.8366883637399999,,,</s>,fr
+98,on_p50,1000,1,99,"Pour le moins, comme le répété par le CEO du groupe dans une interview à la publication online il y a deux semaines, le TES la « sécurise » pour le marché britannique. « Nous enclenchons la [nouvelle] chaîne avec le Corona, qui était déjà là. Le Covid vient de voir",0.8366883637399999,,,</s>,fr
+99,on_p50,1000,1,100,"Le travail et souvent à côté il semble une solution pour à peu près tous les hommes, est de gagner un plus gros salaire à mesure que.",0.8366883637399999,,,</s>,fr

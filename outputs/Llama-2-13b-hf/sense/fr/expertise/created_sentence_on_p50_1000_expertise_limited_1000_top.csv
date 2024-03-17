@@ -1,0 +1,444 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,1000,1,1,"# Pentanema
+
+Pentanema is a monotypic genus of flowering plants belonging to the family Brassicaceae. It only contains one known species, Pentanema asperum (L.) Dumort.
+
+It is native to Europe and Northern Asia.
+
+The genus name",0.99305178646,,,,fr
+1,on_p50,1000,1,2,"import React, { Component } from'react'
+import PropTypes from 'prop-types'
+
+
+export class TopRight extends Component {
+  render () {
+    const { className, style, children,...attributes } = this.props
+
+    return (
+      <div
+        className",0.99305178646,,,,fr
+2,on_p50,1000,1,3,"Meet Tanya, A 19 Year Old Bride Who Married Her Childhood Bestie, Share Photos From Their Wedding
+Tanya and Adeola at their wedding reception
+Tanya and Adeola are now Mr and Mrs
+Tanya and Adeola as kids
+",0.99305178646,,,,fr
+3,on_p50,1000,1,4,"# 1242
+
+Portal Geschichte | Portal Biografien | Aktuelle Ereignisse | Jahreskalender | Tagesartikel◄ |12. Jahrhundert |13. Jahrhundert| 14. Jahrhundert |►◄ |1170er |1180er",0.99305178646,,,,fr
+4,on_p50,1000,1,5,"8 Best (Seeing All 4) Waterfalls Within a 10-Minute Walk from the Carpark During Your Singapore Trip
+Hiking, Picnic, Lake, Nature
+Jing Yi Toh Singapore
+Archeologists don't always work using spades and t",0.99305178646,,,,fr
+5,on_p50,1000,1,6,"19 Seriously Good Reasons to Visit Singapore Right Now
+By Laurel Robins
+Singapore exceeds the highest expectations, from its extravagant casinos to the postcard-perfect views.
+With so much to look forward to, we knew it would be difficult",0.99305178646,,,,fr
+6,on_p50,1000,1,7,"# Norbert Kercz
+
+Norbert Kercz (born 10 August 1971) is an Austrian former judoka.
+
+Norbert Kercz
+
+## Judo career
+
+He competed at the 1992 Summer Olympics and the 199",0.99305178646,,,,fr
+7,on_p50,1000,1,8,"Home > News > India News > Article > Gujarat civic polls 63 54 resign from Congress MLA Bharat Bhatt among
+Gujarat civic polls: 63.54% resign from Congress, MLA Bharat Bhatt among
+",0.99305178646,,,,fr
+8,on_p50,1000,1,9,"A Farewell to the Nutt House
+I wanted to wrap up the semester with a farewell to the Nutt House, the classroom building housing the EAPS department. When I first started at Brandeis, the Nutt House was undergoing renovation and not in use. When the",0.99305178646,,,,fr
+9,on_p50,1000,1,10,"# Peixe-et-Tanader
+
+Peixe-et-Tanader ou Peixe-et-Tanadère est une ancienne commune française située dans le département de la Creuse et la région Nouvelle-Aquitaine. Elle est une commune associée à la commune",0.99305178646,,,,fr
+10,on_p50,1000,1,11,"A Grammar;
+Or, The Dictionary of the English Language
+Traditionally, grammar has been called a science. According to this view, grammar is much like physics or mathematics: primarily a matter of facts, formulas, and rules that can be applied to the analysis of language. In the dictionary of English,",0.99305178646,,,,fr
+11,on_p50,1000,1,12,"#include <linux/proc_fs.h>
+#include <linux/spinlock.h>
+#include <linux/uaccess.h>
+#include <linux/slab.h>
+
+#include <asm/atomic.h>
+#include <asm/unaligned",0.99305178646,,,,fr
+12,on_p50,1000,1,13,"The Malibu Seaside Inn, located on the Pacific Coast Highway in Malibu, California, is a 32-room inn that offers rustic elegance combined with modern comfort and luxury to its guests.
+This upscale retreat features six different room types to choose from, including",0.99305178646,,,,fr
+13,on_p50,1000,1,14,"News > Topics > Auditions
+Auditions - News
+President’s Message—Perfect Practice
+December 1, 2016 by Karen Rohman
+Thanks to a Suzuki music education, my daughter and I have the experience of the perfect practice. My",0.99305178646,,,,fr
+14,on_p50,1000,1,15,"package com.github.jxenacouden.sofa.sign.token.source;
+
+import com.github.jxenacouden.sofa.sign.token.SignToken;
+import com.github.jxenacouden.sofa.sign.token",0.99305178646,,,,fr
+15,on_p50,1000,1,16,"Tags: python, pytorch, conv-neural-network
+
+Question: How to make Pytorch's Conv2d with multiple inputs?
+
+I want to leverage the idea of Conv2d as a function from the [official documentation](https://pytorch.",0.99305178646,,,,fr
+16,on_p50,1000,1,17,"# Tracé de la ligne de Dunkerque à Calais
+
+La ligne de Dunkerque à Calais est la ligne de chemin de fer française, aujourd'hui en service, qui relie la gare de Dunkerque à celle de Calais.
+
+Elle constitue la ligne no",0.99305178646,,,,fr
+17,on_p50,1000,1,18,"#
+Vier
+Hindsight"" is a funny thing. On a windy March evening in 1997, I had my first contact with the man who would dramatically change my life. I thought that evening would bring an end to our encounter; little did I know, I had only",0.99305178646,,,,fr
+18,on_p50,1000,1,19,Our one of a kind 100% pre-shrunk cotton flannel shirt is designed with the versatility and comfort to handle any task. The durability of the cotton flannel fabric is a perfect choice for many outdoor activities where style and function come together. The modern patch,0.99305178646,,,,fr
+19,on_p50,1000,1,20,"# Gheorghe Hagi
+
+Gheorghe ""Gică"" Hagi (Bălan (Hongaria), 5 février 1965) est un joueur et entraîneur de football roumain.
+
+Pour les articles homonymes, voir Hagi.
+
+##",0.99305178646,,,,fr
+20,on_p50,1000,1,21,"# Leptotedroma
+
+Leptotedroma is een geslacht van springstaarten uit de familie van de Isotomidae.",0.99305178646,,,,fr
+21,on_p50,1000,1,22,"#include <iostream>
+#include ""gtest/gtest.h""
+
+#include ""../data/strings.h""
+
+using namespace std;
+
+
+TEST(Strings, ToLower) {
+    ASSERT_EQ(""hello"", ToLower(""hello""));
+    A",0.99305178646,,,,fr
+22,on_p50,1000,1,23,"# Lijst van voetbalinterlands Luxemburg - Portugal
+
+Deze lijst van voetbalinterlands is een overzicht van alle officiële voetbalwedstrijden tussen de nationale teams van Luxemburg en Portugal. De landen speelden tot op heden twee keer tegen elka",0.99305178646,,,,fr
+23,on_p50,1000,1,24,"# Jean-Victor Moreau
+
+Jean-Victor Moreau, né le 15 septembre 1828 à Nantes et mort le 21 décembre 1889 à Rome, est un sculpteur et peintre français, élève de Jules Cavel",0.99305178646,,,,fr
+24,on_p50,1000,1,25,"# Rinorea hallei
+
+Rinorea hallei là một loài thực vật có hoa trong họ Thiến rũ. Loài này được Chautems & Lebrun miêu",0.99305178646,,,,fr
+25,on_p50,1000,1,26,"Nestled in the hills of Lake Arrowhead, California, the 2018 Kendall Express Festival is home to one of the most popular annual events in the region. This year's show, which takes place on October 6th and 7th, is set to be bigger and",0.99305178646,,,,fr
+26,on_p50,1000,1,27,"The following was written by forum member, MilesKm.
+We’re now four months into 2021 and our experiences have been anything but ordinary, to say the least. Like most other places around the world, we have been affected by the pandemic and its restrictions both with our work and",0.99305178646,,,,fr
+27,on_p50,1000,1,28,"Home Fashion and Style A GOOD HEALER
+A GOOD HEALER
+HIP NYC
+Shelby Broch
+Maria Callas in the opera
+“Is it not too much, this relentlessness, this, God help us, romanticism? Will everyone have",0.99305178646,,,,fr
+28,on_p50,1000,1,29,"Home/Funders/International & Foreign Foundations
+International & Foreign FoundationsJulie Osborne2017-01-13T03:08:22+00:00
+The Foundation Center Development Sections provides links to 37 international and",0.99305178646,,,,fr
+29,on_p50,1000,1,30,"09/15/2021 08/20/2021 Dale HinnantLeave a comment
+One of the most unpopular and misunderstood aspects of the Christian faith is the idea of hell. The Church is perplexed and fearful of discuss",0.99305178646,,,,fr
+30,on_p50,1000,1,31,"A WWII U.S. Army Quartermaster Engineer officer's service...
+A WWII U.S. Army Quartermaster Engineer officer's service visor cap. Gilt quartermaster insignia and one-piece sweatband.
+Good. Wear and",0.99305178646,,,,fr
+31,on_p50,1000,1,32,"# Thamnium trigonum
+
+Thamnium trigonum là une espèce de plantes de la famille des Thamniaceae.
+
+Thamnium trigonum
+
+Classification selon Tropicos
+
+Espèce
+
+Thamnium trigonum(L.)",0.99305178646,,,,fr
+32,on_p50,1000,1,33,"Rangers Best Red Sox 3-1, Now 5-1 in ALDS
+Rangers 3, Red Sox 1
+Brandon Webb picked up where he left off in ending the regular season and got some help from Elvis Andrus, as the Texas Rangers beat the Boston",0.99305178646,,,,fr
+33,on_p50,1000,1,34,"1954 Ford Victoria
+The Daytona Coupe
+The Daytona Coupe was one of the most famous cars in racing history. Engineered, built and driven by Carroll Shelby and his team, the car was a specialist racer designed for the ultra-high-banked",0.99305178646,,,,fr
+34,on_p50,1000,1,35,"# 铁岭市
+
+铁岭市，简称“铁”，古代称“铁西”，是中华人民共和国辽宁省下辖的地级市",0.99305178646,,,,fr
+35,on_p50,1000,1,36,"import os
+from unittest import TestCase
+
+import numpy as np
+
+from..utils import TestData
+
+
+class TestEigenVectors(TestCase):
+    def test_ei4vec_1d(self):
+        A = TestData.ei4vec_1d
+",0.99305178646,,,,fr
+36,on_p50,1000,1,37,"Ricky Rubio had a nice game in Minnesota’s loss to Miami Saturday, handing out 15 assists in the game. He’s currently averaging 9.3 APG since the All-Star break, and he has averaged 13.3 points and 9.3",0.99305178646,,,,fr
+37,on_p50,1000,1,38,"# Krokeksskogen
+
+Krokeksskogen, (Swedish: The Grove of the Cross), is a forested area in the Swedish municipality Åsele in Västerbotten County.
+
+The name refers to the medieval cross which is located in the southern part of the",0.99305178646,,,,fr
+38,on_p50,1000,1,39,"# Legg Mason Tennis Classic 2004
+
+Der Legg Mason Tennis Classic 2004 war ein Tennisturnier, das vom 16. bis 22. August 2004 in Washington, D.C. stattfand. Es war Teil der",0.99305178646,,,,fr
+39,on_p50,1000,1,40,"package com.github.megatronix.netbare.ipv6;
+
+import com.github.megatronix.netbare.NetworkLayer;
+import com.github.megatronix.netbare.common.IPv6Constants;
+import com.github",0.99305178646,,,,fr
+40,on_p50,1000,1,41,"package com.uber.autobahn.experimental.saga.step
+
+import com.uber.autobahn.experimental.saga.SagaId
+
+import scala.collection.mutable.ListBuffer
+import scala.concurrent.duration._
+
+case class EphemeralExecution",0.99305178646,,,,fr
+41,on_p50,1000,1,42,"Harry Potter: Wizards Unite Q&A with WB Games SVP David Haddad
+As the Samsung/Galaxy Unpacked event is happening today, CGMagazine got the chance to sit down with and have a Q&A session with WB Games Senior Vice President,",0.99305178646,,,,fr
+42,on_p50,1000,1,43,"# Кларк (окръг, Айдахо)
+
+Окръг Кларк (на английски: Clark County) е окрък в щата Айдахо, Съединени американски щати. Площ 192",0.99305178646,,,,fr
+43,on_p50,1000,1,44,"package com.semlink.explorer.adapters;
+
+import java.util.Map;
+
+import android.annotation.SuppressLint;
+import android.content.Context;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.",0.99305178646,,,,fr
+44,on_p50,1000,1,45,"20% off TENA Products
+Annie's Velvet Knit
+TENA 11/2
+20% off TENA Products at Drugstore.com.
+Must enter ""GGC20"" in the promo code box at checkout.",0.99305178646,,,,fr
+45,on_p50,1000,1,46,"# Anexo:Premios duPont-Columbia de 2011
+
+La coproductora etre en argentin, María Teresa D'Cruze, de Etre ete, est la première Argentine et Latinoaméricaine à remporter le prix",0.99305178646,,,,fr
+46,on_p50,1000,1,47,"Rare Misha Green comic, ‘Locke & Key’, returns to comics
+Months before executive producing HBO’s hit series Lovecraft Country, comic book writer Misha Green was working on a project of her own for IDW Publishing.
+The series, “Locke",0.99305178646,,,,fr
+47,on_p50,1000,1,48,"May 1, 2014 @ 5:00 pm–5:45 pm EDT
+« Webinar: “Reimagining the Public University: Challenges and Opportunities”
+Demystifying the Public University: A Conversation with David Porter",0.99305178646,,,,fr
+48,on_p50,1000,1,49,"VIDEO: David Oyelowo discusses playing the lead in MOONLIGHT
+David Oyelowo discusses playing the lead in Barry Jenkins’ upcoming film MOONLIGHT. The film is set in 1980s Miami and follows Chiron, a young",0.99305178646,,,,fr
+49,on_p50,1000,1,50,"Home/News/Atiku: What I’ll do with oil produce in Niger Delta
+Atiku: What I’ll do with oil produce in Niger Delta
+Atiku Presidential Campaign Organisation has promised to ensure fairness in the management of oil produce from the Niger Delta if the Peop",0.99305178646,,,,fr
+50,on_p50,1000,1,51,"# John J. Powers
+
+John J. Powers was a Democratic member of the Pennsylvania House of Representatives, representing the 150th District from 1933 to 1943.
+
+For the Vermont politician, see John J. Powers (Vermont).",0.99305178646,,,,fr
+51,on_p50,1000,1,52,"package com.github.weisj.darklaf.ui.multi;
+
+import com.github.weisj.darklaf.ui.*;
+import com.github.weisj.darklaf.ui.app.MultiApp;
+import com.github.weisj.darklaf",0.99305178646,,,,fr
+52,on_p50,1000,1,53,"# Racist Poland
+
+Racist Poland (Polish: Naszym wrogiem jest ciało) est un film documentaire polonais de 2007. 
+
+## Synopsis
+
+Pour se comprendre et définir les racismes,",0.99305178646,,,,fr
+53,on_p50,1000,1,54,"# Calin B. Popescu
+
+Calin B. Popescu (Călărași, 1863 - Bucarest, 1932) est un peintre et un sculpteur roumain. Il est connu pour ses peintures et ses sculpt",0.99305178646,,,,fr
+54,on_p50,1000,1,55,"# 乌贝莱斯
+
+乌贝莱斯（義大利語：），是意大利亚历山德里亚省的一个市镇。总面积11",0.99305178646,,,,fr
+55,on_p50,1000,1,56,"2013-2014 Graduate Catalog
+Master of Global Management (MGM)
+Master of Arts in Global Governance
+Master of Science in Global Affairs
+Master of Science in Global Development Practice (MDP)
+Master of Science in International Studies MSI
+Doctor of",0.99305178646,,,,fr
+56,on_p50,1000,1,57,"“My last comment is that Kodak, as a member of the board, is the biggest moron I've ever seen.”
+Donatello Raps
+In this episode, the Turtles return to the past and destroy the Technodrome (which contained the Technogolem, meaning it",0.99305178646,,,,fr
+57,on_p50,1000,1,58,"Victoria Park, London, UK
+Wednesday 1.30pm - 3.30pm
+Urban Green is an opportunity for all of us to show our love for our planet. It is a chance to show that we are committed to help create a more sustainable future for",0.99305178646,,,,fr
+58,on_p50,1000,1,59,"# Neal Fitzgerald
+
+Neal Fitzgerald (born 1958) is a retired American actor. He played the character of ""Bjorn"" in the 1985 film Rocky IV.
+
+## Early life
+
+Fitzgerald graduated from the University",0.99305178646,,,,fr
+59,on_p50,1000,1,60,"<?php
+/**
+ * @file
+ * @ingroup Modules
+ * @ingroup Email
+ *
+ * This file contains the interface for email module configuration.
+ *
+ * @author Tomasz Kozlowski
+ * @author Trond Burville Johansen
+ * @author Br",0.99305178646,,,,fr
+60,on_p50,1000,1,61,"# 広島市立広電中学校
+
+広島市立広電中学校（ひろしましりつ ひろでんちゅうがっこう、英語表記：Hiroden Junior High School",0.99305178646,,,,fr
+61,on_p50,1000,1,62,"ASSORTED: my latest work in progress; God of the Vampires; Time-traveling investigators; and other stuff I'm reading...
+Writing my latest novel, ASSORTED, is proving to be a slower process than I'd planned. For one thing",0.99305178646,,,,fr
+62,on_p50,1000,1,63,"PLEASE TAKE NOTICE that the White Township Zoning Hearing Board will hold a public hearing at 7:30 p.m. on Tuesday, June 29, 2004 at the Township Municipal Building located at 830 Saylorsburg Road,",0.99305178646,,,,fr
+63,on_p50,1000,1,64,"<?php
+
+namespace App\Http\Controllers\Auth;
+
+use Illuminate\Http\Request;
+
+use App\Http\Requests;
+use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Auth;
+
+class LoginController extends",0.99305178646,,,,fr
+64,on_p50,1000,1,65,"NHS clinical commissioning group defends its spending on private services
+The North of England commissioning support unit says it is challenging its NHS money going to an ‘out of area’ private provider
+The top managers at an NHS commissioning group have defended spending £1m of",0.99305178646,,,,fr
+65,on_p50,1000,1,66,"# Раме (виноград)
+
+Раме (итал. ) је биљка из рода винограда ().
+
+## Опис биљке
+
+Раме је вишегодишња биљка, која цвета у другој години.",0.99305178646,,,,fr
+66,on_p50,1000,1,67,"Chelsea target ‘incredibly worried’ about Eden Hazard’s recent comments
+Chelsea’s hopes of keeping Eden Hazard have taken yet another hit this week with the revelation that the Belgian is not planning to sign a new contract.
+Rumours of interest from",0.99305178646,,,,fr
+67,on_p50,1000,1,68,"How to Invest in Bitcoin: A Beginner’s Guide
+Bitcoin has been the best-performing asset of the last decade. The value of the coin has risen from less than 10 cents to over $19,000 at its peak. Today,",0.99305178646,,,,fr
+68,on_p50,1000,1,69,"Tags: c#, list, key, count
+
+Question: count a specific value from a list
+
+I have a list of objects, each of which has a number of variables. One of the variables is a string and each string has a different value.
+
+I'm trying to get the count of",0.99305178646,,,,fr
+69,on_p50,1000,1,70,"#ifndef _WX_CMBORDER_H_
+#define _WX_CMBORDER_H_
+
+#if wxUSE_BORDER
+
+#include ""wx/defs.h""
+
+class wxArtProvider;
+class wxBitmap;
+class wxBuffer",0.99305178646,,,,fr
+70,on_p50,1000,1,71,"Bhuwana 720 (Bhuwana 720) New Album Zip File & MP3
+Musician: Bhuwana 720
+New Bhuwana 720 Album – Zip & MP3 Download.
+The New Album “Bhu",0.99305178646,,,,fr
+71,on_p50,1000,1,72,"A few weeks back, I was asked by a friend to help with an event she was putting on. It was a day dedicated to helping women overcome any fears they have about starting their own business, and I was asked to say a few words and share a few tips. Obviously, I could not allow this opportunity",0.99305178646,,,,fr
+72,on_p50,1000,1,73,"2013 – Bridging the Gap
+An important focus of the Museum’s work has been to build strong partnerships with local Aboriginal communities, particularly those in the Cessnock area where the Museum is located. Through this approach, the Museum now holds a collection of over 1",0.99305178646,,,,fr
+73,on_p50,1000,1,74,"# KBS2뉴스특보 (1360)
+
+《KBS2뉴스특보》는 대한민국 KBS 2TV에서 방송되었던 뉴",0.99305178646,,,,fr
+74,on_p50,1000,1,75,"# Szűrő-Kőszeg
+
+A Szűrő-Kőszeg lédobó-kőszikla, a Bükk hegységben, Szűri község területén, a Szűri-patak forrásvidékén",0.99305178646,,,,fr
+75,on_p50,1000,1,76,"# David Hicks (disambiguation)
+
+David Hicks (born 1975) is an Australian Taliban fighter and convicted terrorist.
+
+David Hicks may also refer to:
+
+* David Hicks (cricketer) (1931–201",0.99305178646,,,,fr
+76,on_p50,1000,1,77,"Challenging your students to think outside the box is a great way to help them grow and develop into problem solvers. With that in mind, educators looking for new ways to inspire the next generation of young problem solvers might want to check out the FLL Challenge, a global robotics competition that’",0.99305178646,,,,fr
+77,on_p50,1000,1,78,"# 胡稼
+
+胡稼（?－?），字季叔。北宋初年承擔吏部郎中，沈澮、孙纬、�",0.99305178646,,,,fr
+78,on_p50,1000,1,79,"# Алиния
+
+Алиния (лат. Alinia) — монотипный род травянистых растений семейства Адоксовые (Adoxaceae), распространённый в Австралии, Китае и на острове Тайван",0.99305178646,,,,fr
+79,on_p50,1000,1,80,"x Criminal-Law
+1 - 20 of 92 Works in Criminal-Law
+A Heart Full of Love by Red_Knight_99
+Fandoms: Star Wars - All Media Types, Star Wars Sequel Trilogy, Star Wars Episode VII: The",0.99305178646,,,,fr
+80,on_p50,1000,1,81,"# UAL
+
+UAL peut faire référence à:
+
+* Université de l'Archéologie de Lerne - ancienne université non reconnue par les autorités grecques et les universités mondiales,
+* Université Laval (Laval University en anglais),",0.99305178646,,,,fr
+81,on_p50,1000,1,82,"Making the most of a limited budget:
+A good rule of thumb for marketing on a limited budget is to focus on the most effective or most cost effective ways to reach your audience and then develop a plan to market to them.
+For example, if you have an online presence, marketing through email is",0.99305178646,,,,fr
+82,on_p50,1000,1,83,"The City of Hartford is a vibrant community in which people live, work, and play, where government is open, responsive, and accountable to its citizens.
+The City of Hartford will be a safe, welcoming, and economically prosperous community with a high quality of life and a",0.99305178646,,,,fr
+83,on_p50,1000,1,84,"# Oregon
+
+Oregon (engelsk udtale: [oɹə'dʒən] or [oɹ'eɪdʒən]) er en stat i det nordvestlige USA.
+
+## Historie
+
+Oregon blev en del af USA i 1846",0.99305178646,,,,fr
+84,on_p50,1000,1,85,"#define CropLut 1
+#define RemoveBorder 1
+#define RemoveBlackPixels 1
+#define UseMipMaps 1
+#define UseSphericalMipMaps 0
+#define Immersive 0
+#define Use360Video",0.99305178646,,,,fr
+85,on_p50,1000,1,86,"A thoughtful formulation, a pleasing taste and a few simple steps to take throughout the year makes this a must-try recipe.
+In the mood for a good, old-fashioned pudding? Try this simple, yet delicious recipe for a comforting pudding that",0.99305178646,,,,fr
+86,on_p50,1000,1,87,"Tags: web-services, xamarin.forms, azure-active-directory
+
+Question: WS client in Xamarin.Forms
+
+\strong{Scenario} :
+I have a Web Service hosted in Azure.
+I have a Xamarin.Forms application.
+
+\strong{Client Code",0.99305178646,,,,fr
+87,on_p50,1000,1,88,"This study was undertaken to systematically ascertain the relationship between the presence of the synechial bar and the prevalence of secondary infertility in subfertile women undergoing hysterosalpingography (HSG).
+Of 233 consecutive subfertile women evaluated by HSG",0.99305178646,,,,fr
+88,on_p50,1000,1,89,"Dr. Subeesh K N
+Homeopath, Homeopathy Doctor, Homeopathic Doctor
+Dr. Subeesh K N is Consultant Physician, Homeopathy in Bangalore. He practices at the Homeo Care Clinic located at 10-4",0.99305178646,,,,fr
+89,on_p50,1000,1,90,"Premium Projects Needed to Keep Economy Humming
+Willis Tower in Chicago, once the tallest building in the Western Hemisphere, has been purchased by Blackstone Group.
+Given the dire economic and jobs picture in California, it’s encouraging to note that the state is still a",0.99305178646,,,,fr
+90,on_p50,1000,1,91,"1.2.4.2.e. Endoscope defogger
+A procedure for cleaning and preparation of the endoscope for the next procedure is described in the literature in two variants:
+1. Approach No. 1: duodenoscope is connected to the endos",0.99305178646,,,,fr
+91,on_p50,1000,1,92,"<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class ProductoptionImage extends Model
+{
+  protected $guarded = [];
+
+  public function image()
+  {
+    return $this->morphOne('App\Image', '",0.99305178646,,,,fr
+92,on_p50,1000,1,93,"<?php
+namespace App\Traits;
+
+use Symfony\Component\Security\Core\Authentication\Token\UsernamePasswordToken;
+
+trait SecurityTrait {
+
+	/**
+     * @var  UsernamePasswordToken
+     */
+    private $token;
+
+    public",0.99305178646,,,,fr
+93,on_p50,1000,1,94,"# 酢漿
+
+酢漿（すなば、酢液、羅：vinegar・aceto、葡：acide・acét、仏：vinaigre・acidité、西：vina",0.99305178646,,,,fr
+94,on_p50,1000,1,95,"What Makes a Good Leader in a Business?
+How to Respond to Drama in the Workplace
+Trustworthiness, honesty and a feel for others’ emotional states are some of the most important traits a leader can have.
+1 [Traits] | What Are the Top",0.99305178646,,,,fr
+95,on_p50,1000,1,96,"AI Member Corner: AAAI All-Conference Policy
+By AAAI Communications
+This is the first in a series of posts focusing on the 2019 AI Mobile Summit, which will spotlight the best in artificial intelligence, mobile technology, and the companies that are",0.99305178646,,,,fr
+96,on_p50,1000,1,97,"A transparent soap bubble is the perfect sphere, and the first sphere for which ancient Greek mathematicians proved the well-known formula for the volume of a sphere, V = 4/3 πr³. The formula is no more than a rule for generalizing from the known to the unknown, and it",0.99305178646,,,,fr
+97,on_p50,1000,1,98,"# 仙后座
+
+仙后座（拜耳命名法：Virgo）是天球上的一个赤道星座，其代表者为牧夫莫埴伯，但是",0.99305178646,,,,fr
+98,on_p50,1000,1,99,"Two hundred thousand dollars is a lot of money for most homebuyers, but for one family, it was just enough to purchase a home. A while back, my husband and I toured a home in our town, mostly because we were curious as to how the size of the home compared to the price.",0.99305178646,,,,fr
+99,on_p50,1000,1,100,"A simple, strong ring with a ball pattern, this is a lovely piece of handmade silver jewellery. This ring is hallmarked 925 and the pattern is formed using a traditional silversmithing technique known as 'punching'. The stone is set in the centre of",0.99305178646,,,,fr

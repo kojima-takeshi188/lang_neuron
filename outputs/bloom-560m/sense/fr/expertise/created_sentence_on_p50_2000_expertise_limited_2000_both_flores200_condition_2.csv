@@ -1,0 +1,608 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,2000,1,1,"Translate an English sentence into a target language.
+English: Sort of like rolling a heavy cart up a hill. Splitting the nucleus up again then releases some of that energy.
+Target Language: The target language is the language of the sentence. The sentence is translated into English.
+The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+1,on_p50,2000,1,2,"Translate an English sentence into a target language.
+English: Pests can spoil food, cause irritation, or in a worse case cause allergic reactions, spread venom, or transmit infections.
+Target Language: English. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+2,on_p50,2000,1,3,"Translate an English sentence into a target language.
+English: This behavior oftentimes results in rifts between the leaders and the rest of the team.
+Target Language: This behavior is usually caused by a lack of communication between the leader and the rest of the team.
+The leader is the one who is responsible for the communication. He is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+3,on_p50,2000,1,4,"Translate an English sentence into a target language.
+English: Italian is also the everyday language used by most of those who work in the state while Latin is often used in religious ceremonies.
+Target Language: English is the language of the majority of the population in the United States, but it is not the language of the majority of the population in the United Kingdom.
+The English language is the official language of the United States, but it is not the official language of the United Kingdom.
+The English language is the official language of the United Kingdom, but it is not the official language of the United States.
+The English language is the official language of the United States, but it is not the official language of the United Kingdom.
+The English language is the official language of the United States, but it is not the official language of the United Kingdom.
+",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+4,on_p50,2000,1,5,"Translate an English sentence into a target language.
+English: While project based learning should make learning easier and more interesting, scaffolding goes a step beyond.
+Target Language: The language of the project. The language of the project is the language of the target language. The language of the target language is the language of the project.
+Language of the Project: The language of the project. The language of the project is the language of the target language.
+Language of the Target Language: The language of the target language. The language of the target language is the language of the project.
+Language of the Project: The language of the project. The language of the project is the language of the target language.
+Language of the Target Language: The language of the target language. The language of the target language is the language",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+5,on_p50,2000,1,6,"Translate an English sentence into a target language.
+English: Vatican City's population is around 800. It is the smallest independent country in the world and the country with the lowest population.
+Target Language: English. The English version of the site is available in English, French, German, Spanish, Portuguese, Russian, Italian, Polish, Dutch, Norwegian, Finnish, Swedish, Norwegian, Finnish, Swedish, Norwegian, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish, Finnish",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+6,on_p50,2000,1,7,"Translate an English sentence into a target language.
+English: We make our houses from plants and make clothes from plants. Most foods that we eat are plants. Without plants, animals could not survive.
+Target Language: English. The English language is the official language of the United Kingdom. It is the second-largest language in the world after the French language. It is the second-largest language in the world after the German language. It is the second-largest language in the world after the Spanish language. It is the second-largest language in the world after the Italian language. It is the second-largest language in the world after the Dutch language. It is the second-largest language in the world after the Russian language. It is the second-largest language in the world after the Kazakh language. It is",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+7,on_p50,2000,1,8,"Translate an English sentence into a target language.
+English: Due to the long distance from the continent mammals were unable to make the journey making the giant tortoise the primary grazing animal in the Galapagos.
+Target Language: English. The tortoise is a mammal that is found in the Galapagos Islands. The tortoise is a mammal that is found in the Galapagos Islands. The tortoise is a mammal that is found in the Galapagos Islands. The tortoise is a mammal that is found in the Galapagos Islands. The tortoise is a mammal that is found in the Galapagos Islands. The tortoise is a mammal that is found in the Galapagos Islands. The tortoise is a mammal that is found in the Galapagos Islands. The tortoise is a mammal",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+8,on_p50,2000,1,9,"Translate an English sentence into a target language.
+English: Nothing can be seen other than the clear, beautiful sky above and the many surrounding mountains. Very little of this world can be seen or heard from inside the cave.
+Target Language: English. The cave is a place where the world is not visible. The world is not visible, but the world is not visible. The world is not visible, but the world is not visible. The world is not visible, but the world is not visible. The world is not visible, but the world is not visible. The world is not visible, but the world is not visible. The world is not visible, but the world is not visible. The world is not visible, but the world is not visible. The world is not visible, but the world is not visible. The world is not visible, but the world is",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+9,on_p50,2000,1,10,"Translate an English sentence into a target language.
+English: According to police, the driver of the vehicle that hit the photographer is unlikely to face criminal charges.
+Target Language: English.
+The police said the driver was not wearing a helmet, and the driver was wearing a helmet.
+Police said the driver was wearing a helmet.
+Police said the driver was wearing a helmet.
+Police said the driver was wearing a helmet.
+Police said the driver was wearing a helmet.
+Police said the driver was wearing a helmet.
+Police said the driver was wearing a helmet.
+Police said the driver was wearing a helmet.
+Police said the driver was wearing a helmet.
+Police said the driver was wearing a helmet.
+Police said the driver was wearing a helmet.
+Police said the driver was wearing a helmet.
+Police said the driver was wearing a helmet",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+10,on_p50,2000,1,11,"Translate an English sentence into a target language.
+English: This was more like the four states of matter (in the same order): solid, liquid, gas, and plasma, though he also theorised that they change into new substances to form what we see.
+Target Language: This was the language of the people who lived in the Middle East, who were the descendants of the original settlers who arrived in the Middle East in the 16th century.
+The English translation of the Bible is the Bible in English. The Bible in English is the Bible in English. The Bible in English is the Bible in English. The Bible in English is the Bible in English. The Bible in English is the Bible in English. The Bible in English is the Bible in English. The Bible in English is the Bible in English. The Bible in English is the Bible in English. The Bible in English is the Bible in English. The Bible in",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+11,on_p50,2000,1,12,"Translate an English sentence into a target language.
+English: But, after losing the captain's wicket India only made 36 runs loosing 7 wickets to end the innings.
+Target Language: English
+The match was played in the Ashes Test. The match was played in the Ashes Test. The match was played in the Ashes Test. The match was played in the Ashes Test. The match was played in the Ashes Test. The match was played in the Ashes Test. The match was played in the Ashes Test. The match was played in the Ashes Test. The match was played in the Ashes Test. The match was played in the Ashes Test. The match was played in the Ashes Test. The match was played in the Ashes Test. The match was played in the",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+12,on_p50,2000,1,13,"Translate an English sentence into a target language.
+English: In inland regions of Northern India and Pakistan, yogurt is commonly used in curries; in Southern India and some other coastal regions of the subcontinent, coconut milk is commonly used.
+Target Language: English. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+13,on_p50,2000,1,14,"Translate an English sentence into a target language.
+English: Hu encouraged developing countries ""to avoid the old path of polluting first and cleaning up later.""
+Target Language: English
+The project was funded by the European Commission (grant no. ECF/0008) and the European Union (grant no. ECF/0008).",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+14,on_p50,2000,1,15,"Translate an English sentence into a target language.
+English: Yet, Spanish is also widely used in public transport and other facilities.
+Target Language: English.
+The following is a list of the most common mistakes that people make when they write in Spanish.
+1. The first letter of the first word is the accent.
+2. The first letter of the second word is the accent.
+3. The first letter of the third word is the accent.
+4. The first letter of the fourth word is the accent.
+5. The first letter of the fifth word is the accent.
+6. The first letter of the sixth word is the accent.
+7. The first letter of the seventh word is the accent.
+8. The first letter of the eighth word is the accent.
+9. The",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+15,on_p50,2000,1,16,"Translate an English sentence into a target language.
+English: Machu Picchu consist of three main structures, namely Intihuatana, the Temple of the Sun, and the Room of the Three Windows.
+Target Language: English. The main structure is Intihuatana, which is the Temple of the Sun. The Temple of the Sun is the place where the sun is placed. The Temple of the Sun is located in the centre of the temple. The Temple of the Sun is the place where the sun is placed. The Temple of the Sun is the place where the sun is placed. The Temple of the Sun is the place where the sun is placed. The Temple of the Sun is the place where the sun is placed. The Temple of the Sun is the place where the sun is placed. The Temple of the Sun is the place where the sun is",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+16,on_p50,2000,1,17,"Translate an English sentence into a target language.
+English: The most readily accessible plant resources would have been the proteins accessible in leaves and legumes, but these are hard for primates like us to digest unless they are cooked.
+Target Language: The target language would have been English, but the plant resources would have been in English.
+The final step would be to translate the English sentences into the target language. This would be done by a translator who would have been trained in the target language. The translator would then translate the English sentences into the target language. The translator would then translate the English sentences into the target language. The translator would then translate the English sentences into the target language. The translator would then translate the English sentences into the target language. The translator would then translate the English sentences into the target language. The translator would then translate the English sentences into the target language.",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+17,on_p50,2000,1,18,"Translate an English sentence into a target language.
+English: The terrified King Louis XVI, Queen Marie Antoinette their two young children (11 year old Marie Therese and four year old Louis-Charles) and the King's sister, Madam Elizabeth, on the 6th October 1789 were forced back to Paris from Versailles by a mob of market women.
+Target Language: English. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French Revolution. The French",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+18,on_p50,2000,1,19,"Translate an English sentence into a target language.
+English: Many German baked goods also feature almonds, hazelnuts, and other tree nuts. Popular cakes often pair particularly well with a cup of strong coffee.
+Target Language: The English language is the lingua franca of many baked goods. The English language is the lingua franca of many baked goods. The English language is the lingua franca of many baked goods. The English language is the lingua franca of many baked goods. The English language is the lingua franca of many baked goods. The English language is the lingua franca of many baked goods. The English language is the lingua franca of many baked goods. The English language is the lingua franca of many baked goods. The English language is the lingua franca of many baked goods. The English language is the lingua franca of many baked",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+19,on_p50,2000,1,20,"Translate an English sentence into a target language.
+English: Uka's weapon failed whilst pointed at a fifth man's head. Schneider has ongoing pain, blindness in one eye, a missing section of skull and a face rebuilt from titanium.
+Target Language: English. The film is based on the book by the same name by the same author, and is based on the same storyline. The film is based on the book by the same author, and is based on the same storyline. The film is based on the book by the same author, and is based on the same storyline. The film is based on the book by the same author, and is based on the same storyline. The film is based on the book by the same author, and is based on the same storyline. The film is based on the book by the same author, and is based on the",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+20,on_p50,2000,1,21,"Translate an English sentence into a target language.
+English: City-states are the precursors of nations. A civilizational culture implies the passing on of knowledge across several generations, a lingering cultural footprint and fair dissemination.
+Target Language: The target language is the language of the target audience. The target audience is the audience who is likely to read the article. The target audience is the audience who is likely to read the article. The target audience is the audience who is likely to read the article. The target audience is the audience who is likely to read the article. The target audience is the audience who is likely to read the article. The target audience is the audience who is likely to read the article. The target audience is the audience who is likely to read the article. The target audience is the audience who is likely to read the article. The target audience is the",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+21,on_p50,2000,1,22,"Translate an English sentence into a target language.
+English: Former House Speaker Newt Gingrich, Texas governor Rick Perry, and Congresswoman Michele Bachmann finished in fourth, fifth, and sixth place, respectively.
+Target Language: English. The finalists were: Newt Gingrich, Texas governor Rick Perry, and Congresswoman Michele Bachmann.
+The finalists were: Newt Gingrich, Texas governor Rick Perry, and Congresswoman Michele Bachmann.
+The finalists were: Newt Gingrich, Texas governor Rick Perry, and Congresswoman Michele Bachmann.
+The finalists were: Newt Gingrich, Texas governor Rick Perry, and Congresswoman Michele Bachmann.
+The finalists were: Newt Gingrich, Texas governor Rick Perry, and Congresswoman Michele Bachmann.
+The finalists were: New",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+22,on_p50,2000,1,23,"Translate an English sentence into a target language.
+English: The war expenditures of U.S. imperialism in the conquest of the Philippines were paid for by the Filipino people themselves.
+Target Language: English. The war expenditures of U.S. imperialism in the conquest of the Philippines were paid for by the Filipino people themselves.
+The war expenditures of U.S. imperialism in the conquest of the Philippines were paid for by the Filipino people themselves.
+The war expenditures of U.S. imperialism in the conquest of the Philippines were paid for by the Filipino people themselves.
+The war expenditures of U.S. imperialism in the conquest of the Philippines were paid for by the Filipino people themselves.
+The war expenditures of U.S. imperialism in the conquest of the Philippines were",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+23,on_p50,2000,1,24,"Translate an English sentence into a target language.
+English: Needless to say, if you know a Romance language, it will be easier for you to learn Portuguese.
+Target Language: The target language is the language you want to learn. If you are a native speaker of English, you can learn Portuguese in a language that is not the target language.
+Language: The language you want to learn is the language you want to learn. If you are a native speaker of English, you can learn Portuguese in a language that is not the target language.
+Language: The language you want to learn is the language you want to learn. If you are a native speaker of English, you can learn Portuguese in a language that is not the target language.
+Language: The language you want to learn is the language you want to learn.",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+24,on_p50,2000,1,25,"Translate an English sentence into a target language.
+English: Women did the cooking in the yard; stores were just open counters looking into the street. Stone was used for building houses.
+Target Language: English. The English sentence was translated into the target language. The English sentence was translated into the target language. The English sentence was translated into the target language. The English sentence was translated into the target language. The English sentence was translated into the target language. The English sentence was translated into the target language. The English sentence was translated into the target language. The English sentence was translated into the target language. The English sentence was translated into the target language. The English sentence was translated into the target language. The English sentence was translated into the target language. The English sentence was translated into the target language. The English sentence was translated into",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+25,on_p50,2000,1,26,"Translate an English sentence into a target language.
+English: Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago.
+Target Language: English. The English version of this article is in the English version of Science.",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+26,on_p50,2000,1,27,"Translate an English sentence into a target language.
+English: Pre-operative transgender people should not expect to pass through the scanners with their privacy and dignity intact.
+Target Language: Transgender people who are undergoing surgery should not be expected to pass through the scanners with their privacy and dignity intact.
+The US Department of Health and Human Services (DHHS) has issued a statement on the issue. The statement states that transgender people who are undergoing surgery should not be expected to pass through the scanners with their privacy and dignity intact.
+The statement states that transgender people who are undergoing surgery should not be expected to pass through the scanners with their privacy and dignity intact.
+The statement states that transgender people who are undergoing surgery should not be expected to pass through the scanners with their privacy and dignity intact.
+",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+27,on_p50,2000,1,28,"Translate an English sentence into a target language.
+English: Check the label for specific first aid instructions for that specific poison.
+Target Language: The target language of the English sentence.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+28,on_p50,2000,1,29,"Translate an English sentence into a target language.
+English: Efforts to search for the crash site are being met by bad weather and harsh terrain.
+Target Language: English. The site is located in the South of France, in the département de la Haute-Savoie, in the French Alps.
+The site is located in the French Alps, in the French department of Haute-Savoie, in the French Alps.
+The site is located in the French department of Haute-Savoie, in the French department of Haute-Savoie, in the French Alps.
+The site is located in the French department of Haute-Savoie, in the French department of Haute-Savoie, in the French Alps.
+The site is located in the French department of Haute-Savoie, in the French department of",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+29,on_p50,2000,1,30,"Translate an English sentence into a target language.
+English: The modern city of Casablanca was founded by Berber fishermen in the 10th century BCE, and was used by the Phoenicians, Romans, and the Merenids as a strategic port called Anfa.
+Target Language: English. The English language is the official language of the United Kingdom. It is the second-largest language in the world after the French. It is the second-largest language in the world after the French. It is the second-largest language in the world after the French. It is the second-largest language in the world after the French. It is the second-largest language in the world after the French. It is the second-largest language in the world after the French. It is the second-largest language in the world after the French. It is the second-largest language in",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+30,on_p50,2000,1,31,"Translate an English sentence into a target language.
+English: This means you can visit the historic city for a couple of full days while returning and sleeping on the ship at night.
+Target Language: This means you can visit the city for a couple of full days while returning and sleeping on the ship at night.
+The best way to get started is to get a tour guide who can explain the city and the history of the city. You can also ask for a guide who can explain the history of the city and the city itself. You can also ask for a guide who can explain the history of the city and the city itself.
+The best way to get started is to get a tour guide who can explain the city and the history of the city. You can also ask for a guide who can explain the history of the city and the",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+31,on_p50,2000,1,32,"Translate an English sentence into a target language.
+English: They usually have special food, drink and entertainment offers, to keep guests in a good mood, and keep them at the premise.
+Target Language: English. The English language is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+32,on_p50,2000,1,33,"Translate an English sentence into a target language.
+English: Argentina is well known for having one of the best polo teams and players in the world.
+Target Language: English
+The following is a sample of a sentence that is translated into English.
+The following is a sample of a sentence that is translated into English.
+The following is a sample of a sentence that is translated into English.
+The following is a sample of a sentence that is translated into English.
+The following is a sample of a sentence that is translated into English.
+The following is a sample of a sentence that is translated into English.
+The following is a sample of a sentence that is translated into English.
+The following is a sample of a sentence that is translated into English.
+The following is a sample of a sentence that is translated into English.
+",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+33,on_p50,2000,1,34,"Translate an English sentence into a target language.
+English: For example visiting castles in the Loire Valley, the Rhine valley or taking a cruise to interesting cites on the Danube or boating along the Erie Canal.
+Target Language: For example, English, French, German, Spanish, Italian, Portuguese, Russian, Polish, Dutch, Norwegian, Norwegian, Spanish, Portuguese, Russian, Polish, Dutch, Norwegian, Spanish, Portuguese, Russian, Polish, Dutch, Norwegian, Spanish, Portuguese, Russian, Polish, Dutch, Norwegian, Spanish, Portuguese, Russian, Polish, Dutch, Norwegian, Spanish, Portuguese, Russian, Polish, Dutch, Norwegian, Spanish, Portuguese, Russian, Polish, Dutch, Norwegian, Spanish, Portuguese, Russian, Polish, Dutch, Norwegian, Spanish, Portuguese, Russian, Polish, Dutch, Norwegian, Spanish, Portuguese, Russian, Polish",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+34,on_p50,2000,1,35,"Translate an English sentence into a target language.
+English: The correlation between brain pathology and behaviour supports scientists in their research.
+Target Language: The target language is the language in which the sentence is written.
+Language: The language in which the sentence is written.
+Language: The language in which the sentence is written.
+Language: The language in which the sentence is written.
+Language: The language in which the sentence is written.
+Language: The language in which the sentence is written.
+Language: The language in which the sentence is written.
+Language: The language in which the sentence is written.
+Language: The language in which the sentence is written.
+Language: The language in which the sentence is written.
+Language: The language in which the sentence is written.
+Language: The language in",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+35,on_p50,2000,1,36,"Translate an English sentence into a target language.
+English: Across the United States of America, there are approximately 400,000 known cases of Multiple Sclerosis (MS), leaving it as the leading neurological disease in younger and middle aged adults.
+Target Language: The target language is English. The English language is the official language of the United States.
+The English language is the official language of the United States. The English language is the official language of the United States.
+The English language is the official language of the United States. The English language is the official language of the United States.
+The English language is the official language of the United States. The English language is the official language of the United States.
+The English language is the official language of the United States. The English language is the official language of the United States.
+The English language is the official language of the United States. The English",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+36,on_p50,2000,1,37,"Translate an English sentence into a target language.
+English: Fluke wrote that the efforts by some to drown out women from speaking out about women’s health were unsuccessful.
+Target Language: The target language is English. The English version of the article is available in the English version of the article.
+The article is a summary of the findings of a study that was published in the Journal of the American Academy of Pediatrics in 2013. The article was published in the Journal of the American Academy of Pediatrics.
+The article was published in the Journal of the American Academy of Pediatrics in 2013. The article was published in the Journal of the American Academy of Pediatrics.
+The article was published in the Journal of the American Academy of Pediatrics in 2013. The article was published in the Journal of the American Academy of Pediatrics.
+",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+37,on_p50,2000,1,38,"Translate an English sentence into a target language.
+English: The archipelago lies 120 km north of the Peninsula. The largest is King George Island with the settlement of Villa Las Estrellas.
+Target Language: English. The archipelago is located in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean, in the South Atlantic Ocean,",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+38,on_p50,2000,1,39,"Translate an English sentence into a target language.
+English: North Shore beaches (in North Harbour district) are on the Pacific Ocean and stretch from Long Bay in the north to Devonport in the south.
+Target Language: English. The English version of the site is available in English, French, German, Spanish, Portuguese, Russian, and Chinese.
+The site is located in the North Shore, a small, coastal town in the North Harbour district of Portsmouth, England. The site is located on the North Shore, a small, coastal town in the North Harbour district of Portsmouth, England. The site is located on the North Shore, a small, coastal town in the North Harbour district of Portsmouth, England. The site is located on the North Shore, a small, coastal town in the North Harbour district of Portsmouth,",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+39,on_p50,2000,1,40,"Translate an English sentence into a target language.
+English: Subcultures can be distinctive because of the age, ethnicity, class, location, and/or gender of the members.
+Target Language: Subcultures can be distinctive because of the age, ethnicity, class, location, and/or gender of the members.
+Subcultures are a group of people who share a common culture, language, and religion. They are often referred to as “subcultures” or “subcultures”. Subcultures are a group of people who share a common culture, language, and religion. They are often referred to as “subcultures” or “subcultures”. Subcultures are a group of people who share a common culture, language, and religion. They are often referred to as “subcultures”",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+40,on_p50,2000,1,41,"Translate an English sentence into a target language.
+English: The surface of the Moon is made of rocks and dust. The outer layer of the Moon is called the crust.
+Target Language: The surface of the Moon is made of rocks and dust. The outer layer of the Moon is called the crust.
+The Moon is a planet in the constellation of Sagittarius. It is the second largest planet in the solar system, after the Sun. It is located at the centre of the constellation, at a distance of about 1.5 million light years (1.5 million km). It is the second largest planet in the solar system after the Sun. It is located at the centre of the constellation, at a distance of about 1.5 million light years (1.5 million km). It is the second",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+41,on_p50,2000,1,42,"Translate an English sentence into a target language.
+English: This too can be borrowed from the stock at the entrance but that clothing isn't washed after every user so you may not feel comfortable wearing these skirts. One size fits all for men!
+Target Language: This is a English translation of the stock at the entrance. The stock is not washed after every user so you may not feel comfortable wearing these skirts. One size fits all for men!
+The stock at the entrance is not washed after every user so you may not feel comfortable wearing these skirts. One size fits all for men!
+The stock at the entrance is not washed after every user so you may not feel comfortable wearing these skirts. One size fits all for men!
+The stock at the entrance is not washed after every user so you may not feel comfortable wearing these skirts. One size fits all for men!
+The stock at",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+42,on_p50,2000,1,43,"Translate an English sentence into a target language.
+English: The Plitvice Lakes national park is heavily forested, mainly with beech, spruce, and fir trees, and features a mixture of Alpine and Mediterranean vegetation.
+Target Language: English. The Plitvice Lakes National Park is heavily forested, mainly with beech, spruce, and fir trees, and features a mixture of Alpine and Mediterranean vegetation. The park is located in the Plitvice Lake District, in the centre of the Plitvice Lake District, in the centre of the Plitvice Lake District, in the centre of the Plitvice Lake District, in the centre of the Plitvice Lake District, in the centre of the Plitvice Lake District, in the centre of the Plitvice Lake District, in the centre of the",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+43,on_p50,2000,1,44,"Translate an English sentence into a target language.
+English: Virtually all computers in use today are based on the manipulation of information which is coded in the form of binary numbers.
+Target Language: The target language is the language in which the sentence is written.
+The sentence is written in English, but the target language is not.
+The sentence is written in English, but the target language is not.
+The sentence is written in English, but the target language is not.
+The sentence is written in English, but the target language is not.
+The sentence is written in English, but the target language is not.
+The sentence is written in English, but the target language is not.
+The sentence is written in English, but the target language is not.
+The sentence is written in English, but the target language is not.
+The sentence is",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+44,on_p50,2000,1,45,"Translate an English sentence into a target language.
+English: Japanese work culture is more hierarchical and formal that what Westerners may be used to.
+Target Language: English. The English language is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the world. It is the lingua franca of the",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+45,on_p50,2000,1,46,"Translate an English sentence into a target language.
+English: Moreover, failure to do so has serious consequences: growth depression, malnutrition, and ultimately death.
+Target Language: English.
+The following is a list of the most common mistakes that people make when they are trying to translate an English sentence into a target language.
+1. The sentence is not in the correct place.
+2. The sentence is not in the correct context.
+3. The sentence is not in the correct place.
+4. The sentence is not in the correct place.
+5. The sentence is not in the correct place.
+6. The sentence is not in the correct place.
+7. The sentence is not in the correct place.
+8. The sentence is not in the correct place.
+9. The sentence is not in the correct place.
+",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+46,on_p50,2000,1,47,"Translate an English sentence into a target language.
+English: Crossties were introduced fairly early to hold the tracks in place. Gradually, however, it was realised that tracks would be more efficient if they had a stip of iron on the top.
+Target Language: The track was designed to be used in a variety of environments. It was intended to be used in a variety of environments, including:
+• In a roadway, on a road, on a roadway, on a roadway, on a roadway, on a roadway, on a roadway, on a roadway, on a roadway, on a roadway, on a roadway, on a roadway, on a roadway, on a roadway, on a roadway, on a roadway, on a roadway, on a roadway, on a roadway, on a roadway,",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+47,on_p50,2000,1,48,"Translate an English sentence into a target language.
+English: Its status declined during the twelfth century mainly due to the fact that Crusaders had returned bearing gifts such as silks and spices that were valued more than what Byzantine markets offered.
+Target Language: The English language is the official language of the United Kingdom. It is the second-largest language in the world after the French language.
+The English language is the official language of the United Kingdom. It is the second-largest language in the world after the French language.
+The English language is the official language of the United Kingdom. It is the second-largest language in the world after the French language.
+The English language is the official language of the United Kingdom. It is the second-largest language in the world after the French language.
+The English language is the official language of the United Kingdom. It is the second",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+48,on_p50,2000,1,49,"Translate an English sentence into a target language.
+English: While one experimental vaccine appears able to reduce Ebola mortality, up until now, no drugs have been clearly demonstrated suitable for treating existing infection.
+Target Language: The target language of the vaccine is English. The vaccine is not yet approved for use in the United States.
+Efficacy: The efficacy of the vaccine is currently unknown. The vaccine is not yet approved for use in the United States.
+Conclusion: The Ebola vaccine is a promising candidate for use in the treatment of Ebola infection. The Ebola vaccine is currently in phase 3 trials in patients who have been infected with Ebola. The Ebola vaccine is not yet approved for use in the United States.",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+49,on_p50,2000,1,50,"Translate an English sentence into a target language.
+English: Each temple had an open temple courtyard and then an inner sanctuary that only the priests could enter.
+Target Language: The temple was in the city of Sion, Israel. The temple was a large, dark, and darkened building, with a large, dark, and darkened roof. The temple was surrounded by a large, dark, and darkened wall. The temple was surrounded by a large, dark, and darkened wall. The temple was surrounded by a large, dark, and darkened wall. The temple was surrounded by a large, dark, and darkened wall. The temple was surrounded by a large, dark, and darkened wall. The temple was surrounded by a large, dark, and darkened wall. The temple",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+50,on_p50,2000,1,51,"Translate an English sentence into a target language.
+English: The mountains of the Peninsula here merge into the plateau, then re-emerge to form the 360 km chain of the Ellsworth Mountains, bisected by the Minnesota Glacier.
+Target Language: English. The Ellsworth Mountains are the highest mountains in the world, with a height of 1,200 metres. The Ellsworth Mountains are the highest mountains in the world, with a height of 1,200 metres. The Ellsworth Mountains are the highest mountains in the world, with a height of 1,200 metres. The Ellsworth Mountains are the highest mountains in the world, with a height of 1,200 metres. The Ellsworth Mountains are the highest mountains in the world, with a height of 1,200 metres. The Ellsworth Mountains are the highest mountains in the world, with a height",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+51,on_p50,2000,1,52,"Translate an English sentence into a target language.
+English: In addition, be aware that odors attract bears and other wildlife, so avoid carrying or cooking odorous foods and keep a clean camp.
+Target Language: The target language is the language of the target audience. The target audience is the audience who is interested in the product or service. The target audience is the audience who is interested in the product or service. The target audience is the audience who is interested in the product or service. The target audience is the audience who is interested in the product or service. The target audience is the audience who is interested in the product or service. The target audience is the audience who is interested in the product or service. The target audience is the audience who is interested in the product or service. The target audience is the audience who is interested in the product",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+52,on_p50,2000,1,53,"Translate an English sentence into a target language.
+English: Scientists say the explosion caused by the collision was massive.
+Target Language: English.
+The explosion was so powerful that it caused a tsunami.
+The tsunami was so powerful that it caused a tsunami.
+The tsunami was so powerful that it caused a tsunami.
+The tsunami was so powerful that it caused a tsunami.
+The tsunami was so powerful that it caused a tsunami.
+The tsunami was so powerful that it caused a tsunami.
+The tsunami was so powerful that it caused a tsunami.
+The tsunami was so powerful that it caused a tsunami.
+The tsunami was so powerful that it caused a tsunami.
+The tsunami was so powerful that it caused a tsunami.
+The tsunami was so powerful that it caused a tsunami.
+The tsunami was so powerful",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+53,on_p50,2000,1,54,"Translate an English sentence into a target language.
+English: Italy's national football, along with German national football team is the second most successful team in the world and were the FIFA World Cup champions in 2006.
+Target Language: English. The English version of the game is called the English Premier League. The English Premier League is the English Premier League, or Premier League, or Premier League. The English Premier League is the English Premier League, or Premier League, or Premier League. The English Premier League is the English Premier League, or Premier League, or Premier League. The English Premier League is the English Premier League, or Premier League, or Premier League. The English Premier League is the English Premier League, or Premier League, or Premier League. The English Premier League is the English Premier League, or Premier League, or Premier League. The English Premier League is",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+54,on_p50,2000,1,55,"Translate an English sentence into a target language.
+English: The distinct characteristics of the Internet lead to additional dimensions in terms of the uses and gratifications approach.
+Target Language: The target language is the language of the user. The user is not the target language, but the language of the user. The user is the target language, but the language of the user. The user is the target language, but the language of the user. The user is the target language, but the language of the user. The user is the target language, but the language of the user. The user is the target language, but the language of the user. The user is the target language, but the language of the user. The user is the target language, but the language of the user. The user is the target",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+55,on_p50,2000,1,56,"Translate an English sentence into a target language.
+English: Such children are called ""feral"" or wild. Some feral children have been confined by people (usually their own parents); in some cases this child abandonment was due to the parents' rejection of a child's severe intellectual or physical impairment.
+Target Language: This is the language in which the sentence is written. It is usually the language in which the sentence is written in English. It is usually the language in which the sentence is written in English.
+The sentence is written in English if the sentence is written in English. If the sentence is written in English, the sentence is written in English. If the sentence is written in English, the sentence is written in English. If the sentence is written in English, the sentence is written in English.
+The sentence is written in English if the sentence is written in English. If the sentence is written in English, the sentence is written in English. If",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+56,on_p50,2000,1,57,"Translate an English sentence into a target language.
+English: Negotiators tried to rectify the situation, but the prisoners' demands are not clear.
+Target Language: English.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+The situation is not clear.
+",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+57,on_p50,2000,1,58,"Translate an English sentence into a target language.
+English: The East African Islands are in the Indian Ocean off the eastern coast of Africa.
+Target Language: English.
+The East African Islands are in the Indian Ocean off the eastern coast of Africa.
+The East African Islands are in the Indian Ocean off the eastern coast of Africa.
+The East African Islands are in the Indian Ocean off the eastern coast of Africa.
+The East African Islands are in the Indian Ocean off the eastern coast of Africa.
+The East African Islands are in the Indian Ocean off the eastern coast of Africa.
+The East African Islands are in the Indian Ocean off the eastern coast of Africa.
+The East African Islands are in the Indian Ocean off the eastern coast of Africa.
+The East African Islands are in the Indian Ocean off the eastern coast of",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+58,on_p50,2000,1,59,"Translate an English sentence into a target language.
+English: Tournament top seeds South Africa started on the right note when they had a comfortable 26 - 00 win against 5th seeded Zambia.
+Target Language: English. The match was played in Johannesburg, South Africa. The match was played on the day of the World Cup. The match was played on the day of the World Cup. The match was played on the day of the World Cup. The match was played on the day of the World Cup. The match was played on the day of the World Cup. The match was played on the day of the World Cup. The match was played on the day of the World Cup. The match was played on the day of the World Cup. The match was played on the day of the World Cup. The match was played on the day of",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+59,on_p50,2000,1,60,"Translate an English sentence into a target language.
+English: 34 per cent of those in the poll share this view, wanting Queen Elizabeth II to be Australia's last monarch.
+Target Language: 34 per cent of those in the poll share this view, wanting Queen Elizabeth II to be Australia's last monarch.
+The poll was conducted on behalf of the National Institute for Aboriginal and Torres Strait Islander Studies (NIAITS), which is a research organisation based in Sydney.
+The NIAITS is a research organisation based in Sydney.
+The poll was conducted on behalf of the National Institute for Aboriginal and Torres Strait Islander Studies (NIAITS), which is a research organisation based in Sydney.
+The NIAITS is a research organisation based in Sydney.
+The poll was conducted on behalf of the National Institute for Aboriginal and Torres Str",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+60,on_p50,2000,1,61,"Translate an English sentence into a target language.
+English: Fruit pastries are common, with apples cooked into pastries year round, and cherries and plums making their appearances during the summer.
+Target Language: English. The English version of the French pastry is called French pastry. French pastry is a pastry made from fruit pastry, which is a type of pastry made from fruit. French pastry is a pastry made from fruit pastry, which is a type of pastry made from fruit. French pastry is a pastry made from fruit pastry, which is a type of pastry made from fruit. French pastry is a pastry made from fruit pastry, which is a type of pastry made from fruit. French pastry is a pastry made from fruit pastry, which is a",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+61,on_p50,2000,1,62,"Translate an English sentence into a target language.
+English: The 25 Dunlap broadsides still known to exist are the oldest surviving copies of the document. The original handwritten copy has not survived.
+Target Language: The Dunlap broadsides are the oldest surviving copies of the document. The original handwritten copy has not survived.
+The Dunlap broadsides were a document that was written in the early 1800s. They were a document that was written in the early 1800s. They were a document that was written in the early 1800s. They were a document that was written in the early 1800s. They were a document that was written in the early 1800s. They were a document that was written in the early 1800s. They were a document that was written in the early 1800s. They were a document that was written in",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+62,on_p50,2000,1,63,"Translate an English sentence into a target language.
+English: He was greeted by Singapore's Deputy Prime Minister Wong Kan Seng and discussed trade and terrorism issues with the Singapore Prime Minister Lee Hsien Loong.
+Target Language: English.
+The Singapore Government has been working closely with the Singapore Civil Defence Force (SCDF) to develop a new training programme for Singaporeans who are in the midst of a war.
+The Singapore Civil Defence Force (SCDF) has been working closely with the Singapore Civil Defence Force (SCDF) to develop a new training programme for Singaporeans who are in the midst of a war.
+The Singapore Civil Defence Force (SCDF) has been working closely with the Singapore Civil Defence Force (SCDF) to develop a new training programme for Singaporeans who are in the midst of a war.
+The Singapore Civil Defence Force (SCDF)",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+63,on_p50,2000,1,64,"Translate an English sentence into a target language.
+English: Two songs from the movie, Audition (The Fools Who Dream) and City of Stars, received nominations for best original song. Lionsgate studio received 26 nominations — more than any other studio.
+Target Language: The film was nominated for Best Picture, Best Director, Best Actor, Best Music, Best Soundtrack, Best Editing, Best Music Video, Best Soundtrack Video, Best Editing Video, Best Music Video, Best Editing Video, Best Music Video, Best Editing Video, Best Music Video, Best Editing Video, Best Music Video, Best Editing Video, Best Music Video, Best Editing Video, Best Music Video, Best Editing Video, Best Music Video, Best Editing Video, Best Music Video, Best Editing Video, Best Music Video, Best Editing Video, Best Music Video, Best Editing Video",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+64,on_p50,2000,1,65,"Translate an English sentence into a target language.
+English: Many of the traditions surrounding the holiday have been adopted also by non-believers in Christian countries and non-Christians around the world.
+Target Language: The target language is the language of the message. The message is sent to the target language.
+The message is sent to the target language. The message is sent to the target language. The message is sent to the target language. The message is sent to the target language. The message is sent to the target language. The message is sent to the target language. The message is sent to the target language. The message is sent to the target language. The message is sent to the target language. The message is sent to the target language. The message is sent to the target language. The message is sent to the target language. The",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+65,on_p50,2000,1,66,"Translate an English sentence into a target language.
+English: Many common formats (APS family of formats, for example) are equal to or closely approximate this aspect ratio.
+Target Language: The target language is the language in which the sentence is written. The target language is the language in which the sentence is written. The target language is the language in which the sentence is written. The target language is the language in which the sentence is written. The target language is the language in which the sentence is written. The target language is the language in which the sentence is written. The target language is the language in which the sentence is written. The target language is the language in which the sentence is written. The target language is the language in which the sentence is written. The target language is the language in which the sentence is",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+66,on_p50,2000,1,67,"Translate an English sentence into a target language.
+English: The patient had been to Nigeria, where some cases of the Ebola virus have occurred.
+Target Language: English.
+The patient was transferred to the hospital in Nigeria.
+The patient was transferred to the hospital in Nigeria.
+The patient was transferred to the hospital in Nigeria.
+The patient was transferred to the hospital in Nigeria.
+The patient was transferred to the hospital in Nigeria.
+The patient was transferred to the hospital in Nigeria.
+The patient was transferred to the hospital in Nigeria.
+The patient was transferred to the hospital in Nigeria.
+The patient was transferred to the hospital in Nigeria.
+The patient was transferred to the hospital in Nigeria.
+The patient was transferred to the hospital in Nigeria.
+The patient was transferred to the hospital in Nigeria.
+The patient was transferred to the",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+67,on_p50,2000,1,68,"Translate an English sentence into a target language.
+English: When you call someone who is thousands of miles away, you are using a satellite.
+Target Language: When you call someone who is in a country, you are using a satellite.
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+68,on_p50,2000,1,69,"Translate an English sentence into a target language.
+English: The Sundarbans are the largest littoral mangrove belt in the world, stretching 80 km (50 mi) into the Bangladeshi and Indian hinterland from the coast.
+Target Language: English.
+The Sundarbans are a unique ecosystem, with a unique combination of tropical and subtropical climates, and a unique combination of habitats, including mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mangroves, mang",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+69,on_p50,2000,1,70,"Translate an English sentence into a target language.
+English: Ocelots like to eat small animals. They will catch monkeys, snakes, rodents and birds if they can. Almost all of the animals that the ocelot hunts are far smaller than it is.
+Target Language: English. The ocelot is a small, brownish-black bird. It is a member of the family Ocelotidae. The ocelot is a small bird that is found in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest, in the forest",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+70,on_p50,2000,1,71,"Translate an English sentence into a target language.
+English: The age where the events took place is commonly referred as the High Middle Ages the period of European history in the 11th, 12th, and 13th centuries (AD 1000–1300).
+Target Language: The language in which the story is told. The story is usually told in English.
+The story is told in English. The story is told in English. The story is told in English. The story is told in English. The story is told in English. The story is told in English. The story is told in English. The story is told in English. The story is told in English. The story is told in English. The story is told in English. The story is told in English. The story is told in English. The story is told in English. The story is told in English. The story is told in English",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+71,on_p50,2000,1,72,"Translate an English sentence into a target language.
+English: Downhill skiing as a sport goes back to at least the 17th century, and in 1861 the first recreational ski club was opened by Norwegians in Australia.
+Target Language: English. The English language is the official language of the United Kingdom. The English language is the official language of the United Kingdom. The English language is the official language of the United Kingdom. The English language is the official language of the United Kingdom. The English language is the official language of the United Kingdom. The English language is the official language of the United Kingdom. The English language is the official language of the United Kingdom. The English language is the official language of the United Kingdom. The English language is the official language of the United Kingdom. The English language is the official language of the United Kingdom. The English language is the official",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+72,on_p50,2000,1,73,"Translate an English sentence into a target language.
+English: Typically there will be a tuition fee to enroll in these educational programs.
+Target Language: The language of instruction. The language of instruction is the language in which the student is taught. The language of instruction is the language in which the student is taught. The language of instruction is the language in which the student is taught. The language of instruction is the language in which the student is taught. The language of instruction is the language in which the student is taught. The language of instruction is the language in which the student is taught. The language of instruction is the language in which the student is taught. The language of instruction is the language in which the student is taught. The language of instruction is the language in which the student",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+73,on_p50,2000,1,74,"Translate an English sentence into a target language.
+English: Sleep interruption is the process of purposefully awakening during your normal sleep period and falling asleep a short time later (10–60 minutes).
+Target Language: English. The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+74,on_p50,2000,1,75,"Translate an English sentence into a target language.
+English: Only mutations in germ-line cells can be passed on to children, while mutations elsewhere can cause cell-death or cancer.
+Target Language: The target language is the language in which the mutation is found. The mutation is found in a germ-line cell, in a cell of the immune system, in a cell of the nervous system, in a cell of the skin, in a cell of the eye, in a cell of the skin, in a cell of the eye, in a cell of the skin, in a cell of the eye, in a cell of the skin, in a cell of the eye, in a cell of the skin, in a cell of the eye, in a cell of the skin, in a cell of the eye, in a cell of the",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+75,on_p50,2000,1,76,"Translate an English sentence into a target language.
+English: Moldova is a multi-ethnic republic that has suffered from ethnic conflict.
+Target Language: English
+The following is a list of the most common mistakes that people make when translating an English sentence into a target language.
+1. The first sentence is the most important part of the sentence.
+2. The second sentence is the most important part of the sentence.
+3. The third sentence is the most important part of the sentence.
+4. The fourth sentence is the most important part of the sentence.
+5. The fifth sentence is the most important part of the sentence.
+6. The sixth sentence is the most important part of the sentence.
+7. The seventh sentence is the most important part of the sentence.
+8. The eighth",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+76,on_p50,2000,1,77,"Translate an English sentence into a target language.
+English: For news on tournaments and where to buy tickets for polo matches, check Asociacion Argentina de Polo.
+Target Language: For news on tournaments and where to buy tickets for polo matches, check Polo World.
+The best way to get started is to visit the official website of the association. You can find all the information about the association, including the rules, the rules for the tournaments, the rules for the polo matches, and the rules for the tournaments.
+The rules for the tournaments are the same for all tournaments. The rules for the polo matches are the same for all tournaments. The rules for the tournaments are the same for all tournaments. The rules for the tournaments are the same for all tournaments. The rules",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+77,on_p50,2000,1,78,"Translate an English sentence into a target language.
+English: MS is a disease that affects the central nervous system, which is made up of the brain, the spinal cord and the optic nerve.
+Target Language: English. The MS is a neurological disease that affects the central nervous system, which is made up of the brain, the spinal cord and the optic nerve. It is a neurological disease that affects the central nervous system, which is made up of the brain, the spinal cord and the optic nerve. It is a neurological disease that affects the central nervous system, which is made up of the brain, the spinal cord and the optic nerve. It is a neurological disease that affects the central nervous system, which is made up of the brain, the spinal cord and the optic nerve. It is a neurological disease that affects the",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+78,on_p50,2000,1,79,"Translate an English sentence into a target language.
+English: Cancellation policies vary, but as of late March most coronavirus-based cancellation policies don't extend to July 2020, when the Olympics had been scheduled.
+Target Language: The English language is the official language of the World Health Organisation (WHO), the World Trade Organisation (WTO), and the World Bank.
+The World Health Organisation (WHO) is the official WHO organisation in the United Nations. It is the official body responsible for the health of the world. It is the official body responsible for the health of the world. It is the official body responsible for the health of the world. It is the official body responsible for the health of the world. It is the official body responsible for the health of the world. It is the official body responsible for the health of the world. It is the official body",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+79,on_p50,2000,1,80,"Translate an English sentence into a target language.
+English: Ring also settled a lawsuit with competing security company, the ADT Corporation.
+Target Language: Ring is a trademark of Ring Security, Inc. in the United States. Ring Security, Inc. is a division of Ring Security, Inc. in the United States. Ring Security, Inc. is a division of Ring Security, Inc. in the United States. Ring Security, Inc. is a division of Ring Security, Inc. in the United States. Ring Security, Inc. is a division of Ring Security, Inc. in the United States. Ring Security, Inc. is a division of Ring Security, Inc. in the United States. Ring Security, Inc. is a division of Ring Security, Inc. in the United",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+80,on_p50,2000,1,81,"Translate an English sentence into a target language.
+English: Tokyo will be the only Asian city to have hosted two summer Olympics, having hosted the games in 1964.
+Target Language: English. The English translation is the English version of the original Japanese translation.
+The English translation is the English version of the original Japanese translation.
+The English translation is the English version of the original Japanese translation.
+The English translation is the English version of the original Japanese translation.
+The English translation is the English version of the original Japanese translation.
+The English translation is the English version of the original Japanese translation.
+The English translation is the English version of the original Japanese translation.
+The English translation is the English version of the original Japanese translation.
+The English translation is the English version of the original Japanese translation.
+The English translation is the English version of the",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+81,on_p50,2000,1,82,"Translate an English sentence into a target language.
+English: The center of Tibetan meditation is the Deity Yoga. Through the visualization of various deities the energy channels are cleaned, the chakras are activated and the enlightenment consciousness is created.
+Target Language: English. The center of Tibetan meditation is the Deity Yoga. Through the visualization of various deities the energy channels are cleaned, the chakras are activated and the enlightenment consciousness is created.
+The center of Tibetan meditation is the Deity Yoga. Through the visualization of various deities the energy channels are cleaned, the chakras are activated and the enlightenment consciousness is created. The center of Tibetan meditation is the Deity Yoga. Through the visualization of various deities the energy channels are cleaned, the chakras are activated and the enlightenment consciousness is created. The center of Tibetan med",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+82,on_p50,2000,1,83,"Translate an English sentence into a target language.
+English: The Babylonians built each of their gods a primary temple that was considered the home of the god.
+Target Language: The Babylonians built each of their gods a primary temple that was considered the home of the god.
+The Babylonians built each of their gods a primary temple that was considered the home of the god.
+The Babylonians built each of their gods a primary temple that was considered the home of the god.
+The Babylonians built each of their gods a primary temple that was considered the home of the god.
+The Babylonians built each of their gods a primary temple that was considered the home of the god.
+The Babylonians built each of their gods a primary temple that was considered the home of the god.
+The Babyl",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+83,on_p50,2000,1,84,"Translate an English sentence into a target language.
+English: Lakkha Singh presented the chhappan bhog bhajan as well. Singer, Raju Khandelwal was accompanying him.
+Target Language: English. The chhappan bhog bhajan was performed by Lakkha Singh. The chhappan bhog bhajan was performed by Lakkha Singh. The chhappan bhog bhajan was performed by Lakkha Singh. The chhappan bhog bhajan was performed by Lakkha Singh. The chhappan bhog bhajan was performed by Lakkha Singh. The chhappan bhog bhajan was performed by Lakkha Singh. The chhappan bhog bhajan was performed by Lakkha Singh. The chhappan bhog bhajan was performed by Lakkha",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+84,on_p50,2000,1,85,"Translate an English sentence into a target language.
+English: NextGen is a system the FAA claims would allow aircraft to fly shorter routes and save millions of gallons of fuel each year and cut carbon emissions.
+Target Language: The FAA’s plan is to develop a system that will allow aircraft to fly shorter routes and save millions of gallons of fuel each year and cut carbon emissions.
+The FAA’s plan is to develop a system that will allow aircraft to fly shorter routes and save millions of gallons of fuel each year and cut carbon emissions.
+The FAA’s plan is to develop a system that will allow aircraft to fly shorter routes and save millions of gallons of fuel each year and cut carbon emissions.
+The FAA’s plan is to develop a system that will allow aircraft to fly shorter routes and save millions of gallons of fuel each year and",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+85,on_p50,2000,1,86,"Translate an English sentence into a target language.
+English: A satellite phone is not generally a replacement for a mobile phone, as you have to be outdoors with clear line of sight to the satellite to make a phone call.
+Target Language: The target language is the language of the satellite phone. The satellite phone is not a replacement for a mobile phone, as you have to be outdoors with clear line of sight to the satellite to make a phone call.
+The satellite phone is not a replacement for a mobile phone, as you have to be outdoors with clear line of sight to the satellite to make a phone call.
+The satellite phone is not a replacement for a mobile phone, as you have to be outdoors with clear line of sight to the satellite to make a phone call.
+The satellite phone is not a replacement for a mobile phone, as you have",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+86,on_p50,2000,1,87,"Translate an English sentence into a target language.
+English: Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.
+Target Language: The target language is the language in which the sentence is written. The sentence is written in English, but the target language is not. The sentence is written in English, but the target language is not. The sentence is written in English, but the target language is not. The sentence is written in English, but the target language is not. The sentence is written in English, but the target language is not. The sentence is written in English, but the target language is not. The sentence is written in English, but the target language is not. The sentence is written in English, but the target language is not. The sentence is",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+87,on_p50,2000,1,88,"Translate an English sentence into a target language.
+English: No matter how docile they may look, bison, elk, moose, bears, and nearly all large animals can attack.
+Target Language: English. The bison is a large, powerful, and aggressive animal. It is a member of the bison family, which includes the bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, bison, b",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+88,on_p50,2000,1,89,"Translate an English sentence into a target language.
+English: One was sent to George Washington on July 6, who had it read to his troops in New York on July 9. A copy reached London on August 10.
+Target Language: The English version was sent to the French army on August 10. A copy was sent to the French army on August 12.
+The French army sent a copy to the British army on August 14. A copy was sent to the British army on August 16.
+The British army sent a copy to the French army on August 18. A copy was sent to the French army on August 20.
+The French army sent a copy to the British army on August 22. A copy was sent to the British army on August 24.
+The British army sent a copy to the French army on August 26. A copy was sent to the French army on August 28",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+89,on_p50,2000,1,90,"Translate an English sentence into a target language.
+English: Since Montevideo is south of the Equator, it is summer there when it's winter in the Northern Hemisphere and vice versa.
+Target Language: English. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the English version of the original. The English translation is the",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+90,on_p50,2000,1,91,"Translate an English sentence into a target language.
+English: I lost my sister and her friend, and on my way there were two disabled people in wheelchairs, people just jumping over and pushing them,"" Armand Versace said.
+Target Language: English. The French version of the film is available on Amazon Prime Video.
+The film is set in Paris, France, in the early 1900s. The story is told by Armand Versace, who is a French actor who is in love with his wife, Marie. Armand is a man who is very good at his job, but he is also very good at his love. Armand is a man who is very good at his job, but he is also very good at his love. Armand is a man who is very good at his job, but he is also very good at his love. Armand is a man who is very good",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+91,on_p50,2000,1,92,"Translate an English sentence into a target language.
+English: Today, Timbuktu is an impoverished town, although its reputation makes it a tourist attraction, and it has an airport.
+Target Language: English. The English translation of Timbuktu is Timbuktu. Timbuktu is a town in the province of Timbuktu, in the northwestern part of the country. It is located in the province of Timbuktu, in the northwestern part of the country. It is located in the province of Timbuktu, in the northwestern part of the country. It is located in the province of Timbuktu, in the northwestern part of the country. It is located in the province of Timbuktu, in the northwestern part of the country. It is located in the province of Timbuktu,",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+92,on_p50,2000,1,93,"Translate an English sentence into a target language.
+English: Famous singers across the country presented bhajans, or devotional songs, to Shri Shyam's feet.
+Target Language: English. The song is sung by the singer, who is also the song's author.
+The song is sung in English, and the lyrics are in English. The song is sung in English, and the lyrics are in English.
+The song is sung in English, and the lyrics are in English. The song is sung in English, and the lyrics are in English.
+The song is sung in English, and the lyrics are in English. The song is sung in English, and the lyrics are in English.
+The song is sung in English, and the lyrics are in English. The song is sung in",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+93,on_p50,2000,1,94,"Translate an English sentence into a target language.
+English: Ottawa is Canada's charming, bilingual capital and features an array of art galleries and museums that showcase Canada's past and present.
+Target Language: English. The English language is the official language of Canada. It is the second most spoken language in Canada, after French. It is also the second most spoken language in the world, after Spanish.
+The English language is the official language of Canada. It is the second most spoken language in Canada, after French. It is also the second most spoken language in the world, after Spanish.
+The English language is the official language of Canada. It is the second most spoken language in Canada, after French. It is also the second most spoken language in the world, after Spanish.
+The English language is the official language of Canada. It is",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+94,on_p50,2000,1,95,"Translate an English sentence into a target language.
+English: Before an organization can be innovative, leadership must create a culture of innovation as well as shared knowledge and organizational learning.
+Target Language: The language of the organization. The language of the organization is the language of the organization's culture. The language of the organization's culture is the language of the organization's leadership.
+Language of the organization: The language of the organization's culture. The language of the organization's culture is the language of the organization's leadership.
+Language of the organization: The language of the organization's culture. The language of the organization's culture is the language of the organization's leadership.
+Language of the organization: The language of the organization's culture. The language of the organization's culture is the language of the organization's leadership.
+Language of the organization:",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+95,on_p50,2000,1,96,"Translate an English sentence into a target language.
+English: The earthquake was centered about 20 km (15 miles) north-northeast of Dillon, and about 65 km (40 miles) south of Butte.
+Target Language: English.
+The earthquake was located in the western part of the United States, and the magnitude was 5.0. The earthquake was reported as a tsunami, but it was not reported as a tsunami. The tsunami was reported as a tsunami, but it was not reported as a tsunami. The tsunami was reported as a tsunami, but it was not reported as a tsunami. The tsunami was reported as a tsunami, but it was not reported as a tsunami. The tsunami was reported as a tsunami, but it was not reported as a tsunami. The tsunami was reported as a tsunami, but it was not reported as a tsunami. The tsunami was",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+96,on_p50,2000,1,97,"Translate an English sentence into a target language.
+English: The main local beer is 'Number One', it is not a complex beer, but pleasant and refreshing. The other local beer is called ""Manta"".
+Target Language: The main local beer is 'Number One', it is not a complex beer, but pleasant and refreshing. The other local beer is called ""Manta"".
+The main local beer is 'Number One', it is not a complex beer, but pleasant and refreshing. The other local beer is called ""Manta"".
+The main local beer is 'Number One', it is not a complex beer, but pleasant and refreshing. The other local beer is called ""Manta"".
+The main local beer is 'Number One', it is not a complex beer, but pleasant and refreshing. The other local beer is called",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+97,on_p50,2000,1,98,"Translate an English sentence into a target language.
+English: It was one of the major stops during Henry Louis Gates' PBS special Wonders of the African World.
+Target Language: English.
+The story is told in the English language, but the story is told in the original English language.
+The story is told in the original English language.
+The story is told in the original English language.
+The story is told in the original English language.
+The story is told in the original English language.
+The story is told in the original English language.
+The story is told in the original English language.
+The story is told in the original English language.
+The story is told in the original English language.
+The story is told in the original English language.
+The story is told in the original English language.
+The story is told in the",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+98,on_p50,2000,1,99,"Translate an English sentence into a target language.
+English: In remote locations, without cell phone coverage, a satellite phone may be your only option.
+Target Language: The target language is the language of the text. The text is not translated.
+The text is translated into English. The text is translated into English. The text is translated into English. The text is translated into English. The text is translated into English. The text is translated into English. The text is translated into English. The text is translated into English. The text is translated into English. The text is translated into English. The text is translated into English. The text is translated into English. The text is translated into English. The text is translated into English. The text is translated into English. The text is translated into English.",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr
+99,on_p50,2000,1,100,"Translate an English sentence into a target language.
+English: At the same time, the German navy, using mainly U-boats, was trying to stop this traffic.
+Target Language: The German Navy, using mainly U-boats, was trying to stop this traffic.
+The German Navy was trying to stop this traffic.
+The German Navy was trying to stop this traffic.
+The German Navy was trying to stop this traffic.
+The German Navy was trying to stop this traffic.
+The German Navy was trying to stop this traffic.
+The German Navy was trying to stop this traffic.
+The German Navy was trying to stop this traffic.
+The German Navy was trying to stop this traffic.
+The German Navy was trying to stop this traffic.
+The German Navy was trying to stop this traffic.
+The German Navy was trying to stop this traffic.
+The",0.4454757415675,,,translation_text_flores200_en_fr.pkl,fr

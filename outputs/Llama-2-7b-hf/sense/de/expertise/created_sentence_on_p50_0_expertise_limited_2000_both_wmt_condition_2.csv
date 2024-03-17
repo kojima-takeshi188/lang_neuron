@@ -1,0 +1,734 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,0,1,1,"Translate an English sentence into a target language.
+English: ""You go too far,"" he said, ""in describing as ""mistakes"" actions which our grandparents might or might not have taken.
+Target Language: ""You go too far,"" he said, ""in describing as ""mistakes"" actions which our grandparents might or might not have taken.
+English: ""You go too far,"" he said, ""in describing as ""mistakes"" actions which our grandparents might or might not have taken.""
+Target Language: ""You go too far,"" he said, ""in describing as ""mistakes"" actions which our grandparents might or might not have taken.""
+English: ""You go too far,"" he said, ""in describing as ""mistakes"" actions which our grandparents might",0.0,,,translation_text_wmt_en_de.pkl,de
+1,on_p50,0,1,2,"Translate an English sentence into a target language.
+English: Last year marked the 25 year of German-Chinese relations.
+Target Language: 25 年前，德国与中国建立了外交关系。
+English: The German-Chinese relations have been established for 25 years.
+Target Language: 德国与中国建立了外交关系 25 年。
+English: The German-Chinese relations have been established for 25 years.
+Target Language: 德国与中国建立了外交关系 25 年。
+English: The German-Chinese relations have been established for 25 years. The German-Chinese relations have been",0.0,,,translation_text_wmt_en_de.pkl,de
+2,on_p50,0,1,3,"Translate an English sentence into a target language.
+English: No - a typing error - electronics) sector, the basic rule is that the latest wonder of today is electronic rubbish tomorrow - once bought, it's out of date.
+Target Language: No - a typing error - electronics) sector, the basic rule is that the latest wonder of today is electronic rubbish tomorrow - once bought, it's out of date.
+English: No - a typing error - electronics) sector, the basic rule is that the latest wonder of today is electronic rubbish tomorrow - once bought, it's out of date. (The word ""electronics"" is a typing error.)
+Target Language: No - a typing error - electronics) sector, the basic rule is that the latest wonder of today is electronic rubbish tomorrow - once",0.0,,,translation_text_wmt_en_de.pkl,de
+3,on_p50,0,1,4,"Translate an English sentence into a target language.
+English: Fewer than half of all texts are purchased at campus bookstores, according to the National Association of College Stores trade association.
+Target Language: Fewer than half of all texts are purchased at campus bookstores, according to the National Association of College Stores trade association.
+English: The National Association of College Stores trade association says fewer than half of all texts are purchased at campus bookstores.
+Target Language: The National Association of College Stores trade association says fewer than half of all texts are purchased at campus bookstores.
+English: The National Association of College Stores trade association says fewer than half of all texts are purchased at campus bookstores, according to the National Association of College Stores trade association.
+Target Language: The National Association",0.0,,,translation_text_wmt_en_de.pkl,de
+4,on_p50,0,1,5,"Translate an English sentence into a target language.
+English: The decision makes it almost impossible for opposition democrats to get on the ballot prompted pro-democracy activists to renew their vow to bring Hong Kong's financial hub to a halt with ""Occupy Central"" protests.
+Target Language: The decision makes it almost impossible for opposition democrats to get on the ballot prompted pro-democracy activists to renew their vow to bring Hong Kong's financial hub to a halt with ""Occupy Central"" protests.
+English: The decision makes it almost impossible for opposition democrats to get on the ballot prompted pro-democracy activists to renew their vow to bring Hong Kong's financial hub to a halt with ""Occupy Central"" protests. (The decision makes it almost impossible for opposition democrats to get on the ballot prompted pro-dem",0.0,,,translation_text_wmt_en_de.pkl,de
+5,on_p50,0,1,6,"Translate an English sentence into a target language.
+English: A search party involving local police and rescue squad was sent out and the pair were found about 11pm near Bridal Veil Falls.
+Target Language: A search party involving local police and rescue squad was sent out and the pair were found about 11pm near Bridal Veil Falls.
+English: The search party was sent out and the pair were found about 11pm near Bridal Veil Falls.
+Target Language: The search party was sent out and the pair were found about 11pm near Bridal Veil Falls.
+English: The search party was sent out and the pair were found about 11pm near Bridal Veil Falls.
+Target Language: The search party was sent out and the pair were found about",0.0,,,translation_text_wmt_en_de.pkl,de
+6,on_p50,0,1,7,"Translate an English sentence into a target language.
+English: ""I have not felt myself,"" he wrote in May that year.
+Target Language: ""I have not felt myself,"" he wrote in May that year.
+English: ""I have not felt myself,"" he wrote in May that year.
+Target Language: ""I have not felt myself,"" he wrote in May that year.
+English: ""I have not felt myself,"" he wrote in May that year.
+Target Language: ""I have not felt myself,"" he wrote in May that year.
+English: ""I have not felt myself,"" he wrote in May that year.
+Target Language: ""I have not felt myself,"" he wrote in May that year.
+English: ""I have not felt myself",0.0,,,translation_text_wmt_en_de.pkl,de
+7,on_p50,0,1,8,"Translate an English sentence into a target language.
+English: Currently there are a total of eleven teams that are taking part in the competitions: six air rifles teams, one pellet gun team, one KK1 sport target pistol team, one youth team and two old-timer teams.
+Target Language: Currently there are a total of eleven teams that are taking part in the competitions: six air rifles teams, one pellet gun team, one KK1 sport target pistol team, one youth team and two old-timer teams.
+English: The 2012 Summer Olympics, officially the Games of the XXX Olympiad, is a major international multi-sport event which is currently taking place in London, United Kingdom, from 27 July to 12 August 2012.
+Target Language: The 2012 Summer Olympics, officially the Games of the XXX Olympi",0.0,,,translation_text_wmt_en_de.pkl,de
+8,on_p50,0,1,9,"Translate an English sentence into a target language.
+English: Even some international companies are keeping their distance.
+Target Language: Even some international companies are keeping their distance.
+English: The company is not going to be able to meet its targets.
+Target Language: The company is not going to be able to meet its targets.
+English: The company is not going to be able to meet its targets.
+Target Language: The company is not going to be able to meet its targets.
+English: The company is not going to be able to meet its targets.
+Target Language: The company is not going to be able to meet its targets.
+English: The company is not going to be able to meet its targets.
+Target Language:",0.0,,,translation_text_wmt_en_de.pkl,de
+9,on_p50,0,1,10,"Translate an English sentence into a target language.
+English: The riders prove just how good a shape they are in: stretches of 95 kilometers at an altitude of 1175 meters, 120 kilometers with an altitude of 1475 meters, and 145 kilometers with an altitude of 1775 meters.
+Target Language: The riders prove just how good a shape they are in: stretches of 95 kilometers at an altitude of 1175 meters, 120 kilometers with an altitude of 1475 meters, and 145 kilometers with an altitude of 1775 meters.
+English: The riders prove just how good a shape they are in: stretches of 95 kilometers at an altitude of 1175 meters, 120 kilometers with an altitude of 1475 meters, and ",0.0,,,translation_text_wmt_en_de.pkl,de
+10,on_p50,0,1,11,"Translate an English sentence into a target language.
+English: The report said that Huthi threatened further escalation of the conflict, should his demands not be met.
+Target Language: The report said that Huthi threatened further escalation of the conflict, should his demands not be met.
+English: The report said that Huthi threatened further escalation of the conflict, should his demands not be met.
+Target Language: The report said that Huthi threatened further escalation of the conflict, should his demands not be met.
+English: The report said that Huthi threatened further escalation of the conflict, should his demands not be met.
+Target Language: The report said that Huthi threatened further escalation of the conflict, should his",0.0,,,translation_text_wmt_en_de.pkl,de
+11,on_p50,0,1,12,"Translate an English sentence into a target language.
+English: Manfred Richter loves this painting of a picture from his childhood home.
+Target Language: Manfred Richter liebt dieses Bild von einem Gemälde aus seiner Kindheit.
+English: Manfred Richter loves this painting of a picture from his childhood home.
+Target Language: Manfred Richter liebt dieses Bild von einem Gemälde aus seiner Kindheit.
+English: Manfred Richter loves this painting of a picture from his childhood home.
+Target Language: Manfred Richter liebt dieses Bild von einem Gemälde aus seiner Kindheit.
+English: Manfred Richter loves this painting of a picture from his childhood home.
+Target Language: Manfred",0.0,,,translation_text_wmt_en_de.pkl,de
+12,on_p50,0,1,13,"Translate an English sentence into a target language.
+English: However, they did not give details, apparently looking to avoid problems with authorities.
+Target Language: However, they did not give details, apparently looking to avoid problems with authorities.
+English: The company has been accused of using the app to track the movements of its employees.
+Target Language: The company has been accused of using the app to track the movements of its employees.
+English: The company has been accused of using the app to track the movements of its employees.
+Target Language: The company has been accused of using the app to track the movements of its employees.
+English: The company has been accused of using the app to track the movements of its employees.
+Target Language: The company has been accused of",0.0,,,translation_text_wmt_en_de.pkl,de
+13,on_p50,0,1,14,"Translate an English sentence into a target language.
+English: Anyone interested in dancing can come along and have a go, there is no obligation to join. The session run on Thursdays between 5 and 6, and on Fridays from 5 until 6:30 PM in the dance room at what was Hotel Meyer, 9 Freistraße.
+Target Language: Anyone interested in dancing can come along and have a go, there is no obligation to join. The session run on Thursdays between 5 and 6, and on Fridays from 5 until 6:30 PM in the dance room at what was Hotel Meyer, 9 Freistraße.
+English: The session run on Thursdays between 5 and 6, and on Fridays from 5 until 6:30 PM in the dance room at what was Hotel Meyer, 9 Freistraße.
+Target Language: The session run on Thursdays between 5 and ",0.0,,,translation_text_wmt_en_de.pkl,de
+14,on_p50,0,1,15,"Translate an English sentence into a target language.
+English: More than 330 people, more than half of them children, were killed in the three-day ordeal that shocked the world
+Target Language: More than 330 people, more than half of them children, were killed in the three-day ordeal that shocked the world
+English: The 2014 Ebola virus epidemic in West Africa was the largest in history, with 28,616 suspected, confirmed and probable cases and 11,310 deaths in Guinea, Liberia, and Sierra Leone.
+Target Language: The 2014 Ebola virus epidemic in West Africa was the largest in history, with 28,616 suspected,",0.0,,,translation_text_wmt_en_de.pkl,de
+15,on_p50,0,1,16,"Translate an English sentence into a target language.
+English: A linen has now been invented that is incombustible.
+Target Language: A linen has now been invented that is incombustible.
+English: The linen is incombustible.
+Target Language: The linen is incombustible.
+English: The linen is incombustible. It is a linen that is incombustible.
+Target Language: The linen is incombustible. It is a linen that is incombustible.
+English: The linen is incombustible. It is a linen that is incombustible. It is a linen that is incombustible.
+Target Language",0.0,,,translation_text_wmt_en_de.pkl,de
+16,on_p50,0,1,17,"Translate an English sentence into a target language.
+English: So now we can only echo Lawson's question: ""How many of us will get the same disease?""
+Target Language: 现在我们只能听到劳森的问题：""我们会有多少人患上同样的病？""
+English: The first thing to do is to translate the sentence into the target language.
+Target Language: 第一件事就是将句子翻译成目标语言。
+English: The second thing to do is to translate the sentence into the target language.
+Target Language: 第二件事就是将句子翻译成目标",0.0,,,translation_text_wmt_en_de.pkl,de
+17,on_p50,0,1,18,"Translate an English sentence into a target language.
+English: according to the announcement made in Düsseldorf by the district chairperson for the union of German train drivers (GDL), Sven Schmitte.
+Target Language: according to the announcement made in Düsseldorf by the district chairperson for the union of German train drivers (GDL), Sven Schmitte.
+English: The German train drivers' union (GDL) has announced that it will strike on 10 and 11 December.
+Target Language: The German train drivers' union (GDL) has announced that it will strike on 10 and 11 December.
+English: The German train drivers' union (GDL) has announced that it will strike on 10 and 11 December.
+Target Language: The German train drivers' union",0.0,,,translation_text_wmt_en_de.pkl,de
+18,on_p50,0,1,19,"Translate an English sentence into a target language.
+English: We don't want concern to spread that Hong Kong is getting out of control.
+Target Language: We don't want concern to spread that Hong Kong is getting out of control.
+English: The government is considering a plan to build a new airport in the city.
+Target Language: The government is considering a plan to build a new airport in the city.
+English: The government is considering a plan to build a new airport in the city. The government is considering a plan to build a new airport in the city.
+Target Language: The government is considering a plan to build a new airport in the city.
+English: The government is considering a plan to build a new airport in the",0.0,,,translation_text_wmt_en_de.pkl,de
+19,on_p50,0,1,20,"Translate an English sentence into a target language.
+English: Marine Le Pen, the far-Right National Front leader, heaped scorn on the Socialists' constant in-fighting by saying she did not see the new Valls government lasting more than just a few months.
+Target Language: Marine Le Pen, the far-Right National Front leader, heaped scorn on the Socialists' constant in-fighting by saying she did not see the new Valls government lasting more than just a few months.
+English: The new government is expected to be sworn in on Tuesday.
+Target Language: The new government is expected to be sworn in on Tuesday.
+English: The new government is expected to be sworn in on Tuesday. The new government is expected to be sworn in on Tuesday.
+English: The new government is expected to be sw",0.0,,,translation_text_wmt_en_de.pkl,de
+20,on_p50,0,1,21,"Translate an English sentence into a target language.
+English: ""They're not really insulting,"" Kevern said.
+Target Language: ""They're not really insulting,"" Kevern said.
+English: ""They're not really insulting,"" Kevern said. ""They're just being honest.""
+Target Language: ""They're not really insulting,"" Kevern said. ""They're just being honest.""
+English: ""They're not really insulting,"" Kevern said. ""They're just being honest.""
+Target Language: ""They're not really insulting,"" Kevern said. ""They're just being honest.""
+English: ""They're",0.0,,,translation_text_wmt_en_de.pkl,de
+21,on_p50,0,1,22,"Translate an English sentence into a target language.
+English: By registering, more than 1000 participants thanked Jos ter Huerne for having organized this tour through Münsterland.
+Target Language: By registering, more than 1000 participants thanked Jos ter Huerne for having organized this tour through Münsterland.
+English: By registering, more than 1000 participants thanked Jos ter Huerne for having organized this tour through Münsterland.
+Target Language: By registering, more than 1000 participants thanked Jos ter Huerne for having organized this tour through Münsterland.
+English: By registering, more than 1000 participants thanked Jos ter Huerne for having organized this tour through Münsterland.
+Target",0.0,,,translation_text_wmt_en_de.pkl,de
+22,on_p50,0,1,23,"Translate an English sentence into a target language.
+English: We say they stayed in the gym.
+Target Language: They stayed in the gym.
+English: We say they stayed in the gym.
+Target Language: They stayed in the gym.
+English: We say they stayed in the gym.
+Target Language: They stayed in the gym.
+English: We say they stayed in the gym.
+Target Language: They stayed in the gym.
+English: We say they stayed in the gym.
+Target Language: They stayed in the gym.
+English: We say they stayed in the gym.
+Target Language: They stayed in the gym.
+English: We say they",0.0,,,translation_text_wmt_en_de.pkl,de
+23,on_p50,0,1,24,"Translate an English sentence into a target language.
+English: It's very emblematic of the crisis we face and because [the situation in Ferguson] is so racialized, they have to call that out.
+Target Language: It's very emblematic of the crisis we face and because [the situation in Ferguson] is so racialized, they have to call that out.
+English: It's very emblematic of the crisis we face and because [the situation in Ferguson] is so racialized, they have to call that out. It's very emblematic of the crisis we face and because [the situation in Ferguson] is so racialized, they have to call that out.
+Target Language: It's very emblematic of the crisis we face and",0.0,,,translation_text_wmt_en_de.pkl,de
+24,on_p50,0,1,25,"Translate an English sentence into a target language.
+English: Only my Georgy managed to survive.
+Target Language: Only my Georgy managed to survive.
+English: I'm not sure if I'm going to be able to make it to the party.
+Target Language: I'm not sure if I'm going to be able to make it to the party.
+English: I'm not sure if I'm going to be able to make it to the party.
+Target Language: I'm not sure if I'm going to be able to make it to the party.
+English: I'm not sure if I'm going to be able to make it to the party.
+Target",0.0,,,translation_text_wmt_en_de.pkl,de
+25,on_p50,0,1,26,"Translate an English sentence into a target language.
+English: His pick-up truck, in which he used three telephones and a radio to communicate with his colleagues and a 15-strong Hessen Police team; made Facebook entries and also wrote his reports, also needed a check.
+Target Language: His pick-up truck, in which he used three telephones and a radio to communicate with his colleagues and a 15-strong Hessen Police team; made Facebook entries and also wrote his reports, also needed a check.
+English: The police officers were able to arrest the suspects after a short chase.
+Target Language: The police officers were able to arrest the suspects after a short chase.
+English: The police officers were able to arrest the suspects after a short chase. The police officers were able to arrest the suspects after a short chase.
+English: The police",0.0,,,translation_text_wmt_en_de.pkl,de
+26,on_p50,0,1,27,"Translate an English sentence into a target language.
+English: One of the greatest highlights in the history of the club was without doubt the 44th local shooting competition, which is linked to the formal consecration of the new shooting flag in July 1991.
+Target Language: One of the greatest highlights in the history of the club was without doubt the 44th local shooting competition, which is linked to the formal consecration of the new shooting flag in July 1991.
+English: The club was founded in 1951 and has been a member of the German Shooting Federation since 1952.
+Target Language: The club was founded in 1951 and has been a member of the German Shooting Federation since 1952.
+English: The club has been a member of the German Shooting Federation since 19",0.0,,,translation_text_wmt_en_de.pkl,de
+27,on_p50,0,1,28,"Translate an English sentence into a target language.
+English: Nevertheless, the organizers have made some mistakes, which will be excused as it was their first time, but which have to be avoided next time round.
+Target Language: بل هم يعملون بعض الخطأات وهم سوى أول مرة وهم يعملون عليها من أجل تعافيها في المستقبل.
+English: I am not sure if I can make it to the meeting.
+Target Language: أنا لا أعتقد أن أتمني أن ",0.0,,,translation_text_wmt_en_de.pkl,de
+28,on_p50,0,1,29,"Translate an English sentence into a target language.
+English: The boy who survived despite having been trapped at the feet of a murderous terrorist
+Target Language: The boy who survived despite having been trapped at the feet of a murderous terrorist
+English: The boy who survived despite having been trapped at the feet of a murderous terrorist.
+Target Language: The boy who survived despite having been trapped at the feet of a murderous terrorist.
+English: The boy who survived despite having been trapped at the feet of a murderous terrorist.
+Target Language: The boy who survived despite having been trapped at the feet of a murderous terrorist.
+English: The boy who survived despite having been trapped at the",0.0,,,translation_text_wmt_en_de.pkl,de
+29,on_p50,0,1,30,"Translate an English sentence into a target language.
+English: The Chinese brand Tsingtao has traces leading back to the German art of brewing.
+Target Language: The Chinese brand Tsingtao has traces leading back to the German art of brewing.
+English: The Chinese brand Tsingtao has traces leading back to the German art of brewing.
+Target Language: The Chinese brand Tsingtao has traces leading back to the German art of brewing.
+English: The Chinese brand Tsingtao has traces leading back to the German art of brewing.
+Target Language: The Chinese brand Tsingtao has traces leading back to the German art of brewing.
+English: The Chinese brand Tsingtao has traces leading back to the German art of",0.0,,,translation_text_wmt_en_de.pkl,de
+30,on_p50,0,1,31,"Translate an English sentence into a target language.
+English: Ice Bucket Challenge participant dislocates her jaw
+Target Language: Ice Bucket Challenge participant dislocates her jaw
+English: Ice Bucket Challenge participant dislocates her jaw.
+Target Language: Ice Bucket Challenge participant dislocates her jaw.
+English: Ice Bucket Challenge participant dislocates her jaw.
+Target Language: Ice Bucket Challenge participant dislocates her jaw.
+English: Ice Bucket Challenge participant dislocates her jaw.
+Target Language: Ice Bucket Challenge participant dislocates her jaw.
+English: Ice Bucket Challenge participant dislocates her jaw.
+",0.0,,,translation_text_wmt_en_de.pkl,de
+31,on_p50,0,1,32,"Translate an English sentence into a target language.
+English: I think for many people the war is a news report they listen to when they are bored or busy with something else.
+Target Language: I think for many people the war is a news report they listen to when they are bored or busy with something else.
+English: I think for many people the war is a news report they listen to when they are bored or busy with something else. I think for many people the war is a news report they listen to when they are bored or busy with something else.
+Target Language: I think for many people the war is a news report they listen to when they are bored or busy with something else.
+English: I think for many people the war is a news report they listen to when they are b",0.0,,,translation_text_wmt_en_de.pkl,de
+32,on_p50,0,1,33,"Translate an English sentence into a target language.
+English: Once again the Chancellor makes herself clear.
+Target Language: Once again the Chancellor makes herself clear.
+English: The Chancellor has made herself clear.
+Target Language: The Chancellor has made herself clear.
+English: The Chancellor has made herself clear once again.
+Target Language: The Chancellor has made herself clear once again.
+English: The Chancellor has made herself clear once again, and I am sure that the House will be grateful for that.
+Target Language: The Chancellor has made herself clear once again, and I am sure that the House will be grateful for that.
+English: The Chancellor has made",0.0,,,translation_text_wmt_en_de.pkl,de
+33,on_p50,0,1,34,"Translate an English sentence into a target language.
+English: Prestige Cruises, also based in Miami, operates under the Oceania and Regent brands, which together have eight cruise ships traveling to Scandinavia, Russia, the Mediterranean, North America, Asia, Africa and South America.
+Target Language: Prestige Cruises, también basado en Miami, opera bajo las marcas Oceania y Regent, que juntas tienen ocho cruceros navegando por Escandinavia, Rusia, el Mediterráneo, Norteamérica, Asia, África y Sudamérica.
+English: The company's 2012 revenue was $1.5 billion.
+Target Language: La compañía de 2012, $ 1.5 mil millones de dólares.
+English: The company's 2012 revenue was $1",0.0,,,translation_text_wmt_en_de.pkl,de
+34,on_p50,0,1,35,"Translate an English sentence into a target language.
+English: I wasn't really taught it at school properly and thought it was very much the reserve of middle-class white people with tights and a cabbage down the front.
+Target Language: I wasn't really taught it at school properly and thought it was very much the reserve of middle-class white people with tights and a cabbage down the front.
+English: I wasn't really taught it at school properly and thought it was very much the reserve of middle-class white people with tights and a cabbage down the front. I'm not sure if I'm going to be able to do it.
+Target Language: I wasn't really taught it at school properly and thought it was very much the reserve of middle-class white people with tights and a cabbage down the front",0.0,,,translation_text_wmt_en_de.pkl,de
+35,on_p50,0,1,36,"Translate an English sentence into a target language.
+English: Yes - but that presupposes that you have an air-conditioner in the first place.
+Target Language: Yes - but that presupposes that you have an air-conditioner in the first place.
+English: I'm not sure if I'm going to be able to make it to the party.
+Target Language: I'm not sure if I'm going to be able to make it to the party.
+English: I'm not sure if I'm going to be able to make it to the party.
+Target Language: I'm not sure if I'm going to be able to make it to the party.
+English: I'm not sure if I'm going to",0.0,,,translation_text_wmt_en_de.pkl,de
+36,on_p50,0,1,37,"Translate an English sentence into a target language.
+English: Learning his lines for Fences was challenging.
+Target Language: Learning his lines for Fences was challenging.
+English: I'm going to the store to buy some milk.
+Target Language: I'm going to the store to buy some milk.
+English: I'm going to the store to buy some milk.
+Target Language: I'm going to the store to buy some milk.
+English: I'm going to the store to buy some milk.
+Target Language: I'm going to the store to buy some milk.
+English: I'm going to the store to buy some milk.
+Target Language: I'm going to the",0.0,,,translation_text_wmt_en_de.pkl,de
+37,on_p50,0,1,38,"Translate an English sentence into a target language.
+English: Not only did I have to grow up in the public eye, I had to learn how to be an efficient joke-delivering mechanism between 1975 and 1985, whilst being a star, being on television and it was really difficult.
+Target Language: Not only did I have to grow up in the public eye, I had to learn how to be an efficient joke-delivering mechanism between 1975 and 1985, whilst being a star, being on television and it was really difficult.
+English: I'm not a big fan of the whole ""I'm not a big fan of"" thing.
+Target Language: I'm not a big fan of the whole ""I'm not a big fan of"" thing.
+English: I'm not a big fan of the whole ""I'm not a big fan",0.0,,,translation_text_wmt_en_de.pkl,de
+38,on_p50,0,1,39,"Translate an English sentence into a target language.
+English: The announced walkout will last for between 18 and 21 hours, will affect all transport companies across Germany, including main-line rail, regional trains and city trains,
+Target Language: The announced walkout will last for between 18 and 21 hours, will affect all transport companies across Germany, including main-line rail, regional trains and city trains,
+English: The announced walkout will last for between 18 and 21 hours, will affect all transport companies across Germany, including main-line rail, regional trains and city trains, and will cause widespread disruption.
+Target Language: The announced walkout will last for between 18 and 21 hours, will affect all transport companies across Germany, including main-line rail, regional trains and city trains,",0.0,,,translation_text_wmt_en_de.pkl,de
+39,on_p50,0,1,40,"Translate an English sentence into a target language.
+English: Even the party leader of the region, Wan Qinglian, had to leave.
+Target Language: 唯一的地方领导人, 万清莲, 也不得不离开。
+English: The party leader of the region, Wan Qinglian, had to leave.
+Target Language: 地方领导人, 万清莲, 也不得不离开。
+English: The party leader of the region, Wan Qinglian, had to leave. The party leader of the region, Wan Qinglian, had to leave.
+Target Language: 地方",0.0,,,translation_text_wmt_en_de.pkl,de
+40,on_p50,0,1,41,"Translate an English sentence into a target language.
+English: So that your yoghurt can place itself on your shopping list; so that your fire-alarm can tell you - when you're lying on the beach in the Maldives - that there's a fire in your study back home.
+Target Language: So that your yoghurt can place itself on your shopping list; so that your fire-alarm can tell you - when you're lying on the beach in the Maldives - that there's a fire in your study back home.
+English: So that your yoghurt can place itself on your shopping list; so that your fire-alarm can tell you - when you're lying on the beach in the Maldives - that there's a fire in your study back home.
+Target Language: So that your yoghurt can place itself on your shopping list",0.0,,,translation_text_wmt_en_de.pkl,de
+41,on_p50,0,1,42,"Translate an English sentence into a target language.
+English: SC Weende sends a girl into the small regional league.
+Target Language: SC Weende sends a girl into the small regional league.
+English: The team of SC Weende sends a girl into the small regional league.
+Target Language: The team of SC Weende sends a girl into the small regional league.
+English: The team of SC Weende sends a girl into the small regional league.
+Target Language: The team of SC Weende sends a girl into the small regional league.
+English: The team of SC Weende sends a girl into the small regional league.
+Target Language: The team of SC Weende sends a girl into the small regional league.
+English: The team",0.0,,,translation_text_wmt_en_de.pkl,de
+42,on_p50,0,1,43,"Translate an English sentence into a target language.
+English: Whereas the castle friends, and the recently deceased Richard Dimbath right up until the bitter end, had their eyes on reconstructing the castle in the mountain forest, the castle club, with Sjöberg, want to ""develop and bring the premises to life"" in its original place.
+Target Language: Whereas the castle friends, and the recently deceased Richard Dimbath right up until the bitter end, had their eyes on reconstructing the castle in the mountain forest, the castle club, with Sjöberg, want to ""develop and bring the premises to life"" in its original place.
+English: The castle club, with Sjöberg, want to ""develop and bring the premises to life"" in its original place.
+Target Language: The castle club, with Sjöberg, want to ""develop and bring the premises to life"" in its original place.
+English: The castle club,",0.0,,,translation_text_wmt_en_de.pkl,de
+43,on_p50,0,1,44,"Translate an English sentence into a target language.
+English: Some of these remains could also be marveled at during the Roman day, such as ""Aduädukt-Marmor"" from the eleven-meter high, and 1400 meter long, Roman canal bridge, which is the only one in Lüftelberg.
+Target Language: Some of these remains could also be marveled at during the Roman day, such as ""Aduädukt-Marmor"" from the eleven-meter high, and 1400 meter long, Roman canal bridge, which is the only one in Lüftelberg.
+English: The Roman canal bridge ""Aduädukt-Marmor"" is the only one in Lüftelberg.
+Target Language: The Roman canal bridge ""Aduädukt-Marmor"" is the only one in Lüftelberg.
+English: The Roman canal bridge ""Aduä",0.0,,,translation_text_wmt_en_de.pkl,de
+44,on_p50,0,1,45,"Translate an English sentence into a target language.
+English: Are my feet too big?
+Target Language: Are my feet too big?
+English: Are my feet too big? (English)
+Target Language: Are my feet too big? (English)
+English: Are my feet too big? (French)
+Target Language: Are my feet too big? (French)
+English: Are my feet too big? (German)
+Target Language: Are my feet too big? (German)
+English: Are my feet too big? (Italian)
+Target Language: Are my feet too big? (Italian)
+English: Are my feet too big? (Spanish)
+Target Language",0.0,,,translation_text_wmt_en_de.pkl,de
+45,on_p50,0,1,46,"Translate an English sentence into a target language.
+English: Joan Rivers' Family Keeping 'Our Fingers Crossed'
+Target Language: Spanish
+Translate the sentence into Spanish.
+Joan Rivers' Family Keeping 'Our Fingers Crossed'
+Joan Rivers' Family Keeping 'Nuestros dedos cruzados'
+Joan Rivers' Family Keeping 'Nuestros dedos cruzados'
+Joan Rivers' Family Keeping 'Nuestros dedos cruzados'
+Joan Rivers' Family Keeping 'Nuestros dedos cruzados'
+Joan Rivers' Family Keeping 'Nuestros dedos cruzados'
+Joan Rivers' Family",0.0,,,translation_text_wmt_en_de.pkl,de
+46,on_p50,0,1,47,"Translate an English sentence into a target language.
+English: Category 1 riders are accommodated in hotels, with Category 2 riders being put up in hostel-style lodging.
+Target Language: Category 1 riders are accommodated in hotels, with Category 2 riders being put up in hostel-style lodging.
+English: The 2010 Tour de France was the 97th edition of the Tour de France, one of cycling's Grand Tours.
+Target Language: The 2010 Tour de France was the 97th edition of the Tour de France, one of cycling's Grand Tours.
+English: The 2010 Tour de France was the 97th edition of the Tour de France, one of cy",0.0,,,translation_text_wmt_en_de.pkl,de
+47,on_p50,0,1,48,"Translate an English sentence into a target language.
+English: Nevertheless, the head of NATO accused Russia of ""a flagrant breach"" of the agreement.
+Target Language: Nevertheless, the head of NATO accused Russia of ""a flagrant breach"" of the agreement.
+English: The head of NATO accused Russia of ""a flagrant breach"" of the agreement.
+Target Language: The head of NATO accused Russia of ""a flagrant breach"" of the agreement.
+English: The head of NATO accused Russia of ""a flagrant breach"" of the agreement.
+Target Language: The head of NATO accused Russia of ""a flagrant breach"" of the agreement.
+English: The head of NATO accused Russia of ""a flagrant breach",0.0,,,translation_text_wmt_en_de.pkl,de
+48,on_p50,0,1,49,"Translate an English sentence into a target language.
+English: My concern is that, if we are not forewarned, we will find ourselves repeating the mistakes that led to WHAT HAPPENED, IF IT HAPPENED, in the first place.
+Target Language: My concern is that, if we are not forewarned, we will find ourselves repeating the mistakes that led to WHAT HAPPENED, IF IT HAPPENED, in the first place.
+English: My concern is that, if we are not forewarned, we will find ourselves repeating the mistakes that led to WHAT HAPPENED, IF IT HAPPENED, in the first place.
+Target Language: My concern is that, if we are not forewarned, we will find ourselves repeating the mistakes that led to WHAT HAPPENED, IF IT HAPP",0.0,,,translation_text_wmt_en_de.pkl,de
+49,on_p50,0,1,50,"Translate an English sentence into a target language.
+English: THE 16-year-old girl and 18-year-old man went hiking just after midday on Sunday at Govetts Leap in Blackheath.
+Target Language: THE 16-year-old girl and 18-year-old man went hiking just after midday on Sunday at Govetts Leap in Blackheath.
+English: The 16-year-old girl and 18-year-old man went hiking just after midday on Sunday at Govetts Leap in Blackheath.
+Target Language: The 16-year-old girl and 18-year-old man went hiking just after midday on Sunday at Govetts Leap in Blackhe",0.0,,,translation_text_wmt_en_de.pkl,de
+50,on_p50,0,1,51,"Translate an English sentence into a target language.
+English: I want to serve in the police one day and hope they enrol me to the training academy next year.
+Target Language: I want to serve in the police one day and hope they enrol me to the training academy next year.
+English: I want to serve in the police one day and hope they enrol me to the training academy next year. I want to serve in the police one day and hope they enrol me to the training academy next year.
+Target Language: I want to serve in the police one day and hope they enrol me to the training academy next year.
+English: I want to serve in the police one day and hope they enrol me to the training academy next year. I want to",0.0,,,translation_text_wmt_en_de.pkl,de
+51,on_p50,0,1,52,"Translate an English sentence into a target language.
+English: Then, the route, which was advertised in three different categories, headed in the direction of Herrenholz via Schöppinger Berg towards Coesfeld, passing by Havixbeck and Billerbeck, and then back to Horstmar.
+Target Language: Then, the route, which was advertised in three different categories, headed in the direction of Herrenholz via Schöppinger Berg towards Coesfeld, passing by Havixbeck and Billerbeck, and then back to Horstmar.
+English: The route, which was advertised in three different categories, headed in the direction of Herrenholz via Schöppinger Berg towards Coesfeld, passing by Havixbeck and Billerbeck, and then back to Horstmar.
+Target Language: The route, which was advertised in three different categories, headed in the direction",0.0,,,translation_text_wmt_en_de.pkl,de
+52,on_p50,0,1,53,"Translate an English sentence into a target language.
+English: But it remains a much-loved and formidable institution.
+Target Language: But it remains a much-loved and formidable institution.
+English: The first thing you need to do is to translate the sentence into the target language.
+Target Language: The first thing you need to do is to translate the sentence into the target language.
+English: The second thing you need to do is to translate the sentence into the target language.
+Target Language: The second thing you need to do is to translate the sentence into the target language.
+English: The third thing you need to do is to translate the sentence into the target language.
+Target Language: The third thing you need to do is",0.0,,,translation_text_wmt_en_de.pkl,de
+53,on_p50,0,1,54,"Translate an English sentence into a target language.
+English: Not a shot has been fired in the former military training ground in Münsingen for almost ten years.
+Target Language: Not a shot has been fired in the former military training ground in Münsingen for almost ten years.
+English: The former military training ground in Münsingen is now a park.
+Target Language: The former military training ground in Münsingen is now a park.
+English: The former military training ground in Münsingen is now a park. It is a popular place for joggers and dog owners.
+Target Language: The former military training ground in Münsingen is now a park. It is a popular place for joggers and dog owners.
+English: The former military",0.0,,,translation_text_wmt_en_de.pkl,de
+54,on_p50,0,1,55,"Translate an English sentence into a target language.
+English: A quick glance at the reports from the courts, where those affected often turn for compensation, shows how far the scourge of mesothelioma has spread.
+Target Language: A quick glance at the reports from the courts, where those affected often turn for compensation, shows how far the scourge of mesothelioma has spread.
+English: The first thing to do is to get a good idea of the size of the problem.
+Target Language: The first thing to do is to get a good idea of the size of the problem.
+English: The first thing to do is to get a good idea of the size of the problem.
+Target Language: The first thing to do is to get a good idea of the size of the problem.
+English: The first thing to do",0.0,,,translation_text_wmt_en_de.pkl,de
+55,on_p50,0,1,56,"Translate an English sentence into a target language.
+English: I fear I may need more surgery.
+Target Language: I fear I may need more surgery.
+English: I fear I may need more surgery. I fear I may need more surgery.
+Target Language: I fear I may need more surgery. I fear I may need more surgery.
+English: I fear I may need more surgery. I fear I may need more surgery. I fear I may need more surgery.
+Target Language: I fear I may need more surgery. I fear I may need more surgery. I fear I may need more surgery.
+English: I fear I may need more surgery. I fear I",0.0,,,translation_text_wmt_en_de.pkl,de
+56,on_p50,0,1,57,"Translate an English sentence into a target language.
+English: Khan accuses Sharif of having fraudulently won the parliamentary vote last May.
+Target Language: Khan accuses Sharif of having fraudulently won the parliamentary vote last May.
+English: The government has been accused of failing to protect the rights of the poor.
+Target Language: The government has been accused of failing to protect the rights of the poor.
+English: The government has been accused of failing to protect the rights of the poor.
+Target Language: The government has been accused of failing to protect the rights of the poor.
+English: The government has been accused of failing to protect the rights of the poor.
+Target Language: The government has been accused of failing to protect the rights of",0.0,,,translation_text_wmt_en_de.pkl,de
+57,on_p50,0,1,58,"Translate an English sentence into a target language.
+English: The results, which take the opinion of both cinema audiences and film critics into account, suggest that this year's crop of films are of similar calibre last year's hits.
+Target Language: The results, which take the opinion of both cinema audiences and film critics into account, suggest that this year's crop of films are of similar calibre to last year's hits.
+English: The results, which take the opinion of both cinema audiences and film critics into account, suggest that this year's crop of films are of similar calibre to last year's hits.
+Target Language: The results, which take the opinion of both cinema audiences and film critics into account, suggest that this year's crop of films are of similar calibre to last",0.0,,,translation_text_wmt_en_de.pkl,de
+58,on_p50,0,1,59,"Translate an English sentence into a target language.
+English: Congressmen Keith Ellison and John Lewis have proposed legislation to protect union organizing as a civil right.
+Target Language: Congressmen Keith Ellison and John Lewis have proposed legislation to protect union organizing as a civil right.
+English: The United States Congress has proposed legislation to protect union organizing as a civil right.
+Target Language: The United States Congress has proposed legislation to protect union organizing as a civil right.
+English: The United States Congress has proposed legislation to protect union organizing as a civil right.
+Target Language: The United States Congress has proposed legislation to protect union organizing as a civil right.
+English: The United States Congress has proposed legislation to protect union organizing as a civil right",0.0,,,translation_text_wmt_en_de.pkl,de
+59,on_p50,0,1,60,"Translate an English sentence into a target language.
+English: Some commentators have suggested that changing viewing habits and the increased popularity of web streaming services such as Netflix may be to blame.
+Target Language: Some commentators have suggested that changing viewing habits and the increased popularity of web streaming services such as Netflix may be to blame.
+English: The company has been criticized for its lack of transparency.
+Target Language: The company has been criticized for its lack of transparency.
+English: The company has been criticized for its lack of transparency.
+Target Language: The company has been criticized for its lack of transparency.
+English: The company has been criticized for its lack of transparency.
+Target Language: The company has been criticized",0.0,,,translation_text_wmt_en_de.pkl,de
+60,on_p50,0,1,61,"Translate an English sentence into a target language.
+English: But like Janice Allen, he simply had no reason to suspect mesothelioma.
+Target Language: But like Janice Allen, he simply had no reason to suspect mesothelioma.
+English: But like Janice Allen, he simply had no reason to suspect mesothelioma. But like Janice Allen, he simply had no reason to suspect mesothelioma.
+Target Language: But like Janice Allen, he simply had no reason to suspect mesothelioma.
+English: But like Janice Allen, he simply had no reason to suspect mesothelioma. But like Janice Allen, he simply had no reason to suspect mesothelioma. But like Janice Allen, he simply had no",0.0,,,translation_text_wmt_en_de.pkl,de
+61,on_p50,0,1,62,"Translate an English sentence into a target language.
+English: But when those treatments eventually, inevitably, fail, many sufferers are faced with another financial worry - about the future of the families they will leave behind.
+Target Language: But when those treatments eventually, inevitably, fail, many sufferers are faced with another financial worry - about the future of the families they will leave behind.
+English: But when those treatments eventually, inevitably, fail, many sufferers are faced with another financial worry - about the future of the families they will leave behind.
+Target Language: But when those treatments eventually, inevitably, fail, many sufferers are faced with another financial worry - about the future of the families they will leave behind.
+English: But when those treatments eventually, inevitably, fail",0.0,,,translation_text_wmt_en_de.pkl,de
+62,on_p50,0,1,63,"Translate an English sentence into a target language.
+English: Negotiations are ongoing, the head of the Chief Directorate on the Execution of Penalties Rosen Zhelyazkov told BNR.
+Target Language: Negotiations are ongoing, the head of the Chief Directorate on the Execution of Penalties Rosen Zhelyazkov told BNR.
+English: The head of the Chief Directorate on the Execution of Penalties Rosen Zhelyazkov told BNR that negotiations are ongoing.
+Target Language: The head of the Chief Directorate on the Execution of Penalties Rosen Zhelyazkov told BNR that negotiations are ongoing.
+English: The head of the Chief Directorate on the Execution of Penalties Rosen Zhelyazkov told BNR that negotiations are",0.0,,,translation_text_wmt_en_de.pkl,de
+63,on_p50,0,1,64,"Translate an English sentence into a target language.
+English: Foreign goods trade had slowed, too.
+Target Language: Foreign goods trade had slowed, too.
+English: The government has decided to increase the tax on cigarettes.
+Target Language: The government has decided to increase the tax on cigarettes.
+English: The government has decided to increase the tax on cigarettes. The government has decided to increase the tax on cigarettes.
+Target Language: The government has decided to increase the tax on cigarettes.
+English: The government has decided to increase the tax on cigarettes. The government has decided to increase the tax on cigarettes. The government has decided",0.0,,,translation_text_wmt_en_de.pkl,de
+64,on_p50,0,1,65,"Translate an English sentence into a target language.
+English: Children need roots and wings
+Target Language: Children need roots and wings
+English: I am a good student
+Target Language: I am a good student
+English: I am a good student.
+Target Language: I am a good student.
+English: I am a good student. I am a good student.
+Target Language: I am a good student. I am a good student.
+English: I am a good student. I am a good student. I am a good student.
+Target Language: I am a good student. I am a good student. I am a good student.
+English: I am a good student. I am a good",0.0,,,translation_text_wmt_en_de.pkl,de
+65,on_p50,0,1,66,"Translate an English sentence into a target language.
+English: Fearing she was dead, he fled and on his way he saw a crying toddler, grabbed the child by the hand, and fled through a hail of bullets.
+Target Language: انتظر أن تكون ميتة، في حين ذلك رجع ورأى أطفال متنامر يتحدث بالملاحظات، ورأى أطفال يتحدث بالملاحظات، ورأى أطفال يتحدث بالملاحظات، ورأى",0.0,,,translation_text_wmt_en_de.pkl,de
+66,on_p50,0,1,67,"Translate an English sentence into a target language.
+English: Nothing else he wanted to see.
+Target Language: Nothing else he wanted to see.
+English: I'm not sure if I'm going to be able to make it to the party.
+Target Language: I'm not sure if I'm going to be able to make it to the party.
+English: I'm not sure if I'm going to be able to make it to the party.
+Target Language: I'm not sure if I'm going to be able to make it to the party.
+English: I'm not sure if I'm going to be able to make it to the party.
+Target Language:",0.0,,,translation_text_wmt_en_de.pkl,de
+67,on_p50,0,1,68,"Translate an English sentence into a target language.
+English: The highlights on Sunday will be the festival service, which will take place at 9:30am in the parish church, and also the processions at 2pm.
+Target Language: The highlights on Sunday will be the festival service, which will take place at 9:30am in the parish church, and also the processions at 2pm.
+English: The highlights on Sunday will be the festival service, which will take place at 9:30am in the parish church, and also the processions at 2pm.
+Target Language: The highlights on Sunday will be the festival service, which will take place at 9:30am in the parish church, and also the processions at 2pm.
+English: The highlights on Sunday will be",0.0,,,translation_text_wmt_en_de.pkl,de
+68,on_p50,0,1,69,"Translate an English sentence into a target language.
+English: Stewart drove his battered car to the garage and then exited without speaking to reporters.
+Target Language: Stewart drove his battered car to the garage and then exited without speaking to reporters.
+English: The man was arrested for stealing a car.
+Target Language: The man was arrested for stealing a car.
+English: The man was arrested for stealing a car. He was taken to the police station.
+Target Language: The man was arrested for stealing a car. He was taken to the police station.
+English: The man was arrested for stealing a car. He was taken to the police station. He was charged with the crime.
+Target Language: The man was arrested for",0.0,,,translation_text_wmt_en_de.pkl,de
+69,on_p50,0,1,70,"Translate an English sentence into a target language.
+English: Money is crucial for those with mesothelioma to pursue the best available treatments.
+Target Language: Money is crucial for those with mesothelioma to pursue the best available treatments.
+English: The mesothelioma lawyers at Sokolove Law are here to help you get the compensation you deserve.
+Target Language: The mesothelioma lawyers at Sokolove Law are here to help you get the compensation you deserve.
+English: Mesothelioma is a rare form of cancer that is caused by exposure to asbestos.
+Target Language: Mesothelioma is a rare form of cancer that is caused by exposure to as",0.0,,,translation_text_wmt_en_de.pkl,de
+70,on_p50,0,1,71,"Translate an English sentence into a target language.
+English: Lenny on New Faces in 1975
+Target Language: Spanish
+Translate the sentence into Spanish.
+Lenny on New Faces in 1975
+Lenny on New Faces in 1975.
+Lenny on New Faces in 1975. (Spanish)
+Lenny on New Faces in 1975. (French)
+Lenny on New Faces in 1975. (German)
+Lenny on New Faces in 1975. (Italian)
+Lenny on New Faces in 1975. (Portuguese)
+",0.0,,,translation_text_wmt_en_de.pkl,de
+71,on_p50,0,1,72,"Translate an English sentence into a target language.
+English: According to the statement of claim, when purchasing the works of art and antique cars, Achenbach conned them, and invoiced Berthold Albrecht for more than the actual sales price.
+Target Language: According to the statement of claim, when purchasing the works of art and antique cars, Achenbach conned them, and invoiced Berthold Albrecht for more than the actual sales price.
+English: The statement of claim is a document that is filed in court by the plaintiff to initiate a lawsuit.
+Target Language: The statement of claim is a document that is filed in court by the plaintiff to initiate a lawsuit.
+English: The statement of claim is a document that is filed in court by the plaintiff to initiate a lawsuit",0.0,,,translation_text_wmt_en_de.pkl,de
+72,on_p50,0,1,73,"Translate an English sentence into a target language.
+English: We are not targeting any regions.
+Target Language: We are not targeting any regions.
+English: We are not targeting any regions. We are targeting all regions.
+Target Language: We are not targeting any regions. We are targeting all regions.
+English: We are not targeting any regions. We are targeting all regions. We are targeting all regions.
+Target Language: We are not targeting any regions. We are targeting all regions. We are targeting all regions.
+English: We are not targeting any regions. We are targeting all regions. We are targeting all regions. We are targeting all regions.",0.0,,,translation_text_wmt_en_de.pkl,de
+73,on_p50,0,1,74,"Translate an English sentence into a target language.
+English: Once the asbestos needles get into the lung tissue, says Treasure, ""the act of breathing pushes them on the periphery, which is where the lining is.
+Target Language: Once the asbestos needles get into the lung tissue, says Treasure, ""the act of breathing pushes them on the periphery, which is where the lining is.
+English: The asbestos needles get into the lung tissue, says Treasure, ""the act of breathing pushes them on the periphery, which is where the lining is.
+Target Language: The asbestos needles get into the lung tissue, says Treasure, ""the act of breathing pushes them on the periphery, which is where the lining is.",0.0,,,translation_text_wmt_en_de.pkl,de
+74,on_p50,0,1,75,"Translate an English sentence into a target language.
+English: Ailinn Solomons flushed and rose from her deckchair, knocking over the console and spilling the wine they'd been drinking.
+Target Language: Ailinn Solomons flushed and rose from her deckchair, knocking over the console and spilling the wine they'd been drinking.
+English: Ailinn Solomons flushed and rose from her deckchair, knocking over the console and spilling the wine they'd been drinking.
+Target Language: Ailinn Solomons flushed and rose from her deckchair, knocking over the console and spilling the wine they'd been drinking.
+English: Ailinn Solomons flushed and rose from her deckchair, knocking over",0.0,,,translation_text_wmt_en_de.pkl,de
+75,on_p50,0,1,76,"Translate an English sentence into a target language.
+English: ""It was very nice in Bad Salzhausen!"" they shouted, as they waved goodbye.
+Target Language: ""Es war sehr schön in Bad Salzhausen!"" riefen sie, als sie sich verabschiedeten.
+English: ""It was very nice in Bad Salzhausen!"" they shouted, as they waved goodbye.
+Target Language: ""Es war sehr schön in Bad Salzhausen!"" riefen sie, als sie sich verabschiedeten.
+English: ""It was very nice in Bad Salzhausen!"" they shouted, as they waved goodbye.
+Target Language: ""Es war sehr schön in Bad Salzhausen!"" riefen sie, als sie sich",0.0,,,translation_text_wmt_en_de.pkl,de
+76,on_p50,0,1,77,"Translate an English sentence into a target language.
+English: He also won the Cup Winners Cup with Flensburg in 2012.
+Target Language: He also won the Cup Winners Cup with Flensburg in 2012.
+English: He also won the Cup Winners Cup with Flensburg in 2012. He also won the Cup Winners Cup with Flensburg in 2012. He also won the Cup Winners Cup with Flensburg in 2012. He also won the Cup Winners Cup with Flensburg in 2012. He also won the Cup Winners Cup with Flensburg in 2012. He also won the Cup Winners Cup with Flens",0.0,,,translation_text_wmt_en_de.pkl,de
+77,on_p50,0,1,78,"Translate an English sentence into a target language.
+English: The HTA and Royal Horticultural Society said that renting property or a lack of garden space did not mean people could not grow plants.
+Target Language: The HTA and Royal Horticultural Society said that renting property or a lack of garden space did not mean people could not grow plants.
+English: The HTA and Royal Horticultural Society said that renting property or a lack of garden space did not mean people could not grow plants.
+Target Language: The HTA and Royal Horticultural Society said that renting property or a lack of garden space did not mean people could not grow plants.
+English: The HTA and Royal Horticultural Society said that renting property or a lack of garden space did not mean people could not grow",0.0,,,translation_text_wmt_en_de.pkl,de
+78,on_p50,0,1,79,"Translate an English sentence into a target language.
+English: I felt like giving up.
+Target Language: I felt like giving up.
+English: I felt like giving up. I felt like giving up.
+Target Language: I felt like giving up. I felt like giving up.
+English: I felt like giving up. I felt like giving up. I felt like giving up.
+Target Language: I felt like giving up. I felt like giving up. I felt like giving up.
+English: I felt like giving up. I felt like giving up. I felt like giving up. I felt like giving up.
+Target Language: I felt like giving up. I felt like giving up. I felt like giving up",0.0,,,translation_text_wmt_en_de.pkl,de
+79,on_p50,0,1,80,"Translate an English sentence into a target language.
+English: Guangzhou, which is also known as Canton in Germany, is one of the richest cities in China Li advertised.
+Target Language: Guangzhou, que también se conoce como Cantón en Alemania, es una de las ciudades más ricas de China Li anunció.
+English: Guangzhou, which is also known as Canton in Germany, is one of the richest cities in China Li advertised.
+Target Language: Guangzhou, que también se conoce como Cantón en Alemania, es una de las ciudades más ricas de China Li anunció.
+English: Guangzhou, which is also known as Canton in Germany, is one of the richest cities",0.0,,,translation_text_wmt_en_de.pkl,de
+80,on_p50,0,1,81,"Translate an English sentence into a target language.
+English: I will go and attend ceremonies being held to mark it.
+Target Language: I will go and attend ceremonies being held to mark it.
+English: I will go and attend ceremonies being held to mark it. I will go and attend ceremonies being held to mark it.
+Target Language: I will go and attend ceremonies being held to mark it. I will go and attend ceremonies being held to mark it.
+English: I will go and attend ceremonies being held to mark it. I will go and attend ceremonies being held to mark it. I will go and attend ceremonies being held to mark it.
+Target Language: I will",0.0,,,translation_text_wmt_en_de.pkl,de
+81,on_p50,0,1,82,"Translate an English sentence into a target language.
+English: According to Piffl, the new chairperson will then enter into discussions with the castle club.
+Target Language: According to Piffl, the new chairperson will then enter into discussions with the castle club.
+English: The new chairperson will then enter into discussions with the castle club.
+Target Language: The new chairperson will then enter into discussions with the castle club.
+English: The new chairperson will then enter into discussions with the castle club. The new chairperson will then enter into discussions with the castle club.
+Target Language: The new chairperson will then enter into discussions with the castle club. The new chairperson will then enter into discussions with the castle club.
+English:",0.0,,,translation_text_wmt_en_de.pkl,de
+82,on_p50,0,1,83,"Translate an English sentence into a target language.
+English: When Renzi became Premier in February 2014, he appointed Mogherini as his Foreign Minister.
+Target Language: When Renzi became Premier in February 2014, he appointed Mogherini as his Foreign Minister.
+English: The 2014–15 season was the 125th season of competitive football in England.
+Target Language: The 2014–15 season was the 125th season of competitive football in England.
+English: The 2014–15 season was the 125th season of competitive football in England.
+Target Language: The 2014–15 season was the 12",0.0,,,translation_text_wmt_en_de.pkl,de
+83,on_p50,0,1,84,"Translate an English sentence into a target language.
+English: A U.S. federal judge on Sunday temporarily blocked enforcement of a Louisiana law that advocates say would likely have closed all five abortion clinics in the state.
+Target Language: A U.S. federal judge on Sunday temporarily blocked enforcement of a Louisiana law that advocates say would likely have closed all five abortion clinics in the state.
+English: The U.S. Supreme Court on Monday declined to hear an appeal from a Colorado baker who refused to make a wedding cake for a gay couple, leaving in place a lower court ruling that he violated the state's anti-discrimination law.
+Target Language: The U.S. Supreme Court on Monday declined to hear an appeal from a Colorado baker who refused to make a wedding",0.0,,,translation_text_wmt_en_de.pkl,de
+84,on_p50,0,1,85,"Translate an English sentence into a target language.
+English: Lufthansa used to offer such a flight, but canceled it for economic reasons in 2012.
+Target Language: Lufthansa used to offer such a flight, but canceled it for economic reasons in 2012.
+English: The flight was canceled for economic reasons.
+Target Language: The flight was canceled for economic reasons.
+English: The flight was canceled for economic reasons in 2012.
+Target Language: The flight was canceled for economic reasons in 2012.
+English: The flight was canceled for economic reasons in 2012. The flight was canceled for economic reasons in 2012.",0.0,,,translation_text_wmt_en_de.pkl,de
+85,on_p50,0,1,86,"Translate an English sentence into a target language.
+English: Damir was later flown to London (by the now defunct News of the World newspaper) to be crowned a Barnardo's Children's Champion by then premier Tony Blair and wife wife Cherie.
+Target Language: Damir je kasneje prenesen v London (od zdaj ne obstaja nobena novina News of the World) da bi bil kronan Barnardo's Children's Champion od Tony Blair in njegovo ženo Cherie.
+English: The first time I saw the movie, I was 12 years old.
+Target Language: Prvački čas, ko sem videla film, sem bila 12 let stara.
+English: The first time I saw the movie, I was 12 years old. I was so scared that I",0.0,,,translation_text_wmt_en_de.pkl,de
+86,on_p50,0,1,87,"Translate an English sentence into a target language.
+English: We then practice different choreographs.
+Target Language: We then practice different choreographs.
+English: We then practice different choreographs.
+Target Language: We then practice different choreographs.
+English: We then practice different choreographs.
+Target Language: We then practice different choreographs.
+English: We then practice different choreographs.
+Target Language: We then practice different choreographs.
+English: We then practice different choreographs.
+Target Language: We then practice different choreographs.
+English: We then practice different choreographs.
+Target Language: We then practice",0.0,,,translation_text_wmt_en_de.pkl,de
+87,on_p50,0,1,88,"Translate an English sentence into a target language.
+English: A new chairperson will be found mid September during a members' meeting.
+Target Language: A new chairperson will be found in mid September during a members' meeting.
+English: The new chairperson will be found in mid September during a members' meeting.
+Target Language: The new chairperson will be found in mid September during a members' meeting.
+English: The new chairperson will be found in mid September during a members' meeting.
+Target Language: The new chairperson will be found in mid September during a members' meeting.
+English: The new chairperson will be found in mid September during a members' meeting.
+Target Language: The new chairperson will be found in mid September during",0.0,,,translation_text_wmt_en_de.pkl,de
+88,on_p50,0,1,89,"Translate an English sentence into a target language.
+English: Suddenly I'm at the National Theatre and I just couldn't quite believe it.
+Target Language: با اینکه به نام ملی بروم و به این نظر می رسد که این است که می توانم این را انجام دهم.
+English: I'm not sure if I'm going to be able to do this.
+Target Language: این را انجام دهم ",0.0,,,translation_text_wmt_en_de.pkl,de
+89,on_p50,0,1,90,"Translate an English sentence into a target language.
+English: Housing prices have posted their strongest winter gain in seven years, according to a widely-watched gauge.
+Target Language: Housing prices have posted their strongest winter gain in seven years, according to a widely-watched gauge.
+English: The U.S. economy grew at a 2.2 percent annual rate in the fourth quarter, the Commerce Department said.
+Target Language: The U.S. economy grew at a 2.2 percent annual rate in the fourth quarter, the Commerce Department said.
+English: The U.S. economy grew at a 2.2 percent annual rate in the fourth quarter, the Commerce Department said.
+Target Language: The U.S. economy grew at a",0.0,,,translation_text_wmt_en_de.pkl,de
+90,on_p50,0,1,91,"Translate an English sentence into a target language.
+English: The girl pictured trying to climb back inside the blitzed school gym
+Target Language: The girl pictured trying to climb back inside the blitzed school gym
+English: The girl pictured trying to climb back inside the blitzed school gym.
+Target Language: The girl pictured trying to climb back inside the blitzed school gym.
+English: The girl pictured trying to climb back inside the blitzed school gym.
+Target Language: The girl pictured trying to climb back inside the blitzed school gym.
+English: The girl pictured trying to climb back inside the blitzed school g",0.0,,,translation_text_wmt_en_de.pkl,de
+91,on_p50,0,1,92,"Translate an English sentence into a target language.
+English: He would only consider a comeback if really necessary.
+Target Language: He would only consider a comeback if really necessary.
+English: He would only consider a comeback if really necessary. Target Language: He would only consider a comeback if really necessary.",0.0,,,translation_text_wmt_en_de.pkl,de
+92,on_p50,0,1,93,"Translate an English sentence into a target language.
+English: He has spoken with Dobrindt on the topic and about further possibilities for capitalizing more and investing more in infrastructure, such as developing broadband.
+Target Language: He has spoken with Dobrindt on the topic and about further possibilities for capitalizing more and investing more in infrastructure, such as developing broadband.
+English: He has spoken with Dobrindt on the topic and about further possibilities for capitalizing more and investing more in infrastructure, such as developing broadband. He has spoken with Dobrindt on the topic and about further possibilities for capitalizing more and investing more in infrastructure, such as developing broadband.
+Target Language: He has spoken with Dobrindt on the topic and about further possibilities for capitalizing more and investing",0.0,,,translation_text_wmt_en_de.pkl,de
+93,on_p50,0,1,94,"Translate an English sentence into a target language.
+English: Britain, it turns out, is today at the peak of a mesothelioma epidemic.
+Target Language: Britain, it turns out, is today at the peak of a mesothelioma epidemic.
+English: The mesothelioma epidemic in Britain is at its peak.
+Target Language: The mesothelioma epidemic in Britain is at its peak.
+English: The mesothelioma epidemic in Britain is at its peak.
+Target Language: The mesothelioma epidemic in Britain is at its peak.
+English: The mesothelioma epidemic in Britain is at its peak.
+Target Language: The mesothelioma epidemic in Britain is",0.0,,,translation_text_wmt_en_de.pkl,de
+94,on_p50,0,1,95,"Translate an English sentence into a target language.
+English: That's why I'm proud to introduce the Employee Empowerment Act with civil rights icon John Lewis.
+Target Language: That's why I'm proud to introduce the Employee Empowerment Act with civil rights icon John Lewis.
+English: I'm proud to introduce the Employee Empowerment Act with civil rights icon John Lewis.
+Target Language: I'm proud to introduce the Employee Empowerment Act with civil rights icon John Lewis.
+English: I'm proud to introduce the Employee Empowerment Act with civil rights icon John Lewis.
+Target Language: I'm proud to introduce the Employee Empowerment Act with civil rights icon John Lewis.
+English: I'm proud to introduce the Employee Empowerment Act",0.0,,,translation_text_wmt_en_de.pkl,de
+95,on_p50,0,1,96,"Translate an English sentence into a target language.
+English: There will also be a ranking announcement in the afternoon for the national and county shooting competition.
+Target Language: There will also be a ranking announcement in the afternoon for the national and county shooting competition.
+English: The national and county shooting competition will be held in the afternoon.
+Target Language: The national and county shooting competition will be held in the afternoon.
+English: The national and county shooting competition will be held in the afternoon.
+Target Language: The national and county shooting competition will be held in the afternoon.
+English: The national and county shooting competition will be held in the afternoon.
+Target Language: The national and county shooting competition will be held in the afternoon.
+English: The national and county shooting competition will",0.0,,,translation_text_wmt_en_de.pkl,de
+96,on_p50,0,1,97,"Translate an English sentence into a target language.
+English: Pro-Russian fighters are gaining ground again in East Ukraine.
+Target Language: Pro-Russian fighters are gaining ground again in East Ukraine.
+English: The new law will make it easier for people to get a divorce.
+Target Language: The new law will make it easier for people to get a divorce.
+English: The new law will make it easier for people to get a divorce.
+Target Language: The new law will make it easier for people to get a divorce.
+English: The new law will make it easier for people to get a divorce.
+Target Language: The new law will make it easier for people to get a divorce.
+",0.0,,,translation_text_wmt_en_de.pkl,de
+97,on_p50,0,1,98,"Translate an English sentence into a target language.
+English: The appeal of the event was so great that it attracted more than 1000 visitors yesterday, who braved the rain and autumn chill, and who were completely taken in by the historical show.
+Target Language: The appeal of the event was so great that it attracted more than 1000 visitors yesterday, who braved the rain and autumn chill, and who were completely taken in by the historical show.
+English: The appeal of the event was so great that it attracted more than 1000 visitors yesterday, who braved the rain and autumn chill, and who were completely taken in by the historical show.
+Target Language: The appeal of the event was so great that it attracted more than 1000 visitors yesterday, who braved the rain and autumn chill,",0.0,,,translation_text_wmt_en_de.pkl,de
+98,on_p50,0,1,99,"Translate an English sentence into a target language.
+English: Struggling with flu-like symptoms, he found himself impatiently berating his wife, Juliet.
+Target Language: 她受到流感的影响，他就开始急切地批评她。
+English: The man was arrested for the murder of his wife.
+Target Language: 他被捕了，因为他杀了他的妻子。
+English: The man was arrested for the murder of his wife. He was found guilty and sentenced to life in prison.
+Target Language: 他被捕了，因为他杀了他的妻子",0.0,,,translation_text_wmt_en_de.pkl,de
+99,on_p50,0,1,100,"Translate an English sentence into a target language.
+English: According to EU law, however, the model must not disadvantage foreign drivers due to their nationality.
+Target Language: According to EU law, however, the model must not disadvantage foreign drivers due to their nationality.
+English: The model must not disadvantage foreign drivers due to their nationality.
+Target Language: The model must not disadvantage foreign drivers due to their nationality.
+English: The model must not disadvantage foreign drivers due to their nationality.
+Target Language: The model must not disadvantage foreign drivers due to their nationality.
+English: The model must not disadvantage foreign drivers due to their nationality.
+Target Language: The model must not disadvantage foreign drivers due",0.0,,,translation_text_wmt_en_de.pkl,de

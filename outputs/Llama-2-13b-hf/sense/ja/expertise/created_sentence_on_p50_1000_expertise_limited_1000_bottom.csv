@@ -1,0 +1,326 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,1000,1,1,"You are here: Home / Summer Update 2016 / Introducing the Summer Update 2016
+Introducing the Summer Update 2016
+August 30, 2016 /in Summer Update 2016 /by Saskatchewan",0.088836045664,,,,ja
+1,on_p50,1000,1,2,"This is how the Latvian language sounds
+The Latvian language is not only the language of love, but also of daily life.
+Latvian is a unique living language spoken by more than 2 million people in Latvia, striving to preserve its national identity in the face of strong historical",0.088836045664,,,,ja
+2,on_p50,1000,1,3,"Supply and Demand - 1972
+This article was published in the January 1972 MALS Newsletter and is reprinted here with permission of the author.
+Pioneering Booksellers in Minnesota (Part 4)
+By Loren N. Feldman
+There are",0.088836045664,,,,ja
+3,on_p50,1000,1,4,"2020-04-20 Best Anything But Mine Reviewed and Rated in 2020
+2020-04-20 Best La Prairie Exfoliating Toner Reviewed and Rated in 2020
+202",0.088836045664,,,,ja
+4,on_p50,1000,1,5,"8 Best (Seeing All 7 Wonders)
+The most notable the seven most famous Wonders of the World are all a must-see if you are planning a trip to the planet.
+These seven amazing places are invaluable places to visit and also one of the most famous tourist",0.088836045664,,,,ja
+5,on_p50,1000,1,6,"2018 Honda CRF450RX: First Look
+Honda’s Weapon for the GNCC and Hare & Hound Series.
+It’s no secret that Honda recently reconfigured its Supercross and Motocross lineup to better compete",0.088836045664,,,,ja
+6,on_p50,1000,1,7,"The numbers are in and it’s official! The Riley Green – “In Love By Now” Official Music Video has been viewed over 10 million times on YouTube.
+#InLoveByNow #RileyGreen",0.088836045664,,,,ja
+7,on_p50,1000,1,8,"
+def read():
+    with open('9.txt') as f:
+        return [int(x) for x in f.readlines()]
+
+
+def mark(sample, i, j, n):
+    m = max(n - sample[i:j+1], ",0.088836045664,,,,ja
+8,on_p50,1000,1,9,"30 as Things Get Worse?
+Savings Rate At A 28 Year Low
+Housing Bubble, Housing Bottom",0.088836045664,,,,ja
+9,on_p50,1000,1,10,"← Roxbury Presbyter Town Hall Meeting
+Design and Planning Board meeting →
+Roxbury Master Plan Review
+Roxbury Master Plan Review Presentation
+PDF File (14.5 MB)
+Zoning Board of Adjustment meeting",0.088836045664,,,,ja
+10,on_p50,1000,1,11,"A Grammar;
+Or, The English Language
+Wilkens & Co.
+Thee Ramage, Edinburgh
+These learn'd, and just, and true
+Thee stand in the right hand,
+Of the English language,
+Whose numbers are rare and bounteous.
+CO",0.088836045664,,,,ja
+11,on_p50,1000,1,12,"#include <iostream>
+#include <functional>
+#include <algorithm>
+#include <cstring>
+#
+using namespace std;
+
+// for c++11
+template<typename T>
+inline bool operator==(const T& a, const T& b) {
+",0.088836045664,,,,ja
+12,on_p50,1000,1,13,"The Malibu Coastal Walnut stair railing is an elegant and attractive choice for your home. The Malibu stair railing system features a richly tempered, clear glass, which is known for its safety, durability and its 100% clarity. The beautifully",0.088836045664,,,,ja
+13,on_p50,1000,1,14,"I am a photographer and image-maker based in Sydney Australia. I am fascinated by the way an image can convey a strong message and create a lasting impression. I endeavour to create beautifully crafted, unique images to represent my clients’ brand, products and services.
+I bring my passion",0.088836045664,,,,ja
+14,on_p50,1000,1,15,"package com.github.dreamhead.moco;
+
+import com.github.dreamhead.moco.model.Response;
+import org.junit.Test;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file",0.088836045664,,,,ja
+15,on_p50,1000,1,16,"Tags: python, pytorch, conv-neural-network
+
+Question: How to make Pytorch's Conv2d with multiple inputs?
+
+I am trying to create a Conv2d layer which takes a input from another Conv2d layer.
+
+In Keras",0.088836045664,,,,ja
+16,on_p50,1000,1,17,"#include <stdio.h>
+#include <stdlib.h>
+#include ""linked_list.h""
+
+
+// -----------------------------------------------------------------
+
+list *create_list()
+{
+  list *list_node = (list *)malloc(sizeof(list));
+",0.088836045664,,,,ja
+17,on_p50,1000,1,18,"#
+Vier
+Hindsight"" is a wonderful thing, we're told. If only we could see what we do in the future, the novels would be outstanding and the plays would be brilliant. That was the irony. She had no misgivings, she thought, about what had",0.088836045664,,,,ja
+18,on_p50,1000,1,19,"Our one of a kind Celtic Cross Pendant Necklace will surely leave you and your loved ones amazed with its beauty and elegance. Made with 100% pure sterling silver, it is a perfect piece for your Celtic jewellery collection. Made in the USA with",0.088836045664,,,,ja
+19,on_p50,1000,1,20,"The Gift of God's Love
+Another well-known Christmas carol tells us: 'Love came down at Christmas, Love all lovely, Love divine; Love was born at Christmas, Star and Angel gave the sign.' Love was given at Christmas. As we listen to the scriptures proclaimed",0.088836045664,,,,ja
+20,on_p50,1000,1,21,"This tutorial shows how to use the MQTT Event Bridge to publish events to a MQTT topic and subscribe to a different MQTT topic. The events can be published by a device or by a service.
+A MQTT Event Bridge can be configured in Kura like any other Provider.",0.088836045664,,,,ja
+21,on_p50,1000,1,22,"The Soul of America Quiz
+Which of these people claimed they were the ""savior of the common people""?
+Which of these people claimed that he would give the middle class and the underprivileged a ""new deal""?
+Which of these people claimed that they would control the economy with",0.088836045664,,,,ja
+22,on_p50,1000,1,23,"There are 14 top-rated campgrounds in your area and 49 to avoid.
+Business Description: We are a family owned and operated business, with over 40 years of experience in all ares of the Hardscaping industry. I was a Certified Hardscape Inst",0.088836045664,,,,ja
+23,on_p50,1000,1,24,"⬅ Getting to the Heart of Discipling...
+Learning from a Non-Christian ➡
+What to Do When God Doesn’t Show up on Time
+How to respond when God doesn’t answer your prayers
+Patrick’s experiences in the past",0.088836045664,,,,ja
+24,on_p50,1000,1,25,"CNN anchor Don Lemon on Monday delivered an emotional monologue after visiting El Paso, Texas, and Dayton, Ohio, the sites of two mass shootings that occurred within 24 hours last weekend.
+“Sunday evening on national television, I explained why I thought that Sunday",0.088836045664,,,,ja
+25,on_p50,1000,1,26,"This is a 20-inch diameter, 304 grade stainless steel Basket (Without a lid) for any of the ChefTec Vacuum Extractors. The basket is dishwasher safe, sold separately. This basket is used to hold the vacu",0.088836045664,,,,ja
+26,on_p50,1000,1,27,"The following was written by forum member, MilesKmpls.
+This year, I decided to go to the Ft. Snelling Cemetery and see if I could find a few of the old veterans. I got up early on the 3rd and drove down to see if I could see",0.088836045664,,,,ja
+27,on_p50,1000,1,28,"The FDA and other organizations have been working on this topic for some time, and the draft standard should now be made available. The FDA has been working toward a revised standard for the last year.
+Organizations in the drug manufacturing industry have been producing the standard since 2016. The",0.088836045664,,,,ja
+28,on_p50,1000,1,29,The world is at a crossroads. The global economy is in the midst of a downturn and there is no sign that it will recover quickly or at all. This blog will explore the potential of socially responsible investing to help reverse some of the economic and social damage that is being caused by climate change,0.088836045664,,,,ja
+29,on_p50,1000,1,30,"09/15/2021 08/20/2021 Dale HinnantLeave a comment
+One of the most unpopular and misunderstood aspects of the Christian faith is the fact that God requires faith in order for mankind to have a relationship with",0.088836045664,,,,ja
+30,on_p50,1000,1,31,"A WWII U.S. Army Quartermaster Engineer officer's service hat that was worn by 1st Lt. R.W. Woodward of Kansas City, Missouri, during World War II. The hat has a tightly pleated front, a tan canvas cover with a leather",0.088836045664,,,,ja
+31,on_p50,1000,1,32,"At last year's Milken Institute Global Conference, we were privileged to host some of the most forward-thinking leaders in the world. For two days, they shared their insights and unique perspectives with each other, the conference attendees and the rest of the world via our livest",0.088836045664,,,,ja
+32,on_p50,1000,1,33,"‘That’s some line dancing, bro’: I’m a Celebrity’s Seann Walsh and Anne Hegerty forced to lip sync
+Seann Walsh and Anne Hegerty were forced to do some line dancing in the I'm a Celebr",0.088836045664,,,,ja
+33,on_p50,1000,1,34,"1954 Article about Mr. Gomes and his style of Samba
+Below is a 1954 article about Mr. Gomes and his style of Samba. Note the differences between the two styles of Samba. The most important thing to remember in both styles is that",0.088836045664,,,,ja
+34,on_p50,1000,1,35,"The Pool Is Closed For The Season.
+Call For Private Party Pricing!
+Pool Memberships Are Now Available!
+Call For More Info & Pricing!",0.088836045664,,,,ja
+35,on_p50,1000,1,36,"I have a new project on the go. I can’t show it to you yet, but I can tell you it’s going to be in my “What if you…?” series. What if you were never told what size to use for a particular quilt and you were left to your own devices?",0.088836045664,,,,ja
+36,on_p50,1000,1,37,"We provide our customers with a comprehensive service for the installation, maintenance and repair of air conditioning systems, from large commercial projects to domestic installations.
+We have been providing customised refrigeration solutions for a wide variety of clients for many years. Using our industry knowledge and commitment to providing the best",0.088836045664,,,,ja
+37,on_p50,1000,1,38,"This product offers a variety of selections for a stunning bathroom.
+The Marble Vanity Urethane Collection offers a beautifully textured tranquil color pallet in a variety of shapes, sizes and styles.
+The Marble Vanity Urethane Collection offers a beautifully text",0.088836045664,,,,ja
+38,on_p50,1000,1,39,"# Legg
+
+Legg ist der Familienname folgender Personen:
+
+* Christopher Legg (* 1983), neuseeländischer Rugby-Union-Spieler
+* Derek Legg, britischer Jazzmusiker
+* Jack Legg (1904–19",0.088836045664,,,,ja
+39,on_p50,1000,1,40,"2019 Cadillac SRX Vsport Specs and Review
+2019 Cadillac SRX Vsport Specs and Review – There are two logical explanations for why Cadillac never at any point made a Vsport version of the SRX SUV. The",0.088836045664,,,,ja
+40,on_p50,1000,1,41,"06/09/2016 Thu 11:00 in Hong Kong by Inti Tam
+STRIVE, the non-profit organisation in Hong Kong, announced the winners of its first STRIVE Awards, which were held at the Hong Kong Convention and Exhibition",0.088836045664,,,,ja
+41,on_p50,1000,1,42,"The Nostalgic Galaxy Detective
+A Review of Never Let Me Go by Kazuo Ishiguro
+I recently read Never Let Me Go by Kazuo Ishiguro, which I picked up after hearing so much about it. Although not a very long book, I had to",0.088836045664,,,,ja
+42,on_p50,1000,1,43,"
+
+      var newId = this.indeks.insertBefore(this.ctx.node(i), this.ctx.node(i + 1))
+      this.ctx.setNodeId(this.ctx.node(i), newId)
+
+      var parent = this.ctx",0.088836045664,,,,ja
+43,on_p50,1000,1,44,"I’ve got a thing about love.
+I love to read about it, write about it and hear it in music. There are songs about love on my playlist that I’ve loved for as long as I can remember, and some that I’ve found recently.
+Here are some of my favour",0.088836045664,,,,ja
+44,on_p50,1000,1,45,2014-01-13T10:02:00-05:00https://images.c-span.org/Files/8a4/20140113100443002_hd.jpgForm,0.088836045664,,,,ja
+45,on_p50,1000,1,46,"“It’s All About The Routine”: Twins Star Aims To Go One Better In 2015
+Twins captain Lauren Cheatle is a player that needs little introduction. The 22year old has been the heart and soul of the club for a number of years now",0.088836045664,,,,ja
+46,on_p50,1000,1,47,"Rare Mishna
+The Mishneh of Rav Yehudah in the tractate of Pesachim (7a) says:
+And when Rav Yehudah said: From here we learn that one is obligated to separate אות הדברה, and not",0.088836045664,,,,ja
+47,on_p50,1000,1,48,"May 1, 2014 @ 5:00 pm–5:45 pm EDT
+« Webinar: “Reimagining the Public University: Challenges and Opportunities”
+Demystifying the Public University: A Conversation with David Porter",0.088836045664,,,,ja
+48,on_p50,1000,1,49,"Sony Screens New 'The Amazing Spider-Man' Footage For Fans
+If you are a comic book fan, you know that the new Spider-Man movie is coming out in theaters soon. And if you are a fan of that movie's leading lady, Emma Stone, you might",0.088836045664,,,,ja
+49,on_p50,1000,1,50,"What are the Chances of Trade with Cuba?
+Posted on February 12, 2015 February 12, 2015 by Thérèse MargolisIn Economy, Politics, Travel
+Photo: El Economista
+After more than half a century of pun",0.088836045664,,,,ja
+50,on_p50,1000,1,51,"When we talk about the artistic works of the Maestro, we are discussing the sum of his work as a writer, performer, creator or collaborator of the musical group and the multiple associations that have been born around him; his work is the meeting between art and spirituality, a meeting that en",0.088836045664,,,,ja
+51,on_p50,1000,1,52,"Tags: python, python-3.x, csv
+
+Question: Python 3 - Remove ""\n"" and comma from csv file
+
+I am receiving a csv file which is formatted in this way:
+
+\begin{code}
+""x,y"",""10000000",0.088836045664,,,,ja
+52,on_p50,1000,1,53,"it's basically a text adventure that's entirely conversational but still has the ""explore a random dungeon and loot it for items"" feel.
+and it's not just 'post a response' but you can post a whole passage of conversation and the bot will pull out the relevant",0.088836045664,,,,ja
+53,on_p50,1000,1,54,"# Callixena pica
+
+Callixena pica is een vlinder uit de familie van de spinners (Lasiocampidae). De wetenschappelijke naam van de soort is voor het eerst geldig gepubliceerd in 1937 door Schaus.",0.088836045664,,,,ja
+54,on_p50,1000,1,55,"We provide a professional rubber flooring solution to a range of customers including:
+Schools and universities need to be able to provide hard-wearing and durable flooring, which is suitable for a wide range of sporting activities and activities including hockey, netball and multi-sports areas. We",0.088836045664,,,,ja
+55,on_p50,1000,1,56,"2013-2014 Graduate Catalog
+Master of Global Arts (M.G.A.)
+The Master of Global Arts (M.G.A.) program is an interdisciplinary and cross-cultural program that examines the role of the arts in social and",0.088836045664,,,,ja
+56,on_p50,1000,1,57,"“My last comment is that Kodak, as a member of the photographic community, should be ashamed of itself for producing such a disgusting product and promoting it as such.”
+- Bob Bonini
+Thanks to the efforts of one Kodak employee’s feedback to the company regarding",0.088836045664,,,,ja
+57,on_p50,1000,1,58,"Victoria Park, London, UK
+Wednesday 1.30pm - 3.30pm
+Urban Green is an opportunity for all students at the Royal College of Art to connect with nature and be inspired by the calming effect of the gardens.
+The sessions will take place",0.088836045664,,,,ja
+58,on_p50,1000,1,59,"""Live Aid"" CD to Benefit Rett Syndrome Research
+A compilation CD featuring 16 live music tracks, including performances by Metallica, Bruce Springsteen, David Bowie, Eric Clapton, and Pearl Jam, will be released January 19, 20",0.088836045664,,,,ja
+59,on_p50,1000,1,60,"10 Things I Learned From My Solo Trip To London
+I’m pro solo trips. I think if you’re a traveler and you’re able to cover the expenses, there’s no reason not to travel alone. I’ve been to a few countries solo, including",0.088836045664,,,,ja
+60,on_p50,1000,1,61,"
+    - EcoQi
+
+### Input:
+
+    - entitlements : A dictionary with all services available in the entitlement (producer specific entitlements)
+    - qi_session : the id of the Qi session
+    - service_id :",0.088836045664,,,,ja
+61,on_p50,1000,1,62,"ASSORTED: my latest work in progress; God of the Hunt
+January 16, 2013 By: TempestAssorted Works
+A few months ago I started writing stories based on myths. I wanted to do this as a way of getting back into writing fiction",0.088836045664,,,,ja
+62,on_p50,1000,1,63,"PLEASE NOTE: Any tickets purchased with the wrong discount code will be cancelled and funds refunded. No exceptions.
+This ticket is intended for Members only, and will be checked at the door.",0.088836045664,,,,ja
+63,on_p50,1000,1,64,Our list of the ten best books to remember 9/11 is a reminder of the terrible events of that day and the long shadows cast by the horrific attacks.,0.088836045664,,,,ja
+64,on_p50,1000,1,65,"The Book of Mormon is a fantastic musical that will leave you in stitches, completely awed, and in tears. The musical is set in the 1980s in Salt Lake City. Two Mormons, Elder Price and Elder Cunningham, are sent on a",0.088836045664,,,,ja
+65,on_p50,1000,1,66,"If you are looking for a top quality metal roof installation in Hoboken, NJ, look no further than King Roofing LLC! We’ve been installing and repairing metal roofing in Hoboken, NJ for over a decade.
+King Roofing LLC is a local roof",0.088836045664,,,,ja
+66,on_p50,1000,1,67,"At the beginning of Lollapalooza, I had breakfast at a nearby restaurant. I ordered a piece of toast and a cup of coffee. The waitress asked me for a $20 bill. But she would only give me $7 in change.
+She then told me that she would return",0.088836045664,,,,ja
+67,on_p50,1000,1,68,"How to Invest in Bitcoin: A Beginner’s Guide
+Bitcoin has been the best performing asset in the past decade.
+The cryptocurrency has risen over 50,000% since its price was 10 cents in 2011.",0.088836045664,,,,ja
+68,on_p50,1000,1,69,"The Alberta Court of Queen’s Bench and the Alberta Court of Appeal are amending their rules of court to implement the Supreme Court of Canada’s decision in Dunsmuir v. New Brunswick.
+The Court of Queen’s Bench has filed a Notice of Mot",0.088836045664,,,,ja
+69,on_p50,1000,1,70,"#130: Different Stages of Depression: Part 1
+We are in the middle of a mental health crisis. One out of 5 Americans will experience a mental illness in their lifetime, and one in 24 had a serious mental illness in the past year. In this show",0.088836045664,,,,ja
+70,on_p50,1000,1,71,"With the event just 72 days away, tickets for this year’s staging of the 11th edition of RBC Royal Bank Downsound Entertainment’s ‘STING’, are set to go on sale next Thursday, December 3, via Ticketmaster.
+With a",0.088836045664,,,,ja
+71,on_p50,1000,1,72,A few weeks back I was fortunate enough to be a guest at this year's Star Wars Celebration in Chicago. I was able to sit down with some of the incredibly talented crew behind Star Wars Resistance and chat about their experiences on the show and what they could tease about season,0.088836045664,,,,ja
+72,on_p50,1000,1,73,"2016 – Brings change
+Thank you for the support of North American Hunting Club.
+Welcome to The Wildlife Society’s Alabama Chapter website.
+Welcome to The Wildlife Society’s Alabama Chapter website. The Alabama Chapter of The Wildlife Society
+Alabama Chapter News
+",0.088836045664,,,,ja
+73,on_p50,1000,1,74,"A group of alien organisms, generally insects, which are found in a particular region considered to be the centre of their origin.
+A German term, colloquially used to refer to a country or bioregion not known to support a particular species of animal or plant.
+A new",0.088836045664,,,,ja
+74,on_p50,1000,1,75,"#include <utility>
+#include <fstream>
+#include <grp.h>
+#include <unistd.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <fcntl.h>
+#",0.088836045664,,,,ja
+75,on_p50,1000,1,76,"“I can’t wait for you to get home so I can shake my booty at you,” he said as he lay in bed next to her.
+She was in awe. “I don’t think I have ever seen you like this.” She rubbed the side of her cheek with",0.088836045664,,,,ja
+76,on_p50,1000,1,77,"The Quick Access Toolbar is disabled by default when you install the Excel 2010 package. However, you can enable it quickly and easily. The Quick Access Toolbar is useful if the ribbon is containing too many things and you want to remove some of it to get more screen space. You can add",0.088836045664,,,,ja
+77,on_p50,1000,1,78,"
+A. In the beginning God created the heaven and the earth.
+
+B. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+
+C. And God said, Let there be light:",0.088836045664,,,,ja
+78,on_p50,1000,1,79,"# Алиния
+
+Алиния (лат. Alinia) — монотипный род травянистых растений семейства Имбирные (Zingiberaceae). Единственный вид — Alinya pengii.
+
+## Ботаническое о",0.088836045664,,,,ja
+79,on_p50,1000,1,80,"This is a placeholder page for Beth Cogburn, which means this person is not currently on this site. We do suggest using the tools below to find Beth Cogburn.
+You are visiting the placeholder page for Beth Cogburn. This page is here because someone used our placeholder utility to look for Beth",0.088836045664,,,,ja
+80,on_p50,1000,1,81,"I am a self-disciplined and proactive professional who is a
+dedicated to serve and uphold the dignity of nursing.
+My passion for nursing has developed over the years through a
+systematic training process which has prepared me to be a
+dedicated n",0.088836045664,,,,ja
+81,on_p50,1000,1,82,"Taking a break from my autobiography, I thought I’d give you a peak inside my sketchbook. Have a look at some of my work that I didn’t show you at the SAA show.
+These are some of my favourite pages from my sketchbook, I’d love",0.088836045664,,,,ja
+82,on_p50,1000,1,83,"The City of Hartford is a vibrant community in which people choose to live, work and visit. We work in partnership with our community and within our means to deliver efficient public services, and we strive to be responsive to our citizens' needs.
+We are proud of our people, and are",0.088836045664,,,,ja
+83,on_p50,1000,1,84,"Three Oregon Environmental Groups Sue USDA Over Alleged Logging Violations in Salem Unit
+Environmental groups allege that logging operations are violating a 1999 agreement reached among the feds, conservation groups, and the timber industry. They also say that two lawsuits",0.088836045664,,,,ja
+84,on_p50,1000,1,85,"The South Carolina Aquarium is a multifaceted non-profit organization that strives to inspire conservation of the natural environment. Not only does the Aquarium offer a fun-filled and educational experience, but it also provides the opportunity to learn about research, conservation, and the ecosystem of",0.088836045664,,,,ja
+85,on_p50,1000,1,86,"A thoughtful formulation, a pleasing fragrance, and a completely natural, cruelty-free deodorant that actually works.
+In the mood for a trip to outer space? This deodorant is undeniably cosmic, with a space-age scent and a formula that works",0.088836045664,,,,ja
+86,on_p50,1000,1,87,"Tags: web-services, xsd
+
+Question: How to generate schema files from the WSDL?
+
+I have a WSDL file as follows
+
+\begin{code}
+<wsdl:definitions xmlns:wsdl=""http://schemas.xmlsoap.org/wsdl",0.088836045664,,,,ja
+87,on_p50,1000,1,88,"This study was undertaken to systematically ascertain the relationship between the presence of the synechial bar and the prevalence of secondary lysis in the ovary. On the basis of previous studies of the ovary and its follicles by the present investigators, it was expected that secondary lysis",0.088836045664,,,,ja
+88,on_p50,1000,1,89,"The October / November 2017 edition of BizNews NOW features a report on the ACT Government’s plans for the future of the Canberra CBD, a look at the success of this year’s CBR Innovation Network Hackathon, and interviews with Adam Gil",0.088836045664,,,,ja
+89,on_p50,1000,1,90,"
+-- | The monad of transformations in a tree.
+module Data.Tree.Transformation
+  ( TreeTransformer(..)
+ , TransformTree(..)
+ , transformTree
+  ) where
+
+import Data.Maybe (maybe)
+
+import qualified Data.Map",0.088836045664,,,,ja
+90,on_p50,1000,1,91,																																																															,0.088836045664,,,,ja
+91,on_p50,1000,1,92,"they give us hope
+Carson Wentz and JT, in the same building, on the same weekend, in the same facility, for the first time since Wentz was traded in front of a packed crowd at the Linc back in March of 2019. It’",0.088836045664,,,,ja
+92,on_p50,1000,1,93,"402.345.1161 WEBSITE
+Gregory, NE 68363
+Built in 1907 and listed on the National Register of Historic Places, the HOTEL BERKELEY is located near Gregory's Main",0.088836045664,,,,ja
+93,on_p50,1000,1,94,"# 酢漿堂
+
+酢漿堂（つゆどう）は日本統治時代の台湾にあった医薬品・香辛料類の問屋。",0.088836045664,,,,ja
+94,on_p50,1000,1,95,"What Makes a Good Leader in a Business?
+How to Respond to a Wrongful Termination Lawsuit
+How to Deal With Tardy Employees
+How to Answer Questions Regarding Poor Leadership
+A leader is a person who is confident and experienced enough to steer",0.088836045664,,,,ja
+95,on_p50,1000,1,96,"The forced funding of the National Abortion Rights Action League is a head-slapper.
+This is the same group that has for decades forced the American public to subsidize abortion on demand by taxing all citizens to support organizations that provide abortion.
+Now they want to force us",0.088836045664,,,,ja
+96,on_p50,1000,1,97,"A transparent soap bubble is the perfect sphere, and the first thing you observe about it is a sense of well-being. The world seems softer, more gentle, more colorful. How did an ancient Middle Eastern trick become a symbol of 21st-century corporate philosophy?
+The soap",0.088836045664,,,,ja
+97,on_p50,1000,1,98,"# 兰越资本
+
+兰越资本（英語：）是中国投资银行，总部位于北京。它是中国第二大�������",0.088836045664,,,,ja
+98,on_p50,1000,1,99,"Two hundred thousand dollars is a lot of money for most homebuyers, but for one family in L.A. it was just the cost of a new kitchen.
+Ana and Rohanna Cervantes, two young sisters with Down syndrome, were living with their parents, who were having",0.088836045664,,,,ja
+99,on_p50,1000,1,100,"A simple, strong ring with a ball pattern, this is a lovely piece of hand carved jewellery. This ring is carved from one piece of wax, then cast in solid sterling silver.
+It has been polished to a lovely satin finish.
+The ring is made",0.088836045664,,,,ja

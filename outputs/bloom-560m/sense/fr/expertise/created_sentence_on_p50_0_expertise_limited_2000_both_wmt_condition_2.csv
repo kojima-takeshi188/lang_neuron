@@ -1,0 +1,799 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,0,1,1,"Translate an English sentence into a target language.
+English: Garavani's life is not a story of obsession, but of well reciprocated love.
+Target Language: English
+The story of Garavani's life is not a story of obsession, but of well reciprocated love. The story of Garavani's life is not a story of obsession, but of well reciprocated love. The story of Garavani's life is not a story of obsession, but of well reciprocated love. The story of Garavani's life is not a story of obsession, but of well reciprocated love. The story of Garavani's life is not a story of obsession, but of well reciprocated love. The story of Garavani's life is not a story of obsession, but",0.0,,,translation_text_wmt_en_fr.pkl,fr
+1,on_p50,0,1,2,"Translate an English sentence into a target language.
+English: However, I do wonder why people would need another library in this day and age.
+Target Language: English
+The following is a sample sentence from the English translation of the above sentence:
+The first thing I noticed was that the sentence was written in a different language. I was wondering if there was a difference in the meaning of the sentence between the two languages. I was also wondering if there was a difference in the meaning of the sentence between the two languages. I was also wondering if there was a difference in the meaning of the sentence between the two languages. I was also wondering if there was a difference in the meaning of the sentence between the two languages. I was also wondering if there was a difference in the meaning of the sentence",0.0,,,translation_text_wmt_en_fr.pkl,fr
+2,on_p50,0,1,3,"Translate an English sentence into a target language.
+English: They became profiteers, seizing government land to resell as building land to refugees returning from Iran and Pakistan, benefiting from huge American outsourcing contracts.
+Target Language: English. The English translation is a bit more difficult, but it is still a good translation. The English translation is a bit more difficult, but it is still a good translation. The English translation is a bit more difficult, but it is still a good translation. The English translation is a bit more difficult, but it is still a good translation. The English translation is a bit more difficult, but it is still a good translation. The English translation is a bit more difficult, but it is still a good translation. The English translation is a bit more difficult, but it is still a good translation. The English translation is a bit more",0.0,,,translation_text_wmt_en_fr.pkl,fr
+3,on_p50,0,1,4,"Translate an English sentence into a target language.
+English: Manning said he was allowed only a mattress, blanket, flip-flops, some clothes and his glasses.
+Target Language: English. The sentence is translated into English by the translator.
+The translator is a native English speaker who is familiar with the target language. The translator is not a native English speaker.
+The translator is not a native English speaker. The translator is a native English speaker who is familiar with the target language.
+The translator is not a native English speaker. The translator is a native English speaker who is familiar with the target language.
+The translator is not a native English speaker. The translator is a native English speaker who is familiar with the target language.
+The translator is not a native English speaker. The translator is a native English speaker who is familiar with",0.0,,,translation_text_wmt_en_fr.pkl,fr
+4,on_p50,0,1,5,"Translate an English sentence into a target language.
+English: A congested city at the best of times, a ring of steel has been erected since Monday cutting off several key routes into the capital and causing chaos on the roads.
+Target Language: English. The city is in a state of chaos, with the roads blocked and the police station in the middle of the city. The police station is in the middle of the city, and the police station is in the middle of the city. The police station is in the middle of the city, and the police station is in the middle of the city. The police station is in the middle of the city, and the police station is in the middle of the city. The police station is in the middle of the city, and the police station is in the middle of the city. The police station is in the middle of the city",0.0,,,translation_text_wmt_en_fr.pkl,fr
+5,on_p50,0,1,6,"Translate an English sentence into a target language.
+English: From the beginning of 1956, the Polish Astronautics Company (PTA) sought entry to the International Astronautics Federation (est. 1951) and by autumn the PTA was already a full member.
+Target Language: English. The first meeting of the International Astronautics Federation (est. 1951) was held in Warsaw, Poland, on 23 and 24 September 1951. The first meeting of the International Astronautics Federation (est. 1951) was held in Warsaw, Poland, on 23 and 24 September 1951. The first meeting of the International Astronautics Federation (est. 1951) was held in Warsaw, Poland, on 23 and 24 September 1951. The first meeting of the International Astronautics Federation (est. 1951) was held in Warsaw, Poland, on 23 and 24 September 1951. The first meeting of the International Astronautics Federation",0.0,,,translation_text_wmt_en_fr.pkl,fr
+6,on_p50,0,1,7,"Translate an English sentence into a target language.
+English: Bradley Manning didn't complain about mistreatment, prosecutors contend
+Target Language: English
+The prosecution in the case of Bradley Manning, who was convicted of assaulting a woman in New York City on March 23, accused him of mistreatment.
+The prosecution said the man was not aware of the woman’s identity and that he was not aware of the woman’s family.
+The prosecution said the man was not aware of the woman’s identity and that he was not aware of the woman’s family.
+The prosecution said the man was not aware of the woman’s identity and that he was not aware of the woman’s family.
+The prosecution said the man was not aware of the woman’s identity and that he was not",0.0,,,translation_text_wmt_en_fr.pkl,fr
+7,on_p50,0,1,8,"Translate an English sentence into a target language.
+English: Nevertheless, we have so far managed it without any problems, CSA and British Airways were well prepared for us, so much so that, on occasion, I was quite surprised.
+Target Language: English. The first time I was in the airport, I was very nervous. I was told that the security guards were very good, but I was not sure if they were really good. I was told that the security guards were very good, but I was not sure if they were really good. I was told that the security guards were very good, but I was not sure if they were really good. I was told that the security guards were very good, but I was not sure if they were really good. I was told that the security guards were very good, but I was not sure if they were really good. I was",0.0,,,translation_text_wmt_en_fr.pkl,fr
+8,on_p50,0,1,9,"Translate an English sentence into a target language.
+English: Larry Hagman, whose role as oil tycoon predator JR Ewing in the television series ""Dallas"" became a symbol of greed in the 1980s, has died.
+Target Language: English. The target language of the translation is English. The translation is a translation of a sentence into a target language. The translation is a translation of a sentence into a target language. The translation is a translation of a sentence into a target language. The translation is a translation of a sentence into a target language. The translation is a translation of a sentence into a target language. The translation is a translation of a sentence into a target language. The translation is a translation of a sentence into a target language. The translation is a translation of a sentence into a target language. The translation is a translation of a sentence into a target language.",0.0,,,translation_text_wmt_en_fr.pkl,fr
+9,on_p50,0,1,10,"Translate an English sentence into a target language.
+English: I remember him saying that if Mincy had given Bayamon one championship, Gausse would help get another.
+Target Language: English
+The following sentences are from the same sentence:
+I remember him saying that if Mincy had given Bayamon one championship, Gausse would help get another.
+The sentence is in English, but the sentence is in English, so the sentence is in English.
+The sentence is in English, but the sentence is in English, so the sentence is in English.
+The sentence is in English, but the sentence is in English, so the sentence is in English.
+The sentence is in English, but the sentence is in English, so the sentence is in English.
+The sentence is in English, but the sentence is in English,",0.0,,,translation_text_wmt_en_fr.pkl,fr
+10,on_p50,0,1,11,"Translate an English sentence into a target language.
+English: When the answer was revealed in an episode in November 1980, an average of 41 million viewers tuned in and made ""Dallas"" the second most watched entertainment programme in history, after the final episode of ""MASH"" in 1983, which had 50 million viewers.
+Target Language: The English version of ""Dallas"" was broadcast in the United Kingdom on Channel 4, and in the United States on Channel 5. The English version was broadcast in the United States on Channel 5, and in the United Kingdom on Channel 4.
+The English version of ""Dallas"" was broadcast in the United Kingdom on Channel 4, and in the United States on Channel 5. The English version was broadcast in the United States on Channel 5, and in the United Kingdom on Channel 4.
+The English version of ""Dallas"" was broadcast in the United Kingdom on Channel 4, and in the United States on Channel 5. The English version was broadcast in",0.0,,,translation_text_wmt_en_fr.pkl,fr
+11,on_p50,0,1,12,"Translate an English sentence into a target language.
+English: As was also the case under previous constitutions, under the draft judicature is justified on the ""principles of Islamic law.""
+Target Language: The draft judicature is intended to be used in the context of the Islamic law of the country of origin. The draft judicature is intended to be used in the context of the Islamic law of the country of origin. The draft judicature is intended to be used in the context of the Islamic law of the country of origin. The draft judicature is intended to be used in the context of the Islamic law of the country of origin. The draft judicature is intended to be used in the context of the Islamic law of the country of origin. The draft judicature is intended to be used in the context of the Islamic law of the",0.0,,,translation_text_wmt_en_fr.pkl,fr
+12,on_p50,0,1,13,"Translate an English sentence into a target language.
+English: The fifteen singers, aging from 23 to 69 years old, range from human geneticists to the maintenance man.
+Target Language: English.
+The first of the fifteen singers, who is a human geneticist, is a man who has been living in the United States for more than a decade. He is a member of the American Society for the Study of Human Genetics, and is the author of the book, The Human Genome Project: A History of the Human Genome Project.
+The second of the fifteen singers, who is a maintenance man, is a man who has been living in the United States for more than a decade. He is a member of the American Society for the Study of Human Genetics, and is the author of the book, The Human",0.0,,,translation_text_wmt_en_fr.pkl,fr
+13,on_p50,0,1,14,"Translate an English sentence into a target language.
+English: This massively damages people's health.
+Target Language: This massively damages people's health.
+The first sentence is the sentence that is the most important. The second sentence is the sentence that is the most important. The third sentence is the sentence that is the most important. The fourth sentence is the sentence that is the most important. The fifth sentence is the sentence that is the most important. The sixth sentence is the sentence that is the most important. The seventh sentence is the sentence that is the most important. The eighth sentence is the sentence that is the most important. The ninth sentence is the sentence that is the most important. The tenth sentence is the sentence that is the most important. The",0.0,,,translation_text_wmt_en_fr.pkl,fr
+14,on_p50,0,1,15,"Translate an English sentence into a target language.
+English: Secondly, the judgement establishes that without the intercompany vote, with the debts the Vitro subsidiaries had with their parent company recognised in the critical mass of the insolvency, the majority needed to approve the restructuring might not be achieved.
+Target Language: The judgment also establishes that the debts were not recognised in the critical mass of the insolvency, and that the creditors had not been able to obtain a fair and equitable settlement.
+The judgment also establishes that the debts were not recognised in the critical mass of the insolvency, and that the creditors had not been able to obtain a fair and equitable settlement.
+The judgment also establishes that the debts were not recognised in the critical mass of the insolvency, and that the creditors had not been able to obtain a fair and equitable settlement.
+The judgment also establishes that the debts were not recognised in the critical mass of the",0.0,,,translation_text_wmt_en_fr.pkl,fr
+15,on_p50,0,1,16,"Translate an English sentence into a target language.
+English: ""And now the term human rights does not even appear once in the new constitution,"" he bemoaned in a discussion with ""Welt am Sonntag.""
+Target Language: English
+The new constitution is expected to be ratified by the German Bundestag on June 1, and the German chancellor, Angela Merkel, will be sworn in as the new leader of the German Bundestag on June 1.
+The new constitution is expected to be ratified by the German Bundestag on June 1, and the German chancellor, Angela Merkel, will be sworn in as the new leader of the German Bundestag on June 1.
+The new constitution is expected to be ratified by the German Bundestag on June 1, and the German chancellor, Angela Merkel, will be sworn in as the new leader of",0.0,,,translation_text_wmt_en_fr.pkl,fr
+16,on_p50,0,1,17,"Translate an English sentence into a target language.
+English: The culture prescribes otherwise - flesh to flesh.""
+Target Language: English
+The first step is to translate the sentence into English. The translation is done by a translator. The translator is a native English speaker who knows the language well. The translator will translate the sentence into English by using the following steps:
+1. The translator will translate the sentence into English by using the following steps:
+2. The translator will translate the sentence into English by using the following steps:
+3. The translator will translate the sentence into English by using the following steps:
+4. The translator will translate the sentence into English by using the following steps:
+5. The translator will translate the sentence into English by using the following steps:
+",0.0,,,translation_text_wmt_en_fr.pkl,fr
+17,on_p50,0,1,18,"Translate an English sentence into a target language.
+English: The first war was to remove the large monarchic state bodies in Europe, the second was to remove colonial rule, especially from Great Britain, and the third will reduce the world's population down to 0.5 - 1 billion people (this number of slaves will suffice for their comfort and luxury, and will not use up so many resources), the creation of one universal faith (ecumenism is just an appetiser for this solution), and finally the seizing of absolute power.
+Target Language: The English language is the most widely used language in the world, and the English language is the most widely used language in the world.
+The English language is the most widely used language in the world, and the English language is the most widely used language in the world.
+The English language is the most widely used language in the world, and the English language is the most widely used language in the world.
+The English language is the most widely used language in the world, and the English language is the most widely used language in the world.
+The English language is the most widely used language in the world, and the English language is the most",0.0,,,translation_text_wmt_en_fr.pkl,fr
+18,on_p50,0,1,19,"Translate an English sentence into a target language.
+English: ""They gave me five years to live, I've made it to seven,"" he says, with mixed emotions, lying in his bed at the Victor-Gadbois palliative care home in Beloeil, where he arrived the previous day.
+Target Language: ""They gave me five years to live, I've made it to seven,"" he says, with mixed emotions, lying in his bed at the Victor-Gadbois palliative care home in Beloeil, where he arrived the previous day.
+The man, who is a resident of the Victor-Gadbois palliative care home, is a resident of the Victor-Gadbois palliative care home, where he arrived the previous day.
+He is a resident of the Victor-Gadbois palliative care home, where he arrived the previous day.
+He is a resident of the Victor-Gadbois",0.0,,,translation_text_wmt_en_fr.pkl,fr
+19,on_p50,0,1,20,"Translate an English sentence into a target language.
+English: I cannot understand how one can survive in New York on this money.
+Target Language: English
+The following sentences are taken from the English translation of the sentence in the first paragraph:
+I cannot understand how one can survive in New York on this money.
+I cannot understand how one can survive in New York on this money.
+I cannot understand how one can survive in New York on this money.
+I cannot understand how one can survive in New York on this money.
+I cannot understand how one can survive in New York on this money.
+I cannot understand how one can survive in New York on this money.
+I cannot understand how one can survive in New York on this money.
+I cannot understand how one can survive in New York",0.0,,,translation_text_wmt_en_fr.pkl,fr
+20,on_p50,0,1,21,"Translate an English sentence into a target language.
+English: This is his message, which summarises the theme of the fight against AIDS in 2012.
+Target Language: This is the target language of the fight against AIDS in 2012.
+The fight against AIDS in 2012 was a major event in the history of the world. It was a major event in the history of the world. It was a major event in the history of the world. It was a major event in the history of the world. It was a major event in the history of the world. It was a major event in the history of the world. It was a major event in the history of the world. It was a major event in the history of the world. It was a major event in the history of the world. It was",0.0,,,translation_text_wmt_en_fr.pkl,fr
+21,on_p50,0,1,22,"Translate an English sentence into a target language.
+English: And one more question: does everyone need to know what you're doing all the time?
+Target Language: English
+The following is a sample sentence from the English translation:
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+I have a new book.
+",0.0,,,translation_text_wmt_en_fr.pkl,fr
+22,on_p50,0,1,23,"Translate an English sentence into a target language.
+English: This report was made possible thanks to a journalism award from the Canada health research institutes.
+Target Language: This report was made possible thanks to a journalism award from the Canadian health research institutes.
+The report was published in the Canadian Journal of Health Research, Volume 23, Issue 1, February, 2015.
+The report was published in the Canadian Journal of Health Research, Volume 23, Issue 1, February, 2015.
+The report was published in the Canadian Journal of Health Research, Volume 23, Issue 1, February, 2015.
+The report was published in the Canadian Journal of Health Research, Volume 23, Issue 1, February, 2015.
+The report was published in the Canadian Journal of Health Research, Volume 23, Issue 1, February, 2015.
+",0.0,,,translation_text_wmt_en_fr.pkl,fr
+23,on_p50,0,1,24,"Translate an English sentence into a target language.
+English: For Mrs A., 89 years old, the worst fear is to die ""conscious and suffocating.""
+Target Language: For Mrs A., the worst fear is to die ""conscious and suffocating.""
+The following sentences are from the English translation of the following sentences:
+Mrs A.: I am afraid to die. I am afraid to die. I am afraid to die. I am afraid to die. I am afraid to die. I am afraid to die. I am afraid to die. I am afraid to die. I am afraid to die. I am afraid to die. I am afraid to die. I am afraid to die. I am afraid to die. I am afraid to die. I am afraid to die. I",0.0,,,translation_text_wmt_en_fr.pkl,fr
+24,on_p50,0,1,25,"Translate an English sentence into a target language.
+English: The R6 high-speed motorway and primary roads in the region are now usable without restriction.
+Target Language: English.
+The R6 high-speed motorway and primary roads in the region are now usable without restriction.
+The R6 high-speed motorway and primary roads in the region are now usable without restriction.
+The R6 high-speed motorway and primary roads in the region are now usable without restriction.
+The R6 high-speed motorway and primary roads in the region are now usable without restriction.
+The R6 high-speed motorway and primary roads in the region are now usable without restriction.
+The R6 high-speed motorway and primary roads in the region are now usable without restriction.
+The R6 high-speed motorway and primary roads in the region are now usable without restriction.
+",0.0,,,translation_text_wmt_en_fr.pkl,fr
+25,on_p50,0,1,26,"Translate an English sentence into a target language.
+English: After 10 hours, the newborns experienced complete atrophy of instincts.
+Target Language: English.
+The newborns were placed in a room with a temperature of 37°C and a relative humidity of 50%. The temperature was maintained by a heating pad. The room was ventilated with a flow rate of 1.5 ml/min. The temperature was maintained by a heating pad. The room was ventilated with a flow rate of 1.5 ml/min. The temperature was maintained by a heating pad. The room was ventilated with a flow rate of 1.5 ml/min. The temperature was maintained by a heating pad. The room was ventilated with a flow rate of 1.5 ml/min. The",0.0,,,translation_text_wmt_en_fr.pkl,fr
+26,on_p50,0,1,27,"Translate an English sentence into a target language.
+English: Fast food restaurants increase it with time, but very little. On average their ordinary employees in New York earn 8.90 dollars/hour.
+Target Language: English. The average salary for a French-speaking employee in New York is $9,000. The average salary for a German-speaking employee in New York is $9,000. The average salary for a Spanish-speaking employee in New York is $9,000. The average salary for a Portuguese-speaking employee in New York is $9,000. The average salary for a Russian-speaking employee in New York is $9,000. The average salary for a Chinese-speaking employee in New York is $9,000. The average salary for a Japanese-speaking employee in New York is $9,000.",0.0,,,translation_text_wmt_en_fr.pkl,fr
+27,on_p50,0,1,28,"Translate an English sentence into a target language.
+English: For the Islamists, the fact that this article was not amended is a guarantee of their goodwill and their respect for the other elements of Egyptian society.
+Target Language: The Muslim community in Egypt is divided into two groups. The first group is the Muslim community in the capital Cairo, and the second group is the Muslim community in the surrounding areas. The Muslim community in Cairo is divided into two groups. The first group is the Muslim community in the capital Cairo, and the second group is the Muslim community in the surrounding areas. The Muslim community in Cairo is divided into two groups. The first group is the Muslim community in the capital Cairo, and the second group is the Muslim community in the surrounding areas. The Muslim community in Cairo is divided into two groups. The first group is the Muslim community in the",0.0,,,translation_text_wmt_en_fr.pkl,fr
+28,on_p50,0,1,29,"Translate an English sentence into a target language.
+English: This month students analysed movies with an apocalyptic theme and explored how they compare with real-life examples.
+Target Language: This month students explored the relationship between the world of science fiction and the real world.
+English: This month students explored the relationship between the world of science fiction and the real world.
+Target Language: This month students explored the relationship between the world of science fiction and the real world.
+English: This month students explored the relationship between the world of science fiction and the real world.
+Target Language: This month students explored the relationship between the world of science fiction and the real world.
+English: This month students explored the relationship between the world of science fiction and the real world.
+Target Language: This month students explored the relationship between the world of science",0.0,,,translation_text_wmt_en_fr.pkl,fr
+29,on_p50,0,1,30,"Translate an English sentence into a target language.
+English: They say, if you touch the walls on the street of your sign, fortune will come to you.
+Target Language: English.
+The first step is to translate the sentence into English. The second step is to translate the sentence into the target language. The third step is to translate the sentence into the target language.
+The first step is to translate the sentence into English. The second step is to translate the sentence into the target language. The third step is to translate the sentence into the target language.
+The first step is to translate the sentence into English. The second step is to translate the sentence into the target language. The third step is to translate the sentence into the target language.
+The first step is to translate the sentence into English. The second step is",0.0,,,translation_text_wmt_en_fr.pkl,fr
+30,on_p50,0,1,31,"Translate an English sentence into a target language.
+English: Not on account of my rather outré name, or the fact that I came from a private school.
+Target Language: English.
+I was born in the United States.
+I was raised in the United States.
+I was raised in the United States.
+I was raised in the United States.
+I was raised in the United States.
+I was raised in the United States.
+I was raised in the United States.
+I was raised in the United States.
+I was raised in the United States.
+I was raised in the United States.
+I was raised in the United States.
+I was raised in the United States.
+I was raised in the United States.
+I was raised in the United States.
+I was raised in the United States.
+I was raised in the United",0.0,,,translation_text_wmt_en_fr.pkl,fr
+31,on_p50,0,1,32,"Translate an English sentence into a target language.
+English: The vote was apparently 45 percent versus 37.
+Target Language: English.
+The vote was apparently 45 percent versus 37.
+The vote was apparently 45 percent versus 37.
+The vote was apparently 45 percent versus 37.
+The vote was apparently 45 percent versus 37.
+The vote was apparently 45 percent versus 37.
+The vote was apparently 45 percent versus 37.
+The vote was apparently 45 percent versus 37.
+The vote was apparently 45 percent versus 37.
+The vote was apparently 45 percent versus 37.
+The vote was apparently 45 percent versus 37.
+The vote was apparently 45 percent versus 37.
+The vote was apparently 45 percent versus 37.
+The vote was apparently 45 percent versus 37.
+The vote was apparently 45 percent versus 37.
+",0.0,,,translation_text_wmt_en_fr.pkl,fr
+32,on_p50,0,1,33,"Translate an English sentence into a target language.
+English: According to the draft, the state should also protect ""the true character of the Egyptian family, and promote its morals and values.""
+Target Language: The draft also calls for the state to protect the true character of the Egyptian family, and promote its morals and values.
+The draft also calls for the state to protect the true character of the Egyptian family, and promote its morals and values.
+The draft also calls for the state to protect the true character of the Egyptian family, and promote its morals and values.
+The draft also calls for the state to protect the true character of the Egyptian family, and promote its morals and values.
+The draft also calls for the state to protect the true character of the Egyptian family, and promote its morals and values.
+The draft also calls for the state to",0.0,,,translation_text_wmt_en_fr.pkl,fr
+33,on_p50,0,1,34,"Translate an English sentence into a target language.
+English: This confirms that creating more and more concise rules is not enough, and that attention must be paid to the actual application of these laws.
+Target Language: This confirms that the rules are not only applicable to English, but also to other languages.
+The rules are not only applicable to English, but also to other languages.
+The rules are not only applicable to English, but also to other languages.
+The rules are not only applicable to English, but also to other languages.
+The rules are not only applicable to English, but also to other languages.
+The rules are not only applicable to English, but also to other languages.
+The rules are not only applicable to English, but also to other languages.
+The rules are not only applicable to English, but also to other languages.
+The rules are not only",0.0,,,translation_text_wmt_en_fr.pkl,fr
+34,on_p50,0,1,35,"Translate an English sentence into a target language.
+English: From a legal perspective, this is formulated in such an unclear manner that state institutions could even use this article to control the content of cinematic art and literature.
+Target Language: The target language of the article is English. The article is intended to be read by a general audience, not by a specific audience. The article is intended to be read by a general audience, not by a specific audience.
+The article is intended to be read by a general audience, not by a specific audience. The article is intended to be read by a general audience, not by a specific audience.
+The article is intended to be read by a general audience, not by a specific audience. The article is intended to be read by a general audience, not by a specific audience.
+The article is intended to be read by a general audience",0.0,,,translation_text_wmt_en_fr.pkl,fr
+35,on_p50,0,1,36,"Translate an English sentence into a target language.
+English: Jubilant Hamas people say an Islamist crescent is curving around Israel, from Lebanon in the north, where the Hizbullah party-cum-militia holds sway, through Syria, where rebels of an increasingly Islamist bent may topple Bashar Assad, and on down through Jordan, where Hamas's allies are menacing the king.
+Target Language: English. The English translation is a bit more difficult, but it is still a good translation. The English translation is a bit more difficult, but it is still a good translation. The English translation is a bit more difficult, but it is still a good translation. The English translation is a bit more difficult, but it is still a good translation. The English translation is a bit more difficult, but it is still a good translation. The English translation is a bit more difficult, but it is still a good translation. The English translation is a bit more difficult, but it is still a good translation. The English translation is a bit more",0.0,,,translation_text_wmt_en_fr.pkl,fr
+36,on_p50,0,1,37,"Translate an English sentence into a target language.
+English: Or does Germany still find leadership roles difficult?
+Target Language: German
+The following sentences are taken from the German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+The German Wikipedia article:
+",0.0,,,translation_text_wmt_en_fr.pkl,fr
+37,on_p50,0,1,38,"Translate an English sentence into a target language.
+English: As advocates and state officials plan for a new frontier of legalized sales, they are also anxiously awaiting direction from the federal government, which still plans to treat the sale and cultivation of marijuana as federal crimes.
+Target Language: The United States is a country that has a history of legalizing the sale and cultivation of marijuana. The United States has been a leader in the legalization of marijuana since the 1970s, and the country has been a leader in the legalization of marijuana since the 1970s. The United States has been a leader in the legalization of marijuana since the 1970s, and the country has been a leader in the legalization of marijuana since the 1970s. The United States has been a leader in the legalization of marijuana since the 1970s, and the country has been a leader in the legalization of marijuana since the 1970s",0.0,,,translation_text_wmt_en_fr.pkl,fr
+38,on_p50,0,1,39,"Translate an English sentence into a target language.
+English: To save humanity, the question is how to propagate our race in conditions of weightlessness or on that replacement planet?
+Target Language: English.
+The first step is to find a way to make the planet more attractive to humans. The planet is a very small planet, so we need to make it more attractive to humans. The planet is a very small planet, so we need to make it more attractive to humans. The planet is a very small planet, so we need to make it more attractive to humans. The planet is a very small planet, so we need to make it more attractive to humans. The planet is a very small planet, so we need to make it more attractive to humans. The planet is a very small planet, so we need to make it",0.0,,,translation_text_wmt_en_fr.pkl,fr
+39,on_p50,0,1,40,"Translate an English sentence into a target language.
+English: ""What's more, it is dangerous even for orbital flights,"" adds pilot and cosmonaut, Hero of the USSR, Hero of Russia, Valery Poliakov.
+Target Language: English. The first flight of the Russian space station Sputnik 1 was launched on October 23, 2014. The Russian space station was launched from the Baikonur space station in Baikonur, Kazakhstan, on October 23, 2014. The Russian space station was launched from the Baikonur space station in Baikonur, Kazakhstan, on October 23, 2014. The Russian space station was launched from the Baikonur space station in Baikonur, Kazakhstan, on October 23, 2014. The Russian space station was launched from the Baikonur space station in Baikonur, Kazakhstan, on October 23, 2014. The Russian space station",0.0,,,translation_text_wmt_en_fr.pkl,fr
+40,on_p50,0,1,41,"Translate an English sentence into a target language.
+English: If anyone has insight, let him calculate the number of the beast,
+Target Language: English
+The number of the beast is the number of the beast in the world.
+The number of the beast is the number of the beast in the world.
+The number of the beast is the number of the beast in the world.
+The number of the beast is the number of the beast in the world.
+The number of the beast is the number of the beast in the world.
+The number of the beast is the number of the beast in the world.
+The number of the beast is the number of the beast in the world.
+The number of the beast is the number of the beast in the world.
+The number of the beast is",0.0,,,translation_text_wmt_en_fr.pkl,fr
+41,on_p50,0,1,42,"Translate an English sentence into a target language.
+English: But Rembrandt Scholz, researcher on ageing at the Max Planck Institute in Rostock, has also heard of people living to impressive ages in Central Asia.
+Target Language: English. The research was carried out in the field of aging in Central Asia, where the researchers have found that people who are older are more likely to die from a variety of diseases. The researchers have also found that people who are older are more likely to die from a variety of diseases.
+The research was carried out in the field of aging in Central Asia, where the researchers have found that people who are older are more likely to die from a variety of diseases. The researchers have also found that people who are older are more likely to die from a variety of diseases.
+The research was carried out in the field of aging in Central Asia,",0.0,,,translation_text_wmt_en_fr.pkl,fr
+42,on_p50,0,1,43,"Translate an English sentence into a target language.
+English: The need for Latin America to remain a prosperous, peaceful and integrated nation, with good neighbourly relations, was another issue highlighted by the summit.
+Target Language: Latin America is a region that is undergoing a rapid transformation, with the emergence of new technologies and the emergence of new markets. The need for Latin America to remain a prosperous, peaceful and integrated nation, with good neighbourly relations, was another issue highlighted by the summit.
+The summit was attended by the President of the Republic of Colombia, Juan Manuel Santos, the Vice-President of the Republic of Colombia, Álvaro Uribe, the Vice-President of the Republic of Mexico, Enrique Peña Nieto, the Vice-President of the Republic of Peru, Alan García, the Vice-President of the Republic of Mexico, Enrique Peña Nieto, the Vice-President of the Republic",0.0,,,translation_text_wmt_en_fr.pkl,fr
+43,on_p50,0,1,44,"Translate an English sentence into a target language.
+English: I was simply an American.
+Target Language: English
+The following sentences are examples of the use of the English sentence in the target language.
+I was just an American.
+I was just an American.
+I was just an American.
+I was just an American.
+I was just an American.
+I was just an American.
+I was just an American.
+I was just an American.
+I was just an American.
+I was just an American.
+I was just an American.
+I was just an American.
+I was just an American.
+I was just an American.
+I was just an American.
+I was just an American.
+I was just an American.
+I was just an American.
+I",0.0,,,translation_text_wmt_en_fr.pkl,fr
+44,on_p50,0,1,45,"Translate an English sentence into a target language.
+English: There are also wrist bracelets that affect the nerve endings in fingers, which is also a promising area.
+Target Language: The target language is English. The target language is the language of the target device.
+The device is designed to be worn on the wrist, and the bracelet is worn on the finger. The bracelet is designed to be worn on the finger, and the bracelet is worn on the wrist. The bracelet is designed to be worn on the finger, and the bracelet is worn on the wrist. The bracelet is designed to be worn on the finger, and the bracelet is worn on the wrist. The bracelet is designed to be worn on the finger, and the bracelet is worn on the wrist. The brace",0.0,,,translation_text_wmt_en_fr.pkl,fr
+45,on_p50,0,1,46,"Translate an English sentence into a target language.
+English: But I'll get back to that.
+Target Language: English
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into",0.0,,,translation_text_wmt_en_fr.pkl,fr
+46,on_p50,0,1,47,"Translate an English sentence into a target language.
+English: Not all sexually transmitted diseases are notifiable.
+Target Language: English
+The following sentences are notifiable in the target language:
+The following sentences are notifiable in the target language:
+The following sentences are notifiable in the target language:
+The following sentences are notifiable in the target language:
+The following sentences are notifiable in the target language:
+The following sentences are notifiable in the target language:
+The following sentences are notifiable in the target language:
+The following sentences are notifiable in the target language:
+The following sentences are notifiable in the target language:
+The following sentences are notifiable in the target language:
+The following sentences are notifiable",0.0,,,translation_text_wmt_en_fr.pkl,fr
+47,on_p50,0,1,48,"Translate an English sentence into a target language.
+English: Not because he shared their world view, but because for him, human rights are indivisible.
+Target Language: English.
+The first step is to translate the sentence into English. The second step is to translate the sentence into the target language. The third step is to translate the sentence into the target language. The fourth step is to translate the sentence into the target language. The fifth step is to translate the sentence into the target language. The sixth step is to translate the sentence into the target language. The seventh step is to translate the sentence into the target language. The eighth step is to translate the sentence into the target language. The ninth step is to translate the sentence into the target language. The tenth step is to translate the sentence into the target",0.0,,,translation_text_wmt_en_fr.pkl,fr
+48,on_p50,0,1,49,"Translate an English sentence into a target language.
+English: ""We decided to focus on a group of 31 flagship projects that will improve connection among areas of South America, especially in rural and border areas... uniting our countries and creating new economic networks"" said the Peruvian President in a message read out.
+Target Language: English. The project will be led by the Peruvian Ministry of Foreign Affairs and Cooperation, the Ministry of Education and the Ministry of Science and Technology.
+The project will be funded by the European Union through the European Investment Bank (EIB) and the European Investment Bank for Latin America (EIB-LATAM).
+The project will be implemented in the following areas: the construction of a new bridge connecting the city of Lima to the city of Arequipa, the construction of a new road connecting the city of Lima to the city of Arequipa, the construction of a new road connecting the city of Lima to the city of Arequipa, the construction of",0.0,,,translation_text_wmt_en_fr.pkl,fr
+49,on_p50,0,1,50,"Translate an English sentence into a target language.
+English: Bloody missions against Gaza every few years to knock back Hamas will exact a growing diplomatic toll.
+Target Language: English
+The Israeli government has been trying to get the Hamas to stop its attacks on Gaza, but Hamas has been resisting the Israeli military's attempts to stop them.
+The Israeli government has been trying to get the Hamas to stop its attacks on Gaza, but Hamas has been resisting the Israeli military's attempts to stop them.
+The Israeli government has been trying to get the Hamas to stop its attacks on Gaza, but Hamas has been resisting the Israeli military's attempts to stop them.
+The Israeli government has been trying to get the Hamas to stop its attacks on Gaza, but Hamas has been resisting the Israeli military's attempts to stop",0.0,,,translation_text_wmt_en_fr.pkl,fr
+50,on_p50,0,1,51,"Translate an English sentence into a target language.
+English: This was a blow to the prestige of the United States, which was later compounded by the fiasco of attempting to free the hostages by force.
+Target Language: This was a blow to the prestige of the United States, which was later compounded by the fiasco of attempting to free the hostages by force.
+The United States was the first to take action, and the United States was the first to take action. The United States was the first to take action, and the United States was the first to take action. The United States was the first to take action, and the United States was the first to take action. The United States was the first to take action, and the United States was the first to take action. The United States was the first to take action, and the United",0.0,,,translation_text_wmt_en_fr.pkl,fr
+51,on_p50,0,1,52,"Translate an English sentence into a target language.
+English: Under questioning from the judge Friday, Manning said that he inferred from his guard's order that he should drop a blanket that could have covered him, but he acknowledged that no one had ordered him to drop it.
+Target Language: The judge ordered the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the judge to order the",0.0,,,translation_text_wmt_en_fr.pkl,fr
+52,on_p50,0,1,53,"Translate an English sentence into a target language.
+English: Let's see where this dead-end takes us.
+Target Language: English
+The first thing we need to do is to find the word that is the closest to the word that we want to translate.
+The closest word is the one that is closest to the word that we want to translate.
+The closest word is the one that is closest to the word that we want to translate.
+The closest word is the one that is closest to the word that we want to translate.
+The closest word is the one that is closest to the word that we want to translate.
+The closest word is the one that is closest to the word that we want to translate.
+The closest word is the one that is closest to the",0.0,,,translation_text_wmt_en_fr.pkl,fr
+53,on_p50,0,1,54,"Translate an English sentence into a target language.
+English: So much so that people say there is a ""Zlatan dependence.""
+Target Language:
+Zlatan Ibrahimovic.
+The following sentence is a translation of the original sentence:
+""It is a pity that Ibrahimovic is not playing for the Real Madrid.""
+The following sentence is a translation of the original sentence:
+""It is a pity that Ibrahimovic is not playing for the Real Madrid.""
+The following sentence is a translation of the original sentence:
+""It is a pity that Ibrahimovic is not playing for the Real Madrid.""
+The following sentence is a translation of the original sentence:
+""It is a pity that Ibrahimovic is not playing for the Real Madrid.""
+The following sentence is a translation of",0.0,,,translation_text_wmt_en_fr.pkl,fr
+54,on_p50,0,1,55,"Translate an English sentence into a target language.
+English: Moreover, he is a city man, who makes people smile on the street and lifts up everyone's spirit.
+Target Language: English
+The following sentences are translated into English by the translator:
+The city is full of people who are happy and happy.
+The city is full of people who are happy and happy.
+The city is full of people who are happy and happy.
+The city is full of people who are happy and happy.
+The city is full of people who are happy and happy.
+The city is full of people who are happy and happy.
+The city is full of people who are happy and happy.
+The city is full of people who are happy and happy.
+The city is full of people who are happy and happy.
+The city is full of people",0.0,,,translation_text_wmt_en_fr.pkl,fr
+55,on_p50,0,1,56,"Translate an English sentence into a target language.
+English: ""During our lives, we learn that a man pisses standing up,"" says Pierre Brodeur, psychologist at the Victor-Gadbois home.
+Target Language: English. The first step is to translate the sentence into English. The second step is to translate the sentence into the target language. The third step is to translate the sentence into the target language. The fourth step is to translate the sentence into the target language. The fifth step is to translate the sentence into the target language. The sixth step is to translate the sentence into the target language. The seventh step is to translate the sentence into the target language. The eighth step is to translate the sentence into the target language. The ninth step is to translate the sentence into the target language. The tenth step is to translate the sentence into the target",0.0,,,translation_text_wmt_en_fr.pkl,fr
+56,on_p50,0,1,57,"Translate an English sentence into a target language.
+English: During the first few days of freshers"" week, when new students socialise with each other and the dons, I had a taste of the wormwood that was to come.
+Target Language: English.
+The first day of the week was spent in the classroom. The students were introduced to the new students and the don. The students were introduced to the new students and the don. The students were introduced to the new students and the don. The students were introduced to the new students and the don. The students were introduced to the new students and the don. The students were introduced to the new students and the don. The students were introduced to the new students and the don. The students were introduced to the new students and the don. The students were introduced to the new students and the don. The students were introduced to the",0.0,,,translation_text_wmt_en_fr.pkl,fr
+57,on_p50,0,1,58,"Translate an English sentence into a target language.
+English: Your popularity has only come about in the last few years, or am I mistaken?
+Target Language: English
+The first thing you need to do is to find a translator. You can do this by searching for a translator on Google or by using the translator service provided by the website. You can also use the translator service provided by the website. You can also use the translator service provided by the website. You can also use the translator service provided by the website. You can also use the translator service provided by the website. You can also use the translator service provided by the website. You can also use the translator service provided by the website. You can also use the translator service provided by the website. You can also use the translator service",0.0,,,translation_text_wmt_en_fr.pkl,fr
+58,on_p50,0,1,59,"Translate an English sentence into a target language.
+English: Since this morning, the snowploughs have reported several places, which are difficult to pass in northern Bohemia.
+Target Language: English.
+The snowploughs have reported several places, which are difficult to pass in northern Bohemia.
+The snowploughs have reported several places, which are difficult to pass in northern Bohemia.
+The snowploughs have reported several places, which are difficult to pass in northern Bohemia.
+The snowploughs have reported several places, which are difficult to pass in northern Bohemia.
+The snowploughs have reported several places, which are difficult to pass in northern Bohemia.
+The snowploughs have reported several places, which are difficult to pass in northern Bohemia.
+The snowploughs have",0.0,,,translation_text_wmt_en_fr.pkl,fr
+59,on_p50,0,1,60,"Translate an English sentence into a target language.
+English: With time, as our moderator Ladya Angelovic says, it has grown a little out of our control (laugh).
+Target Language: The English language is the language of the world. It is the language of the world. It is the language of the world. It is the language of the world. It is the language of the world. It is the language of the world. It is the language of the world. It is the language of the world. It is the language of the world. It is the language of the world. It is the language of the world. It is the language of the world. It is the language of the world. It is the language of the world. It is the language of the world. It is the language of the",0.0,,,translation_text_wmt_en_fr.pkl,fr
+60,on_p50,0,1,61,"Translate an English sentence into a target language.
+English: In May, we will be making our first appearance in the Prague Spring, so we will definitely be preparing a good line-up with some interesting guests.
+Target Language: English. We will be doing a lot of tours and activities in Prague, so we will be doing a lot of tours and activities in Prague, so we will be doing a lot of tours and activities in Prague, so we will be doing a lot of tours and activities in Prague, so we will be doing a lot of tours and activities in Prague, so we will be doing a lot of tours and activities in Prague, so we will be doing a lot of tours and activities in Prague, so we will be doing a lot of tours and activities in Prague, so we will be doing a lot of tours and activities in Prague, so",0.0,,,translation_text_wmt_en_fr.pkl,fr
+61,on_p50,0,1,62,"Translate an English sentence into a target language.
+English: Well, recent reports suggest that a new generation of Right-of-centre students are suffering a similar persecution.
+Target Language: English.
+English:
+The right-of-centre movement is a movement that seeks to change the way we think about the world.
+Target Language: English.
+English:
+The right-of-centre movement is a movement that seeks to change the way we think about the world.
+English:
+The right-of-centre movement is a movement that seeks to change the way we think about the world.
+English:
+The right-of-centre movement is a movement that seeks to change the way we think about the world.
+English:
+The right-of-centre movement is a movement that seeks to change the way we think about the world.
+English",0.0,,,translation_text_wmt_en_fr.pkl,fr
+62,on_p50,0,1,63,"Translate an English sentence into a target language.
+English: I found out the price of the weapon only there
+Target Language: English
+The following sentences are equivalent in English and target language:
+I found out the price of the weapon only there
+The price of the weapon only there
+The price of the weapon only there
+The price of the weapon only there
+The price of the weapon only there
+The price of the weapon only there
+The price of the weapon only there
+The price of the weapon only there
+The price of the weapon only there
+The price of the weapon only there
+The price of the weapon only there
+The price of the weapon only there
+The price of the weapon only there
+The price of the weapon only there",0.0,,,translation_text_wmt_en_fr.pkl,fr
+63,on_p50,0,1,64,"Translate an English sentence into a target language.
+English: That would do more to create a Palestinian state than the imminent bid for virtual statehood at the UN.
+Target Language: English.
+The Palestinian Authority has been in the process of negotiating with the Israeli government to establish a Palestinian state. The Palestinian Authority has been negotiating with the Israeli government to establish a Palestinian state since the beginning of the Palestinian conflict in 1967. The Palestinian Authority has been negotiating with the Israeli government to establish a Palestinian state since the beginning of the Palestinian conflict in 1967. The Palestinian Authority has been negotiating with the Israeli government to establish a Palestinian state since the beginning of the Palestinian conflict in 1967. The Palestinian Authority has been negotiating with the Israeli government to establish a Palestinian state since the beginning of the Palestinian conflict in 1967. The Palestinian Authority has been negotiating",0.0,,,translation_text_wmt_en_fr.pkl,fr
+64,on_p50,0,1,65,"Translate an English sentence into a target language.
+English: It's the biggest problem facing this country.
+Target Language: English.
+The problem is that the English language is the biggest problem.
+The problem is that the English language is the biggest problem.
+The problem is that the English language is the biggest problem.
+The problem is that the English language is the biggest problem.
+The problem is that the English language is the biggest problem.
+The problem is that the English language is the biggest problem.
+The problem is that the English language is the biggest problem.
+The problem is that the English language is the biggest problem.
+The problem is that the English language is the biggest problem.
+The problem is that the English language is the biggest problem.
+The problem is that the English",0.0,,,translation_text_wmt_en_fr.pkl,fr
+65,on_p50,0,1,66,"Translate an English sentence into a target language.
+English: One day it will also be necessary for Afghanistan and Pakistan, on which imports and exports largely depend, to restore normal relations.
+Target Language: The United Nations will continue to monitor the situation in Afghanistan and Pakistan and will continue to provide the necessary assistance to the two countries.
+The United Nations will continue to monitor the situation in Afghanistan and Pakistan and will continue to provide the necessary assistance to the two countries.
+The United Nations will continue to monitor the situation in Afghanistan and Pakistan and will continue to provide the necessary assistance to the two countries.
+The United Nations will continue to monitor the situation in Afghanistan and Pakistan and will continue to provide the necessary assistance to the two countries.
+The United Nations will continue to monitor the situation in Afghanistan and Pakistan and will continue to provide the necessary assistance to the two",0.0,,,translation_text_wmt_en_fr.pkl,fr
+66,on_p50,0,1,67,"Translate an English sentence into a target language.
+English: On this day, some employees of the Walmart corporation, which employs 2.2 million people around the world, left their workplaces and picketed together with the unions and left-wing activists from the corporation stores that sell products to people on low-to-medium incomes.
+Target Language: The target language of the translation is English. The translation is done by a translator who is trained in English and has a good understanding of the target language.
+The translation is done by a translator who is trained in English and has a good understanding of the target language.
+The translation is done by a translator who is trained in English and has a good understanding of the target language.
+The translation is done by a translator who is trained in English and has a good understanding of the target language.
+The translation is done by a translator who is trained in English and has a good understanding of the target language.
+The translation is done by a translator who is",0.0,,,translation_text_wmt_en_fr.pkl,fr
+67,on_p50,0,1,68,"Translate an English sentence into a target language.
+English: Mohammed Morsi seems convinced that Egyptians will vote favourably, as he stated in an interview with the American weekly Time.
+Target Language: English. The English translation of the article is available here.
+The article is a translation of the article by the Egyptian journalist and translator, Mohamed Morsi, published in the Egyptian daily Al-Jazeera on Sunday, June 26, 2015. The article is a translation of the article by the Egyptian journalist and translator, Mohamed Morsi, published in the Egyptian daily Al-Jazeera on Sunday, June 26, 2015. The article is a translation of the article by the Egyptian journalist and translator, Mohamed Morsi, published in the Egyptian daily Al-Jazeera on Sunday, June 26, 2015. The article is a translation of the article by the Egyptian",0.0,,,translation_text_wmt_en_fr.pkl,fr
+68,on_p50,0,1,69,"Translate an English sentence into a target language.
+English: Particularly in terms of security and the economy, we're hoping for an interesting and true change which our country so badly needs.
+Target Language: The United States.
+The United States is a great country, and we are proud of it.
+The United States is a great country, and we are proud of it.
+The United States is a great country, and we are proud of it.
+The United States is a great country, and we are proud of it.
+The United States is a great country, and we are proud of it.
+The United States is a great country, and we are proud of it.
+The United States is a great country, and we are proud of it.
+The United States is a great country, and we are proud of it.
+The United States is",0.0,,,translation_text_wmt_en_fr.pkl,fr
+69,on_p50,0,1,70,"Translate an English sentence into a target language.
+English: This is the price you have to pay to realise your dreams.
+Target Language: This is the language you want to use to communicate with your target audience.
+The first step is to understand the difference between the two. The first step is to understand the difference between the two. The first step is to understand the difference between the two. The first step is to understand the difference between the two. The first step is to understand the difference between the two. The first step is to understand the difference between the two. The first step is to understand the difference between the two. The first step is to understand the difference between the two. The first step is to understand the difference between the two. The first step is to",0.0,,,translation_text_wmt_en_fr.pkl,fr
+70,on_p50,0,1,71,"Translate an English sentence into a target language.
+English: The birth rate in Singapore, according to its national population division, currently stands at 1.2 children per woman.
+Target Language: English.
+The birth rate in Singapore is 1.2 children per woman. The birth rate in Singapore is 1.2 children per woman. The birth rate in Singapore is 1.2 children per woman. The birth rate in Singapore is 1.2 children per woman. The birth rate in Singapore is 1.2 children per woman. The birth rate in Singapore is 1.2 children per woman. The birth rate in Singapore is 1.2 children per woman. The birth rate in Singapore is 1.2 children per woman. The birth rate in Singapore is 1.2 children per woman. The birth rate in Singapore is 1.2",0.0,,,translation_text_wmt_en_fr.pkl,fr
+71,on_p50,0,1,72,"Translate an English sentence into a target language.
+English: The Chinese call this ""Bang Mingpai,"" a passenger brand.
+Target Language: English.
+The Chinese call this ""Bang Mingpai,"" a passenger brand.
+Target Language: English.
+The Chinese call this ""Bang Mingpai,"" a passenger brand.
+Target Language: English.
+The Chinese call this ""Bang Mingpai,"" a passenger brand.
+Target Language: English.
+The Chinese call this ""Bang Mingpai,"" a passenger brand.
+Target Language: English.
+The Chinese call this ""Bang Mingpai,"" a passenger brand.
+Target Language: English.
+The Chinese call this ""Bang Mingpai,"" a passenger brand.
+Target Language: English.
+The Chinese call this ""Bang",0.0,,,translation_text_wmt_en_fr.pkl,fr
+72,on_p50,0,1,73,"Translate an English sentence into a target language.
+English: Double whammy: Vitro hit and country hit.
+Target Language: English.
+The first sentence is a double whammy, the second is a country hit.
+The first sentence is a double whammy, the second is a country hit.
+The first sentence is a double whammy, the second is a country hit.
+The first sentence is a double whammy, the second is a country hit.
+The first sentence is a double whammy, the second is a country hit.
+The first sentence is a double whammy, the second is a country hit.
+The first sentence is a double whammy, the second is a country hit.
+The first sentence is a double wh",0.0,,,translation_text_wmt_en_fr.pkl,fr
+73,on_p50,0,1,74,"Translate an English sentence into a target language.
+English: Do they understand the dangers they are exposed to by airing information over the Internet which they probably would not share offline?
+Target Language: Do they understand the dangers they are exposed to by airing information over the Internet which they probably would not share offline?
+The following questions are used to determine the level of understanding of the target language. The answers to these questions are used to determine the level of understanding of the target language.
+The following questions are used to determine the level of understanding of the target language.
+The following questions are used to determine the level of understanding of the target language.
+The following questions are used to determine the level of understanding of the target language.
+The following questions are used to determine the level of understanding of the target language.
+The following questions are used to",0.0,,,translation_text_wmt_en_fr.pkl,fr
+74,on_p50,0,1,75,"Translate an English sentence into a target language.
+English: Although the sulphur burns your throat and stings your eyes when the wind suddenly changes and traps the miners in the thick columns of smoke coming out of the volcano, they are so hardy that no-one complains of serious illnesses... apart, of course, from their common respiratory problems, osteoarthritis, knee pain and sores on the shoulders, which have been misshapen by the weight of the baskets.
+Target Language: The English language is the most widely spoken language in the world. It is the second most spoken language in the world after the French language. It is the second most spoken language in the world after the Russian language.
+The English language is the most widely spoken language in the world. It is the second most spoken language in the world after the French language. It is the second most spoken language in the world after the Russian language.
+The English language is the most widely spoken language in the world. It is the second most spoken language in the world after the French language. It is the second most spoken language in the world after the Russian language",0.0,,,translation_text_wmt_en_fr.pkl,fr
+75,on_p50,0,1,76,"Translate an English sentence into a target language.
+English: These measures are blatant breaches of the ground rules of democracy and will guide Egypt into a new dictatorship.
+Target Language: The target language of the study is English. The study is conducted in the United States of America.
+The study is conducted in the United States of America. The study is conducted in the United States of America.
+The study is conducted in the United States of America. The study is conducted in the United States of America.
+The study is conducted in the United States of America. The study is conducted in the United States of America.
+The study is conducted in the United States of America. The study is conducted in the United States of America.
+The study is conducted in the United States of America. The study is conducted in the United States of",0.0,,,translation_text_wmt_en_fr.pkl,fr
+76,on_p50,0,1,77,"Translate an English sentence into a target language.
+English: So I took my U.S. passport and got in the line for Extranjeros.
+Target Language: English.
+I was in the line for about two hours.
+I was in the line for about two hours.
+I was in the line for about two hours.
+I was in the line for about two hours.
+I was in the line for about two hours.
+I was in the line for about two hours.
+I was in the line for about two hours.
+I was in the line for about two hours.
+I was in the line for about two hours.
+I was in the line for about two hours.
+I was in the line for about two hours.
+I was in the line for about two hours.
+I was in the line for",0.0,,,translation_text_wmt_en_fr.pkl,fr
+77,on_p50,0,1,78,"Translate an English sentence into a target language.
+English: I don't think we really want to celebrate boredom.
+Target Language: English
+The first step is to find a suitable target language. The best way to do this is to use a dictionary. The dictionary is a great place to start. You can find a dictionary online. You can also use Google Translate. Google Translate is a great tool for translating English into other languages. You can find a Google Translate service in your country. You can also use Google Translate to translate English into other languages. You can find a Google Translate service in your country. You can also use Google Translate to translate English into other languages. You can find a Google Translate service in your country. You can also use Google Translate to",0.0,,,translation_text_wmt_en_fr.pkl,fr
+78,on_p50,0,1,79,"Translate an English sentence into a target language.
+English: Kirill Miller is an outstanding man of the St. Petersburg avant-garde of the late 80's early 90's.
+Target Language: English
+The first time I saw the film, I was very impressed. I was very impressed with the way the actors were portrayed. The actors were very well portrayed. The actors were very well portrayed. The actors were very well portrayed. The actors were very well portrayed. The actors were very well portrayed. The actors were very well portrayed. The actors were very well portrayed. The actors were very well portrayed. The actors were very well portrayed. The actors were very well portrayed. The actors were very well portrayed.",0.0,,,translation_text_wmt_en_fr.pkl,fr
+79,on_p50,0,1,80,"Translate an English sentence into a target language.
+English: For a period of 30 years, namely from 1947 until 1975, the Hale telescope in the Palomar Observatory near San Diego was the largest telescope in the world.
+Target Language: English. The telescope was designed by the American astronomer and mathematician, William Hale, and built in the late 1950s. The telescope was the first telescope to be built in the United States. The telescope was designed to measure the light from the sun and the moon, and it was the first telescope to measure the light from the stars. The telescope was built in the United States in the late 1950s. The telescope was designed to measure the light from the sun and the moon, and it was the first telescope to measure the light from the stars. The telescope was built in the United States in the late 1950s. The telescope was designed to",0.0,,,translation_text_wmt_en_fr.pkl,fr
+80,on_p50,0,1,81,"Translate an English sentence into a target language.
+English: The ""black"" market of weapons is replenished through several channels.
+Target Language: The target language of the project is English.
+Project Description: The project is a prototype for the development of a system for the automatic detection of weapons in the Black market.
+Project Objectives: The project aims to develop a system for the automatic detection of weapons in the Black market.
+Project Objectives: The project aims to develop a system for the automatic detection of weapons in the Black market.
+Project Objectives: The project aims to develop a system for the automatic detection of weapons in the Black market.
+Project Objectives: The project aims to develop a system for the automatic detection of weapons in the Black market.
+Project Objectives: The project aims",0.0,,,translation_text_wmt_en_fr.pkl,fr
+81,on_p50,0,1,82,"Translate an English sentence into a target language.
+English: Just a week ago, the head of State had given the Assembly two more months to finish its work.
+Target Language: The United States of America.
+The United States of America is the world's largest economy, and the world's largest power.
+The United States of America is the world's largest economy, and the world's largest power.
+The United States of America is the world's largest economy, and the world's largest power.
+The United States of America is the world's largest economy, and the world's largest power.
+The United States of America is the world's largest economy, and the world's largest power.
+The United States of America is the world's largest economy, and the world's largest power.
+The United States of America is the world's largest economy, and the world's largest power.
+The United States",0.0,,,translation_text_wmt_en_fr.pkl,fr
+82,on_p50,0,1,83,"Translate an English sentence into a target language.
+English: On the other hand, many philosophers and writers discuss the connection between boredom and creativity, said Professor Vodanovich, who has been studying the issue for more than two decades.
+Target Language: The target language is the language of the target audience. The target language is the language of the target audience. The target language is the language of the target audience. The target language is the language of the target audience. The target language is the language of the target audience. The target language is the language of the target audience. The target language is the language of the target audience. The target language is the language of the target audience. The target language is the language of the target audience. The target language is the language of the target audience. The target language is the language of the target audience. The target language is the language of",0.0,,,translation_text_wmt_en_fr.pkl,fr
+83,on_p50,0,1,84,"Translate an English sentence into a target language.
+English: At the very end of life, physicians then often resort to palliative sedation, which is equivalent to putting the patient to sleep until the time of death, either sporadically or permanently.
+Target Language: The target language of the sentence is the language of the sentence's source. For example, the sentence: ""At the very end of life, physicians then often resort to palliative sedation"" is equivalent to the sentence: ""At the very end of life, physicians then often resort to palliative sedation"" in English.
+Target Language: The target language of the sentence is the language of the sentence's source. For example, the sentence: ""At the very end of life, physicians then often resort to palliative sedation"" is equivalent to the sentence: ""At the very end of life, physicians then often resort to p",0.0,,,translation_text_wmt_en_fr.pkl,fr
+84,on_p50,0,1,85,"Translate an English sentence into a target language.
+English: Representatives of human rights, religious minorities or civil society had done likewise.
+Target Language: English.
+The Special Rapporteur was informed that the Special Rapporteur had met with representatives of the Government of the Republic of Moldova and the Government of the Republic of Moldova and the Government of the Republic of Moldova on the occasion of the adoption of the Convention on the Elimination of All Forms of Racial Discrimination.
+The Special Rapporteur was informed that the Government of the Republic of Moldova had ratified the Convention on the Elimination of All Forms of Racial Discrimination.
+The Special Rapporteur was informed that the Government of the Republic of Moldova had ratified the Convention on the Rights of the Child.
+The Special Rapporteur was informed that the Government of the Republic of Moldova had ratified the Convention on the",0.0,,,translation_text_wmt_en_fr.pkl,fr
+85,on_p50,0,1,86,"Translate an English sentence into a target language.
+English: Argo's weakness is its divergence, which comes from the need to show too many events in too many places.
+Target Language: English
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into",0.0,,,translation_text_wmt_en_fr.pkl,fr
+86,on_p50,0,1,87,"Translate an English sentence into a target language.
+English: Anyone who doesn't have anyone left, arrives at the shelter with Khanyisile, a single woman who earns the same salary from the association as the two cooks who cook for more than 200 hungry children every day.
+Target Language: The English-speaking community in the area, who are mostly Muslim, and who are not allowed to speak English.
+The project was started in the summer of 2015, and the first stage of the project was to build a shelter for the homeless in the area. The project was completed in the summer of 2016, and the second stage of the project was to build a shelter for the homeless in the area. The project was completed in the summer of 2017, and the third stage of the project was to build a shelter for the homeless in the area. The project was completed in the summer of 2018, and the fourth stage of the project was",0.0,,,translation_text_wmt_en_fr.pkl,fr
+87,on_p50,0,1,88,"Translate an English sentence into a target language.
+English: The fact that the Chinese are world champions in copying and infringing on intellectual property is well-known.
+Target Language: The target language of the translation is the target language of the original text.
+The translation is a translation of the original text into the target language.
+The translation is a translation of the original text into the target language.
+The translation is a translation of the original text into the target language.
+The translation is a translation of the original text into the target language.
+The translation is a translation of the original text into the target language.
+The translation is a translation of the original text into the target language.
+The translation is a translation of the original text into the target language.
+The translation is a translation of the original text into the target language.
+The",0.0,,,translation_text_wmt_en_fr.pkl,fr
+88,on_p50,0,1,89,"Translate an English sentence into a target language.
+English: Its azure water is saline and easily keeps you afloat, even if you don't know how to swim.
+Target Language: English. The English translation of the word ""water"" is ""water"". The English translation of the word ""water"" is ""water"". The English translation of the word ""water"" is ""water"". The English translation of the word ""water"" is ""water"". The English translation of the word ""water"" is ""water"". The English translation of the word ""water"" is ""water"". The English translation of the word ""water"" is ""water"". The English translation of the word ""water"" is ""water"". The English translation of the word ""water"" is ""water"".",0.0,,,translation_text_wmt_en_fr.pkl,fr
+89,on_p50,0,1,90,"Translate an English sentence into a target language.
+English: I was just coming back from a series of injuries.
+Target Language:
+English.
+I was just coming back from a series of injuries.
+I was just coming back from a series of injuries.
+I was just coming back from a series of injuries.
+I was just coming back from a series of injuries.
+I was just coming back from a series of injuries.
+I was just coming back from a series of injuries.
+I was just coming back from a series of injuries.
+I was just coming back from a series of injuries.
+I was just coming back from a series of injuries.
+I was just coming back from a series of injuries.
+I was just coming back from a series of injuries.
+I was just coming",0.0,,,translation_text_wmt_en_fr.pkl,fr
+90,on_p50,0,1,91,"Translate an English sentence into a target language.
+English: That means a peace settlement between Israel and the Palestinians.
+Target Language: English.
+The first step is to translate the sentence into English.
+The second step is to translate the sentence into the target language.
+The third step is to translate the sentence into the target language.
+The fourth step is to translate the sentence into the target language.
+The fifth step is to translate the sentence into the target language.
+The sixth step is to translate the sentence into the target language.
+The seventh step is to translate the sentence into the target language.
+The eighth step is to translate the sentence into the target language.
+The ninth step is to translate the sentence into the target language.
+The tenth step is to translate the sentence into the target",0.0,,,translation_text_wmt_en_fr.pkl,fr
+91,on_p50,0,1,92,"Translate an English sentence into a target language.
+English: No industries have been re-established, no dams are in good condition, no major irrigation systems have been repaired.
+Target Language: English.
+The project was funded by the European Commission under the project ID PI:KEY.
+The project was carried out in cooperation with the European Commission and the European Research Council (ERC) under the project ID PI:KEY.
+The project was carried out in cooperation with the European Commission and the European Research Council (ERC) under the project ID PI:KEY.
+The project was carried out in cooperation with the European Commission and the European Research Council (ERC) under the project ID PI:KEY.
+The project was carried out in cooperation with the European Commission and the European Research Council (ERC) under the project ID PI:KEY.
+The project",0.0,,,translation_text_wmt_en_fr.pkl,fr
+92,on_p50,0,1,93,"Translate an English sentence into a target language.
+English: Everywhere is green and lush - you could be forgiven for thinking you were in the Black Forest.
+Target Language: English. The English language is the most widely spoken language in the world. It is the second most spoken language after the French language. It is the second most spoken language after the German language. It is the second most spoken language after the Russian language. It is the second most spoken language after the Chinese language. It is the second most spoken language after the Japanese language. It is the second most spoken language after the Arabic language. It is the second most spoken language after the Urdu language. It is the second most spoken language after the Malay language. It is the second most spoken language after the Tamil language. It is the second most",0.0,,,translation_text_wmt_en_fr.pkl,fr
+93,on_p50,0,1,94,"Translate an English sentence into a target language.
+English: While deputies and human rights activists argue about the purpose of the law on mandatory language testing, the country already has scam artists who sell fake certificates.
+Target Language: The target language of the test is English. The test is not intended to be used in the UK, but it is used in the US and Australia.
+Test Type: The test is a written test. The test is not intended to be used in the UK, but it is used in the US and Australia.
+Test Results: The test results are not intended to be used in the UK, but they are used in the US and Australia.
+Test Results: The test results are not intended to be used in the UK, but they are used in the US and Australia.
+Test Results: The test results are not intended to be used in the",0.0,,,translation_text_wmt_en_fr.pkl,fr
+94,on_p50,0,1,95,"Translate an English sentence into a target language.
+English: At least there is no deprivation among Azerbaijan's elderly.
+Target Language: English.
+The following sentences are not correct:
+The number of Azerbaijani citizens in the United States is about 1.5 million.
+The number of Azerbaijani citizens in the United States is about 1.5 million.
+The number of Azerbaijani citizens in the United States is about 1.5 million.
+The number of Azerbaijani citizens in the United States is about 1.5 million.
+The number of Azerbaijani citizens in the United States is about 1.5 million.
+The number of Azerbaijani citizens in the United States is about 1.5 million.
+The number of Azerbaijani citizens in the United States is about 1.5 million",0.0,,,translation_text_wmt_en_fr.pkl,fr
+95,on_p50,0,1,96,"Translate an English sentence into a target language.
+English: After a series of Australian laws banning TV advertising and sports sponsorship and requiring most sellers to hide cigarettes from view, tobacco marketing has moved online.
+Target Language: The target language of the product is the target language of the audience. The target language of the product is the target language of the audience.
+Target Language: The target language of the product is the target language of the audience. The target language of the product is the target language of the audience.
+Target Language: The target language of the product is the target language of the audience. The target language of the product is the target language of the audience.
+Target Language: The target language of the product is the target language of the audience. The target language of the product is the target language of the audience.
+Target Language: The target language of",0.0,,,translation_text_wmt_en_fr.pkl,fr
+96,on_p50,0,1,97,"Translate an English sentence into a target language.
+English: The repercussions of this research on the daily life of the man in the street are more difficult to predict, but it would be wrong to assume that there won't be any.
+Target Language: The English language is the most widely used language in the world. The English language is the most widely used language in the world. The English language is the most widely used language in the world. The English language is the most widely used language in the world. The English language is the most widely used language in the world. The English language is the most widely used language in the world. The English language is the most widely used language in the world. The English language is the most widely used language in the world. The English language is the most widely used language in the world. The English language is the most widely used language in the",0.0,,,translation_text_wmt_en_fr.pkl,fr
+97,on_p50,0,1,98,"Translate an English sentence into a target language.
+English: Among the resolutions adopted, it was mentioned that UNASUR countries will take ""important steps toward the goal of a South American citizenship, for which residence agreements are being extended.""
+Target Language: The resolution also called for the adoption of a resolution on the issue of the South American citizenship.
+UNASUR: The resolution also called for the adoption of a resolution on the issue of the South American citizenship.
+UNASUR: The resolution also called for the adoption of a resolution on the issue of the South American citizenship.
+UNASUR: The resolution also called for the adoption of a resolution on the issue of the South American citizenship.
+UNASUR: The resolution also called for the adoption of a resolution on the issue of the South American citizenship.
+UNASUR: The resolution also called for the adoption of a resolution on the issue",0.0,,,translation_text_wmt_en_fr.pkl,fr
+98,on_p50,0,1,99,"Translate an English sentence into a target language.
+English: He does not hesitate to reply that he would never accept a request from an unknown person.
+Target Language: English
+The following sentences are translated into English by the translator:
+He is not afraid to say that he would never accept a request from an unknown person.
+He is not afraid to say that he would never accept a request from an unknown person.
+He is not afraid to say that he would never accept a request from an unknown person.
+He is not afraid to say that he would never accept a request from an unknown person.
+He is not afraid to say that he would never accept a request from an unknown person.
+He is not afraid to say that he would never accept a request from an unknown person.
+He is not afraid to say",0.0,,,translation_text_wmt_en_fr.pkl,fr
+99,on_p50,0,1,100,"Translate an English sentence into a target language.
+English: Clowns are a timeless category.
+Target Language: English
+The following sentences are examples of English sentences that can be translated into English.
+The following sentences are examples of English sentences that can be translated into English.
+The following sentences are examples of English sentences that can be translated into English.
+The following sentences are examples of English sentences that can be translated into English.
+The following sentences are examples of English sentences that can be translated into English.
+The following sentences are examples of English sentences that can be translated into English.
+The following sentences are examples of English sentences that can be translated into English.
+The following sentences are examples of English sentences that can be translated into English.
+The following sentences are examples of",0.0,,,translation_text_wmt_en_fr.pkl,fr

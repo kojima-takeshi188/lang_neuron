@@ -1,0 +1,201 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,1000,1,1,"El gobernador bonaerense, Axel Kicillof, manifestó este lunes que “está previsto” que las clases presenciales comiencen el 17 de febrero en todo el territorio provincial, mientras que sostuvo que “tenemos que lograr que los chicos vuelvan a estar en las aulas para reencontrarse”.
+Kicillof participó de un encuentro con el",0.8880337908700001,,,</s>,zh
+1,on_p50,1000,1,2,"/*
+ *  Copyright (C) 2005-2018 Team Kodi
+ *  This file is part of Kodi - https://kodi.tv
+ *
+ *  SPDX-License-Identifier: GPL-2.0-or-later
+ *  See LICENSES/README.md for more information.
+",0.8880337908700001,,,</s>,zh
+2,on_p50,1000,1,3,"“They are a great group and we feel that we have accomplished a lot this year.” ""The guys have been great from day one.” ""Matt and Darren have been great.” ""Beautiful start of season for the group.”
+The New Zealand Premier League is an Australian Premier League of Rugby League",0.8880337908700001,,,</s>,zh
+3,on_p50,1000,1,4,"“O presidente do Conselho de Administração do Banco Privado de Desenvolvimento do Estado do Rio Grande do Norte (BPDN), Rafael Moreira, acompanhado do vice, Helder Ferreira, estiveram visitando, na tarde desta quinta-feira (14), as obras de repovoamento florestal em Pau dos Ferros, região Oeste potiguar",0.8880337908700001,,,</s>,zh
+4,on_p50,1000,1,5,"“可以，这不算什么，但你的攻击力却比翼，如何能够与她抗衡，还是那句话，她的目标不是你的，而是他。”邹芷溪微微一笑，“她能不能行？这才是关键，只要她能成功，你的对手就是她。”
+
+﻿",0.8880337908700001,,,</s>,zh
+5,on_p50,1000,1,6,"Q:
+
+Verifying if an array exists in SQLite with python
+
+I am trying to create a simple SQLite query in Python to return a list of all the users that are active (i.e. have posts) in my database. The query is:
+SELECT * FROM users
+WHERE NOT EXISTS (SELECT posts.id",0.8880337908700001,,,</s>,zh
+6,on_p50,1000,1,7,"Neuromorphisms
+Neuroinformatics is concerned with analyzing and understanding biological neural data. Many algorithms are designed for non-neural data (e.g., Human Activity Recognition). However, because of the limitation of computing power, neural data tends to have massively larger and more complicated structures. A typical data structure",0.8880337908700001,,,</s>,zh
+7,on_p50,1000,1,8,"“Chez nous, il y a une culture de la réactivité. Nos équipes sont capables de travailler sur les décisions les plus urgentes, pour la mise en œuvre des projets. Nous sommes très forts dans ce domaine. Il faut, néanmoins, se montrer méthodique et rigoureux. Notamment, en termes de méthodes,",0.8880337908700001,,,</s>,zh
+8,on_p50,1000,1,9,"“We’ve seen a number of instances where we have been connected to a school or child’s school, as part of our ongoing support and ongoing monitoring of the student’s progress.”",0.8880337908700001,,,</s>,zh
+9,on_p50,1000,1,10,可供参考：《中华人民共和国商标法》第五十三条规定，商标法第五十五条第一款之规定，同一商标注册申请，在不同类别上，可能导致相同或近似的商标，或者使相关公众产生混淆，或者其使用容易导致商标专用权被抢先注册，或者有其他不良影响的，不予核准,0.8880337908700001,,,</s>,zh
+10,on_p50,1000,1,11,"“We hosted a reception for my Grandaughter’s wedding. The food was delicious. The service was excellent. We will use your services again.”
+“My husband and I recently had a birthday party and we placed our order on Friday. The food was cooked to order. My husband loved the steak (I",0.8880337908700001,,,</s>,zh
+11,on_p50,1000,1,12,"Aécio avisa seus correligionários que os próximos meses podem ser decisivos, em sua campanha.
+Aécio Neves, candidato ao Senado pelo PSDB, afirmou, em entrevista à revista Veja, que a situação de Dilma Rousseff, presidente da República, "" pode se tornar muito pior, se ela não se reeleger """,0.8880337908700001,,,</s>,zh
+12,on_p50,1000,1,13,"“Don’t get me wrong,” he said, “you’ve got a good job. You’re running a great restaurant. But it’s not what you’re good at.”",0.8880337908700001,,,</s>,zh
+13,on_p50,1000,1,14,"“We are excited to have come out of the trials with a new platform,” said Tim Clark, director of the programs at the Philadelphia Museum of Art. “The new Life of Pi platform will offer a new level of engagement and experience for the Philadelphia Museum of Art collections and visitors alike.”
+The new platform,",0.8880337908700001,,,</s>,zh
+14,on_p50,1000,1,15,"Q:
+
+How to specify an integer value for the left margin of a equation in math Tikz?
+
+I need to specify an integer value for the left margin of a equation in a Tikz figure. How can I accomplish this?
+
+A:
+
+Here's a solution based on tikzmath:
+\documentclass{article}
+\usepackage{tikz}
+",0.8880337908700001,,,</s>,zh
+15,on_p50,1000,1,16,"“Shillings” is a popular currency in India. Of course, there are several denominations, but the most common is 20-, 50-, and 100-. You can find these denominations in the following places:
+This is a common currency in India, but unfortunately, some places do not accept",0.8880337908700001,,,</s>,zh
+16,on_p50,1000,1,17,電話接通，說話的是他的父親，他父親在電話那頭低聲嘟囔：「要不是你們，我不知該怎麼辦，民華，我這輩子最不放心的，就是你們，民華，你一定要好好照顧女兒，不能讓她再受這一輩子的的,0.8880337908700001,,,</s>,zh
+17,on_p50,1000,1,18,"#!/usr/bin/env python
+# This script will create a configuration file for an API server that is
+# interfaced with a Web API.
+#
+# The script will collect the following data from the server:
+# AWS_ACCESS_KEY_ID : Your access key
+# AWS_SECRET_ACCESS_KEY : Your",0.8880337908700001,,,</s>,zh
+18,on_p50,1000,1,19,"কুরআনের এই আয়াতটি মেহেরবানি করার সময় সঠিকভাবে ব্যবহার করতে হবে। বিশেষ করে প্রতিকার ও সমাধান দিতে চায় এমন কোনো সমস্যার সমাধান দিতে হলে। তবে আয়াতটি সম্পূর্ণরূপে যেমনটি তুলে ধরা হয়েছে, তা অত্যন্ত জটিল। কিন্তু আমরা যদি আয়াতটিকে নেতিবাচক অর্থে নিয়ে থাকি, তাহলে",0.8880337908700001,,,</s>,zh
+19,on_p50,1000,1,20,此后，出版了大量优秀作品，如《重游时代广场》、《是无极而老》、《走近水仙》，《是时候了》，《迷魂记》等，其中《旅顺口口述历史》、《在回望中前行》等，或还引发了争议。,0.8880337908700001,,,</s>,zh
+20,on_p50,1000,1,21,"“Desafiante e não muito grande”, a travessia de 100km, que começou domingo em Porto Velho, foi disputada por cerca de 20 atletas, com a chegada prevista para as 16h50 no saguão do Aeroporto Internacional Confins, em Belo Horizonte.
+“Mas os próximos dias serão ainda mais desafi",0.8880337908700001,,,</s>,zh
+21,on_p50,1000,1,22,"在金庸先生笔下,武功最厉害的人应该就是黄药师莫属了。黄药师是武林大会门派大老,并且他武功高强,文学素养很高。所以黄药师几乎不用自学武功,黄药师师从张三丰和郭靖,",0.8880337908700001,,,</s>,zh
+22,on_p50,1000,1,23,第四条 实施学科建设和人才培养计划，必须以推动学校内涵式发展为宗旨，以人才培养为中心，以学科建设和师资队伍建设为重点，以改革创新为动力，以教学质量提升为核心，以体制机制创新为动力，以质量保障体系建设为前提,0.8880337908700001,,,</s>,zh
+23,on_p50,1000,1,24,﻿（7月27日，深圳）由深圳国际体育赛事交易会公司、深圳广播电视台体育频道联合主办，深圳国际体育文化博览交易会有限公司、深圳国际体育文化博览交易会有限公司、深圳赛道体育文化发展有限公司承办，深圳赛道体育文化发展有限公司推广运营的“深圳CBA,0.8880337908700001,,,</s>,zh
+24,on_p50,1000,1,25,《上海证券报》7月27日讯近日，有媒体报道称，深交所下属公司深圳证券交易所创业投资企业管理有限公司（以下简称“创业投资公司”）通过某竞价交易平台，成功竞得上海星际节能科技有限公司（以下简称“星际节能”）27%的股权，创投公司将以此,0.8880337908700001,,,</s>,zh
+25,on_p50,1000,1,26,"Soi số hiệu nhà 3 tầng KCN Vũng Áng 1 - Vị trí đẹp, mặt tiền 6m, đường rộng 12m, nhà xây được năm, chắc chắn, thiết kế đẹp, xây 2 tầng, 2 phòng khách, 4 phòng ngủ, 4wc, 1 phòng bếp, 1 gara
+Soi số",0.8880337908700001,,,</s>,zh
+26,on_p50,1000,1,27,"“Since when did you get engaged?” I asked, completely baffled. “His ‘engagement’ hasn’t even been formally announced yet,” he said. “No! You know! I’ve been keeping my girlfriend secret!”",0.8880337908700001,,,</s>,zh
+27,on_p50,1000,1,28,"There is no doubt that we are entering an unprecedented period of history. As the year 2020 draws to a close, we will see whether the coronavirus pandemic marks the end of a unique era or if the lessons of the COVID-19 pandemic will provide a newfound sense of urgency to design, plan, and prepare for the next",0.8880337908700001,,,</s>,zh
+28,on_p50,1000,1,29,PHP存储过程主要用来执行SQL语句，这类SQL语句是系统管理人员或者开发人员设计后，由专业人员进行编程，由系统对它进行处理，从而达到一定的目的，此外，PHP存储过程还可以用来实现一些特殊功能，所以非常重要，那么，下面北京网站制作公司教你具体如何,0.8880337908700001,,,</s>,zh
+29,on_p50,1000,1,30,"“We could do with a few more people like him on the job” Mayor Mark Weinstein said. “He’s very passionate about the city and his role is very important to keeping it safe.”
+“We’re very grateful for the kindness of all of our residents and businesses,” Del. Blezinski",0.8880337908700001,,,</s>,zh
+30,on_p50,1000,1,31,"“If the [rights-protected] working conditions aren’t the priority, then public safety is. This is a critical moment for the construction industry, and we need to take every possible step to ensure everybody remains safe.”",0.8880337908700001,,,</s>,zh
+31,on_p50,1000,1,32,"“But if, for instance, you have an employee who has been in my office for over three years, and you see that that person hasn’t had an opportunity to grow, or develop, or even to take a trip to Washington, D.C., I’ll say, ‘What’s the matter?’ And",0.8880337908700001,,,</s>,zh
+32,on_p50,1000,1,33,"Charlesinox, spécialiste de la cuisson eninox, vous donne rendez-vous sur son site internet pour découvrir ses gammes de fers à repasser, fer à vapeur et sèche-linge, ainsi que ses corbeilles à linge en inox. Profitez de promotions régulières et bénéficiez de conseils",0.8880337908700001,,,</s>,zh
+33,on_p50,1000,1,34,"“We can string together a story about a student with a number of absences,” Tilley said. “It seems that the students are using their time to do whatever they want to do — do homework, go to the restroom, do whatever.”
+He said he’s also received reports of students",0.8880337908700001,,,</s>,zh
+34,on_p50,1000,1,35,"Q:
+
+Preventing a timer from running
+
+I want to prevent a timer from running until I click on a button.
+I know how to prevent a timer from running, however, I want to do so before the timer runs.
+Here is my code so far:
+private void timerTick_1_Tick(object sender,",0.8880337908700001,,,</s>,zh
+35,on_p50,1000,1,36,"En cuanto al tema del libro, debo confesar que yo no lo había leído, pero no me lo perdí. Es una historia de fantasía sobrenatural, pero dándole la vuelta a la cosa, con esta realidad muy prosaica presente, donde cada persona tiene sus limitaciones, donde la sociedad esta condicionada por las",0.8880337908700001,,,</s>,zh
+36,on_p50,1000,1,37,"“Em um período de propagação rápida de Covid-19, apenas sair de casa para tomar um ar fresco é o suficiente para melhorar o estado de espírito e o bem-estar de qualquer um”, disse o Dr. Eric Charpentier, diretor médico da Clinique L’Oreal. “Essas são dicas simples que todos deveriam levar",0.8880337908700001,,,</s>,zh
+37,on_p50,1000,1,38,"“But as they spoke, the two men were glaring at him. He couldn’t see the parakeets, but he knew that the other man must have seen them.”
+“Rumor has it that they’re flying towards you,” John Griffen replied. “They’re coming to the",0.8880337908700001,,,</s>,zh
+38,on_p50,1000,1,39,"“Honestly I don’t think there’s any real difference with all of them,” he said. “It’s all about how you use them and how you treat them.”
+Rollins, who was recently penalised for biting Ortiz, admitted he may have been “overdoing it” in his",0.8880337908700001,,,</s>,zh
+39,on_p50,1000,1,40,"A partir de então, outros benefícios da dieta cetogênica podem ser lembrados, como a diminuição na absorção de gordura, por exemplo.
+Mas isto vale tanto para o consumo de gordura, quanto para carboidratos ou proteínas. Outro benefício, de fácil compreensão, é que a dieta cetogênica pode",0.8880337908700001,,,</s>,zh
+40,on_p50,1000,1,41,"“Oh, na... na...” realiz pedido de desculpas. “Era pra ter ficado mais.” Sorriu com jeito ruim. Mas entende. “Eu sou muito, muito, muito…”
+“Não precisa ser assim…” interrompeu, depois olhou para o jardim e viu que as flores estavam flor",0.8880337908700001,,,</s>,zh
+41,on_p50,1000,1,42,"Q:
+
+How to allow google maps api to load data from a database (php)
+
+I am trying to load data from a database into google maps api and it is not working. I am using the code below. It just shows the info window for a single location. How can I load the data at a given time",0.8880337908700001,,,</s>,zh
+42,on_p50,1000,1,43,"Arquivo : setembro 2015
+O Brasil tem uma das menores proporções de mulheres em espaços de poder, negócios, ciência e tecnologia.Esse é um dado publicado pelo Instituto Ethos, em parceria com o Instituto de Estudos em Políticas Públicas ( Iepp ), que mapeou dados oficiais.
+“ O Brasil tem uma parcela",0.8880337908700001,,,</s>,zh
+43,on_p50,1000,1,44,"“Occasionally, people talk about the way that they have trouble sleeping. Sometimes, people say, ‘I wake up to this horrible craving. I wake up to this craving,’ and they’ve tried everything. And sometimes, people say, ‘I wake up and I have a lot of insom",0.8880337908700001,,,</s>,zh
+44,on_p50,1000,1,45,"A partir de ahora, Alliance For Peace quiere que se realice una investigación independiente sobre la muerte de 47 personas durante las protestas y exigir al Ministerio del Interior que dé una explicación sobre las circunstancias de esa muerte violenta.",0.8880337908700001,,,</s>,zh
+45,on_p50,1000,1,46,特斯拉不仅是一家制造公司，更是一家服务型公司，从早期的电池生产、后期的物流服务，到收购和收购，到现在包罗 Tesla、Autopilot、Autopilot Highway Pilot、Tesla App、Tesla One、Tesla Powerwall、Tesla Pool 等，特斯拉,0.8880337908700001,,,</s>,zh
+46,on_p50,1000,1,47,,0.8880337908700001,,,</s>,zh
+47,on_p50,1000,1,48,"“We are delighted to have secured this partnership with the global software provider, which is a strategic move in the company's long standing commitment to supporting the growth of businesses in the UK.”
+“This partnership is a very exciting move for us. The number of secure access points and PINs available in the UK is",0.8880337908700001,,,</s>,zh
+48,on_p50,1000,1,49,"‘We had a good day. Not one mistake, that was great. We didn’t rely on the sprinters, we relied on the finishers,’ said his teammate Michele Scarponi.
+Scarponi finished 17th at the Milan-Napoli Giro, and he was the winner of the",0.8880337908700001,,,</s>,zh
+49,on_p50,1000,1,50,"Oh, yeah, I’m sure of that. I will, however, go ahead and tell you that it is a pretty darn good looking car. If you think about it, it looks far too plasticky compared to the real thing, at least in my opinion (not that I have seen anything too close to an",0.8880337908700001,,,</s>,zh
+50,on_p50,1000,1,51,"•	Elaborar un informe sobre las actividades y resultados de la propuesta presentada, a partir de las informaciones recibidas.
+•	Las peticiones de información realizadas deberán ser respondidas con la mayor brevedad posible.
+•	Las actividades de seguimiento a las propuestas de los Grupos de Investigación están diseñadas para asegurar que",0.8880337908700001,,,</s>,zh
+51,on_p50,1000,1,52,"Q:
+
+CSS & jQuery dropdown menu - Is there a way to get the current open menu, or just have the code only simulate the opening?
+
+I have a jQuery menu with custom CSS.
+I want to simulate the opening of the dropdown menu (using jQuery) when selected. The following code (which works) just opens",0.8880337908700001,,,</s>,zh
+52,on_p50,1000,1,53,“Cloud Player”提供在线电影的播放，同时，它可以创建电影目录，并具有一个“Web应用”，它允许用户通过手机访问，Excel，Word和PPT可以访问，“云播放”可以转发，共享，复制，也可以直接复制，甚至发送，因此，对于学生来说，,0.8880337908700001,,,</s>,zh
+53,on_p50,1000,1,54,"关于妇产科""看病难""的问题,围绕这一话题,王主任告诉我们,随着经济的快速发展,人们的生活水平有所提高,导致人们的生活习惯也在发生着变化,长期以来对妇科疾病还处于无知状态,对妇科常见病、多发病往往关注不起来。同时,随着",0.8880337908700001,,,</s>,zh
+54,on_p50,1000,1,55,"El Museo de la Evolución Humana es un centro interactivo ubicado en la localidad madrileña de Alcorcón. Su principal objetivo es el de comprender la evolución de la especie humana a través de sus diferentes manifestaciones artísticas.
+El Museo de la Evolución Humana es uno de los proyectos culturales con más solera de España",0.8880337908700001,,,</s>,zh
+55,on_p50,1000,1,56,"“它看起来像是一只小猫,”她说。”我们将其命名为JWJ。”““好,”她说。“好,”他说。“理论上,”她低声说。“我有自己的一队巡逻犬。”””我的天,”Rod说。”",0.8880337908700001,,,</s>,zh
+56,on_p50,1000,1,57,"“This will help us make sure that our expenses are correctly accounted for and that we don’t end up making any mistakes when filing our tax returns,” said Charles McLeod, spokesperson for the IRS. “We’ll be working closely with the OAA to ensure that all expenses are properly included and",0.8880337908700001,,,</s>,zh
+57,on_p50,1000,1,58,公司介绍：开店至今，防盗门锁芯与Jf营口宝宝春装冬季受到用户的一致好评，我们将继续努力提高服务和“fJ邯郸空调室内机罩”的产品质量，让您在网上也能买性价比高的盗防门锁芯和Jc定州长袖t恤,0.8880337908700001,,,</s>,zh
+58,on_p50,1000,1,59,"So, what does this mean for Digital Marketing in 2021? Well, the best way to keep up with trends is to stay current and be flexible. We can’t prevent the pandemic, but we can control how it affects us. That means adapting our strategies and tactics in order to remain relevant and successful.",0.8880337908700001,,,</s>,zh
+59,on_p50,1000,1,60,"“Apoyamos las acciones de la comunidad y de los gobernantes y entendemos el valor de la educación”, dijo.",0.8880337908700001,,,</s>,zh
+60,on_p50,1000,1,61,"Y si no quieres que te hagan comentarios racistas, no uses la ropa con la que has estado trabajando. No la toques y no la llames así.
+Si estás en una situación de distanciamiento social, piensa que hay gente que está siendo atacada y tú eres parte de ese grupo.",0.8880337908700001,,,</s>,zh
+61,on_p50,1000,1,62,"“You must always remember that the world is not a place you and I, today, can escape to. It is a place we need to be here.”
+“We can never be so happy as to live without pain, nor misery so great as to escape it, nor sorrow so great as to be",0.8880337908700001,,,</s>,zh
+62,on_p50,1000,1,63,"“We’re all in this together,” he said. “Everybody in the community is going to work together.”
+“I’m excited to be a part of this process because we’ve been working with the community as a whole for a long time and we’re going to continue to work with them,” he",0.8880337908700001,,,</s>,zh
+63,on_p50,1000,1,64,"“We won’t take it anymore,” she said, taking her kids to bed, needing to do laundry, and finally letting herself down on the couch. “Oh, it’s just for today.”
+“I need to get out of here,” she said, her eyes upon the floor, and even the tears",0.8880337908700001,,,</s>,zh
+64,on_p50,1000,1,65,在中介人員協議書上，有人問到是否會有人要求你交錢，如果沒有，一般的中介人員到時候都是直接到另外一個地方，找另外一些人，他們中間不會提及律所，他們也沒有任何工作，只是為了讓債務戶不要提前繳清，所以不要走,0.8880337908700001,,,</s>,zh
+65,on_p50,1000,1,66,"“Ya no es una cuestión de que sus padres sean más ricos que el nuestro. Ahora también hay padres que tienen menos recursos, pero su familia y su trabajo compensan”, he explicado a la agencia de noticias EFE.
+La conexión entre los padres y sus hijos, una de las prioridades de los organismos internacionales, se",0.8880337908700001,,,</s>,zh
+66,on_p50,1000,1,67,“中國正處于經濟轉型升級和高質量發展關鍵階段，經濟社會發展面臨新的機遇和挑戰。”全國政協常委、民建中央副主席，民建江蘇省委主委、南通市政協主席周慧琳代表民建南通市委，市政協委員，市政協提案委全體成員，民建,0.8880337908700001,,,</s>,zh
+67,on_p50,1000,1,68,"Oh, yeah.
+That's right, my good boy.
+Hey, what are you doing, Donald Duck?
+Oh, you're not the first duck to say that.
+Okay.
+This is a story that I have heard a hundred times from countless people.
+It is however true.
+I am Donald Duck.
+I am a duck",0.8880337908700001,,,</s>,zh
+68,on_p50,1000,1,69,"ptions have to be done, and then the designer has to maintain the cohesiveness of the
+at least as much as possible, that is to say, the designer has to give the
+in their use, and let’s say in the presentation of a product.
+created by her, and therefore they should be taken out of",0.8880337908700001,,,</s>,zh
+69,on_p50,1000,1,70,"Para algunas personas, el rinoceronte es uno de los animales más desagradables que pueden existir. Sin embargo, en la India, esta especie de mamífero se trata de una de las más veneradas.",0.8880337908700001,,,</s>,zh
+70,on_p50,1000,1,71,"Now that we’ve established what we understood, let’s review your opportunities. If you’ve ever had a very intimate relationship and wished to remove it, you might have experienced some fear, but it’s not something that will remain with you forever. You might have experienced the feeling that someone else was impacting your life in a way",0.8880337908700001,,,</s>,zh
+71,on_p50,1000,1,72,"Converse el tipo de trabajo que requieren, de qué material necesitas, y un poco de la historia de tu negocio.",0.8880337908700001,,,</s>,zh
+72,on_p50,1000,1,73,"“We’ve developed a testing model for the vaccine at the state level,” he said. “We’re preparing to roll out the vaccine — vaccination and infection control are close together.”
+The latest count reported 3,407 COVID-19 deaths in Florida. The state’s population of 4.6 million is expected to have",0.8880337908700001,,,</s>,zh
+73,on_p50,1000,1,74,"原文地址:哈佛哥:推广""一带一路""绿色照明解决方案作者:高新科技研究院 乔帅 (harvard哥) 来源:中国高科技发展促进会 文章:乔帅(harvard哥)；版权属于作者所有,如有转载,请注明出处。摘要:绿色照明是一种可再生、可再",0.8880337908700001,,,</s>,zh
+74,on_p50,1000,1,75,"Pour la rentrée, nos opticiennes de Marseille vous accompagnent dans la découverte et l’usage de lunettes de vue et de soleil, d’assurances complémentaires santé et de lunettes solaires.",0.8880337908700001,,,</s>,zh
+75,on_p50,1000,1,76,"笔试结束后,根据笔试成绩从高分到低分按照1:5确定进入面试人员名单。面试采取结构化面试方式进行,满分为100分。参加面试人员须持本人有效居民身份证、面试通知书、毕业证、学位证等材料的原件和复印件参加面试。",0.8880337908700001,,,</s>,zh
+76,on_p50,1000,1,77,"El Gobierno pide a los proveedores de T-MEC que cumplan con los estándares sociales
+Ciudad de México— El Gobierno Federal pidió a las empresas que operan en el marco del Tratado entre México, Estados Unidos y Canadá (T-MEC) que cumplan con los estándares sociales y ambientales establecidos en el acuerdo comercial, y aseguró que",0.8880337908700001,,,</s>,zh
+77,on_p50,1000,1,78,"“Eu diria que sim. Estamos falando de um vendaval de chuvas, vórtices de uma energia muito forte. O centro da Terra é um campo magnético. Tanto que o sol tem três polaridades, e o planeta está em uma espécie de equilíbrio entre elas. Uma parte está positiva e outra está negativa. Essa",0.8880337908700001,,,</s>,zh
+78,on_p50,1000,1,79,"Kohlrabi adalah tanaman sayuran yang juga terkenal dengan nama Brassica oleracea var. botrytis. Tanaman ini termasuk dalam makanan yang baik untuk kesehatan jantung karena terkandung kandungan serat dan antioksidan. Berikut ini beberapa manfaat kohlrabi yang harus kita ketahui.
+Cara membuat masakan kohlrabi lebih nikmat adalah dengan",0.8880337908700001,,,</s>,zh
+79,on_p50,1000,1,80,"-Ông Huỳnh Văn Nén, tù nhân lương tâm, được Viện KSND tối cao đề nghị Tòa phúc thẩm TAND tối cao determinate mức bồi thường do bị hại bị chết, bị thương tích, bị mất tích và bị chiếm đoạt tài sản để thương lượng với thân nhân của các nạn nhân do ông N",0.8880337908700001,,,</s>,zh
+80,on_p50,1000,1,81,"En 2008, alors que la liste Ni Putes Ni Soumises arrive en tête des suffrages, François Hollande se montre favorable à un mariage homosexuel dans le cadre d'une législation complémentaire à la famille traditionnelle.
+Le mariage homosexuel sera-t-il envisageable dans les mois à venir? En tout cas, il n'est certainement pas",0.8880337908700001,,,</s>,zh
+81,on_p50,1000,1,82,"Lors de ce championnat de France, nos équipes ont été qualifiées pour les 16ème de finale. L’équipe 1 a réalisé un bon parcours débutant par un match nul à 20 contre l’UFC...
+Voici les résultats de notre équipe 1. Le premier match du championnat de France de handball c’est déroulé à Villeneuve",0.8880337908700001,,,</s>,zh
+82,on_p50,1000,1,83,3. 在制作时，可将白开水倒入锅中，洗净后将菊花茶放入，煮沸后关火，待其自然冷却，再泡饮。菊花茶具有清肝明目，降火解毒之功效，它不仅对肝火旺、眼睛疲劳、高血压、头痛、头晕,0.8880337908700001,,,</s>,zh
+83,on_p50,1000,1,84,"出色 कार्य पाने के लिये उत्साह व लगन का होना, नेतृत्व क्षमता का होना, नेटवर्क का होना एवं लोगों के प्रति संवेदनशील होना आवश्यक होता है ।",0.8880337908700001,,,</s>,zh
+84,on_p50,1000,1,85,"-Ngày 6/1, Thủ tướng Chính phủ Nguyễn Xuân Phúc đã gửi thư khen, biểu dương tới Bộ đội Biên phòng và Công an tỉnh Quảng Ninh, Công an huyện Vân Đồn, Đồn Biên phòng Vân Đồn, Đồn Biên phòng Cô Tô; Công an huyện Hoành Bồ, Đồn Biên phòng Hoành Bồ đã tích",0.8880337908700001,,,</s>,zh
+85,on_p50,1000,1,86,12月5日，由江城县委县政府在县文化馆隆重举办，全国交通系统五一劳动奖章获得者、全国交通系统“最美交警”、贵州省交通厅一级警长顾正文，贵州省交通厅二级警长、公安部交通管理司“全国交通安全先进个人,0.8880337908700001,,,</s>,zh
+86,on_p50,1000,1,87,"原文地址:【禁奸】春秋时代有女宠子,女人当得起""乱伦""吗？作者:莫声谷 春秋时,晋国大夫赵宣子娶了一邾国公主为妻。邾国公主在赵宣子结婚前,曾许配给他弟弟赵简子(赵",0.8880337908700001,,,</s>,zh
+87,on_p50,1000,1,88,"“石油巨头们已经做好了充分的准备，相信这次的减产行动将会按时进行，”经济学家Yusuf Ahmed,，位于亚洲的石油巨头阿美石油公司首席执行官，他在接受采访时说：“我们公司已经在各个地区备好了足够的原油，这样的话，如果油",0.8880337908700001,,,</s>,zh
+88,on_p50,1000,1,89,"“We didn’t know. He wasn’t in it. I think we all knew,” Ryan said. “We didn’t talk [about it] until the morning of the game.”
+The Lakers’ decision to trade Bryant to the Celtics changed the NBA’s season. Bryant played poorly, averaging just 17.3",0.8880337908700001,,,</s>,zh
+89,on_p50,1000,1,90,"“ Bila Anda adalah orang yang senantiasa beranggapan bahwa orang lain merupakan yang lebih besar dari Anda, maka Anda akan cenderung merasa lebih besar dari orang lain. Hal ini dapat menyebabkan Anda merasa bahwa peran Anda dalam kehidupan orang lain sangatlah penting.",0.8880337908700001,,,</s>,zh
+90,on_p50,1000,1,91,Ahora en El Periódico vas a poder encontrar a selección más amplia y completa de promociones y cupones de descuento i-run adidas ultra boost mujer y con la tranquilidad que sólo El Periódico puede ofrecerte de que cada uno de nuestros vales de descuento i-run adidas ultra boost mujer han sido verificados y,0.8880337908700001,,,</s>,zh
+91,on_p50,1000,1,92,"Q:
+
+Pushing params to controller from Swift?
+
+I have a view where a button is pressed which has a func that will call a variety of actions depending on what was clicked. They all have the same method signature in terms of the parameters.
+I am not sure how to pass params across the view controller. The view",0.8880337908700001,,,</s>,zh
+92,on_p50,1000,1,93,"Ce contenu a été publié dans Dessin, avec comme mot(s)-clé(s) Clet, forêt, maison, lumière, montagne. Vous pouvez le mettre en favoris avec ce permalien.
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿",0.8880337908700001,,,</s>,zh
+93,on_p50,1000,1,94,“Xico textura” é uma bebida feita a partir do extrato de ervas e raízes marisqueiras com spirulina. O processo de extração é feito através de um procedimento artesanal podendo variar de acordo com o tipo de extrato desejado.,0.8880337908700001,,,</s>,zh
+94,on_p50,1000,1,95,"Múrcia, 3 abr (EFE).- Un total de 100.000 personas ya han firmado la petición para el referéndum de Cataluña que se ha lanzado hoy en la ciudad de Murcia, según ha... [+]
+Madrid, 3 abr (EFE).- El número de casos posibles de coronavirus en España aumentó en",0.8880337908700001,,,</s>,zh
+95,on_p50,1000,1,96,"“We are taking this time to address the concern of our customers and assure them that we take the health and safety of our team, customers, vendors and friends very seriously. We are doing everything in our power to reopen and are extremely grateful that our customers have stuck by us through this difficult time.”
+Linda",0.8880337908700001,,,</s>,zh
+96,on_p50,1000,1,97,"“We are proud to announce our continued support of the NSW community,” said Scott Sheehan, CEO of Scotts. “Our community is an important part of our business and will continue to do what we can to support, not only residents, but also businesses.”
+“Scott Sheehan is one of",0.8880337908700001,,,</s>,zh
+97,on_p50,1000,1,98,"不幸的是,騎著腳踏車頂多只能完成85%以上的運動量,再加上冰天雪地,所以一般醫師的判斷是,對門診常見傷患(膝蓋髕骨,髖關節,腕關節,阿基里斯腱,韌帶,肌腱,筋",0.8880337908700001,,,</s>,zh
+98,on_p50,1000,1,99,“为了能够在脱贫攻坚战场上打赢这场硬仗，作为一名共产党员，要与村集体同命运，与村民同奋斗，把党和国家的各项惠民政策、惠农政策落实到群众最需要的地方，全力打好打赢脱贫攻坚战，以脱,0.8880337908700001,,,</s>,zh
+99,on_p50,1000,1,100,"""Dan sekarang, para ahli medis mengatakan bahwa virus tersebut telah di HADAPKAN,"" ujar dia dalam sebuah video yang diunggah di YouTube.",0.8880337908700001,,,</s>,zh

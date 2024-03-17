@@ -1,0 +1,445 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,200,1,1,"South Africa Net Profit Stable
+In 2019, South Africa posted a current account deficit of ZAR 72 billion (USD 5 billion), representing 3.1 percent of GDP.
+The South African Reserve Bank reported (http://Bloomberg.com",0.54423150902,,,,fr
+1,on_p50,200,1,2,"import React, { Component } from'react'
+import PropTypes from 'prop-types'
+import { connect } from'react-redux'
+import { Route, Switch } from'react-router'
+
+import { createStyles, withStyles } from '@material-ui/core",0.54423150902,,,,fr
+2,on_p50,200,1,3,"System and method for assessing vulnerability in a network
+System and method for assessing the vulnerability of a network. The system includes a system manager, which is a software program, running on a server. The system manager includes a database of information about various network conditions. The system manager configures a number of",0.54423150902,,,,fr
+3,on_p50,200,1,4,"# 1242
+
+Portal historique
+
+## Création
+
+* 3 février : le pape Grégoire IX érige Archidiocèse de Lausanne et évêché de Sion, autrefois les deux archiprêtrés de Laus",0.54423150902,,,,fr
+4,on_p50,200,1,5,"Rev. Joseph (Joe) W. Morwood Jr.
+Rev. Joseph (Joe) W. Morwood Jr., 79, of El Dorado, Ark., passed away Saturday, May 16, 2015, at his home.
+Joe was born on",0.54423150902,,,,fr
+5,on_p50,200,1,6,"2018 Honda CRF1100L: First Look
+Honda’s all-new Africa Twin gets a bigger engine and more power in the 2018 model year.
+BEST-SELLING DUAL-SPORT: The Africa Twin has",0.54423150902,,,,fr
+6,on_p50,200,1,7,"# Norbert Kercz
+
+Norbert Kercz (born 10 August 1971) is an Austrian soccer coach and former player. He is currently an Assistant Manager at SK Amstetten.
+
+Norbert Kercz
+
+## Career
+
+Kercz",0.54423150902,,,,fr
+7,on_p50,200,1,8,"Home > Opinion > 2015 > 12 > 23 > Kashmir from a US Perspective
+Kashmir from a US Perspective
+Kashmir has been a flash point in South Asia since 1947. It has been a source of conflict between",0.54423150902,,,,fr
+8,on_p50,200,1,9,"A Farewell to the Nutt House
+I wanted to wrap up the semester with a farewell to the Nutt House, the classroom building housing the EAP program. I have no idea why this building is called the Nutt Building, but I'll assume it has something to do with a",0.54423150902,,,,fr
+9,on_p50,200,1,10,"# Peixe-et-Tanader
+
+Peixe-et-Tanader ou Peixe-Tanader (en catalan Pouce-Tanader) est un personnage de la mythologie occitane.
+
+## Mythologie
+
+Il est un",0.54423150902,,,,fr
+10,on_p50,200,1,11,"A Grammar;
+Or, A General Introduction to the Grammars of the Greek Tongue,
+IN THREE BOOKS.
+By James Greenough,
+Professor of Ancient Languages, Harvard University.
+The Third Edition,
+BEING THE TEXT-BOOK A",0.54423150902,,,,fr
+11,on_p50,200,1,12,"#include <iostream>
+#include <functional>
+#include <algorithm>
+
+using namespace std;
+
+typedef pair<int, int> P;
+
+int main() {
+    int A[6], n;
+    cin >> n;
+
+    for (int",0.54423150902,,,,fr
+12,on_p50,200,1,13,"The Malibu Seaside Inn is located on the Pacific Coast Highway in Malibu, California, just 30 miles west of downtown Los Angeles.
+Guests will find the comforts of home in the seaside community of Malibu.
+The Malibu Seaside",0.54423150902,,,,fr
+13,on_p50,200,1,14,"News, Reviews and Features ‘A celebration of the human spirit’: IT IS EASY TO GET LOST – The Space Theatre
+‘A celebration of the human spirit’: IT IS EASY TO GET LOST – The Space Theatre
+In London theatre, Online shows, Opin",0.54423150902,,,,fr
+14,on_p50,200,1,15,"package com.github.jxen.pokerclient;
+
+import com.github.jxen.pokerclient.api.Round;
+import org.junit.jupiter.api.Test;
+import static org.hamcrest.MatcherAssert.assertThat;
+",0.54423150902,,,,fr
+15,on_p50,200,1,16,"Tags: python, pytorch, conv-neural-network
+
+Question: How to make Pytorch's Conv2d with three inputs?
+
+I want to write a method to sample a patch from the input image.
+
+The input image contains three channels.
+
+How can",0.54423150902,,,,fr
+16,on_p50,200,1,17,"# Tracéur
+
+Dans le domaine de la géodésie, un tracéur est un instrument de la technique géométrique permettant de tracer et de géométriser un élément géodésique grâce à une projection d'un rayon lumineux (las",0.54423150902,,,,fr
+17,on_p50,200,1,18,"#
+Vous êtes au centre de la terre
+De votre cellule, vous pouvez voir tous les couloirs et les serrures. Il y a des murmures et des cris comme dans une serre.
+Une voix très proche, celle de l'homme qui était",0.54423150902,,,,fr
+18,on_p50,200,1,19,"Our one of a kind Celtic Cross Pendant Necklace will surely leave you and your loved ones amazed with its beauty and quality. The Celtic Cross Pendant has a beautiful design with an intricate detailing of its Celtic knots and trinity knots.
+The Celt",0.54423150902,,,,fr
+19,on_p50,200,1,20,"# Gheorghe Hagi
+
+Gheorghe ""Gica"" Hagi (Bălan (Hongaria), le 5 février 1965) est un joueur et entraîneur de football et un homme politique roumain.
+
+## Carrière
+
+### J",0.54423150902,,,,fr
+20,on_p50,200,1,21,"# Leptotedroma
+
+Leptotedroma is een geslacht van hooiwagens uit de familie Sclerosomatidae.
+De wetenschappelijke naam Leptotedroma is voor het eerst geldig gepubliceerd door Crime, 1877. 
+
+## Soorten
+
+",0.54423150902,,,,fr
+21,on_p50,200,1,22,"package util
+
+import (
+	""bytes""
+	""encoding/json""
+	""fmt""
+	""io/ioutil""
+
+	""github.com/softlayer/softlayer-go/services""
+	""github.com/softlayer/softlayer-go",0.54423150902,,,,fr
+22,on_p50,200,1,23,"# Lijst van oorlogsmonuments in Veldhoven
+
+De Nederlandse gemeente Veldhoven afficheert 11 oorlogsmonumenten, voir la liste des mémoriaux aux Pays-Bas.
+
+## Zie ook
+
+* Lijst van oorlogs",0.54423150902,,,,fr
+23,on_p50,200,1,24,"# Jean-Victor Moreau
+
+Jean-Victor Moreau, né le 15 septembre 1828 à Nantes et mort le 21 décembre 1889 à Rome, est un sculpteur français du XIXe siècle, élève de James Prad",0.54423150902,,,,fr
+24,on_p50,200,1,25,"CNN anchor Don Lemon on Monday delivered an emotional monologue after visiting El Paso, Texas, and Dayton, Ohio, the sites of two separate mass shootings this weekend that left a total of 31 dead and at least 53 wounded.
+Lemon teared up Sunday",0.54423150902,,,,fr
+25,on_p50,200,1,26,"Nestled in the hills of Lake Arrowhead, California, the Arrowhead Pine Rose Cabins Resort is home to more than a dozen historic cabins. Spanning more than 27,000 square feet, these iconic buildings are steeped in history and make for a",0.54423150902,,,,fr
+26,on_p50,200,1,27,"The following was written by forum member, MilesKmester. As he was born in the year 1925 and has experiences a lot of what is shown here, we felt that his piece would be appreciated.
+I was born on the 14th September 1925 on a",0.54423150902,,,,fr
+27,on_p50,200,1,28,"Home Fashion and Style A GOOD HEALER SHOULD BE PERSONALLY A CONSCIENTIOUS HEALTH PATIENT
+A GOOD HEALER SHOULD BE PERSONALLY A CONSCIENTIOUS HEALTH PAT",0.54423150902,,,,fr
+28,on_p50,200,1,29,"Home/Économie/Uber's Silicon Valley rival, Lyft, is preparing to go public
+Uber's Silicon Valley rival, Lyft, is preparing to go public
+United States. Lyft has leaked its first IPO application documents 30 days before",0.54423150902,,,,fr
+29,on_p50,200,1,30,"09/15/2021 08/20/2021 DianaLeave a Comment on What You Can Perform About Law Criminal Firm Starting Within The Next 10 Minutes
+Courtroom proceedings can get very advanced, and a felony lawyer",0.54423150902,,,,fr
+30,on_p50,200,1,31,"A WWII U.S. Army Quartermaster Engineer officer's winter battledress uniform for a Major or Lieutenant Colonel, comprising a quilted pink cotton lining brown wool quartermaster field jacket and pants, with matching Major shoulder boards and a WWII",0.54423150902,,,,fr
+31,on_p50,200,1,32,"# Thamnium trigonum
+
+Thamnium trigonum là une espèce de plantes de la famille des Thamniaceae.
+
+Thamnium trigonum
+
+Classification selon Tropicos
+
+Espèce
+
+Thamnium trigonum(L.)",0.54423150902,,,,fr
+32,on_p50,200,1,33,"Rangers Best Red Sox 3-1, Now 5-1 in ALCS
+Rangers 3, Red Sox 1
+Brandon Webb #43 of the Texas Rangers celebrates with Ian Kinsler #5 after defeating the Boston Red Sox to win Game Three",0.54423150902,,,,fr
+33,on_p50,200,1,34,"Home » News » WWE Raw Results & Highlights | June 04 2018
+WWE Raw Results & Highlights | June 04 2018
+WWE Raw Results & Highlights | June 04 2018 – Here are the",0.54423150902,,,,fr
+34,on_p50,200,1,35,"# 铁岭市
+
+铁岭市，简称铁，古称辽北，是中华人民共和国黑龙江省下辖的地级市，位于黑",0.54423150902,,,,fr
+35,on_p50,200,1,36,"import os
+import unittest
+from collections import OrderedDict
+
+import numpy as np
+import pandas as pd
+
+import ravel as rv
+
+
+class TestCDF(unittest.TestCase):
+    @classmethod
+    def tearDown(cls):
+        for f",0.54423150902,,,,fr
+36,on_p50,200,1,37,"Ricky Rubio had a nice game in Minnesota’s loss to Miami Saturday, with 12 points on 7-for-11 shooting, five rebounds, seven assists and three steals.",0.54423150902,,,,fr
+37,on_p50,200,1,38,"# Kepulauan Chincha
+
+Kepulauan Chincha adalah kepulauan lepas pantai tranches di pantai dua desa di pantai dua desa di Latin dekat Chincha Alta et Baja (",0.54423150902,,,,fr
+38,on_p50,200,1,39,"# Legg Mason Tennis Classic 2004
+
+Der Legg Mason Tennis Classic 2004 war ein Tennisturnier, welches vom 2. au 8. août 2004 im Washingtoner Rock Creek Park Tennis Center im District of Columbia stattfand.",0.54423150902,,,,fr
+39,on_p50,200,1,40,"package com.github.megatronking.netbare.network.channel;
+
+import com.ciphertool.channel.Channel;
+import com.github.megatronking.netbare.channel.ChannelManager;
+import com.github.megatronking.net",0.54423150902,,,,fr
+40,on_p50,200,1,41,"package com.uber.autobahn.wiring.protobuf.rpc;
+
+import com.google.protobuf.Message;
+import com.uber.autobahn.wiring.protobuf.rpc.client.ClientStreamObserver;
+import com.uber.autobahn",0.54423150902,,,,fr
+41,on_p50,200,1,42,"Harry Potter: Wizards Unite Q&A with WB Games SVP David Haddad
+As the Samsung/Galaxy-exclusive Harry Potter: Wizards Unite continues to rollout worldwide, the interest is there and so is the excitement.
+Those",0.54423150902,,,,fr
+42,on_p50,200,1,43,"# Marc-Antoine Mure
+
+Marc-Antoine Mure dit « le Sr Mure », né à Genève vers 1725, et mort à Paris le 10 septembre 1785, est un peintre et miniaturiste genevois.
+",0.54423150902,,,,fr
+43,on_p50,200,1,44,"package com.semlink.explorer.advanced;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
+import org.apache.lucene.index.IndexReader;
+import org.apache.lucene",0.54423150902,,,,fr
+44,on_p50,200,1,45,"# Deku
+
+Net to smrt byli Deku a jeho otec zabiti vrahem, který se jmenoval Kacpa. Když se Deku narodil, Kacpa se dostal do Senku a vraždil. Deku nebyl sch",0.54423150902,,,,fr
+45,on_p50,200,1,46,"Planning an event in Hamilton? We've put together some of the most popular event venues and group hotel rooms for you. With at least 1 highly curated Hamilton locations to choose from, you can start planning for your social event today.
+If your parking lot is filling up, or Hamilton has",0.54423150902,,,,fr
+46,on_p50,200,1,47,"Rare Mewtwo Stampede--A Legend Is Born
+Posted on November 27, 2019 by Frog Cacher
+Mewtwo Stampede is a new coin in Pokemon GO that is sure to be a hit for all players at the start of the New",0.54423150902,,,,fr
+47,on_p50,200,1,48,"May 1, 2014 @ 5:00 pm–5:45 pm EDT
+« Webinar: “Reimagining the Public Schools: What Will It Take?”
+Tune in for a special live webcast of the 2014 Children’s",0.54423150902,,,,fr
+48,on_p50,200,1,49,"VIDEO: David Oyelowo discusses playing the lead in MOONLIGHT
+David Oyelowo discusses playing the lead in Barry Jenkins’ upcoming film MOONLIGHT. The film hits theaters on October 21st.
+After winning the best picture Oscar last",0.54423150902,,,,fr
+49,on_p50,200,1,50,"Home/News/Atiku: What I’ll do with oil produce in Niger Delta if elected
+Atiku: What I’ll do with oil produce in Niger Delta if elected
+Former Vice President and Peoples Democratic Party (PDP) presidential candidate, Atiku Abubakar",0.54423150902,,,,fr
+50,on_p50,200,1,51,"# John J. Suh
+
+John J. Suh is a South Korean-born American entrepreneur, and co-founder of Korbit, the first digital currency exchange and wallet in South Korea.
+
+Suh is the founder of fintech startup Clear Coin, a platform that impro",0.54423150902,,,,fr
+51,on_p50,200,1,52,"Tags: python, python-3.x, csv
+
+Question: Python : how to read csv file which has comma with custom delimiter
+
+I am trying to read csv file which has comma with custom delimiter.
+I tried writing the custom code but it doesn't work gives me the following error:
+",0.54423150902,,,,fr
+52,on_p50,200,1,53,"it's basically a textured concrete that's made by pouring concrete and then using a stamping device to depress into the concrete and then the concrete will form a design or a pattern when it's cured and hardened.
+These are the steps to pouring a stamped concrete pat",0.54423150902,,,,fr
+53,on_p50,200,1,54,"# Callixena pica
+
+Callixena pica is een vlinder uit de familie spinneruilen (Erebidae). De wetenschappelijke naam is pour la première fois publiée in 1854 par Francis Walker.
+
+De soort komt voor in tropisch Afrique.",0.54423150902,,,,fr
+54,on_p50,200,1,55,"# 乌赫塔
+
+乌赫塔（德语：）是德国北萊茵－西發利亞邦的一个市镇。总面积168.09",0.54423150902,,,,fr
+55,on_p50,200,1,56,"2013-2014 Graduate Catalog
+Master of Global Human Services (MGHS)
+The mission of the Graduate Counseling Program at Salve Regina University is to provide a high quality academic experience for students interested in a career in Mental Health, School Coun",0.54423150902,,,,fr
+56,on_p50,200,1,57,"“My last comment is that Kodak, as a member of the photographic community, should be pulling together to define what is best for the industry, not pulling it apart by blatantly disparaging a competitor in their new marketing efforts.”
+Wade Seyfred
+“We're not",0.54423150902,,,,fr
+57,on_p50,200,1,58,"Victoria Park, London, UK
+Wednesday 1.30pm - 3.30pm
+Urban Green is an opportunity for all of us to show our love for our wonderful urban parks.
+It's a special time when we can come together to enjoy, explore and",0.54423150902,,,,fr
+58,on_p50,200,1,59,"# Neal Fitzgerald
+
+Neal Fitzgerald (born 1958) is a retired American actor. He played the character of ""Bjorn"" in the 1985 film Rocky IV.
+
+## Early life
+
+Fitzgerald graduated from the University",0.54423150902,,,,fr
+59,on_p50,200,1,60,"<?php
+/**
+ * @file
+ * @ingroup Modify
+ * @ingroup Email
+ *
+ * This file contains the interface for email modification when the user is
+ * editing a page.
+ */
+
+$messages['en'] = array(
+	'email-confirm-",0.54423150902,,,,fr
+60,on_p50,200,1,61,"# 広島市立沼田中学校
+
+広島市立沼田中学校（ひろしましりつ ぬまだちゅうがっこう）は、広島県広",0.54423150902,,,,fr
+61,on_p50,200,1,62,"ASSORTED: my latest work in progress; God of the Hunt
+January 16, 2013 By: TempestAssorted
+Sunday morning I finished the rough draft of my newest work-in-progress, God of the Hunt. I’ll",0.54423150902,,,,fr
+62,on_p50,200,1,63,"PLEASE NOTE: Any tickets purchased with the intention of reselling will be cancelled and funds refunded. No exceptions.
+This ticket is intended for Members of the WESR Annual Meeting.",0.54423150902,,,,fr
+63,on_p50,200,1,64,"Du bist hier: Startseite / Microsites - Energy Shop / Stromwende 2.0
+Exploiting the EU energy efficiency potential
+The European Commission’s “Energy Efficiency Plan 2011” clearly shows that energy efficiency is becoming increasingly important as",0.54423150902,,,,fr
+64,on_p50,200,1,65,"NHS Information and Reporting
+Fairfield Community NHS Trust is committed to keeping patients, visitors and staff up to date with our most recent performance and money spent on NHS services. This report is based on the information published in the Dr Foster Hospital Guide October 2013.
+Fair",0.54423150902,,,,fr
+65,on_p50,200,1,66,"# Раци (виноград)
+
+Раци (Punica granatum) је листопадни сукулентни и нескладни, жбунастим стаблом, до 2–3 m visine, grâmâcev greben, krat",0.54423150902,,,,fr
+66,on_p50,200,1,67,"Chelsea target ‘incredibly worried’ about Eden Hazard’s recent comments
+Chelsea’s hopes of keeping Eden Hazard have taken yet another hit this week with the revelation that the Belgian is not planning to sign a new contract.
+Rumours of interest from",0.54423150902,,,,fr
+67,on_p50,200,1,68,"How to Invest in Bitcoin: A Beginner’s Guide
+Bitcoin has been the best-performing asset of the last decade. The value of the coin has risen from less than $1000 to over $19,000 at the time of writing.",0.54423150902,,,,fr
+68,on_p50,200,1,69,"Tags: c#, list, key, count
+
+Question: count a specific value from a list
+
+I have a list of objects, each containing a DateTime and a key, I wish to find the number of a specific key.
+
+\begin{code}
+Dictionary<string, string> dictionary =",0.54423150902,,,,fr
+69,on_p50,200,1,70,"#ifndef _WX_CMBORDER_H_
+#define _WX_CMBORDER_H_
+
+#if wxUSE_BORDER
+
+#include ""wx/defs.h""
+
+class wxArtProvider;
+class wxBitmap;
+class wxBuffer",0.54423150902,,,,fr
+70,on_p50,200,1,71,"Blog, Culture, Entertainment and Performance, Society and social sciences
+The Role of the Gendered Media in African Societies
+The people’s perceptions of gender are influenced by the images they see in the media. The portrayal of the strong, aggressive male and the submiss",0.54423150902,,,,fr
+71,on_p50,200,1,72,"A few weeks back, I was asked by a friend to help with an event she was putting on. She’s the owner of a small boutique who was offering discounts to mothers of new borns. It was a nice idea and I was happy to help out. The event was called “B",0.54423150902,,,,fr
+72,on_p50,200,1,73,"2013 – Bridging the Gap
+An important focus of the Museum’s work has been to build strong partnerships with local Aboriginal communities, organisations and individuals.
+Australian Hearing was a major sponsor for the revival of the Ninti One exhibition in ",0.54423150902,,,,fr
+73,on_p50,200,1,74,"# KBS2
+
+KBS2 (кор. KBS 2, англ. KBS2) — корейський загальнонаціональний телеканал, що належить корпорації Korean Broadcasting System, другий за важливістю канал після KBS ",0.54423150902,,,,fr
+74,on_p50,200,1,75,"# Szűrő-Kőszeg
+
+Szűrő-Kőszeg è un comune duro-ungherese della Romania, situé dans le județ de Vas.
+
+Il comune est formé par la réunion, en 2004, des",0.54423150902,,,,fr
+75,on_p50,200,1,76,"# David Hicks (disambiguation)
+
+David Hicks (born 1975) is an Australian Taliban fighter and convicted terrorist.
+
+David Hicks may also refer to:
+
+* David Hicks (cricketer) (1931–201",0.54423150902,,,,fr
+76,on_p50,200,1,77,"Challenging your students to think outside the box is a great way to help them grow and develop into more creative thinkers. With science experiments that involve animals, you can help your students learn how animals live and behave in a fun and engaging way.
+There are so many ways to learn about the world",0.54423150902,,,,fr
+77,on_p50,200,1,78,"# 胡稼
+
+胡稼（こ きょう、1981年10月16日 - ）は中国の遊戯具デザイナー、イラストレーター",0.54423150902,,,,fr
+78,on_p50,200,1,79,"# Алиния
+
+Алиния (лат. Alinia) — монотипний рід рослин родини холодкові (Asparagaceae), який містить лише один вид. Ареал виду — від Європи на заході до Ки",0.54423150902,,,,fr
+79,on_p50,200,1,80,"x1.title = ""Within This, I Am"";
+x1.tags = ""mp3, fade, rpg, game, music"";
+x1.dateCreated = ""2005-10-10T11:02:04Z"";
+x1",0.54423150902,,,,fr
+80,on_p50,200,1,81,"catants.
+
+=b&w=
+
+[Illustration:
+
+VIEW OF THE COURT AT THE CLOSE OF THE FÊTE.
+]
+
+=colophon=
+
+* * * * *
+
+THE LITTLE BROWN HOUSE",0.54423150902,,,,fr
+81,on_p50,200,1,82,"Taking the time to learn about how to go about the process of building a house, you will end up saving a good bit of money. If you do not understand the process, it is easy to pay more than necessary. With the information from this article you can cut your costs.
+Stop by your local home",0.54423150902,,,,fr
+82,on_p50,200,1,83,"The City of Hartford is seeking to hire a Telecommunicator (Dispatcher) for its Public Safety Communications Bureau. The Telecommunicator is responsible for answer all emergency calls for service and non-emergency calls from the public, for emergency medical, fire and police personnel, as well as for",0.54423150902,,,,fr
+83,on_p50,200,1,84,"# Yvonne Elliman
+
+Yvonne Marianne Elliman (født 29. desember 1951) er en amerikansk sanger og skuespiller. Hun er fattet som en av 1970-tallets sanger. Hun ble f",0.54423150902,,,,fr
+84,on_p50,200,1,85,"# [
+<?php
+include 'init_globals.php';
+?>]
+<?php
+
+// $par = parse_url($url);
+// $src = $par['host'];
+
+$cron_url = 'https://cron.cctobit.com/",0.54423150902,,,,fr
+85,on_p50,200,1,86,"A thoughtful formulation, a pleasing taste and a few simple steps to take throughout the year that will keep your bonsai healthy and happy.",0.54423150902,,,,fr
+86,on_p50,200,1,87,"Tags: vue.js, vuex
+
+Question: How to get data from vuex and put it in action from other component?
+
+\strong{This is my router.js which define 4 routes and I use vuex. store.getters.data}
+
+\begin{code}",0.54423150902,,,,fr
+87,on_p50,200,1,88,"This study was undertaken to systematically ascertain the relationship between the presence of the synechial bar and the prevalence of secondary lysis in the ovary. On the basis of previous studies of the ovary and its follicles by the present investigators, it was expected that secondary lysis",0.54423150902,,,,fr
+88,on_p50,200,1,89,"Dr. Subeesh V N
+Homeopath, Homeopathy Doctor
+Dr. Subeesh V N is a reputed Homeopathy Doctor in Mangalore, Mangalore. Dr. Subeesh V N has over 11 years of experience as a Homeopath",0.54423150902,,,,fr
+89,on_p50,200,1,90,"Premium flexible e-gift cards with full branding, excellent customer experience and no setup fees
+We're a group of friends who are passionate about gift cards and loyalty programs. We believe that the current state of gift cards is outdated and we're organising to make them better.",0.54423150902,,,,fr
+90,on_p50,200,1,91,"	. $this->load->view('admin/header');
+	?>
+	
+	<div class='content'>
+
+		<div class='container'>
+			<div class='left-content'>	
+				<br /><br />
+		",0.54423150902,,,,fr
+91,on_p50,200,1,92,"<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Productoption extends Model
+{
+    protected $table = 'product_option';
+
+    public function option()
+    {
+        return $this->belongsTo('App\Option",0.54423150902,,,,fr
+92,on_p50,200,1,93,"<?php
+namespace App\Traits;
+
+use Symfony\Component\Security\Core\Authentication\Token\Storage\TokenStorage;
+use Symfony\Component\Security\Core\Authentication\Token\TokenInterface;
+
+trait TokenAwareTrait
+{
+    /**
+    ",0.54423150902,,,,fr
+93,on_p50,200,1,94,"# 酢漿
+
+酢漿（すにょう）は、果物等を主原料とする酒造における一酒における最終段階までの発��",0.54423150902,,,,fr
+94,on_p50,200,1,95,"What is the official federal tax rate for 2021?
+What is the federal tax rate for 2021?
+What is the federal tax rate for 2021?Federal income tax brackets 2021. Taxable income. 2021 tax",0.54423150902,,,,fr
+95,on_p50,200,1,96,"AI Member Corner: AAAI’s New Focus on Accountability & Responsibility in AI R&D
+By: Guest Author | 29 Feb, 2020
+In December 2019, the American Association for Artificial Intelligence (",0.54423150902,,,,fr
+96,on_p50,200,1,97,"A transparent soap bubble is the perfect sphere, and it is not a surprise that artists and scientists have been fascinated by the properties of soap films for centuries.
+The big question was how did soap films form?
+General knowledge until the 1990s said that soap bubbles formed",0.54423150902,,,,fr
+97,on_p50,200,1,98,"# 仙后座
+
+仙后座（Poiss，代表符號為）擁有82顆視星等為或更暗的星體，但從地球",0.54423150902,,,,fr
+98,on_p50,200,1,99,"Two hundred thousand dollars is a lot of money for most homebuyers, but for one family, it was just enough to purchase a home. A while back, my husband and I toured a home in our town that was on the market for that exact amount. I’ve seen homes priced that way",0.54423150902,,,,fr
+99,on_p50,200,1,100,"A simple, strong ring with a contemporary pattern, this is a versatile piece of handmade silver jewellery which can be worn every day or on special occasions.",0.54423150902,,,,fr

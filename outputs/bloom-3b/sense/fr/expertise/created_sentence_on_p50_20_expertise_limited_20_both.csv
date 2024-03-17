@@ -1,0 +1,239 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,20,1,1,"El actual entrenador de los Bulls es un entrenador técnico y táctico, que sabe qué hacer y lo hace, con resultados, lo cual es un logro en este momento de la NBA. Pero, ha sido difícil. Los Bulls están en el puesto 20 de la División Central de la Conferencia Este, y un equipo que ocupa",0.5442122992499998,,,</s>,fr
+1,on_p50,20,1,2,"/* This file is part of the KDE libraries
+    Copyright (C) 2003 Michael Zahn <mzahn@kde.org>
+
+    This library is free software; you can redistribute it and/or
+    modify it under the terms of the GNU Library General Public
+    License version 2 as published by the Free Software Foundation.
+
+    This library",0.5442122992499998,,,</s>,fr
+2,on_p50,20,1,3,"#!/usr/bin/env python
+
+import os
+import sys
+import getopt
+
+from glob import glob
+from tempfile import mkdtemp
+from string import Template
+
+try:
+    from xml.etree import cElementTree as ET
+except ImportError:
+    from lxml import etree
+
+clf = Template(""""""",0.5442122992499998,,,</s>,fr
+3,on_p50,20,1,4,"Ce produit est un cadeau qui satisfait à la fois les enfants et les adultes, une bonne idée de cadeau à la fois en famille, en couple ou entre amis, parfait pour Noël, les anniversaires ou simplement comme cadeau de Noël.",0.5442122992499998,,,</s>,fr
+4,on_p50,20,1,5,"En este sentido, consideró que «se está haciendo una licitatón a nivel país» para el diseño y la implementación de los nuevos pasos en ambos lados de la frontera.
+«Es un proyecto muy importante», subrayó el ministro y recordó que el de Cobo d'extremadura es «un proyecto que se va a construir de",0.5442122992499998,,,</s>,fr
+5,on_p50,20,1,6,"Q:
+
+Verifying the equivalence of two described trigonometric identities
+
+I am having a hard time proving the equivalence of the two following described identities:
+$$\cos(\pi+\pi)=\frac{\sqrt(\pi)}2$$
+$$\cos(\pi+\pi/2)=2-\frac{\sqrt(\pi)}2",0.5442122992499998,,,</s>,fr
+6,on_p50,20,1,7,"Neuromorphisms
+Neuromorphic computing is an emerging field of research which aims to build a hardware platform for the non-conventional processing of intelligent data. Human brains are capable of performing vision, audio, and language processing by using limited resources and at low cost. The current state-of-the-art in silicon-based neuromorphic",0.5442122992499998,,,</s>,fr
+7,on_p50,20,1,8,"A polícia rodoviária federal (PRF) prendeu um homem de 37 anos, que pilotava um caminhão baú carregado com produtos perigosos, na BR-364, em Feira de Santana, na Bahia, no início da madrugada deste sábado (8).
+De acordo com a PRF, a abordagem",0.5442122992499998,,,</s>,fr
+8,on_p50,20,1,9,"The two queens, a member of the royal family of the United States, are the queens of the United States. They are the two queens of the United States of America. Texas Governor Rick Perry, who was named the new vice president, will be inaugurated on Wednesday.
+The current vice president of the",0.5442122992499998,,,</s>,fr
+9,on_p50,20,1,10,"Introduction
+Devised more than one century ago, the sea level curve (SLC) is a central aspect of hydrological and climatological models. The SLC is the local free surface elevation above the mean sea level (MSL) measured at sea and can be defined as the height of the water column",0.5442122992499998,,,</s>,fr
+10,on_p50,20,1,11,Showing 0 out of a total of 0 results for collection: Political Economy of the Poor and the Poor in Aotearoa-Nouvelle-Zélande (New Zealand) (0.86 sec),0.5442122992499998,,,</s>,fr
+11,on_p50,20,1,12,"A partir del lunes, 13 de enero, os estaréis viendo a través de la plataforma Zoom. Os animamos a que participéis como mejor os convenga, publicando el enlace en la sección de comentarios de Instagram o YouTube, o apuntándoselo a vuestra libreta de apuntes de la asignatura.
+",0.5442122992499998,,,</s>,fr
+12,on_p50,20,1,13,"Por todo esto y por más, se convoca a los señores Finitionistas a que el próximo sábado 5 de junio a las 10 de la mañana en el Palacio Municipal de esta ciudad, los funcionarios del municipio que lo conforman, se reúnan para discutir las diferentes cuestiones que afectan a la ciudad y luego se reúnan todos los",0.5442122992499998,,,</s>,fr
+13,on_p50,20,1,14,"Encontre aqui serviços de contabilidade para empreendedor local. Atuamos em todo o Brasil. Com uma equipe capacitada e com mais de 30 anos de experiência, somos o melhor parceiro de seu negócio!",0.5442122992499998,,,</s>,fr
+14,on_p50,20,1,15,"Q:
+
+How to pass an integer to a method in Java?
+
+I have the following method:
+public static ArrayList<Integer> getIntArray(int start, int end) {
+    ArrayList<Integer> result = new ArrayList<>();
+
+    for (int i = start; i < end; i++) {
+        result.add(i)",0.5442122992499998,,,</s>,fr
+15,on_p50,20,1,16,"Introduction
+The first symptoms of cancer are typically vague, non-specific, and nonspecific (1). This is a common problem in the context of a general practitioner (GP) office (2). In addition to absence of symptoms, the main issue is the lack of recognition of symptoms by the patients and physicians.",0.5442122992499998,,,</s>,fr
+16,on_p50,20,1,17,電話接通後，她走起來很緩慢，在路上走著，也想往回走 (要怎麼回到住處?)，可是卻一直走到了最方便的位置。被問到原因時，她說因為她身體不太好，走路會很慢。我想起我的家人，我自己的,0.5442122992499998,,,</s>,fr
+17,on_p50,20,1,18,"#!/usr/bin/env python
+# This script will create a configuration file for an API server that I have implemented.
+# This script will also generate an API key and add it to the list of keys in the config file.
+# AWS keys are required for the API server to function.
+
+# import the config from the repository
+",0.5442122992499998,,,</s>,fr
+18,on_p50,20,1,19,La méditation d’autoguérison est offerte en Français et/ou Anglais. Il est possible de prendre rendez-vous avec votre corps uniquement pour les soins corporels engagés dans le processus de guérison ou en combinaison avec la méditation.,0.5442122992499998,,,</s>,fr
+19,on_p50,20,1,20,"The information presented on this page is about the nearest places to Seignosse, France. All distances are provided to the nearest 0.1 mile and 0.1 km segments.
+Township Court Teens in Dialogue: Starting tomorrow, the Gwinnett County Circuit Court will host an annual program called Township",0.5442122992499998,,,</s>,fr
+20,on_p50,20,1,21,"Pour la Fête de la Musique, les élèves de cycle 3 sont partis à la rencontre de leurs voisins. Sur leur chemin vers la médiathèque, ils se sont arrêtés devant des instruments de musique.
+Ils ont posé beaucoup de questions aux personnes qui les accueillaient. Ils ont ainsi appris qu’il existait des instruments à",0.5442122992499998,,,</s>,fr
+21,on_p50,20,1,22,"Le fait que le texte des articles 1er, 3, 4, 5, 6 et 10 soit énoncé en termes généraux ne réduit pas le champ d'application des dispositions pénales incriminant les infractions de contamination intentionnelle ou frauduleuse de végétaux ou de denrées alimentaires. Il en va de même quand la loi est formulée en",0.5442122992499998,,,</s>,fr
+22,on_p50,20,1,23,"On sait que Marshall a écrit “THIEF’S PLACE” pour accompagner le clip de “PRIDE”, justifié par la manière dont il s’intitule. La vidéo de “PRIDE” était, en effet, très chargée de violence, et le fait que Marshall ait écrit “TH",0.5442122992499998,,,</s>,fr
+23,on_p50,20,1,24,"﻿/*
+ * Created by SharpDevelop.
+ * User: ntian
+ * Date: 2014/5/9
+ * Time: 11:26
+ * 
+ */
+namespace NewPayStore.Logic.Models
+{
+	/// <summary>
+	/// Represents the payment
+	/// </summary>
+	public interface IPaymentModel
+	{
+		///",0.5442122992499998,,,</s>,fr
+24,on_p50,20,1,25,"Le projet est porté par les associations Maison de la Vie Associative et Interco, et soutenu par le Grand Lyon, le Département du Rhône et la ville de Bron.",0.5442122992499998,,,</s>,fr
+25,on_p50,20,1,26,"Leur ambition : être le premier opérateur de services financiers au monde, en créant une valeur à la fois pour les clients et pour les salariés.
+Le groupe SOFICA compte 6 500 collaborateurs. L’ensemble des entités de SOFICA est rassemblé dans une structure unique qui constitue notre ADN et nos valeurs : SO",0.5442122992499998,,,</s>,fr
+26,on_p50,20,1,27,"Et voilà une nouvelle pièce de plus que j’essaie de réaliser. Elle est toute simple, je l’ai vue chez Beni Twit, dans le cadre de la semaine créative. Vous pouvez également la voir ici.
+La fenêtre est réalisée avec une demi rondelle (5 mm) de la taille de la surface que vous souhaitez",0.5442122992499998,,,</s>,fr
+27,on_p50,20,1,28,"There is no doubt that we are entering an era in which security is more important than ever. With the latest attacks becoming more sophisticated, attacks are becoming more widespread and intent on stealing vast amounts of data from organizations all across the world.
+As security threats grow more sophisticated with new tools, attacks, and growing usernames",0.5442122992499998,,,</s>,fr
+28,on_p50,20,1,29,"PHPDoc fournit des définitions complètes pour la plupart des opérations et fonctions sur les variables $this-> et protected afin de rendre votre code plus clair et plus facile à comprendre.
+La barre de titre de la fenêtre de PHPDoc se trouve dans le coin supérieur droit. En dessous de ce bouton, vous trouverez des boutons pouvant être utilisés pour",0.5442122992499998,,,</s>,fr
+29,on_p50,20,1,30,حكومتي وشعب مصر وشخصيات عامة ، بعد لقاء حسن صقر بمجلس الوزراء وعدد من الوزراء ، أمام مجلس النواب ، اليوم ، السبت ،، أكدوا أنه تم وضع خطة شاملة فى إطار برنامج الإصلاح السياسى والإداري للدولة ، وذلك لتحقيق التغيير والإصلاح الشامل الذي يحتاجه الشعب المصري.,0.5442122992499998,,,</s>,fr
+30,on_p50,20,1,31,"“Plusieurs études ont montré que les taux d’intérêt négatifs ont des effets négatifs ou nuls sur l’investissement, mais je ne crois pas que l’évolution de la Fed aura un impact majeur sur notre économie,” a indiqué Bob Eckstein, directeur de la recherche économique au Center for a New American Security.",0.5442122992499998,,,</s>,fr
+31,on_p50,20,1,32,"Les PME et les PMI ont en général une durée de vie plus longue que celles des grandes entreprises. C'est pourquoi, il est souvent plus efficace de consolider une PME plutôt que de créer une entreprise nouvelle. De plus, une structure avec un minimum de deux apporteurs de ressources financières et techniques est souvent plus stable qu'une entreprise",0.5442122992499998,,,</s>,fr
+32,on_p50,20,1,33,"Charles, le beau-frère de Vi, ne supporte pas du tout l’activité de son beau-père. Il le voit comme un occupant qui n’a aucun droit sur les photos de son épouse. Il en veut à Vi de chercher à en apprendre plus sur le passé de son beau-père. Et pour prouver qu’il veut garder",0.5442122992499998,,,</s>,fr
+33,on_p50,20,1,34,"- Ah, je vois. Mais vous êtes des mines de renseignements. Mon oncle, j'ai dit. Si vous en avez besoin, je vous rapporte des livres et des dictionnaires sur la Syrie auxquels j'accède facilement. Je vous les rendrai quand ma visite sera terminée.
+Il était encore long avant que je ne sois",0.5442122992499998,,,</s>,fr
+34,on_p50,20,1,35,"Q:
+
+Preventing a timer from running forever
+
+I'm trying to stop a timer from continually running. When I press pause, the timer stops, but it should not.
+Here's my code:
+int main()
+{
+    main();
+
+    return 0;
+}
+
+int main()
+{
+    clock_t startTime = clock()",0.5442122992499998,,,</s>,fr
+35,on_p50,20,1,36,"En cuanto al tema del libro, debo decir que sigue siendo una historia muy entretenida, aunque si, como digo, ya la has leído, notarás que avanza más lento. Creo que hay una evolución en esta saga muy buena. Es un libro que merece la pena leer si eres fanático de los zombis,",0.5442122992499998,,,</s>,fr
+36,on_p50,20,1,37,"عابد خزندار
+منذ أن قامت شركة أرامكو السعودية بترخيص استثمارات أجنبية في هذا البلد الحر (وهي منتهى العدالة والشفافية) حتى الآن لم يتم استلام المشروع كما ينص العقد ولا تزال الشركة تطالب بالمزيد من الأموال وتلجأ إلى شركات دولية ومؤسسات مالية لكي تحل الأزمة",0.5442122992499998,,,</s>,fr
+37,on_p50,20,1,38,"Je ne suis pas du tout un cinéphile, je ne suis pas un grand amoureux du cinéma, mais il y a un positionnement de notre société qui est de moins en moins favorable au cinéma et c’est à mon sens, au-delà des discours idéologiques, cette vision du cinéma qui est en train de se développer,",0.5442122992499998,,,</s>,fr
+38,on_p50,20,1,39,"Je suis prêt à faire tout cela. Je souhaite que la commune se charge de mettre en place un dispositif pour que la population puisse formuler cette demande.
+Le second point qui me préoccupe, c'est que lorsque les personnes se penchent sur leurs problématiques, deux situations se présentent : soit elles ne demandent rien, soit elles",0.5442122992499998,,,</s>,fr
+39,on_p50,20,1,40,"A partir de então, a empresa começou a investir no setor de telefonia celular e, em 2005, a partir da aquisição da participação da VIVO na TIM Brasil, deu início às suas operações como operadora e, em dezembro de 2015, tornou-se operadora única com a aquisição da empresa OI.
+Com base nas informações divulgadas",0.5442122992499998,,,</s>,fr
+40,on_p50,20,1,41,"Rated 5 di 5 oleh Fundy realiz pedido dari Awet dan halus nyaman. Warna hitam. Cocok banget untuk dipakai sehari-hari, enak di pakai dan nyaman juga.
+Rated 5 di 5 oleh Brinda dari Awet dan halus Cocok untuk traveling, karena ringan dan tidak terlalu tebal. Warna hitam yang cantik.",0.5442122992499998,,,</s>,fr
+41,on_p50,20,1,42,"Manufacturers of electronic equipment, smartphones, laptop computers and other electronic products all come up with new features and new designs. These products can be used in our daily lives in various applications. These items are popular for their high quality and attractive designs. This is why most of the people prefer these products over other items.",0.5442122992499998,,,</s>,fr
+42,on_p50,20,1,43,"Arquivo da categoria :Shipping
+Os Correios estão trabalhando diretamente com o setor de transporte aéreo para que todos os voos com destino ao Brasil sejam atendidos.Portanto, não há problemas em transportar itens que possam ser vistos por passageiros durante o voo.O problema é o item que precisa ser escondido ou transportado de",0.5442122992499998,,,</s>,fr
+43,on_p50,20,1,44,"“Occasionally, people talk about the way that they have trouble relating to other people,” said the original creator of the program, Matthew G. Norbury, PhD and professor of psychology at the University of Michigan, in an e-mail interview.
+“This is a program that shows how people really are, as opposed",0.5442122992499998,,,</s>,fr
+44,on_p50,20,1,45,A partir de la semana que viene se podrá disfrutar de la programación del festival de cine y su ciclo de cortometrajes y participar del taller y las proyecciones de largometrajes este año. Las actividades son gratuitas con previa inscripción y se desarrollarán del 12 al 19 de enero.,0.5442122992499998,,,</s>,fr
+45,on_p50,20,1,46,"Je l’ai dit dans mon précédent article sur le Samsung Galaxy S5, le capteur de l’iPhone 6 est supérieur en qualité à celui du Galaxy S5. Aujourd’hui, j’ai pu tester ce capteur sur l’iPhone 6.",0.5442122992499998,,,</s>,fr
+46,on_p50,20,1,47,Je vais te raconter la chose la plus drôle qui soit: les pâtes ont été une révélation. Ca fait des années que j’avais trouvé une recette de pâte aux champignons de Paris et cette recette m’avait beaucoup plus. J’avais mis plein de champignons et ça avait été parfait. Ensuite j’avais continué à chercher sur,0.5442122992499998,,,</s>,fr
+47,on_p50,20,1,48,"“We are delighted to have secured this partnership with the global leader in education and training,” said Dr. George Vang, President and Chief Executive Officer, ADOS Financial Services. “This is an important step in the development of ADOS’ offering, providing us access to a solid and diversified portfolio of highly",0.5442122992499998,,,</s>,fr
+48,on_p50,20,1,49,"Le Real Madrid a réalisé le doublé en remportant la Supercoupe d' Espagne, après avoir battu face à Levante (3-0) le club de la montagne montagneuse de Cadix.
+Les Madrilènes ont réalisé un match sans failles, obtenant ainsi leur cinquième Supercoupe d' Espagne, après celles remportées en 1992",0.5442122992499998,,,</s>,fr
+49,on_p50,20,1,50,"Oh, yeah, I’m sure there are some. But, there was no one there except the two boys. You can probably guess that, actually.",0.5442122992499998,,,</s>,fr
+50,on_p50,20,1,51,"La terre, les plantes, les animaux, les poissons, les hommes, les rochers, les montagnes, les volcans, les forêts, les rivières, les sentiers, les villes et les villages, tout est le reflet de cette grande boucle.
+Le guide de randonnée et les panneaux de leurs balises sont disposés en",0.5442122992499998,,,</s>,fr
+51,on_p50,20,1,52,"Q:
+
+CSS3 box-shadowes lines from edges
+
+I am trying to make a border box-shadow that lines from the outside of the box, but I can't really think of a way to do that yet. The below is what I'm looking to do and I tried using <transition> but that didn't work at all.",0.5442122992499998,,,</s>,fr
+52,on_p50,20,1,53,"Les bois de l'hypocotyle: Le bois de l'hypocotyle est fibreux, dur et cassant. Il est utilisé pour fabriquer des outils et des ustensiles.",0.5442122992499998,,,</s>,fr
+53,on_p50,20,1,54,"关于妇产科疾病的病因,一般医生都会说,女性在分娩的时候,由于母体的产道开大,或者新生儿的头部过大,都会引起环状沟的撕裂,使阴道、宫颈外口裂开,进而引起宫颈、阴道环状沟和阴道穹窿形成撕裂",0.5442122992499998,,,</s>,fr
+54,on_p50,20,1,55,"El Museo de la Industria Turística, en Manzanares, abre las puertas de su Museo con motivo de la celebración del 50 aniversario del inicio de la actividad de la empresa legalmente constituida en Sevilla como «Cooperativa de Consumidores y Usurarios por la Defensa y Aprovechamiento de los Recursos Naturales y Cultural",0.5442122992499998,,,</s>,fr
+55,on_p50,20,1,56,أجرى الفريق أول سمو الشيخ محمد بن زايد آل نهيان ولي عهد أبوظبي نائب القائد الأعلى للقوات المسلحة وحرمه سمو الشيخة فاطمة بنت مبارك آل نهيان، حفلاً في قصر الإمارات في أبوظبي، حضره عدد كبير من الشيوخ وكبار الضباط وبمشاركة حشد من القيادات المحلية والعسكرية والقي,0.5442122992499998,,,</s>,fr
+56,on_p50,20,1,57,"I. INTRODUCTION
+A MONG the advantages of a wireless sensor network (WSN) is the ability to provide location awareness. Location awareness is essential for many applications in wireless sensor networks. For example, localization algorithms are used for determining where a sensor node is located, how long it has been in the",0.5442122992499998,,,</s>,fr
+57,on_p50,20,1,58,"Q:
+
+ASP.NET Core and Async Execution
+
+I am trying to understand the async execution of ASP.NET Core. I have seen that some part of the application runs asynchronously and the rest of it asynchronously.
+I have built an application using ASP.NET Core MVC with a ServiceController which calls the REST API",0.5442122992499998,,,</s>,fr
+58,on_p50,20,1,59,"Les 34 recettes de pâte à tarte au chocolat de Christophe Michalak - Une recette pour tous - Cuisine et Vins de France
+Après avoir mangé du moelleux ou du fondant, des blinis ou des sablés, les tartelettes pâtissières sont la suite logique de la vie de France 3.
+",0.5442122992499998,,,</s>,fr
+59,on_p50,20,1,60,"Una plataforma de trabajo para las comunidades de mujeres y niñas que trabajan y viven en la economía informal
+En una primera visita se seleccionaron a 35 mujeres trabajadoras en la economía informal. En una segunda visita a las comunidades se analizó el proceso de inclusión de la mujer con discapacidad en el proyecto.
+A partir de esta segunda visita",0.5442122992499998,,,</s>,fr
+60,on_p50,20,1,61,"Y si no quieres que te hagan comentarios racistas en internet, tienes que aprender a decirles a todos que no. Y no me refiero a decirles que no, sino a que no les digas que no. No te pongas a hacerles un favor. Y más si tu amigo es nuevo en el mundo del",0.5442122992499998,,,</s>,fr
+61,on_p50,20,1,62,"Dans la continuité de l’actualité du live de la semaine dernière et du live d’avant-avant-avant-aventures vie owl, voici notre nouveau live pour la semaine suivante :
+Vous avez jusqu’au vendredi soir, 2 décembre pour envoyer vos propositions de live. Le jeu sera lancé le samedi 3 décembre et les lives",0.5442122992499998,,,</s>,fr
+62,on_p50,20,1,63,"Voici quelques connexes sur les services que nous pouvons produire pour vous, et que nous avons déjà réalisés pour d’autres clients.
+– La recherche d’une idée (identification de l’idée), puis la recherche de financement (identification du financement), puis la préparation du business plan (écriture du business plan).
+– La préparation de la société (identification",0.5442122992499998,,,</s>,fr
+63,on_p50,20,1,64," निश्चय ही, उसने जो कुछ कहा, उसे सुन कर मैं अपने आप को किसी ऐसे व्यक्ति के साथ मिला, जिसने इस बारे में जोर जोर से लिखा हो और वह लेखक, प्रेमचंद के साथ अपने संबंधों की yếuाइयां साझा करते हुए बोला।",0.5442122992499998,,,</s>,fr
+64,on_p50,20,1,65,"Listes électorales des communes de la circonscription législative du Bas-Rhin du 16 octobre 1813 - Archives départementales du Bas-Rhin
+Accueil >	Dossiers >	Dossiers thématiques >	Liste électorale des communes de la circonscription législative du Bas-Rhin du 16 octobre 1813
+Pierre Canvieville, Charles",0.5442122992499998,,,</s>,fr
+65,on_p50,20,1,66,"Nissan Sportage 2015 espanol. Mejor precio para el nuevo Nissan Sportage 2015 Espanol. Este Nissan Sportage rebajado y con pocos kilometros, esta como nuevo y con motor 1.6 v6. Visita nuestro catalogo de autos Nissan Sportage 2015 nuevos a la venta en",0.5442122992499998,,,</s>,fr
+66,on_p50,20,1,67,"Il existe beaucoup de manières de découvrir les prétextes et les excuses, mais en voici quelques-unes qui vont vous intéresser. Tout d’abord, il y a le manque d’imagination. Les excuses de ce genre sont celles qui ne sont pas originales.
+Autre exemple : le manque d’engagement, car les excuses de ce",0.5442122992499998,,,</s>,fr
+67,on_p50,20,1,68,"Oh, yeah.
+That's right, my good boy.
+Hey, what are you doing, Donald Duck?
+No, you're not.
+He was Michael Jackson.
+Michael Jackson?
+This is a joke, yes?
+No, no, no, no.
+His son.
+He was sad, and he asked me to send him something",0.5442122992499998,,,</s>,fr
+68,on_p50,20,1,69,"ptions have to be done, and then the designer has to test the app with him, or some other person, to make sure that everything works as expected.
+Make the line focused, like showing that the word is blurred in the center and then it has a black box on it. The black box should have to",0.5442122992499998,,,</s>,fr
+69,on_p50,20,1,70,"Para algunas personas, el rinoceronte es uno de los animales más desagradables que pueden existir. Sin embargo, en la India, esta especie es muy popular como símbolo de paz y felicidad. Aunque la mayoría de la gente lo vea como un animal verdaderamente aterrador, el rinoceronte es mucho más que eso.",0.5442122992499998,,,</s>,fr
+70,on_p50,20,1,71,"Now that we’ve established what we understood about annuities, let’s take a look at some of the most common questions we get asked by our customers.
+Why would I want to buy an annuity? The answer is simple – you can get a cash lump sum or a very large cash payment once in your retirement",0.5442122992499998,,,</s>,fr
+71,on_p50,20,1,72,"Converse con los que han tomado ya la decisión de solicitar la ventaja de un préstamo urgente, te ayudarán a encontrar la mejor solución para tu empeño.
+En Internet puedes encontrar una gran variedad de sitios de préstamos rápidos online. En Internet hay mucha publicidad engañosa.
+Es muy importante diferenciar entre un préstamo rápido y un",0.5442122992499998,,,</s>,fr
+72,on_p50,20,1,73,"Bonne nouvelle pour les fans de séries télévisées et de films : la nouvelle collection de jolis puzzles de différents formats sera composée de 44 pièces de La Guerre des Étoiles. La marque à la pomme vient de dévoiler les nouvelles références qui seront disponibles dans les rayons...
+Pour fêter la sortie de leur",0.5442122992499998,,,</s>,fr
+73,on_p50,20,1,74,"L'Assemblée parlementaire de la Francophonie (APF), en coopération avec la Représentation permanente du Suriname auprès de l'Organisation des Nations Unies, l'Institut français et l'Université du Suriname, coorganise une conférence ministérielle sur la Francophonie et la justice, le mercredi 5 novembre 2011 de 10 heures à 13 heures et de 15",0.5442122992499998,,,</s>,fr
+74,on_p50,20,1,75,"Pour la rentrée 2018-2019, une première de toute beauté : le collège privé Jehan de Joyeuse à Breil-sur-Roya s’est doté d’un nouvel espace dédié aux arts visuels, autour d’un parcours pédagogique « art et numérique ».",0.5442122992499998,,,</s>,fr
+75,on_p50,20,1,76,"Cette optique de lecture est utile pour réaliser des relevés poissonnicoles ou des relevés de faune piscicole. L’objectif est aussi très intéressant pour photographier les insectes, poissons et crustacés. Son faible encombrement permet de l’emmener où vous voulez. Elle possède un champ de vision de",0.5442122992499998,,,</s>,fr
+76,on_p50,20,1,77,"El Gobierno pide a los proveedores de la dependencia que retiren su concurso por el despido de 850 empleados - Diario16
+El Gobierno pide a los proveedores de la dependencia que retiren su concurso por el despido de 850 empleados
+La Vicepresidencia Segunda ha trasladado a los representantes de los 85.000 proveedores de la Administración General",0.5442122992499998,,,</s>,fr
+77,on_p50,20,1,78,"Molly is an Associate Professor of Japanese Studies at the University of California, Davis, where she has served as Director of the Graduate Program in Japanese Studies. Her research focuses on the history of Japanese American studies, Japanese studies as a cultural and political formation, foreign policy studies of Japan, and Japanese studies in popular",0.5442122992499998,,,</s>,fr
+78,on_p50,20,1,79,Koh Samui Cruise Sightseeing – Relax and unwind at our exclusive spa retreat. Enjoy treatments and massages by our expert therapists at a private villa in Koh Samui.,0.5442122992499998,,,</s>,fr
+79,on_p50,20,1,80,"L'application de ce logiciel spirituelle aura pour effet de vous libérer du stress et de vous permettre d'améliorer votre environnement quotidien.
+Avez-vous des difficultés à vous connecter avec votre entourage (famille, amis, collègues etc.)? Avez-vous du mal à communiquer avec les autres? Vous sentez-vous triste ou seul? Vous",0.5442122992499998,,,</s>,fr
+80,on_p50,20,1,81,"En 2008, alors que la liste Ni Putes Ni Soumises arrive en tête des suffrages, François Hollande se montre favorable à un mariage pour tous. Mais en 2011, il doit renoncer à se représenter à la présidence de la République.",0.5442122992499998,,,</s>,fr
+81,on_p50,20,1,82,"Lors de ce championnat des champion, nos 11 joueurs-minimes ont su prendre leurs marques, malgré les conditions difficiles, mais aussi gérer les imprévus (individuel, relèves, rencontres...). Ils ont, ainsi, montré beaucoup de talent, de générosité, de sérieux et de sérieux. Bravo à tous!
+Merc",0.5442122992499998,,,</s>,fr
+82,on_p50,20,1,83,3. 在试吃中消费者将品尝样品由入口到内脏，最后到尾部，将样品从口中拽出，仔细观察样品外的颜色是否均匀一致，是否容易散裂，无任何内部损伤，食物成分是否与标签一致，口感是否正常，有无异味。在抽,0.5442122992499998,,,</s>,fr
+83,on_p50,20,1,84,"En ce qui concerne le référencement naturel, commençons par le début. Est-ce que Google s’intéresse à mon site web? Comment utiliser le méta-titre? Quelles sont les tendances du référencement SEO en 2020? Comment optimiser son contenu? Comment structurer ma page? Comment utiliser les balises HTML? Conclusion :",0.5442122992499998,,,</s>,fr
+84,on_p50,20,1,85,"- Hola,les doy la bienvenida a esta sección de la radio, en donde encontraremos noticias del deporte del motor, de la actualidad, novedades de equipos, pilotos, automóviles y mucho más, en este programa, vamos a estar hablando de Carlos Sainz, ya que esta semana se a incorporado a Toyota y Subaru,",0.5442122992499998,,,</s>,fr
+85,on_p50,20,1,86,12月5日，由重庆日报报业集团主办的“2019今日重庆开放日”活动在渝举行。重庆日报报业集团党委书记、总编辑曾令杰在活动中表示，重庆正全面落实《国家开放发展总体战略》和中央经济工作会议精神，加快建设内陆开放型经济高地，让,0.5442122992499998,,,</s>,fr
+86,on_p50,20,1,87,"Notre entreprise Rénovation Lyon Expert intervient sur votre porte blindée, votre porte de cave ou de maison en respectant votre budget et en respectant les normes de sécurité en vigueur.
+Le serrurier Lyon Expert vous garantit une intervention dans les 24h suivant votre appel. Il prend donc en charge votre dépannage dans son",0.5442122992499998,,,</s>,fr
+87,on_p50,20,1,88,"Les Canadiens pourront utiliser leurs cartes de crédit ou de débit. Les titulaires de cartes de crédit de Visa et de MasterCard pourront utiliser leurs cartes pour payer leurs factures en ligne, avec leurs points, en ligne dans les endroits suivants :",0.5442122992499998,,,</s>,fr
+88,on_p50,20,1,89,"Déjeuner dans la fôret, Ballade en canoë, Flâneurs dans le village, Soirée dans les pubs et restaurants de la région, Excursion sur le fleuve, Le lac à partir de 600 $ à l'aller et retour, Excursion sur la lagune de la rivière, Excursion en",0.5442122992499998,,,</s>,fr
+89,on_p50,20,1,90,"Il a ensuite apporté quelques précisions sur le financement de la mesure puis annoncé que la ""Prime au mérite"", qui a été retirée du site de la préfecture, devait être remplacée par ""La prime au mérite"", à hauteur de 30 000 € pour les fonctionnaires et 70 000 € pour les contractuels, pour",0.5442122992499998,,,</s>,fr
+90,on_p50,20,1,91,"Ahora en la página de destino, deberías ver una imagen en miniatura que representa el producto o servicio que creaste, junto con un botón de compra. También verás una descripción del artículo, la información del producto y el precio, todo en la pestaña de Descripción.
+En la pestaña de Descripción",0.5442122992499998,,,</s>,fr
+91,on_p50,20,1,92,"La randonnée est en soi une activité sportive. Elle sollicite le corps et la méditation. Elle nécessite de l’espace, et le terrain de randonnée est généralement assez large. Elle est le seul genre de randonnée à être possible dans la plupart des régions. La randonnée est une activité intensive et qui demande des efforts. Elle peut",0.5442122992499998,,,</s>,fr
+92,on_p50,20,1,93,"Ce contenu a été publié dans Dessin animés par Bill, et marqué avec Anime, Bladerunner, Dessin animé, Hollywood, Léa Fédé, Ludi, Légendaires, Melvin, Movie, Soda. Mettez-le en favori avec son permalien.
+La rumeur",0.5442122992499998,,,</s>,fr
+93,on_p50,20,1,94,"Hướng dẫn vay tiền bằng CMND Nam Bình Hội An, được hỗ trợ bởi các ngân hàng công ty tài chính uy tín ở Nam Bình Hội An, thủ tục vay đơn giản, đăng ký hồ sơ vay cmnd online xét duyệt nhanh, đã có nhiều người ở Nam Bình Hội An vay thành công chỉ cần",0.5442122992499998,,,</s>,fr
+94,on_p50,20,1,95,"Múrcia, 3 abr (EFE).- El centrocampista del Granada Carlos Neva, recuperado ya de su lesión muscular, regresa a la convocatoria del equipo andaluz para el partido de este sábado ante el Nàstic, que se disputará en La... [+]
+Alicante, 3 abr (EFE).- La",0.5442122992499998,,,</s>,fr
+95,on_p50,20,1,96,,0.5442122992499998,,,</s>,fr
+96,on_p50,20,1,97,"Les cartouches d'encre pour les imprimantes EPSON sont fabriquées dans le respect de l'environnement et de la santé et offrent un rendement élevé. Très économique, elles permettent de réduire durablement les consommables et les coûts des impressions.
+Au-delà de l'encre utilisée, la technicité de l'impression en fait une des",0.5442122992499998,,,</s>,fr
+97,on_p50,20,1,98,"Nhằm lấy lại niềm tin của người tiêu dùng trong bối cảnh thuế bảo vệ môi trường xăng dầu tăng mạnh mẽ, Đại biểu Quốc hội tiếp tục kiến nghị Chính phủ xem xét thực hiện giảm thuế nhập khẩu nguyên liệu sản xuất xăng dầu, nhất là trong bối cảnh giá xăng dầu thế giới không ngừng tăng.",0.5442122992499998,,,</s>,fr
+98,on_p50,20,1,99,"En tant que marque de commerce, nous nous engageons à protéger la vie privée de nos clients et de nos partenaires.
+• Les informations recueillies via ce formulaire sont enregistrées dans un fichier informatisé par notre agence pour la gestion des demandes de contact. Elles sont conservées pendant trois ans et sont destinées à l'équipe de Dol",0.5442122992499998,,,</s>,fr
+99,on_p50,20,1,100,"Le travail avec la matière végétale semble une évidence pour ces créateurs, mais en fait est une véritable révélation. Comme à son habitude.",0.5442122992499998,,,</s>,fr

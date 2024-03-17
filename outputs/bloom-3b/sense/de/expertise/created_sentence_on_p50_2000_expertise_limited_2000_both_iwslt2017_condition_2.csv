@@ -1,0 +1,1105 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,2000,1,1,"Translate an English sentence into a target language.
+English: The Apollo program was the greatest peacetime mobilization in the history of the United States.
+Target Language: German
+German : The Apollo program was the greatest peacetime mobilization in the history of Germany.
+German : The Apollo program was the greatest peacetime mobilization in the history of Germany.
+German : The Apollo program was the greatest peacetime mobilization in the history of Germany.
+German : The Apollo program was the greatest peacetime mobilization in the history of Germany.
+German : The Apollo program was the greatest peacetime mobilization in the history of Germany.
+German : The Apollo program was the greatest peacetime mobilization in the history of Germany.
+German : The Apollo program was the greatest peacetime mobilization in the history of Germany.
+",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+1,on_p50,2000,1,2,"Translate an English sentence into a target language.
+English: And I want you to see, this is Fuku, a young female, and she is quietly playing with water.
+Target Language: And ich möchte Sie zu sehen, this ist Fuku, eine jungen Frau, und sie ist schlecht mit dem Wasser.
+German (German): And ich möchte Sie zu sehen, this ist Fuku, eine jungen Frau, und sie ist schlecht mit dem Wasser.
+German (German): And ich möchte Sie zu sehen, this ist Fuku, eine jungen Frau, und sie ist schlecht mit dem Wasser.
+German (German): And ich möchte Sie zu sehen, this ist Fuku, eine j",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+2,on_p50,2000,1,3,"Translate an English sentence into a target language.
+English: So I think we're at a kind of impasse here.
+Target Language:
+So I think we're at a kind of impasse here.
+English: I think we should be able to find a solution.
+Target Language:
+I think we should be able to find a solution.
+English: I think we should be able to find a solution.
+Target Language:
+I think we should be able to find a solution.
+English: I think we should be able to find a solution.
+Target Language:
+I think we should be able to find a solution.
+English: I think we should be able to find a solution.
+Target Language:
+I think we should be able to find a solution.
+English: I think",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+3,on_p50,2000,1,4,"Translate an English sentence into a target language.
+English: We can create much more complicated structures with slightly different arrangements, kind of like making Spirograph.
+Target Language: We can create much more complicated structures with slightly different arrangements, kind of like making Spirograph.
+English: The German word for “spiral” is Spiral. The German word for “spiral” is Spiral.
+English: The German word for “spiral” is Spiral. The German word for “spiral” is Spiral.
+English: The German word for “spiral” is Spiral. The German word for “spiral” is Spiral.
+English: The German word for “spiral” is Spiral. The German word for “spiral” is Spiral.
+English: The German",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+4,on_p50,2000,1,5,"Translate an English sentence into a target language.
+English: I remember I was talking with a midwife who said, ""Well, you see, the problem is it takes longer to do the paperwork than to deliver the baby.""
+Target Language: I remember I was talking with a midwife who said, ""Was ist das Problem? Das ist das Problem, dass das Paperwork ist zu langer als das Geburtstag zu betrachten.""
+German (German): Ich weiß, dass ich mit einer midwife gesehen habe, dass sie mir gesagt, ""Was ist das Problem? Das ist das Problem, dass das Paperwork ist zu langer als das Geburtstag zu betrachten.""
+German (German): Ich weiß, dass ich mit einer midwife gesehen habe, dass",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+5,on_p50,2000,1,6,"Translate an English sentence into a target language.
+English: For instance, the obesity rate in my neighborhood is five times higher than, say, Beverly Hills, which is probably eight, 10 miles away.
+Target Language: In German, this would be called “zwölf oder häufte” (“zwei oder hoch”). In German, this would be called “zwölf oder häufte” (“zwei oder hoch”).
+German is a language with a lot of different grammatical structures. The German verb “zwölf oder häufte” (“zwei oder hoch”) is a perfect example of this. It is used to describe a situation in which something is much more than it should be. In German, this is called “zwölf oder h",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+6,on_p50,2000,1,7,"Translate an English sentence into a target language.
+English: So when I was eight years old, I was at a fiesta in the Philippines celebrating these mysteries.
+Target Language: So when I was eight years old, I was at a fiesta in the Philippines celebrating these mysteries.
+German (German): So when I was eight years old, I was at a fiesta in the Philippines celebrating these mysteries.
+German (German): So when I was eight years old, I was at a fiesta in the Philippines celebrating these mysteries.
+German (German): So when I was eight years old, I was at a fiesta in the Philippines celebrating these mysteries.
+German (German): So when I was eight years old, I was at a fiesta in the Philippines celebrating these myst",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+7,on_p50,2000,1,8,"Translate an English sentence into a target language.
+English: It brings together image and text and animation and sound and touch.
+Target Language: Die bild und das text und das animation und das sound und das zu tunen.
+German (German): Die bild und das text und das animation und das sound und das zu tunen.
+English (English): Die bild und das text und das animation und das sound und das zu tunen.
+German (German): Die bild und das text und das animation und das sound und das zu tunen.
+English (English): Die bild und das text und das animation und das sound und das zu tunen.
+German (German): Die bild und das text und das animation und das sound und das zu tunen.
+English",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+8,on_p50,2000,1,9,"Translate an English sentence into a target language.
+English: I thought ""Turn the camera off"" meant, ""Let's have an off-the-record conversation.""
+Target Language: Ich wollte ""Turn off die Kamera auf"" bedeutet, ""Let's have an off-the-record conversation.""
+German (German): Ich wollte ""Turn off die Kamera auf"" bedeutet, ""Let's have an off-the-record conversation.""
+English (English): Ich wollte ""Turn off die Kamera auf"" bedeutet, ""Let's have an off-the-record conversation.""
+German (German): Ich wollte ""Turn off die Kamera auf"" bedeutet, ""Let's have an off-the-record conversation.""
+English (English)",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+9,on_p50,2000,1,10,"Translate an English sentence into a target language.
+English: That's ammunition that they can take with them to the mayor of Livingston, to the people of Livingston, and say, there's no one answer to what a library is today.
+Target Language: Die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition, die ammunition",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+10,on_p50,2000,1,11,"Translate an English sentence into a target language.
+English: Before I close though, let me tell you about my grandmother.
+Target Language: German
+German :
+Ich habe gehört zu meinem vater.
+English:
+Ich habe gehört zu meinem vater.
+German :
+Ich habe gehört zu meinem vater.
+English:
+Ich habe gehört zu meinem vater.
+German :
+Ich habe gehört zu meinem vater.
+English:
+Ich habe gehört zu meinem vater.
+German :
+Ich habe gehört zu meinem vater.
+English:
+Ich habe gehört zu meinem vater.
+German :
+Ich habe gehört zu meinem vater.
+",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+11,on_p50,2000,1,12,"Translate an English sentence into a target language.
+English: And you can ask: What happens to these moments?
+Target Language: Wie die Zeit auf diese Zeiten?
+English: And you can ask: What happens to these moments?
+Target Language: Wie die Zeit auf diese Zeiten?
+English: And you can ask: What happens to these moments?
+Target Language: Wie die Zeit auf diese Zeiten?
+English: And you can ask: What happens to these moments?
+Target Language: Wie die Zeit auf diese Zeiten?
+English: And you can ask: What happens to these moments?
+Target Language: Wie die Zeit auf diese Zeiten?
+English: And you can ask: What happens to these moments?
+English: And you can ask: What happens to these",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+12,on_p50,2000,1,13,"Translate an English sentence into a target language.
+English: In other words, sugar pills  have a measurable effect in certain kinds of studies,  the placebo effect,  just because the person thinks  that what's happening to them is a pharmaceutical  or some sort of a --  for pain management, for example,  if they believe it enough there is a measurable effect in the body  called the placebo effect.
+Target Language: Diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diepstädter, diep",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+13,on_p50,2000,1,14,"Translate an English sentence into a target language.
+English: Well every one of those generations just takes a few milliseconds.
+Target Language:
+Ich habe gehört zuerst zu Deutsch und Deutsch zu Englisch.
+English:
+Ich habe gehört zuerst zu Deutsch und Deutsch zu Englisch.
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch
+German Deutsch Englisch",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+14,on_p50,2000,1,15,"Translate an English sentence into a target language.
+English: And because government ultimately derives its power from us -- remember ""We the people?"" -- how we think about it is going to effect how that change happens.
+Target Language: And because government ultimately derives its power from us -- remember ""We the people?"" -- how we think about it is going to effect how that change happens.
+English: And because government ultimately derives its power from us -- remember ""We the people?"" -- how we think about it is going to effect how that change happens.
+English: And because government ultimately derives its power from us -- remember ""We the people?"" -- how we think about it is going to effect how that change happens.
+English: And because government ultimately derives its power from us -- remember ""We the people?"" -- how we think about it is going to",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+15,on_p50,2000,1,16,"Translate an English sentence into a target language.
+English: I learned a lot about science. But I also learned a lot  about leadership.
+Target Language: I learned a lot about leadership. But I also learned a lot about science.
+Ich habe gehört zu viel über die Wissenschaft. Aber ich also habe gehört zu viel über die Leidenschaft.
+Ich habe gehört zu viel über die Leidenschaft. Aber ich also habe gehört zu viel über die Wissenschaft.
+Ich habe gehört zu viel über die Leidenschaft. Aber ich also habe gehört zu viel über die Wissenschaft.
+Ich habe gehört zu viel über die Leidenschaft. Aber ich also habe gehört zu viel über die Wissenschaft.
+",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+16,on_p50,2000,1,17,"Translate an English sentence into a target language.
+English: They live in an environment of chemosynthesis.
+Target Language: They live in an environment of chemosynthesis.
+German : They live in an environment of chemosynthesis.
+German : They live in an environment of chemosynthesis.
+German : They live in an environment of chemosynthesis.
+German : They live in an environment of chemosynthesis.
+German : They live in an environment of chemosynthesis.
+German : They live in an environment of chemosynthesis.
+German : They live in an environment of chemosynthesis.
+German : They live in an environment of chemosynthesis.
+German : They live in an environment of chemosynthesis.
+German : They live in an environment of chemos",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+17,on_p50,2000,1,18,"Translate an English sentence into a target language.
+English: So, I was completely smitten by this,  and had to do more.
+Target Language: So, ich habe gehört mit dem und habe zuerst gehört zu.
+English: So, ich habe gehört mit dem und habe zuerst gehört zu.
+Target Language: So, ich habe gehört mit dem und habe zuerst gehört zu.
+English: So, ich habe gehört mit dem und habe zuerst gehört zu.
+Target Language: So, ich habe gehört mit dem und habe zuerst gehört zu.
+English: So, ich habe gehört mit dem und habe zuerst gehört zu.
+Target Language: So, ich habe gehört mit dem und habe zuerst gehört zu.
+English",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+18,on_p50,2000,1,19,"Translate an English sentence into a target language.
+English: In terms of the other self, the remembering self,  you get a different story.
+Target Language: In terms of the other self, the remembering self,  you get a different story.
+English: In terms of the other self, the remembering self,  you get a different story.
+Target Language: In terms of the other self, the remembering self,  you get a different story.
+English: In terms of the other self, the remembering self,  you get a different story.
+Target Language: In terms of the other self, the remembering self,  you get a different story.
+English: In terms of the other self, the remembering self,  you get a different story.
+Target Language: In terms of the other",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+19,on_p50,2000,1,20,"Translate an English sentence into a target language.
+English: It's not enough by itself.
+Target Language: Das ist nicht zu gute.
+English: Das ist nicht zu gute.
+Target Language: Das ist nicht zu gute.
+English: Das ist nicht zu gute.
+Target Language: Das ist nicht zu gute.
+English: Das ist nicht zu gute.
+Target Language: Das ist nicht zu gute.
+English: Das ist nicht zu gute.
+Target Language: Das ist nicht zu gute.
+English: Das ist nicht zu gute.
+Target Language: Das ist nicht zu gute.
+English: Das ist nicht zu gute.
+Target Language: Das ist nicht zu gute.
+English: Das ist nicht zu g",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+20,on_p50,2000,1,21,"Translate an English sentence into a target language.
+English: It senses what I want to do, where I want to go, and then augments my strength and endurance.
+Target Language: I want to go to the cinema. I want to be stronger. I want to be able to run faster.
+German (German): I want to be able to run faster. I want to be able to run faster. I want to be able to run faster.
+English (English): I want to be able to run faster. I want to be able to run faster. I want to be able to run faster.
+German (German): I want to be able to run faster. I want to be able to run faster. I want to be able to run faster.
+English (English): I want to be",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+21,on_p50,2000,1,22,"Translate an English sentence into a target language.
+English: So, what reality do we want to call into existence:  a person who is limited, or a person who's empowered?
+Target Language: A person who is limited, or a person who's empowered?
+English: So, what reality do we want to call into existence:  a person who is limited, or a person who's empowered?
+Target Language: A person who is limited, or a person who's empowered?
+English: So, what reality do we want to call into existence:  a person who is limited, or a person who's empowered?
+Target Language: A person who is limited, or a person who's empowered?
+English: So, what reality do we want to call into existence:  a person who is limited, or a person who's empowered",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+22,on_p50,2000,1,23,"Translate an English sentence into a target language.
+English: You know, my favorite part of being a dad is the movies I get to watch.
+Target Language: Mein Freund ist mein Schüß.
+English: Mein Freund ist mein Schüß.
+German ist mein Schüß.
+German ist mein Schüß.
+German ist mein Schüß.
+German ist mein Schüß.
+German ist mein Schüß.
+German ist mein Schüß.
+German ist mein Schüß.
+German ist mein Schüß.
+German ist mein Schüß.
+German ist mein Schüß.
+German ist mein Schüß.
+German ist mein Schüß.
+German ist mein Schüß.
+German ist mein Schüß.
+German ist mein Schüß.
+German ist mein",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+23,on_p50,2000,1,24,"Translate an English sentence into a target language.
+English: And that's because those fanatics that were driving me crazy  weren't actually fanatics at all.
+Target Language: Die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fanatischen, die die fan",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+24,on_p50,2000,1,25,"Translate an English sentence into a target language.
+English: And it turns out that making it feel more concrete can actually be a very positive tool to use in getting people to save more.
+Target Language: And it turns out that making it feel more concrete can actually be a very positive tool to use in getting people to save more.
+English: And it turns out that making it feel more concrete can actually be a very positive tool to use in getting people to save more.
+English: And it turns out that making it feel more concrete can actually be a very positive tool to use in getting people to save more.
+English: And it turns out that making it feel more concrete can actually be a very positive tool to use in getting people to save more.
+English: And it turns out that making it feel more concrete can actually be a very positive",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+25,on_p50,2000,1,26,"Translate an English sentence into a target language.
+English: Another tactic that he used is he would dangle a dollar bill in front of me and have me chase it.
+Target Language: He would dangle a dollar bill in front of me and have me chase it.
+English: He would dangle a dollar bill in front of me and have me chase it.
+German : He would dangle a dollar bill in front of me and have me chase it.
+German : He would dangle a dollar bill in front of me and have me chase it.
+English: He would dangle a dollar bill in front of me and have me chase it.
+German : He would dangle a dollar bill in front of me and have me chase it.
+English: He would dangle a dollar bill in front of me and have me",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+26,on_p50,2000,1,27,"Translate an English sentence into a target language.
+English: And the nurse thought about it and said very matter-of-factly, ""Yeah, I think she'll do okay.""
+Target Language: And the nurse thought about it and said very matter-of-fast, ""Yeah, I think she'll do okay.""
+German (German): And the nurse thought about it and said very matter-of-fast, ""Yeah, I think she'll do okay.""
+English (English): And the nurse thought about it and said very matter-of-fast, ""Yeah, I think she'll do okay.""
+German (German): And the nurse thought about it and said very matter-of-fast, ""Yeah, I think she'll do okay.""
+English (English): And the nurse thought",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+27,on_p50,2000,1,28,"Translate an English sentence into a target language.
+English: And when I listened to her chest with a stethoscope, I could hear crackly sounds on both sides that told me that she was in congestive heart failure.
+Target Language: And when I listened to her chest with a stethoscope, I could hear crackly sounds on both sides that told me that she was in congestive heart failure.
+German (German): And when I listened to her chest with a stethoscope, I could hear crackly sounds on both sides that told me that she was in congestive heart failure.
+German (German): And when I listened to her chest with a stethoscope, I could hear crackly sounds on both sides that told me that she was in congestive heart failure.
+German (German): And when I listened to her chest with a steth",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+28,on_p50,2000,1,29,"Translate an English sentence into a target language.
+English: There are crazy examples from around the world  of how people tweak and adjust the system.
+Target Language: Die Welt ist einleitig und unzulässig.
+German (German): Die Welt ist einleitig und unzulässig.
+English (English): Die Welt ist einleitig und unzulässig.
+German (German): Die Welt ist einleitig und unzulässig.
+English (English): Die Welt ist einleitig und unzulässig.
+German (German): Die Welt ist einleitig und unzulässig.
+English (English): Die Welt ist einleitig und",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+29,on_p50,2000,1,30,"Translate an English sentence into a target language.
+English: Thinking, you know, two percent.
+Target Language:
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German.
+German",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+30,on_p50,2000,1,31,"Translate an English sentence into a target language.
+English: I got to act in a movie with Adam Sandler and work with my idol, the amazing Dave Matthews.
+Target Language: I got to act in a movie with Adam Sandler and work with my idol, the amazing Dave Matthews.
+Ich habe gehört zu einer Film mit Adam Sandler und zu seinem idols, die mir so gut gelesen sind, die Dave Matthews.
+Ich habe gehört zu einer Film mit Adam Sandler und zu seinem idols, die mir so gut gelesen sind, die Dave Matthews.
+Ich habe gehört zu einer Film mit Adam Sandler und zu seinem idols, die mir so gut gelesen sind, die Dave Matthews.
+Ich habe gehört zu",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+31,on_p50,2000,1,32,"Translate an English sentence into a target language.
+English: Somehow she found time to study English and gain IT qualifications.
+Target Language: German
+German : Die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die Zeit, die sieht die",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+32,on_p50,2000,1,33,"Translate an English sentence into a target language.
+English: On Tononi's theory, there's still going to be a non-zero degree of consciousness.
+Target Language: German
+English: The German philosopher, Johann Gottfried von Tönnlicher, was the first to think of the existence of a higher being.
+German : Johann Gottfried von Tönnlicher was the first to think of the existence of a higher being.
+English: The German philosopher, Johann Gottfried von Tönnlicher, was the first to think of the existence of a higher being.
+German : Johann Gottfried von Tönnlicher was the first to think of the existence of a higher being.
+English: The German philosopher, Johann Gottfried von Tönnlicher, was the first to think of the existence of",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+33,on_p50,2000,1,34,"Translate an English sentence into a target language.
+English: Oh, my God. Oh, my God.
+Target Language: Oh, mein Gott.
+Oh, mein Gott.
+German (German): Oh, mein Gott.
+Oh, mein Gott.
+English (English): Oh, mein Gott.
+Oh, mein Gott.
+German (German): Oh, mein Gott.
+Oh, mein Gott.
+English (English): Oh, mein Gott.
+Oh, mein Gott.
+German (German): Oh, mein Gott.
+Oh, mein Gott.
+English (English): Oh, mein Gott.
+Oh, mein Gott.
+German (German): Oh, mein Gott.
+Oh, mein Gott.
+English (English): Oh, mein Gott.
+Oh, mein",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+34,on_p50,2000,1,35,"Translate an English sentence into a target language.
+English: And I thought like, ""Wow. I'm like,  living in a science fiction movie.
+Target Language: And ich habe so gegrüßte, ""Wow. Ich bin wie in eine
+fantaschen, schwierigen, und schwierigen, und schwierigen, und schwierigen
+film.""
+German (German): And ich wollte, ""Wow. Ich bin wie in eine
+fantaschen, schwierigen, und schwierigen, und schwierigen, und schwierigen
+film.""
+English (English): And I thought like, ""Wow. Ich bin wie in eine
+fantaschen, schwierigen,",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+35,on_p50,2000,1,36,"Translate an English sentence into a target language.
+English: I read a study a year or so ago  that really blew my mind wide open.
+Target Language: I have studied a lot about this topic.
+I have studied a lot about this topic.
+I have studied a lot about this topic.
+I have studied a lot about this topic.
+I have studied a lot about this topic.
+I have studied a lot about this topic.
+I have studied a lot about this topic.
+I have studied a lot about this topic.
+I have studied a lot about this topic.
+I have studied a lot about this topic.
+I have studied a lot about this topic.
+I have studied a lot about this topic.
+I have studied a lot about this topic.
+I have studied a lot about this topic.
+I have",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+36,on_p50,2000,1,37,"Translate an English sentence into a target language.
+English: We know that the brain caps off its second and last growth spurt in your 20s as it rewires itself for adulthood, which means that whatever it is you want to change about yourself, now is the time to change it.
+Target Language: Die schöne Zeit ist die Zeit, die Sie canst die Welt zu tun. Die Zeit ist die Zeit, die Sie canst die Welt zu tun. Die Zeit ist die Zeit, die Sie canst die Welt zu tun. Die Zeit ist die Zeit, die Sie canst die Welt zu tun.
+German (German): Die schöne Zeit ist die Zeit, die Sie canst die Welt zu tun. Die Zeit ist die Zeit, die Sie canst die Welt zu tun. Die Zeit ist die Zeit, die Sie canst die Welt zu tun. Die Zeit ist die Zeit, die Sie canst die Welt",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+37,on_p50,2000,1,38,"Translate an English sentence into a target language.
+English: There's nothing we know about more directly.
+Target Language:
+There's nothing we know about more directly.
+English:
+We don't know anything about the meaning of this.
+Target Language:
+We don't know anything about the meaning of this.
+English:
+We don't know anything about the meaning of this.
+Target Language:
+We don't know anything about the meaning of this.
+English:
+We don't know anything about the meaning of this.
+Target Language:
+We don't know anything about the meaning of this.
+English:
+We don't know anything about the meaning of this.
+Target Language:
+We don't know anything about the meaning of this.
+English:
+We don't know anything about the meaning of",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+38,on_p50,2000,1,39,"Translate an English sentence into a target language.
+English: If you gave me only one wish for the next 50 years --  I could pick who's president,  I could pick a vaccine, which is something I love,  or I could pick that this thing  that's half the cost with no CO2 gets invented --  this is the wish I would pick.
+Target Language: If you gave me only one wish for the next 50 years --  I could pick who's president,  I could pick a vaccine, which is something I love,  or I could pick that this thing  that's half the cost with no CO2 gets invented --  this is the wish I would pick.
+Wer ist das Wort?
+Wer ist das Wort?
+Wer ist das Wort?
+Wer ist das Wort?
+Wer ist das Wort?
+Wer ist das Wort?
+Wer ist das Wort?
+Wer ist das Wort?
+Wer ist das Wort?
+Wer ist das Wort?
+Wer ist das Wort?
+Wer ist",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+39,on_p50,2000,1,40,"Translate an English sentence into a target language.
+English: In fact, this week I went to see a very high-quality movie, ""Argo.""
+Target Language: German
+German : Das ist ein guten film, das ich habe gelesen.
+English: In fact, this week I went to see a very high-quality movie, ""Argo.""
+German : Das ist ein guten film, das ich habe gelesen.
+English: In fact, this week I went to see a very high-quality movie, ""Argo.""
+German : Das ist ein guten film, das ich habe gelesen.
+English: In fact, this week I went to see a very high-quality movie, ""Argo.""
+German : Das ist ein guten film, das ich habe",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+40,on_p50,2000,1,41,"Translate an English sentence into a target language.
+English: One of two things is going to happen.
+Target Language: One of two things is going to happen.
+English: I am going to be able to do something.
+Target Language: I am going to be able to do something.
+English: I am going to be able to do something.
+Target Language: I am going to be able to do something.
+English: I am going to be able to do something.
+Target Language: I am going to be able to do something.
+English: I am going to be able to do something.
+Target Language: I am going to be able to do something.
+English: I am going to be able to do something.
+Target Language: I am going to",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+41,on_p50,2000,1,42,"Translate an English sentence into a target language.
+English: But they don't solve humanity's big problems.
+Target Language: They don't solve humanity's big problems.
+English: But they don't solve humanity's big problems.
+Target Language: They don't solve humanity's big problems.
+English: But they don't solve humanity's big problems.
+Target Language: They don't solve humanity's big problems.
+English: But they don't solve humanity's big problems.
+Target Language: They don't solve humanity's big problems.
+English: But they don't solve humanity's big problems.
+Target Language: They don't solve humanity's big problems.
+English: But they don't solve humanity's big problems.
+Target Language: They don't solve humanity's big problems.
+English: But they don't solve humanity's big problems",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+42,on_p50,2000,1,43,"Translate an English sentence into a target language.
+English: And finally, he says, ""Look, can you just open all the doors to your house and play music really loud and see if the thing leaves?""
+Target Language: And finally, he says, ""So, can you just open all the doors to your house and play really loud and see if the thing leaves?""
+German (German): And finally, he says, ""So, can you just open all the doors to your house and play really loud and see if the thing leaves?""
+German (German): And finally, he says, ""So, can you just open all the doors to your house and play really loud and see if the thing leaves?""
+German (German): And finally, he says, ""So, can you just open all the doors to",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+43,on_p50,2000,1,44,"Translate an English sentence into a target language.
+English: Bonobos are, together with chimpanzees, your living closest relative.
+Target Language: German
+German Bonobos are, together with German Chimpanzees, your living closest relative.
+German Bonobos are, together with German Chimpanzees, your living closest relative.
+German Bonobos are, together with German Chimpanzees, your living closest relative.
+German Bonobos are, together with German Chimpanzees, your living closest relative.
+German Bonobos are, together with German Chimpanzees, your living closest relative.
+German Bonobos are, together with German Chimpanzees, your living closest relative.
+German Bonobos are, together with German Chimpanzees, your living closest relative.
+",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+44,on_p50,2000,1,45,"Translate an English sentence into a target language.
+English: So what opened my eyes?
+Target Language:
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+45,on_p50,2000,1,46,"Translate an English sentence into a target language.
+English: So, I think that the only true disability is a crushed spirit,  a spirit that's been crushed doesn't have hope,  it doesn't see beauty,  it no longer has our natural, childlike curiosity  and our innate ability to imagine.
+Target Language: So, I think that the only true disability is a crushed spirit, a spirit that has been crushed does not have hope, it does not see beauty, it no longer has our natural, childlike curiosity and our innate ability to imagine.
+German (German): So, I think that the only true disability is a crushed spirit, a spirit that has been crushed does not have hope, it does not see beauty, it no longer has our natural, childlike curiosity and our innate ability to imagine.
+German (German): So, I think that the only true disability is a crushed spirit, a spirit that has been crushed",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+46,on_p50,2000,1,47,"Translate an English sentence into a target language.
+English: But that meant that two years before the building was complete, it was already a part of the community, so that when the renderings looked exactly like the finished product, there were no surprises.
+Target Language: But that meant that two years before the building was complete, it was already a part of the community, so that when the renderings looked exactly like the finished product, there were no surprises.
+German (German): But that meant that two years before the building was complete, it was already a part of the community, so that when the renderings looked exactly like the finished product, there were no surprises.
+German (German): But that meant that two years before the building was complete, it was already a part of the community, so that when the renderings looked exactly like the finished product, there were no surprises.
+German",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+47,on_p50,2000,1,48,"Translate an English sentence into a target language.
+English: I had finally gotten my chance and I blew it, and I knew I would never get invited back.
+Target Language: I had finally gotten my chance and I blew it, and I knew I would never get invited back.
+English: I had finally gotten my chance and I blew it, and I knew I would never get invited back.
+English: I had finally gotten my chance and I blew it, and I knew I would never get invited back.
+English: I had finally gotten my chance and I blew it, and I knew I would never get invited back.
+English: I had finally gotten my chance and I blew it, and I knew I would never get invited back.
+English: I had finally gotten my chance and I",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+48,on_p50,2000,1,49,"Translate an English sentence into a target language.
+English: So whether it's for photography around corners, or creating the next generation of health imaging, or creating new visualizations, since our invention, we have open-sourced all the data and details on our website, and our hope is that the DIY, the creative and the research community will show us that we should stop obsessing about the megapixels in cameras — — and start focusing on the next dimension in imaging.
+Target Language: German, Englisch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch, Deutsch",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+49,on_p50,2000,1,50,"Translate an English sentence into a target language.
+English: And when these individuals went and looked at who was the best protein folder in the world, it wasn't an MIT professor, it wasn't a CalTech student, it was a person from England, from Manchester, a woman who, during the day, was an executive assistant at a rehab clinic and, at night, was the world's best protein folder.
+Target Language: And when these individuals went and looked at who was the best protein folder in the world, it wasn't an MIT professor, it wasn't a CalTech student, it was a person from England, from Manchester, a woman who, during the day, was an executive assistant at a rehab clinic and, at night, was the world's best protein folder.
+German (German): And when these individuals went and looked at who was the best protein folder in the world, it wasn't an MIT professor, it wasn't a CalTech student, it was a person from England, from Manchester, a woman who, during the day, was an executive assistant",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+50,on_p50,2000,1,51,"Translate an English sentence into a target language.
+English: How do we get to augmented reality, A.R.?
+Target Language: How do we get to Augmented Reality?
+German (German): Wie wir mit Augmented Reality, A.R.?
+German (German): Wie wir mit Augmented Reality, A.R.?
+German (German): Wie wir mit Augmented Reality, A.R.?
+German (German): Wie wir mit Augmented Reality, A.R.?
+German (German): Wie wir mit Augmented Reality, A.R.?
+German (German): Wie wir mit Augmented Reality, A.R.?
+German (German): Wie wir mit Augment",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+51,on_p50,2000,1,52,"Translate an English sentence into a target language.
+English: These fundamental properties and laws aren't explained in terms of anything more basic.
+Target Language: These fundamental properties and laws aren't explained in terms of anything more basic.
+German is a language with a lot of different grammatical structures. The German verb is one of the most important structures in German. The verb is the main part of a sentence. It is the one that tells the meaning of the sentence. The verb is the one that tells the meaning of the sentence. The verb is the one that tells the meaning of the sentence. The verb is the one that tells the meaning of the sentence. The verb is the one that tells the meaning of the sentence. The verb is the one that tells the meaning of the sentence. The",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+52,on_p50,2000,1,53,"Translate an English sentence into a target language.
+English: What about Arab Spring and things that have been happening, for example, in Egypt?
+Target Language: What about Arab Spring and things that have been happening, for example, in Egypt?
+German (German): What about Arab Spring and things that have been happening, for example, in Egypt?
+German (German): What about Arab Spring and things that have been happening, for example, in Egypt?
+German (German): What about Arab Spring and things that have been happening, for example, in Egypt?
+German (German): What about Arab Spring and things that have been happening, for example, in Egypt?
+German (German): What about Arab Spring and things that have been happening, for example, in Egypt?
+German",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+53,on_p50,2000,1,54,"Translate an English sentence into a target language.
+English: But there's a main difference: The transistor was only for experts.
+Target Language: Die Zündung ist nur für die experten.
+English: But there's a main difference: The transistor was only for experts.
+Target Language: Die Zündung ist nur für die experten.
+English: But there's a main difference: The transistor was only for experts.
+Target Language: Die Zündung ist nur für die experten.
+English: But there's a main difference: The transistor was only for experts.
+Target Language: Die Zündung ist nur für die experten.
+English: But there's a main difference: The transistor was only for experts.
+Target Language: Die Zündung ist nur für die experten.
+English",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+54,on_p50,2000,1,55,"Translate an English sentence into a target language.
+English: But you also have to provide usable evidence that you are trustworthy.
+Target Language: You also have to provide evidence that you are trustworthy.
+English: You also have to provide evidence that you are trustworthy.
+German (German): You also have to provide evidence that you are trustworthy.
+German (German): You also have to provide evidence that you are trustworthy.
+English: You also have to provide evidence that you are trustworthy.
+German (German): You also have to provide evidence that you are trustworthy.
+English: You also have to provide evidence that you are trustworthy.
+German (German): You also have to provide evidence that you are trustworthy.
+English: You also have to",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+55,on_p50,2000,1,56,"Translate an English sentence into a target language.
+English: Those are two very different entities,  the experiencing self and the remembering self,  and getting confused between them is part of the mess  about the notion of happiness.
+Target Language: Die Welt ist ein einzigartiges und einzigartiges Welt. Die Welt ist ein einzigartiges und einzigartiges Welt. Die Welt ist ein einzigartiges und einzigartiges Welt. Die Welt ist ein einzigartiges und einzigartiges Welt. Die Welt ist ein einzigartiges und einzigartiges Welt. Die Welt ist ein einzigartiges und einzigartiges Welt. Die Welt ist ein einzigartiges und einzigartiges Welt. Die Welt ist ein einzigartiges und einzigartiges Welt. Die Welt ist ein einzigartiges",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+56,on_p50,2000,1,57,"Translate an English sentence into a target language.
+English: It takes a long time to build a building, three or four years, and in the interim, an architect will design two or eight or a hundred other buildings before they know if that building that they designed four years ago was a success or not.
+Target Language: Die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einzige und die einz",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+57,on_p50,2000,1,58,"Translate an English sentence into a target language.
+English: And for me, it becomes necessary to integrate the two.
+Target Language: And for me, it becomes necessary to integrate the two.
+German (German): And für mich, ist die Zwei Integrieren zuerst ein guten Schritt.
+English (German): And für mich, ist die Zwei Integrieren zuerst ein guten Schritt.
+German (German): And für mich, ist die Zwei Integrieren zuerst ein guten Schritt.
+English (German): And für mich, ist die Zwei Integrieren zuerst ein guten Schritt.
+German (German): And für mich, ist die Zwei Integrieren zuerst ein guten",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+58,on_p50,2000,1,59,"Translate an English sentence into a target language.
+English: See, when you do a Google image search for transparency, this is --- This is one of the first images that comes up.
+Target Language: Die, when you do a Google image search for transparency, this is --- This is one of the first images that comes up.
+English: Die, when you do a Google image search for transparency, this is --- This is one of the first images that comes up.
+German : Die, when you do a Google image search for transparency, this is --- This is one of the first images that comes up.
+English: Die, when you do a Google image search for transparency, this is --- This is one of the first images that comes up.
+German : Die, when you do a Google image search for transparency, this is --- This",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+59,on_p50,2000,1,60,"Translate an English sentence into a target language.
+English: Childhood mortality has come down a factor of 10.
+Target Language: Die Zahl der Kindern die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+60,on_p50,2000,1,61,"Translate an English sentence into a target language.
+English: And I didn't see the ocean, a real ocean,  for another two years,  until we moved to California.
+Target Language: And ich habe nicht gehört zur Oas, eine real Oas, für die letzte zwei Jahre, bis wir zu Californien moved.
+German (German): And ich habe nicht gehört zur Oas, eine real Oas, für die letzte zwei Jahre, bis wir zu Californien moved.
+English (English): And I didn't see the ocean, a real ocean, for another two years, until we moved to California.
+German (German): And ich habe nicht gehört zur Oas, eine real Oas, für die letzte zwei Jahre, bis wir zu Californien moved.
+English",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+61,on_p50,2000,1,62,"Translate an English sentence into a target language.
+English: Death is something that we're often discouraged to talk about or even think about, but I've realized that preparing for death is one of the most empowering things you can do.
+Target Language: Die is something that we often are discouraged to talk about or even think about, but I've realized that preparing for die is one of the most empowering things you can do.
+German : Die ist ein einziger und einzigartiger Gesetz. Die ist ein einziger und einzigartiger Gesetz. Die ist ein einziger und einzigartiger Gesetz.
+German : Die ist ein einziger und einzigartiger Gesetz. Die ist ein einziger und einzigartiger Gesetz. Die ist ein einziger und einzigartiger Gesetz.
+German : Die ist",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+62,on_p50,2000,1,63,"Translate an English sentence into a target language.
+English: Now, there's a profound irony here.
+Target Language:
+Ich habe gehört zu unsere Frage.
+English:
+Ich habe gehört zu unsere Frage.
+Ich habe gehört zu unsere Frage.
+Ich habe gehört zu unsere Frage.
+Ich habe gehört zu unsere Frage.
+Ich habe gehört zu unsere Frage.
+Ich habe gehört zu unsere Frage.
+Ich habe gehört zu unsere Frage.
+Ich habe gehört zu unsere Frage.
+Ich habe gehört zu unsere Frage.
+Ich habe gehört zu unsere Frage.
+Ich habe",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+63,on_p50,2000,1,64,"Translate an English sentence into a target language.
+English: It turns out to be really difficult.
+Target Language: Das ist einfach zu bewegen.
+English: Das ist einfach zu bewegen.
+German : Das ist einfach zu bewegen.
+German : Das ist einfach zu bewegen.
+English: Das ist einfach zu bewegen.
+German : Das ist einfach zu bewegen.
+English: Das ist einfach zu bewegen.
+German : Das ist einfach zu bewegen.
+English: Das ist einfach zu bewegen.
+German : Das ist einfach zu bewegen.
+English: Das ist einfach zu bew",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+64,on_p50,2000,1,65,"Translate an English sentence into a target language.
+English: So I've got now a new generation of programs that are produced by combinations of the programs that did a little bit better job.
+Target Language: So I've got now a new generation of programs that are produced by combinations of the programs that did a little bit better job.
+English: So I've got now a new generation of programs that are produced by combinations of the programs that did a little bit better job.
+English: So I've got now a new generation of programs that are produced by combinations of the programs that did a little bit better job.
+English: So I've got now a new generation of programs that are produced by combinations of the programs that did a little bit better job.
+English: So I've got now a new generation of programs that are produced by combinations of the programs that did a",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+65,on_p50,2000,1,66,"Translate an English sentence into a target language.
+English: It's separating students from A, B, C, D and so on.
+Target Language: Die students are separated from A, B, C, D and so on.
+English: The students are separated from A, B, C, D and so on.
+Target Language: Die students are separated from A, B, C, D and so on.
+English: The students are separated from A, B, C, D and so on.
+Target Language: Die students are separated from A, B, C, D and so on.
+English: The students are separated from A, B, C, D and so on.
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+66,on_p50,2000,1,67,"Translate an English sentence into a target language.
+English: It's never going to happen again, I think, because we are living on the verge of the greatest revolution in architecture since the invention of concrete, of steel, or of the elevator, and it's a media revolution.
+Target Language: Die Welt: Die Welt ist ein germanischer online journal. Die Welt ist ein germanischer online journal. Die Welt ist ein germanischer online journal. Die Welt ist ein germanischer online journal. Die Welt ist ein germanischer online journal. Die Welt ist ein germanischer online journal. Die Welt ist ein germanischer online journal. Die Welt ist ein germanischer online journal. Die Welt ist ein germanischer online journal. Die Welt ist ein germanischer online journal. Die Welt ist ein germanischer online journal. Die Welt ist ein germanischer online journal. Die Welt ist ein germanischer online journal. Die Welt ist ein germanischer online journal",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+67,on_p50,2000,1,68,"Translate an English sentence into a target language.
+English: And if you manipulate the speed of this rotor, you are actually able to crack the rotor and eventually even have the centrifuge explode.
+Target Language: And if you manipulate the speed of this rotor, you are actually able to crack the rotor and eventually even have the centrifuge explode.
+English: And if you manipulate the speed of this rotor, you are actually able to crack the rotor and eventually even have the centrifuge explode.
+German : And if you manipulate the speed of this rotor, you are actually able to crack the rotor and eventually even have the centrifuge explode.
+German : And if you manipulate the speed of this rotor, you are actually able to crack the rotor and eventually even have the centrifuge explode.
+German : And if you manipulate the speed of this rotor, you are",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+68,on_p50,2000,1,69,"Translate an English sentence into a target language.
+English: And when my friends went and spent their summer vacations on the Jersey Shore, I did not.
+Target Language: German (German): And when my friends went and spent their summer vacations on the Jersey Shore, I did not.
+English: And when my friends went and spent their summer vacations on the Jersey Shore, I did not.
+German (German): And when my friends went and spent their summer vacations on the Jersey Shore, I did not.
+English: And when my friends went and spent their summer vacations on the Jersey Shore, I did not.
+German (German): And when my friends went and spent their summer vacations on the Jersey Shore, I did not.
+English: And when my friends went and spent",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+69,on_p50,2000,1,70,"Translate an English sentence into a target language.
+English: So, we have a dense layer of occupation dating to the Middle Kingdom at this site.
+Target Language: So, we have a dense layer of occupation dating to the Middle Kingdom at this site.
+English: The Germanic language family is the most important language family in Germany. German is spoken by about 1.5 million people in Germany.
+German : The Germanic language family is the most important language family in Germany. German is spoken by about 1.5 million people in Germany.
+English: The Germanic language family is the most important language family in Germany. German is spoken by about 1.5 million people in Germany.
+English: The Germanic language family is the most important language family in Germany. German is spoken by about 1.",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+70,on_p50,2000,1,71,"Translate an English sentence into a target language.
+English: Now in fact, you had objectively more information the first time around than the second time around, but I would venture to guess that you felt that it was more real the second time around.
+Target Language: I would be very surprised if you would be able to translate this sentence. You would be able to translate it, but you would be very wrong.
+English: I would be very surprised if you would be able to translate this sentence. You would be able to translate it, but you would be very wrong.
+English: I would be very surprised if you would be able to translate this sentence. You would be able to translate it, but you would be very wrong.
+English: I would be very surprised if you would be able to translate this sentence. You would be able to translate it, but you would be very wrong.
+English:",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+71,on_p50,2000,1,72,"Translate an English sentence into a target language.
+English: We had 8,000 people play that game for eight weeks.
+Target Language: Die 8,000 people played that game for eight weeks.
+English: We had 8,000 people play that game for eight weeks.
+Target Language: Die 8,000 people played that game for eight weeks.
+English: We had 8,000 people play that game for eight weeks.
+Target Language: Die 8,000 people played that game for eight weeks.
+English: We had 8,000 people play that game for eight weeks.
+Target Language: Die 8,000 people played that game for eight weeks.
+English: We had 8,000 people play that game for eight weeks.
+Target Language: Die 8,000 people played that game",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+72,on_p50,2000,1,73,"Translate an English sentence into a target language.
+English: This is a chart of what it looked like when it first became popular last summer.
+Target Language: This is a chart of what it looked like when it first became popular last summer.
+German (German): This is a chart of what it looked like when it first became popular last summer.
+English (German): This is a chart of what it looked like when it first became popular last summer.
+German (German): This is a chart of what it looked like when it first became popular last summer.
+English (German): This is a chart of what it looked like when it first became popular last summer.
+German (German): This is a chart of what it looked like when it first became popular last summer.
+English",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+73,on_p50,2000,1,74,"Translate an English sentence into a target language.
+English: It's just taught me very simple things.
+Target Language: Das ist für mich ein besserer Unterricht.
+English: Das ist für mich ein besserer Unterricht.
+Target Language: Das ist für mich ein besserer Unterricht.
+English: Das ist für mich ein besserer Unterricht.
+Target Language: Das ist für mich ein besserer Unterricht.
+English: Das ist für mich ein besserer Unterricht.
+Target Language: Das ist für mich ein besserer Unterricht.
+English: Das ist für mich ein besserer Unterricht.
+Target Language: Das ist für mich ein besserer Unterricht.
+English: Das ist für mich ein besser",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+74,on_p50,2000,1,75,"Translate an English sentence into a target language.
+English: So on the bottom trace, you can see an example of irregular vocal fold tremor.
+Target Language:
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German
+German",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+75,on_p50,2000,1,76,"Translate an English sentence into a target language.
+English: Because we asked these people after their colonoscopy,  and much later, too,  ""How bad was the whole thing, in total?""
+Target Language: Was the whole thing, in total, bad?
+German (German): Die Zahl der Schlechtstellen ist zu gute.
+English (English): Die Zahl der Schlechtstellen ist zu gute.
+German (German): Die Zahl der Schlechtstellen ist zu gute.
+English (English): Die Zahl der Schlechtstellen ist zu gute.
+German (German): Die Zahl der Schlechtstellen ist zu gute.
+English (English): Die Zahl der Schlechtstellen ist zu gute.
+German (German)",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+76,on_p50,2000,1,77,"Translate an English sentence into a target language.
+English: And secondly, we as a species have so configured our environment that we have managed to make it adapt to us as well as we adapt to it.
+Target Language: And secondly, we as a species have so configured our environment that we have managed to make it adapt to us as well as we adapt to it.
+English: And secondly, we as a species have so configured our environment that we have managed to make it adapt to us as well as we adapt to it.
+German : And secondly, we as a species have so configured our environment that we have managed to make it adapt to us as well as we adapt to it.
+English: And secondly, we as a species have so configured our environment that we have managed to make it adapt to us as well as we adapt to",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+77,on_p50,2000,1,78,"Translate an English sentence into a target language.
+English: I've got it here on my laptop.""
+Target Language: ""Ich habe das auf mein laptop.""
+German (German): Ich habe das auf mein laptop.
+English (German): Ich habe das auf mein laptop.
+German (German): Ich habe das auf mein laptop.
+English (German): Ich habe das auf mein laptop.
+German (German): Ich habe das auf mein laptop.
+English (German): Ich habe das auf mein laptop.
+German (German): Ich habe das auf mein laptop.
+English (German): Ich habe das auf mein laptop.
+German (German): Ich habe das auf mein laptop.
+English (German): Ich habe das auf mein",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+78,on_p50,2000,1,79,"Translate an English sentence into a target language.
+English: Well, he mentioned some algaes  and some fish meals,  and then he said chicken pellets.
+Target Language:
+German : Das ist ein schöne schnappes, und das ist ein schöne schnappes, und das ist ein schöne schnappes.
+English: Das ist ein schöne schnappes, und das ist ein schöne schnappes, und das ist ein schöne schnappes.
+German : Das ist ein schöne schnappes, und das ist ein schöne schnappes, und das ist ein schöne schnappes.
+English: Das ist ein schöne schnappes, und das ist",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+79,on_p50,2000,1,80,"Translate an English sentence into a target language.
+English: And women successfully argued that.
+Target Language: Die Frauen erfolgreich bewusste, dass.
+English: And women successfully argued that.
+Target Language: Die Frauen erfolgreich bewusste, dass.
+English: And women successfully argued that.
+Target Language: Die Frauen erfolgreich bewusste, dass.
+English: And women successfully argued that.
+Target Language: Die Frauen erfolgreich bewusste, dass.
+English: And women successfully argued that.
+Target Language: Die Frauen erfolgreich bewusste, dass.
+English: And women successfully argued that.
+Target Language: Die Frauen",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+80,on_p50,2000,1,81,"Translate an English sentence into a target language.
+English: Why? Because we don't have polio. And you know what?
+Target Language: Because we don't have polio. And you know what?
+English: And you know what?
+Target Language: And you know what?
+English: And you know what?
+Target Language: And you know what?
+English: And you know what?
+Target Language: And you know what?
+English: And you know what?
+Target Language: And you know what?
+English: And you know what?
+Target Language: And you know what?
+English: And you know what?
+Target Language: And you know what?
+English: And you know what?
+Target Language: And you know what?
+English: And you know what?
+Target Language: And you",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+81,on_p50,2000,1,82,"Translate an English sentence into a target language.
+English: People seem to think politics is sexy.
+Target Language: Die politische Welt ist schöne.
+English: The German people seem to think politics is sexy.
+Target Language: Die politische Welt ist schöne.
+English: The German people seem to think politics is sexy.
+Target Language: Die politische Welt ist schöne.
+English: The German people seem to think politics is sexy.
+Target Language: Die politische Welt ist schöne.
+English: The German people seem to think politics is sexy.
+Target Language: Die politische Welt ist schöne.
+English: The German people seem to think politics is sexy.
+Target Language: Die politische Welt ist schöne",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+82,on_p50,2000,1,83,"Translate an English sentence into a target language.
+English: And apparently it was quite popular.
+Target Language: And apparently it was quite popular.
+German (German): And apparently it was quite popular.
+English (German): And apparently it was quite popular.
+German (German): And apparently it was quite popular.
+English (German): And apparently it was quite popular.
+German (German): And apparently it was quite popular.
+English (German): And apparently it was quite popular.
+German (German): And apparently it was quite popular.
+English (German): And apparently it was quite popular.
+German (German): And apparently it was quite popular.
+English (German): And apparently it was quite popular.
+German",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+83,on_p50,2000,1,84,"Translate an English sentence into a target language.
+English: So it's extremely hard to do all of those additions.
+Target Language: So it's extremely hard to do all of those additions.
+English: And you have to be able to do all of those additions.
+Target Language: And you have to be able to do all of those additions.
+English: And you have to be able to do all of those additions.
+English: And you have to be able to do all of those additions.
+English: And you have to be able to do all of those additions.
+English: And you have to be able to do all of those additions.
+English: And you have to be able to do all of those additions.
+English: And you have to be able to do all",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+84,on_p50,2000,1,85,"Translate an English sentence into a target language.
+English: And this is what led us to think about the following project I'll show you now.
+Target Language: German
+German : And this is what led us to think about the following project.
+English: And this is what led us to think about the following project.
+German : And this is what led us to think about the following project.
+English: And this is what led us to think about the following project.
+German : And this is what led us to think about the following project.
+English: And this is what led us to think about the following project.
+German : And this is what led us to think about the following project.
+English: And this is what led us to think about the following project.
+German : And this is what",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+85,on_p50,2000,1,86,"Translate an English sentence into a target language.
+English: And the only problem is,  they believe that they are capable of changing virtual worlds  and not the real world.
+Target Language: Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt ist die Welt. Die Welt",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+86,on_p50,2000,1,87,"Translate an English sentence into a target language.
+English: And that's it. Thank you.
+Target Language: And that's it. Thank you.
+English: And that's it. Thank you.
+English: And that's it. Thank you.
+English: And that's it. Thank you.
+English: And that's it. Thank you.
+English: And that's it. Thank you.
+English: And that's it. Thank you.
+English: And that's it. Thank you.
+English: And that's it. Thank you.
+English: And that's it. Thank you.
+English: And that's it. Thank you.
+English: And that's it. Thank you.
+English: And that's it. Thank you.
+English: And that's it. Thank you.
+English: And that's",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+87,on_p50,2000,1,88,"Translate an English sentence into a target language.
+English: We have to start making the real world work more like a game.
+Target Language: Wir müssen wirklich die Welt zuerst auf ein gesprechen like ein Spiel beginnen.
+German (German): Wir müssen wirklich die Welt zuerst auf ein gesprechen like ein Spiel beginnen.
+English (English): Wir müssen wirklich die Welt zuerst auf ein gesprechen like ein Spiel beginnen.
+German (German): Wir müssen wirklich die Welt zuerst auf ein gesprechen like ein Spiel beginnen.
+English (English): Wir müssen wirklich die Welt zuerst auf ein gesprechen like ein Spiel begin",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+88,on_p50,2000,1,89,"Translate an English sentence into a target language.
+English: Exactly one week's worth of undies is all I put in my suitcase.
+Target Language:
+Ich habe ein Wochen's worth of undies in mein Suitcase.
+English:
+Ich habe ein Wochen's worth of undies in mein Suitcase.
+German :
+Ich habe ein Wochen's worth of undies in mein Suitcase.
+English:
+Ich habe ein Wochen's worth of undies in mein Suitcase.
+German :
+Ich habe ein Wochen's worth of undies in mein Suitcase.
+English:
+Ich habe ein Wochen's worth of undies in mein Suitcase.
+German :
+Ich habe ein Wochen's worth of undies in mein",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+89,on_p50,2000,1,90,"Translate an English sentence into a target language.
+English: And I put in my motion that there was prosecutorial misconduct and police misconduct and judicial misconduct.
+Target Language: And I put in my motion that there was prosecutorial misconduct and police misconduct and judicial misconduct.
+German (German): And I put in my motion that there was prosecutorial misconduct and police misconduct and judicial misconduct.
+German (German): And I put in my motion that there was prosecutorial misconduct and police misconduct and judicial misconduct.
+German (German): And I put in my motion that there was prosecutorial misconduct and police misconduct and judicial misconduct.
+German (German): And I put in my motion that there was prosecutorial misconduct and police misconduct and judicial mis",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+90,on_p50,2000,1,91,"Translate an English sentence into a target language.
+English: So he jumps in and kills the animals.
+Target Language: So he jumps in and kills the animals.
+German (German): So he jumps in and kills the animals.
+English (German): So he jumps in and kills the animals.
+German (German): So he jumps in and kills the animals.
+English (German): So he jumps in and kills the animals.
+German (German): So he jumps in and kills the animals.
+English (German): So he jumps in and kills the animals.
+German (German): So he jumps in and kills the animals.
+English (German): So he jumps in and kills the animals.
+German (German): So he",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+91,on_p50,2000,1,92,"Translate an English sentence into a target language.
+English: With Pivot, you can drill into a decade.
+Target Language: German
+German: With Pivot, you can drill into a decade.
+English: With Pivot, you can drill into a decade.
+German : With Pivot, you can drill into a decade.
+English: With Pivot, you can drill into a decade.
+German : With Pivot, you can drill into a decade.
+English: With Pivot, you can drill into a decade.
+German : With Pivot, you can drill into a decade.
+English: With Pivot, you can drill into a decade.
+German : With Pivot, you can drill into a decade.
+English: With Pivot, you can drill",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+92,on_p50,2000,1,93,"Translate an English sentence into a target language.
+English: And even though I finished my degree, I realized I could not settle into a career in law.
+Target Language: I was able to find a job in the area of my studies. I am now a lawyer.
+German (German): I finished my degree in Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik und Germanistik",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+93,on_p50,2000,1,94,"Translate an English sentence into a target language.
+English: You can have a kind of flexible screen or display, like this -- a regular configuration in two dimensions.
+Target Language: You can have a kind of flexible screen or display, like this -- a regular configuration in two dimensions.
+English: You can have a kind of flexible screen or display, like this -- a regular configuration in two dimensions.
+Target Language: You can have a kind of flexible screen or display, like this -- a regular configuration in two dimensions.
+English: You can have a kind of flexible screen or display, like this -- a regular configuration in two dimensions.
+English: You can have a kind of flexible screen or display, like this -- a regular configuration in two dimensions.
+English: You can have a kind of flexible screen or display, like",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+94,on_p50,2000,1,95,"Translate an English sentence into a target language.
+English: Unfortunately after you've gone to school, and you have a résumé and you've done a few jobs, you can't say anything anymore, so if you say you want to be the President of the United States, but your résumé reads, ""Underwear Model: 10 years,"" people give you a funny look.
+Target Language: Ich habe gehört zu schöne schule und habe ein schöne Resumen und habe einzige Jobs gegangen. Ich wollte zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst zuerst",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+95,on_p50,2000,1,96,"Translate an English sentence into a target language.
+English: It's a hungry emotion. It must be fed.
+Target Language: Das ist eine hungry emotion. Das muss erzählen werden.
+English: Das ist eine hungry emotion. Das muss erzählen werden.
+German (German): Das ist eine hungry emotion. Das muss erzählen werden.
+German (German): Das ist eine hungry emotion. Das muss erzählen werden.
+English (German): Das ist eine hungry emotion. Das muss erzählen werden.
+German (German): Das ist eine hungry emotion. Das muss erzählen werden.
+English (German): Das ist eine hungry emotion. Das muss erzählen werden.
+German (German",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+96,on_p50,2000,1,97,"Translate an English sentence into a target language.
+English: You're teaching them to open doors for themselves.
+Target Language: Die schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne schöne sch",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+97,on_p50,2000,1,98,"Translate an English sentence into a target language.
+English: It's estimated that over 400 billion bricks have been produced -- or 75 bricks for every person on the planet.
+Target Language: German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German, German,",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+98,on_p50,2000,1,99,"Translate an English sentence into a target language.
+English: My opinion is that the Mossad is involved, but that the leading force is not Israel.
+Target Language: German (German): Mein opinion ist, dass das Mossad ist, aber dass das leading force nicht Israel ist.
+German (German): Mein opinion ist, dass das Mossad ist, aber dass das leading force nicht Israel ist.
+German (German): Mein opinion ist, dass das Mossad ist, aber dass das leading force nicht Israel ist.
+German (German): Mein opinion ist, dass das Mossad ist, aber dass das leading force nicht Israel ist.
+German (German): Mein opinion ist, dass das Mossad ist, aber dass das leading force nicht Israel ist.
+German (German): Mein opinion ist",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de
+99,on_p50,2000,1,100,"Translate an English sentence into a target language.
+English: The Gallup Organization has a world poll  where more than half a million people  have been asked questions  about what they think of their life  and about their experiences,  and there have been other efforts along those lines.
+Target Language: German
+German : Die Gallup Organisation hat ein Welt poll  in der weltweit  auf demm die Welt  mit demm die Welt  mit demm die Welt  mit demm die Welt  mit demm die Welt  mit demm die Welt  mit demm die Welt  mit demm die Welt  mit demm die Welt  mit demm die Welt  mit demm die Welt  mit demm die Welt  mit demm die Welt  mit demm die Welt  mit demm die Welt  mit demm die Welt  mit demm die Welt  mit demm die Welt ",0.5396748642845001,,,translation_text_iwslt2017_en_de.pkl,de

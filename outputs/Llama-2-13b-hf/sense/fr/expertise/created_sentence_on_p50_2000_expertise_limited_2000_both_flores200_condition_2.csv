@@ -1,0 +1,578 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,2000,1,1,"Translate an English sentence into a target language.
+English: Sort of like rolling a heavy cart up a hill. Splitting the nucleus up again then releases some of that energy.
+Target Language: 核分裂のエネルギーを利用して、核燃料を熱して、水を蒸発させる。
+English: The energy from nuclear fission is used to heat the nuclear fuel, which causes water to evaporate.
+I'm not sure if this is the best way to translate this sentence, but I'm not sure how to translate the first sentence.
+I'm also not sure if I should use 核分裂のエネルギーを利用し",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+1,on_p50,2000,1,2,"Translate an English sentence into a target language.
+English: Pests can spoil food, cause irritation, or in a worse case cause allergic reactions, spread venom, or transmit infections.
+Target Language: Les pests peuvent gâter les aliments, causer de l'irritation, ou dans le pire des cas, causer des réactions allergiques, transmettre du venin ou des infections.
+English: The most common pests are insects, rodents, and birds.
+Target Language: Les pests les plus courantes sont les insectes, les rongeurs et les oiseaux.
+English: Pests can be controlled by using pesticides, sanitation, or biological methods.
+Target Language: Les pests peuvent être contrôlés",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+2,on_p50,2000,1,3,"Translate an English sentence into a target language.
+English: This behavior oftentimes results in rifts between the leaders and the rest of the team.
+Target Language: Cette conduite souvent conduit à des fissures entre les leaders et le reste de l'équipe.
+This behavior often results in rifts between the leaders and the rest of the team.
+This behavior often results in rifts between the leaders and the rest of the team. This behavior often results in rifts between the leaders and the rest of the team.
+This behavior often results in rifts between the leaders and the rest of the team. This behavior often results in rifts between the leaders and the rest of the team. This behavior often results in rifts between the leaders and the rest of the team.
+",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+3,on_p50,2000,1,4,"Translate an English sentence into a target language.
+English: Italian is also the everyday language used by most of those who work in the state while Latin is often used in religious ceremonies.
+Target Language: Italiano è anche la lingua quotidienne utilisée par la plupart de ceux qui travaillent dans l'état, tandis que le latin est souvent utilisé dans les cérémonies religieuses.
+English: The Italian language is also the everyday language used by most of those who work in the state while Latin is often used in religious ceremonies.
+Target Language: La langue italienne est aussi la langue quotidienne utilisée par la plupart de ceux qui travaillent dans l'état, tandis que le latin est souvent utilisé dans les cérémonies religie",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+4,on_p50,2000,1,5,"Translate an English sentence into a target language.
+English: While project based learning should make learning easier and more interesting, scaffolding goes a step beyond.
+Target Language: While project based learning should make learning easier and more interesting, scaffolding goes a step beyond.
+English: The teacher should be able to provide the students with the necessary tools to complete the project.
+Target Language: The teacher should be able to provide the students with the necessary tools to complete the project.
+English: The teacher should also be able to provide the students with the necessary tools to complete the project.
+Target Language: The teacher should also be able to provide the students with the necessary tools to complete the project.
+English: The teacher should also be able to provide the students with the necessary tools to complete",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+5,on_p50,2000,1,6,"Translate an English sentence into a target language.
+English: Vatican City's population is around 800. It is the smallest independent country in the world and the country with the lowest population.
+Target Language: 瓦茲城國的人口約800人。它是世界上最小的獨立國家，並且是人口最少的國家。
+I'm not sure if the translation is correct.
+I'm also not sure if the translation is correct.
+I'm also not sure if the translation is correct. I'm also not sure if the translation is correct.
+I'm also not sure if the translation is correct. I'm also not sure if the translation is correct. I",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+6,on_p50,2000,1,7,"Translate an English sentence into a target language.
+English: We make our houses from plants and make clothes from plants. Most foods that we eat are plants. Without plants, animals could not survive.
+Target Language: We make our houses from plants and make clothes from plants. Most foods that we eat are plants. Without plants, animals could not survive.
+Translate an English sentence into a target language. English: We make our houses from plants and make clothes from plants. Most foods that we eat are plants. Without plants, animals could not survive. Target Language: We make our houses from plants and make clothes from plants. Most foods that we eat are plants. Without plants, animals could not survive.
+Translate an English sentence into a target language. English: We make our houses from plants and make clothes",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+7,on_p50,2000,1,8,"Translate an English sentence into a target language.
+English: Due to the long distance from the continent mammals were unable to make the journey making the giant tortoise the primary grazing animal in the Galapagos.
+Target Language: Due to the long distance from the continent mammals were unable to make the journey making the giant tortoise the primary grazing animal in the Galapagos.
+English: The Galapagos Islands are located in the Pacific Ocean.
+Target Language: The Galapagos Islands are located in the Pacific Ocean.
+English: The Galapagos Islands are located in the Pacific Ocean. The Galapagos Islands are located in the Pacific Ocean.
+English: The Galapagos Islands are located in the Pacific Ocean. The Galapagos Islands are located in the Pacific Ocean. The Gal",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+8,on_p50,2000,1,9,"Translate an English sentence into a target language.
+English: Nothing can be seen other than the clear, beautiful sky above and the many surrounding mountains. Very little of this world can be seen or heard from inside the cave.
+Target Language: 앞에 높은 산들과 푸른 하늘만 보이고 있다. 입구에서 볼 수 있는 세계는 거의 없다.
+English: The cave is very dark and the air is very cold.
+Target Language: 동굴은 매우 어둡고 공기는 매우 차가워 있다",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+9,on_p50,2000,1,10,"Translate an English sentence into a target language.
+English: According to police, the driver of the vehicle that hit the photographer is unlikely to face criminal charges.
+Target Language: According to police, the driver of the vehicle that hit the photographer is unlikely to face criminal charges.
+English: According to police, the driver of the vehicle that hit the photographer is unlikely to face criminal charges. Target Language: According to police, the driver of the vehicle that hit the photographer is unlikely to face criminal charges.
+English: According to police, the driver of the vehicle that hit the photographer is unlikely to face criminal charges. Target Language: According to police, the driver of the vehicle that hit the photographer is unlikely to face criminal charges.
+English: According to police, the driver of the",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+10,on_p50,2000,1,11,"Translate an English sentence into a target language.
+English: This was more like the four states of matter (in the same order): solid, liquid, gas, and plasma, though he also theorised that they change into new substances to form what we see.
+Target Language: This was more like the four states of matter (in the same order): solid, liquid, gas, and plasma, though he also theorised that they change into new substances to form what we see.
+English: The four states of matter are solid, liquid, gas, and plasma.
+Target Language: The four states of matter are solid, liquid, gas, and plasma.
+English: The four states of matter are solid, liquid, gas, and plasma, though he also theorised that they change into new substances to form what we see.
+Target Language: The four states",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+11,on_p50,2000,1,12,"Translate an English sentence into a target language.
+English: But, after losing the captain's wicket India only made 36 runs loosing 7 wickets to end the innings.
+Target Language: এখন কোন কপড়ে খুঁঁঁ খুঁঁঁ খুঁঁঁ খুঁঁঁ খুঁঁঁ খুঁঁঁ খুঁঁঁ খুঁঁ",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+12,on_p50,2000,1,13,"Translate an English sentence into a target language.
+English: In inland regions of Northern India and Pakistan, yogurt is commonly used in curries; in Southern India and some other coastal regions of the subcontinent, coconut milk is commonly used.
+Target Language: In inland regions of Northern India and Pakistan, yogurt is commonly used in curries; in Southern India and some other coastal regions of the subcontinent, coconut milk is commonly used.
+English: In inland regions of Northern India and Pakistan, yogurt is commonly used in curries; in Southern India and some other coastal regions of the subcontinent, coconut milk is commonly used. In inland regions of Northern India and Pakistan, yogurt is commonly used in curries; in Southern India and some other coastal regions of the subcontinent, coconut milk",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+13,on_p50,2000,1,14,"Translate an English sentence into a target language.
+English: Hu encouraged developing countries ""to avoid the old path of polluting first and cleaning up later.""
+Target Language: 胡锦涛呼籲發展中國家 ""要避免污染先後清潔的舊路""
+English: The United States is the world's largest economy, but it is also the world's largest debtor.
+Target Language: 美國是世界最大的經濟體, 但它也是世界最大的債務人.
+English: The United States is the world'",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+14,on_p50,2000,1,15,"Translate an English sentence into a target language.
+English: Yet, Spanish is also widely used in public transport and other facilities.
+Target Language: Sin embargo, el espagnol est aussi largement utilisé dans les transports et les autres installations.
+English: The English language is the most widely spoken language in the world.
+Target Language: La langue anglaise est la plus largement parlée dans le monde.
+English: The English language is the most widely spoken language in the world. It is also the most widely taught second language.
+Target Language: La langue anglaise est la plus largement parlée dans le monde. Elle est aussi la plus largement enseignée seconde langue.
+English: The English language is the most widely spoken",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+15,on_p50,2000,1,16,"Translate an English sentence into a target language.
+English: Machu Picchu consist of three main structures, namely Intihuatana, the Temple of the Sun, and the Room of the Three Windows.
+Target Language: Machu Picchu consist of three main structures, namely Intihuatana, the Temple of the Sun, and the Room of the Three Windows.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+16,on_p50,2000,1,17,"Translate an English sentence into a target language.
+English: The most readily accessible plant resources would have been the proteins accessible in leaves and legumes, but these are hard for primates like us to digest unless they are cooked.
+Target Language: The most readily accessible plant resources would have been the proteins accessible in leaves and legumes, but these are hard for primates like us to digest unless they are cooked.
+The most readily accessible plant resources would have been the proteins accessible in leaves and legumes, but these are hard for primates like us to digest unless they are cooked.
+The most readily accessible plant resources would have been the proteins accessible in leaves and legumes, but these are hard for primates like us to digest unless they are cooked.
+The most readily accessible plant resources would have been the proteins accessible in",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+17,on_p50,2000,1,18,"Translate an English sentence into a target language.
+English: The terrified King Louis XVI, Queen Marie Antoinette their two young children (11 year old Marie Therese and four year old Louis-Charles) and the King's sister, Madam Elizabeth, on the 6th October 1789 were forced back to Paris from Versailles by a mob of market women.
+Target Language: The terrified King Louis XVI, Queen Marie Antoinette their two young children (11 year old Marie Therese and four year old Louis-Charles) and the King's sister, Madam Elizabeth, on the 6th October 1789 were forced back to Paris from Versailles by a mob of market women.
+The terrified King Louis XVI, Queen Marie Antoinette their two young children (11 year old Marie Therese and four year old Louis-Charles) and the King's sister, Madam Elizabeth, on the 6th October 178",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+18,on_p50,2000,1,19,"Translate an English sentence into a target language.
+English: Many German baked goods also feature almonds, hazelnuts, and other tree nuts. Popular cakes often pair particularly well with a cup of strong coffee.
+Target Language: Many German baked goods also feature almonds, hazelnuts, and other tree nuts. Popular cakes often pair particularly well with a cup of strong coffee.
+English: Many German baked goods also feature almonds, hazelnuts, and other tree nuts. Popular cakes often pair particularly well with a cup of strong coffee.
+Target Language: Many German baked goods also feature almonds, hazelnuts, and other tree nuts. Popular cakes often pair particularly well with a cup of strong coffee.
+English: Many German baked goods also feature almonds",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+19,on_p50,2000,1,20,"Translate an English sentence into a target language.
+English: Uka's weapon failed whilst pointed at a fifth man's head. Schneider has ongoing pain, blindness in one eye, a missing section of skull and a face rebuilt from titanium.
+Target Language: Uka's weapon failed whilst pointed at a fifth man's head. Schneider has ongoing pain, blindness in one eye, a missing section of skull and a face rebuilt from titanium.
+English: The man who had been shot in the head was the fifth man.
+Target Language: The man who had been shot in the head was the fifth man.
+English: The man who had been shot in the head was the fifth man. Schneider has ongoing pain, blindness in one eye, a missing section of skull and a face rebuilt from titanium.
+Target",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+20,on_p50,2000,1,21,"Translate an English sentence into a target language.
+English: City-states are the precursors of nations. A civilizational culture implies the passing on of knowledge across several generations, a lingering cultural footprint and fair dissemination.
+Target Language: 城邦是國家的前身。一個文明文化意味著傳承知識跨越幾代，一個長久的文化足跡和公平的傳播。
+English: The city-state is the precursor of the nation. A civilizational culture implies the passing on of knowledge across several generations, a lingering cultural footprint and fair dissemination.
+Target Language: 城邦是國家的前身",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+21,on_p50,2000,1,22,"Translate an English sentence into a target language.
+English: Former House Speaker Newt Gingrich, Texas governor Rick Perry, and Congresswoman Michele Bachmann finished in fourth, fifth, and sixth place, respectively.
+Target Language: 新特朗普、紐特·金柏、迪克·佩里、米歇爾·巴赫曼分別以第四、第五、第六名的成績完成。
+Translate the following English sentences into the target language.
+1. The former House Speaker Newt Gingrich, Texas governor Rick Perry, and Congresswoman Michele Bachmann finished in fourth, fifth, and sixth place, respectively.
+2. The former House Speaker Newt G",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+22,on_p50,2000,1,23,"Translate an English sentence into a target language.
+English: The war expenditures of U.S. imperialism in the conquest of the Philippines were paid for by the Filipino people themselves.
+Target Language: Les dépenses de guerre de l'impérialisme américain dans la conquête des Philippines ont été payées par le peuple philippin lui-même.
+Translate the following English sentences into the target language.
+English: The war expenditures of U.S. imperialism in the conquest of the Philippines were paid for by the Filipino people themselves. Les dépenses de guerre de l'impérialisme américain dans la conquête des Philippines ont été payées par le peuple philippin lui-même.
+English: The war expenditures of U.S",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+23,on_p50,2000,1,24,"Translate an English sentence into a target language.
+English: Needless to say, if you know a Romance language, it will be easier for you to learn Portuguese.
+Target Language: Needless to say, if you know a Romance language, it will be easier for you to learn Portuguese.
+English: I'm not sure if I'm going to be able to make it to the party.
+Target Language: I'm not sure if I'm going to be able to make it to the party.
+English: I'm not sure if I'm going to be able to make it to the party. I'm not sure if I'm going to be able to make it to the party.
+English: I'm not sure if I'm going to be",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+24,on_p50,2000,1,25,"Translate an English sentence into a target language.
+English: Women did the cooking in the yard; stores were just open counters looking into the street. Stone was used for building houses.
+Target Language: Women did the cooking in the yard; stores were just open counters looking into the street. Stone was used for building houses.
+English: The first settlers were the French, who came in 1604.
+Target Language: Les premiers colons étaient les Français, qui sont venus en 1604.
+English: The first settlers were the French, who came in 1604. Les premiers colons étaient les Français, qui sont venus en 1604.
+English: The first settlers were the French, who came in 16",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+25,on_p50,2000,1,26,"Translate an English sentence into a target language.
+English: Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago.
+Target Language: Les scientifiques espèrent comprendre comment les planètes se forment, en particulier comment la Terre s'est formée, puisque les comètes ont percuté la Terre il y a longtemps.
+The English sentence is translated into French.
+The French sentence is translated into English.
+The English sentence is translated into Spanish.
+The Spanish sentence is translated into English.
+The English sentence is translated into German.
+The German sentence is translated into English.
+The English sentence is translated into Italian.
+The Italian sentence is translated into English.
+The English sentence is translated into Portuguese.
+",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+26,on_p50,2000,1,27,"Translate an English sentence into a target language.
+English: Pre-operative transgender people should not expect to pass through the scanners with their privacy and dignity intact.
+Target Language: Les personnes transgenres pré-opératoires ne devraient pas s'attendre à passer par les scanners avec leur intimité et leur dignité intacts.
+I'm not sure if I'm doing this right.
+I'm not sure if I'm doing this right. I'm not sure if I'm doing this right.
+I'm not sure if I'm doing this right. I'm not sure if I'm doing this right. I'm not sure if I'm doing this right.
+I'm not sure if",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+27,on_p50,2000,1,28,"Translate an English sentence into a target language.
+English: Check the label for specific first aid instructions for that specific poison.
+Target Language: Check the label for specific first aid instructions for that specific poison.
+English: Check the label for specific first aid instructions for that specific poison.
+Target Language: Check the label for specific first aid instructions for that specific poison.
+English: Check the label for specific first aid instructions for that specific poison.
+Target Language: Check the label for specific first aid instructions for that specific poison.
+English: Check the label for specific first aid instructions for that specific poison.
+Target Language: Check the label for specific first aid instructions for that specific poison.
+English: Check the label for specific first aid instructions for that specific poison.",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+28,on_p50,2000,1,29,"Translate an English sentence into a target language.
+English: Efforts to search for the crash site are being met by bad weather and harsh terrain.
+Target Language: Les efforts pour rechercher le site du crash sont entravés par le mauvais temps et le terrain difficile.
+English: The search for the crash site is being met by bad weather and harsh terrain.
+Target Language: La recherche du site du crash est entravée par le mauvais temps et le terrain difficile.
+English: The search for the crash site is being met by bad weather and difficult terrain.
+Target Language: La recherche du site du crash est entravée par le mauvais temps et le terrain difficile.
+English: The search for the crash site",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+29,on_p50,2000,1,30,"Translate an English sentence into a target language.
+English: The modern city of Casablanca was founded by Berber fishermen in the 10th century BCE, and was used by the Phoenicians, Romans, and the Merenids as a strategic port called Anfa.
+Target Language: The modern city of Casablanca was founded by Berber fishermen in the 10th century BCE, and was used by the Phoenicians, Romans, and the Merenids as a strategic port called Anfa.
+English: The modern city of Casablanca was founded by Berber fishermen in the 10th century BCE, and was used by the Phoenicians, Romans, and the Merenids as a strategic port called Anfa. The modern city of Casablanca was founded by Berber fishermen in the 10",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+30,on_p50,2000,1,31,"Translate an English sentence into a target language.
+English: This means you can visit the historic city for a couple of full days while returning and sleeping on the ship at night.
+Target Language: This means you can visit the historic city for a couple of full days while returning and sleeping on the ship at night.
+English: This means you can visit the historic city for a couple of full days while returning and sleeping on the ship at night. This means you can visit the historic city for a couple of full days while returning and sleeping on the ship at night.
+Target Language: This means you can visit the historic city for a couple of full days while returning and sleeping on the ship at night. This means you can visit the historic city for a couple of full days while returning and sleeping on the",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+31,on_p50,2000,1,32,"Translate an English sentence into a target language.
+English: They usually have special food, drink and entertainment offers, to keep guests in a good mood, and keep them at the premise.
+Target Language: They usually have special food, drink and entertainment offers, to keep guests in a good mood, and keep them at the premise.
+English: The hotel is a place where people can stay for a short or long period of time.
+Target Language: The hotel is a place where people can stay for a short or long period of time.
+English: The hotel is a place where people can stay for a short or long period of time. The hotel is a place where people can stay for a short or long period of time.
+English: The hotel is a place where people can stay for a short or long",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+32,on_p50,2000,1,33,"Translate an English sentence into a target language.
+English: Argentina is well known for having one of the best polo teams and players in the world.
+Target Language: Argentina est bien connu pour avoir l'un des meilleurs équipes et les joueurs de polo dans le monde.
+English: The United States is well known for having one of the best polo teams and players in the world.
+Target Language: Les États-Unis sont bien connu pour avoir l'un des meilleurs équipes et les joueurs de polo dans le monde.
+English: The United Kingdom is well known for having one of the best polo teams and players in the world.
+Target Language: Le Royaume-Uni est bien connu pour avoir l'un des meilleurs équipes et les joueurs",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+33,on_p50,2000,1,34,"Translate an English sentence into a target language.
+English: For example visiting castles in the Loire Valley, the Rhine valley or taking a cruise to interesting cites on the Danube or boating along the Erie Canal.
+Target Language: For example les chateaux de la Loire, le val du Rhin ou une croisière sur le Danube et le canal Érié.
+The English sentence is a list of activities that can be done in different places.
+The target language is a list of places where the activities can be done.
+The English sentence is a list of activities that can be done in different places. The target language is a list of places where the activities can be done.
+The English sentence is a list of activities that can be done in different places. The target language is a list of places where the activities can be done",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+34,on_p50,2000,1,35,"Translate an English sentence into a target language.
+English: The correlation between brain pathology and behaviour supports scientists in their research.
+Target Language: Les corrélations entre les pathologies du cerveau et le comportement soutiennent les scientifiques dans leurs recherches.
+The correlation between brain pathology and behaviour supports scientists in their research. Les corrélations entre les pathologies du cerveau et le comportement soutiennent les scientifiques dans leurs recherches.
+The correlation between brain pathology and behaviour supports scientists in their research. Les corrélations entre les pathologies du cerveau et le comportement soutiennent les scientifiques dans leurs recherches. Les corrélations entre les pathologies du cerveau et le comport",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+35,on_p50,2000,1,36,"Translate an English sentence into a target language.
+English: Across the United States of America, there are approximately 400,000 known cases of Multiple Sclerosis (MS), leaving it as the leading neurological disease in younger and middle aged adults.
+Target Language: Across the United States of America, there are approximately 400,000 known cases of Multiple Sclerosis (MS), leaving it as the leading neurological disease in younger and middle aged adults.
+English: Across the United States of America, there are approximately 400,000 known cases of Multiple Sclerosis (MS), leaving it as the leading neurological disease in younger and middle aged adults. Across the United States of America, there are approximately 400,000 known cases of Multiple Sclerosis (MS",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+36,on_p50,2000,1,37,"Translate an English sentence into a target language.
+English: Fluke wrote that the efforts by some to drown out women from speaking out about women’s health were unsuccessful.
+Target Language: فلوك كتب أن محاولات بعض المحافظين للتنكيل بالصوت النسائي في الصحة النسائية كانت غير ناجحة.
+English: The efforts by some to drown out women from speaking out about women’s health were unsuccessful.
+Target Language: محاولات بعض المحاف",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+37,on_p50,2000,1,38,"Translate an English sentence into a target language.
+English: The archipelago lies 120 km north of the Peninsula. The largest is King George Island with the settlement of Villa Las Estrellas.
+Target Language: The archipelago lies 120 km north of the Peninsula. The largest is King George Island with the settlement of Villa Las Estrellas.
+The archipelago lies 120 km north of the Peninsula. The largest is King George Island with the settlement of Villa Las Estrellas.
+The archipelago lies 120 km north of the Peninsula. The largest is King George Island with the settlement of Villa Las Estrellas.
+The archipelago lies 120 km north of the Peninsula. The largest is King George",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+38,on_p50,2000,1,39,"Translate an English sentence into a target language.
+English: North Shore beaches (in North Harbour district) are on the Pacific Ocean and stretch from Long Bay in the north to Devonport in the south.
+Target Language: Les plages du North Shore (dans le district du North Harbour) sont sur l'océan Pacifique et s'étendent du nord au sud du Long Bay au Devonport.
+The North Shore beaches (in North Harbour district) are on the Pacific Ocean and stretch from Long Bay in the north to Devonport in the south. Les plages du North Shore (dans le district du North Harbour) sont sur l'océan Pacifique et s'étendent du nord au sud du Long Bay au Devonport. Les plages du North Shore",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+39,on_p50,2000,1,40,"Translate an English sentence into a target language.
+English: Subcultures can be distinctive because of the age, ethnicity, class, location, and/or gender of the members.
+Target Language: Les sous-cultures peuvent être distinctives à cause de l'âge, de l'ethnicité, de la classe, du lieu et/ou du genre des membres.
+English: The subculture of the 1950s was the first to be studied in depth.
+Target Language: La sous-culture des années 1950 est la première à être étudiée en profondeur.
+English: The subculture of the 1950s was the first to be studied in depth. Les sous-cultures des années 1950",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+40,on_p50,2000,1,41,"Translate an English sentence into a target language.
+English: The surface of the Moon is made of rocks and dust. The outer layer of the Moon is called the crust.
+Target Language: The surface of the Moon is made of rocks and dust. The outer layer of the Moon is called the crust.
+The surface of the Moon is made of rocks and dust. The outer layer of the Moon is called the crust.
+The surface of the Moon is made of rocks and dust. The outer layer of the Moon is called the crust. The surface of the Moon is made of rocks and dust. The outer layer of the Moon is called the crust.
+The surface of the Moon is made of rocks and dust. The outer layer of the Moon is called the crust. The surface of the Moon",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+41,on_p50,2000,1,42,"Translate an English sentence into a target language.
+English: This too can be borrowed from the stock at the entrance but that clothing isn't washed after every user so you may not feel comfortable wearing these skirts. One size fits all for men!
+Target Language: This too can be borrowed from the stock at the entrance but that clothing isn't washed after every user so you may not feel comfortable wearing these skirts. One size fits all for men!
+I'm not sure how to translate the sentence.
+I'm not sure how to translate the sentence. I'm not sure how to translate the sentence.
+I'm not sure how to translate the sentence. I'm not sure how to translate the sentence. I'm not sure how to translate the sentence.
+I'm not sure how to translate the sentence. I'm",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+42,on_p50,2000,1,43,"Translate an English sentence into a target language.
+English: The Plitvice Lakes national park is heavily forested, mainly with beech, spruce, and fir trees, and features a mixture of Alpine and Mediterranean vegetation.
+Target Language: The Plitvice Lakes national park is heavily forested, mainly with beech, spruce, and fir trees, and features a mixture of Alpine and Mediterranean vegetation.
+The Plitvice Lakes national park is heavily forested, mainly with beech, spruce, and fir trees, and features a mixture of Alpine and Mediterranean vegetation.
+The Plitvice Lakes national park is heavily forested, mainly with beech, spruce, and fir trees, and features a mixture of Alpine and Mediterranean vegetation.
+The Plitvice Lakes national park",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+43,on_p50,2000,1,44,"Translate an English sentence into a target language.
+English: Virtually all computers in use today are based on the manipulation of information which is coded in the form of binary numbers.
+Target Language: 大部分现在使用的计算机基于數位資訊的處理。
+I'm not sure how to translate the first sentence.
+I'm also not sure how to translate the second sentence.
+I'm also not sure how to translate the third sentence.
+I'm also not sure how to translate the fourth sentence.
+I'm also not sure how to translate the fifth sentence.
+I'm also not sure how to translate the sixth sentence.
+I'm also not sure how to translate the seventh sentence.",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+44,on_p50,2000,1,45,"Translate an English sentence into a target language.
+English: Japanese work culture is more hierarchical and formal that what Westerners may be used to.
+Target Language: 日本の仕事文化は、西洋人が習慣的に用いるような、偏って優先順位を重視するものではない。
+I'm not sure if this is correct, but I'm trying to translate the sentence into Japanese.
+I'm not sure if this is correct, but I'm trying to translate the sentence into Japanese. I'm not sure if this is correct, but I'm trying to translate the sentence into Japanese. I'",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+45,on_p50,2000,1,46,"Translate an English sentence into a target language.
+English: Moreover, failure to do so has serious consequences: growth depression, malnutrition, and ultimately death.
+Target Language: इसके अलावा इसके अलावा इसके अलावा इसके अलावा इसके अलावा इसके अलावा इसके अलावा इसके अलावा इसके अलावा इसके अला",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+46,on_p50,2000,1,47,"Translate an English sentence into a target language.
+English: Crossties were introduced fairly early to hold the tracks in place. Gradually, however, it was realised that tracks would be more efficient if they had a stip of iron on the top.
+Target Language: Crossties were introduced fairly early to hold the tracks in place. Gradually, however, it was realised that tracks would be more efficient if they had a stip of iron on the top.
+English: The first railway was built in 1825. It was a short line of 13 miles, running from Stockton to Darlington.
+Target Language: The first railway was built in 1825. It was a short line of 13 miles, running from Stockton to Darlington.
+English: The first railway was built in 1825.",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+47,on_p50,2000,1,48,"Translate an English sentence into a target language.
+English: Its status declined during the twelfth century mainly due to the fact that Crusaders had returned bearing gifts such as silks and spices that were valued more than what Byzantine markets offered.
+Target Language: Its status declined during the twelfth century mainly due to the fact that Crusaders had returned bearing gifts such as silks and spices that were valued more than what Byzantine markets offered.
+English: The Byzantine Empire was a continuation of the Roman Empire.
+Target Language: The Byzantine Empire was a continuation of the Roman Empire.
+English: The Byzantine Empire was a continuation of the Roman Empire. The Byzantine Empire was a continuation of the Roman Empire.
+Target Language: The Byzantine Empire was a continuation of the Roman Empire",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+48,on_p50,2000,1,49,"Translate an English sentence into a target language.
+English: While one experimental vaccine appears able to reduce Ebola mortality, up until now, no drugs have been clearly demonstrated suitable for treating existing infection.
+Target Language: 한국어: 한 실험 백신은 에볼라 사망률을 감소시키는 것으로 보이나, 현재까지 있는 감염에 대해 치료에 적합한 약물은 아직 없다.
+English: The Ebola virus is transmitted to people from wild animals",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+49,on_p50,2000,1,50,"Translate an English sentence into a target language.
+English: Each temple had an open temple courtyard and then an inner sanctuary that only the priests could enter.
+Target Language: 每个寺庙都有一个开放的寺庙院落和一个只有祭司才能进入的内阁。
+The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+50,on_p50,2000,1,51,"Translate an English sentence into a target language.
+English: The mountains of the Peninsula here merge into the plateau, then re-emerge to form the 360 km chain of the Ellsworth Mountains, bisected by the Minnesota Glacier.
+Target Language: Les montagnes de la péninsule ici se fondent dans le plateau, puis ré-émergent pour former la chaîne de 360 km des Ellsworth Mountains, divisée par le glacier du Minnesota.
+The mountains of the Peninsula here merge into the plateau, then re-emerge to form the 360 km chain of the Ellsworth Mountains, bisected by the Minnesota Glacier.
+Les montagnes de la péninsule ici se fondent dans le plateau, puis ré-émergent pour former la chaîne de ",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+51,on_p50,2000,1,52,"Translate an English sentence into a target language.
+English: In addition, be aware that odors attract bears and other wildlife, so avoid carrying or cooking odorous foods and keep a clean camp.
+Target Language: 또한, 냄새는 곰과 다른 동물들을 끌어들이기 때문에, 냄새가 있는 음식을 실어 나갈 수 없으며, 침대를 깨끗하게 유지해야 합니다.
+English: In addition, be aware that odors attract be",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+52,on_p50,2000,1,53,"Translate an English sentence into a target language.
+English: Scientists say the explosion caused by the collision was massive.
+Target Language: Les scientifiques disent que l'explosion causée par la collision était massive.
+English: The explosion caused by the collision was massive.
+Target Language: La collision a causé une explosion massive.
+English: Les scientifiques disent que l'explosion causée par la collision était massive.
+English: Les scientifiques disent que l'explosion causée par la collision a été massive.
+English: Les scientifiques disent que l'explosion causée par la collision a été massive.
+English: Les scientifiques disent que",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+53,on_p50,2000,1,54,"Translate an English sentence into a target language.
+English: Italy's national football, along with German national football team is the second most successful team in the world and were the FIFA World Cup champions in 2006.
+Target Language: 中文
+I'm not sure how to translate the sentence into Chinese.
+I'm not sure how to translate the sentence into Chinese. I'm not sure how to translate the sentence into Chinese. I'm not sure how to translate the sentence into Chinese. I'm not sure how to translate the sentence into Chinese. I'm not sure how to translate the sentence into Chinese. I'm not sure how to translate the sentence into Chinese. I'm not sure how to translate the sentence into Chinese. I'm not sure how to translate the sentence into Chinese. I'm not sure how",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+54,on_p50,2000,1,55,"Translate an English sentence into a target language.
+English: The distinct characteristics of the Internet lead to additional dimensions in terms of the uses and gratifications approach.
+Target Language: Les caractéristiques distinctes de l'Internet conduisent à des dimensions supplémentaires en termes de l'approche des usages et des gratifications.
+The distinct characteristics of the Internet lead to additional dimensions in terms of the uses and gratifications approach. Les caractéristiques distinctes de l'Internet conduisent à des dimensions supplémentaires en termes de l'approche des usages et des gratifications.
+The distinct characteristics of the Internet lead to additional dimensions in terms of the uses and gratifications approach. Les caractéristiques distinctes de l'Internet conduisent à des dimensions supp",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+55,on_p50,2000,1,56,"Translate an English sentence into a target language.
+English: Such children are called ""feral"" or wild. Some feral children have been confined by people (usually their own parents); in some cases this child abandonment was due to the parents' rejection of a child's severe intellectual or physical impairment.
+Target Language: తెలుగు: అన్న బలములు పునారాయిన పిల్లలు కూడా ����������������",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+56,on_p50,2000,1,57,"Translate an English sentence into a target language.
+English: Negotiators tried to rectify the situation, but the prisoners' demands are not clear.
+Target Language: Les négociateurs ont essayé de corriger la situation, mais les exigences des prisonniers ne sont pas claires.
+English: The negotiators tried to rectify the situation, but the prisoners' demands are not clear.
+Target Language: Les négociateurs ont essayé de corriger la situation, mais les exigences des prisonniers ne sont pas claires. Les négociateurs ont essayé de corriger la situation, mais les exigences des prisonniers ne sont pas claires. Les négociateurs ont essayé de corr",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+57,on_p50,2000,1,58,"Translate an English sentence into a target language.
+English: The East African Islands are in the Indian Ocean off the eastern coast of Africa.
+Target Language: Les îles de l'Afrique de l'Est sont dans l'océan Indien au large de la côte orientale de l'Afrique.
+The East African Islands are in the Indian Ocean off the eastern coast of Africa. Les îles de l'Afrique de l'Est sont dans l'océan Indien au large de la côte orientale de l'Afrique.
+Les îles de l'Afrique de l'Est sont dans l'océan Indien au large de la côte orientale de l'Afrique. Les îles de l",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+58,on_p50,2000,1,59,"Translate an English sentence into a target language.
+English: Tournament top seeds South Africa started on the right note when they had a comfortable 26 - 00 win against 5th seeded Zambia.
+Target Language: తెలుగు: తెలుగు ప్రతి సందర్భం సాధనం సుదారి సాఫులి ",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+59,on_p50,2000,1,60,"Translate an English sentence into a target language.
+English: 34 per cent of those in the poll share this view, wanting Queen Elizabeth II to be Australia's last monarch.
+Target Language: 34% of those in the poll share this view, wanting Queen Elizabeth II to be Australia's last monarch.
+I'm not sure if this is the right way to do it.
+I'm also not sure if I should use ""those"" or ""them"" in the target language.
+I'm also not sure if I should use ""those"" or ""them"" in the target language. I'm also not sure if I should use ""those"" or ""them"" in the target language.
+I'm also not sure if I should use ""th",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+60,on_p50,2000,1,61,"Translate an English sentence into a target language.
+English: Fruit pastries are common, with apples cooked into pastries year round, and cherries and plums making their appearances during the summer.
+Target Language: 果酥是常見的食物，蘋果在餅乾中常見，而夏天時，櫻桃和葡萄也會出現在餅乾中。
+I'm not sure if this is correct.
+I'm not sure if this is correct. 2017-03-23 11:47:47
+I'm not sure if this is correct. 2017-03-23 11:47",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+61,on_p50,2000,1,62,"Translate an English sentence into a target language.
+English: The 25 Dunlap broadsides still known to exist are the oldest surviving copies of the document. The original handwritten copy has not survived.
+Target Language: Les 25 exemplaires du Dunlap broadsides connus encore aujourd'hui sont les plus anciens exemplaires du document qui nous soient parvenus. Le document original, écrit à la main, n'a pas survécu.
+The Dunlap broadsides are the oldest known copies of the Declaration of Independence.
+The Dunlap broadsides are the oldest known copies of the Declaration of Independence. Les Dunlap broadsides sont les plus anciens exemplaires du Déclaration d'indépendance. Les Dunlap broadsides sont",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+62,on_p50,2000,1,63,"Translate an English sentence into a target language.
+English: He was greeted by Singapore's Deputy Prime Minister Wong Kan Seng and discussed trade and terrorism issues with the Singapore Prime Minister Lee Hsien Loong.
+Target Language: He was greeted by Singapore's Deputy Prime Minister Wong Kan Seng and discussed trade and terrorism issues with the Singapore Prime Minister Lee Hsien Loong.
+English: He was greeted by Singapore's Deputy Prime Minister Wong Kan Seng and discussed trade and terrorism issues with the Singapore Prime Minister Lee Hsien Loong.
+Target Language: He was greeted by Singapore's Deputy Prime Minister Wong Kan Seng and discussed trade and terrorism issues with the Singapore Prime Minister Lee Hsien Loong.
+English: He was greeted by Singapore",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+63,on_p50,2000,1,64,"Translate an English sentence into a target language.
+English: Two songs from the movie, Audition (The Fools Who Dream) and City of Stars, received nominations for best original song. Lionsgate studio received 26 nominations — more than any other studio.
+Target Language: 2017年のアカデミー賞で、映画『アウディション』の2曲が最優秀歌曲賞にノミネートされました。Lionsgateスタジオは26件のノミネートを受けました。
+Translation: In the 2017 Academy Awards, two songs from the movie, Audition (The Fools Who Dream) were nominated for best original song. Lionsgate studio received 26 nominations",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+64,on_p50,2000,1,65,"Translate an English sentence into a target language.
+English: Many of the traditions surrounding the holiday have been adopted also by non-believers in Christian countries and non-Christians around the world.
+Target Language: Many of the traditions surrounding the holiday have been adopted also by non-believers in Christian countries and non-Christians around the world.
+English: The first recorded date of Christmas being celebrated on December 25th was in 336, during the time of Constantine the Great.
+Target Language: The first recorded date of Christmas being celebrated on December 25th was in 336, during the time of Constantine the Great.
+English: The first recorded date of Christmas being celebrated on December 25th was in 336, during the time of Constantine",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+65,on_p50,2000,1,66,"Translate an English sentence into a target language.
+English: Many common formats (APS family of formats, for example) are equal to or closely approximate this aspect ratio.
+Target Language: 英語: 多くの一般的なフォーマット (APS 家族のフォーマットの例) はこの比率に等しいか、またはこの比率に近い。
+The English sentence is translated into the target language.
+The English sentence is translated into the target language. The translation is not perfect, but it is good enough to be understood by a native speaker of the target language.
+The English sentence is translated into the target language. The translation is not perfect, but it is",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+66,on_p50,2000,1,67,"Translate an English sentence into a target language.
+English: The patient had been to Nigeria, where some cases of the Ebola virus have occurred.
+Target Language: The patient had been to Nigeria, where some cases of the Ebola virus have occurred.
+English: The patient had been to Nigeria, where some cases of the Ebola virus have occurred. The patient had been to Nigeria, where some cases of the Ebola virus have occurred.
+Target Language: The patient had been to Nigeria, where some cases of the Ebola virus have occurred. The patient had been to Nigeria, where some cases of the Ebola virus have occurred.
+English: The patient had been to Nigeria, where some cases of the Ebola virus have",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+67,on_p50,2000,1,68,"Translate an English sentence into a target language.
+English: When you call someone who is thousands of miles away, you are using a satellite.
+Target Language: When you call someone who is thousands of miles away, you are using a satellite.
+English: When you call someone who is thousands of miles away, you are using a satellite. When you call someone who is thousands of miles away, you are using a satellite.
+Target Language: When you call someone who is thousands of miles away, you are using a satellite. When you call someone who is thousands of miles away, you are using a satellite.
+English: When you call someone who is thousands of miles away, you are using a satellite. When you call someone who is thousands of miles away, you are using a satellite",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+68,on_p50,2000,1,69,"Translate an English sentence into a target language.
+English: The Sundarbans are the largest littoral mangrove belt in the world, stretching 80 km (50 mi) into the Bangladeshi and Indian hinterland from the coast.
+Target Language: The Sundarbans are the largest littoral mangrove belt in the world, stretching 80 km (50 mi) into the Bangladeshi and Indian hinterland from the coast.
+English: The Sundarbans are the largest littoral mangrove belt in the world, stretching 80 km (50 mi) into the Bangladeshi and Indian hinterland from the coast. The Sundarbans are the largest littoral mangrove belt in the world, stretching 80 km (50 mi) into the Bangladeshi and",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+69,on_p50,2000,1,70,"Translate an English sentence into a target language.
+English: Ocelots like to eat small animals. They will catch monkeys, snakes, rodents and birds if they can. Almost all of the animals that the ocelot hunts are far smaller than it is.
+Target Language: Les ocelots aiment manger les petits animaux. Ils les attraperont si possible, les singes, les serpents, les rongeurs et les oiseaux. Presque tous les animaux que les ocelots chassent sont beaucoup plus petits qu'eux.
+English: Les ocelots aiment manger les petits animaux. Ils les attraperont si possible, les singes, les serpents, les rongeurs et les oiseaux. Presque tous les animaux que les ocelots chassent sont beaucoup plus",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+70,on_p50,2000,1,71,"Translate an English sentence into a target language.
+English: The age where the events took place is commonly referred as the High Middle Ages the period of European history in the 11th, 12th, and 13th centuries (AD 1000–1300).
+Target Language: The age where the events took place is commonly referred as the High Middle Ages the period of European history in the 11th, 12th, and 13th centuries (AD 1000–1300).
+English: The age where the events took place is commonly referred as the High Middle Ages the period of European history in the 11th, 12th, and 13th centuries (AD 1000–1300). The age where the events took place is commonly referred as the High Middle Ages the period of European history",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+71,on_p50,2000,1,72,"Translate an English sentence into a target language.
+English: Downhill skiing as a sport goes back to at least the 17th century, and in 1861 the first recreational ski club was opened by Norwegians in Australia.
+Target Language: 滑雪运动可以追溯到17世纪，1861年，澳大利亚的挪威人开设了第一个休闲滑雪俱乐部。
+I'm not sure if this is the right way to translate this sentence.
+I'm also not sure if I should use 滑雪运动 or 滑雪运动 as the translation of ""downhill skiing as a sport"".
+I'm also",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+72,on_p50,2000,1,73,"Translate an English sentence into a target language.
+English: Typically there will be a tuition fee to enroll in these educational programs.
+Target Language: 通常，參加這些教育課程的學生需要繳交學費。
+The English sentence is translated into the target language.
+The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is translated into the target language. The English sentence is",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+73,on_p50,2000,1,74,"Translate an English sentence into a target language.
+English: Sleep interruption is the process of purposefully awakening during your normal sleep period and falling asleep a short time later (10–60 minutes).
+Target Language: 睡眠中断是意外地在你的正常睡眠时间中暂停睡眠，然后在10–60分钟后再次入睡。
+English: Sleep interruption is the process of purposefully awakening during your normal sleep period and falling asleep a short time later (10–60 minutes). Sleep interruption is the process of purposefully awakening during your normal sleep period and falling asleep a short time later (10–6",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+74,on_p50,2000,1,75,"Translate an English sentence into a target language.
+English: Only mutations in germ-line cells can be passed on to children, while mutations elsewhere can cause cell-death or cancer.
+Target Language: Only mutations in germ-line cells can be passed on to children, while mutations elsewhere can cause cell-death or cancer.
+English: The only mutations in germ-line cells can be passed on to children, while mutations elsewhere can cause cell-death or cancer.
+Target Language: The only mutations in germ-line cells can be passed on to children, while mutations elsewhere can cause cell-death or cancer.
+English: Only mutations in germ-line cells can be passed on to children, while mutations elsewhere can cause cell-death or cancer. The only mutations",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+75,on_p50,2000,1,76,"Translate an English sentence into a target language.
+English: Moldova is a multi-ethnic republic that has suffered from ethnic conflict.
+Target Language: Moldova este o republică multi-ethnică care a suferit de la conflictul ethnic.
+English: Moldova is a multi-ethnic republic that has suffered from ethnic conflict. The conflict has been between the Moldovans and the Gagauz.
+Target Language: Moldova este o republică multi-ethnică care a suferit de la conflictul ethnic. Conflictul a fost între Moldovenii și Gagaouzii.
+English: Moldova is a multi-ethnic republic that has suffered from ethnic conflict. The conflict has been between",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+76,on_p50,2000,1,77,"Translate an English sentence into a target language.
+English: For news on tournaments and where to buy tickets for polo matches, check Asociacion Argentina de Polo.
+Target Language: Pour les nouvelles sur les tournois et les billets pour les matches de polo, vérifiez le site de l'Association Argentine de Polo.
+English: For news on tournaments and where to buy tickets for polo matches, check the Argentine Polo Association website.
+Target Language: Pour les nouvelles sur les tournois et les billets pour les matches de polo, vérifiez le site de l'Association Argentine de Polo.
+English: For news on tournaments and where to buy tickets for polo matches, check the Argent",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+77,on_p50,2000,1,78,"Translate an English sentence into a target language.
+English: MS is a disease that affects the central nervous system, which is made up of the brain, the spinal cord and the optic nerve.
+Target Language: MS is a disease that affects the central nervous system, which is made up of the brain, the spinal cord and the optic nerve.
+English: MS is a disease that affects the central nervous system, which is made up of the brain, the spinal cord and the optic nerve. MS is a disease that affects the central nervous system, which is made up of the brain, the spinal cord and the optic nerve.
+Target Language: MS is a disease that affects the central nervous system, which is made up of the brain, the spinal cord",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+78,on_p50,2000,1,79,"Translate an English sentence into a target language.
+English: Cancellation policies vary, but as of late March most coronavirus-based cancellation policies don't extend to July 2020, when the Olympics had been scheduled.
+Target Language: 취소 정책은 다양하지만, 3월 말에 코로나바이러스 관련 취소 정책은 7월 2020년, 올림픽이 예정되었을 때까지 연장되지 않았다.
+Translate an English sentence into a target language. (2",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+79,on_p50,2000,1,80,"Translate an English sentence into a target language.
+English: Ring also settled a lawsuit with competing security company, the ADT Corporation.
+Target Language: 링 코퍼레이션은 경쟁 회사 ADT 코퍼레이션과의 소송을 해결했다.
+English: Ring also settled a lawsuit with competing security company, the ADT Corporation. 링 코퍼레이션은 경쟁 회사 ADT 코퍼레이션과의 소",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+80,on_p50,2000,1,81,"Translate an English sentence into a target language.
+English: Tokyo will be the only Asian city to have hosted two summer Olympics, having hosted the games in 1964.
+Target Language: 東京は、夏季オリンピックを2回開催したアジアの都市として、2020年にも開催される。1964年にも開催された。
+English: The 2020 Summer Olympics will be the second Olympic Games to be held in Tokyo, after the 1964 Summer Olympics.
+Target Language: 2020年の夏季オリンピックは、東京で2回目の開",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+81,on_p50,2000,1,82,"Translate an English sentence into a target language.
+English: The center of Tibetan meditation is the Deity Yoga. Through the visualization of various deities the energy channels are cleaned, the chakras are activated and the enlightenment consciousness is created.
+Target Language: The center of Tibetan meditation is the Deity Yoga. Through the visualization of various deities the energy channels are cleaned, the chakras are activated and the enlightenment consciousness is created.
+English: The center of Tibetan meditation is the Deity Yoga. Through the visualization of various deities the energy channels are cleaned, the chakras are activated and the enlightenment consciousness is created. The center of Tibetan meditation is the Deity Yoga. Through the visualization of various deities the energy channels are cleaned",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+82,on_p50,2000,1,83,"Translate an English sentence into a target language.
+English: The Babylonians built each of their gods a primary temple that was considered the home of the god.
+Target Language: Les Babyloniens ont construit chacun de leurs dieux une principale temple qui était considérée comme le domicile du dieu.
+English: The Babylonians built each of their gods a primary temple that was considered the home of the god. Les Babyloniens ont construit chacun de leurs dieux une principale temple qui était considérée comme le domicile du dieu.
+English: The Babylonians built each of their gods a primary temple that was considered the home of the god. Les Babyloniens ont construit chacun de leurs dieux une",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+83,on_p50,2000,1,84,"Translate an English sentence into a target language.
+English: Lakkha Singh presented the chhappan bhog bhajan as well. Singer, Raju Khandelwal was accompanying him.
+Target Language: ಲಕ್ಕಹ ಸಿಂಗ್ ಪ್ರಸಂಗ ಚಹಪಂ ಭಾಜನದ ಅದ ಸಂಗೀತ. ಗಾಯಕ, ರಾಜು ಕಂ",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+84,on_p50,2000,1,85,"Translate an English sentence into a target language.
+English: NextGen is a system the FAA claims would allow aircraft to fly shorter routes and save millions of gallons of fuel each year and cut carbon emissions.
+Target Language: NextGen is a system the FAA claims would allow aircraft to fly shorter routes and save millions of gallons of fuel each year and cut carbon emissions.
+English: The FAA is also working with the European Union to develop a system that would allow aircraft to fly shorter routes and save millions of gallons of fuel each year and cut carbon emissions.
+Target Language: The FAA is also working with the European Union to develop a system that would allow aircraft to fly shorter routes and save millions of gallons of fuel each year and cut carbon emissions.
+English: The FAA is also working with the European Union",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+85,on_p50,2000,1,86,"Translate an English sentence into a target language.
+English: A satellite phone is not generally a replacement for a mobile phone, as you have to be outdoors with clear line of sight to the satellite to make a phone call.
+Target Language: A satellite phone is not generally a replacement for a mobile phone, as you have to be outdoors with clear line of sight to the satellite to make a phone call.
+English: A satellite phone is not generally a replacement for a mobile phone, as you have to be outdoors with clear line of sight to the satellite to make a phone call.
+Target Language: A satellite phone is not generally a replacement for a mobile phone, as you have to be outdoors with clear line of sight to the satellite to make a phone call.
+English: A satellite phone is not generally a replacement for a mobile phone,",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+86,on_p50,2000,1,87,"Translate an English sentence into a target language.
+English: Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.
+Target Language: Çok şaşırıyorum, araçların yaklaşık bir açıdan davranması gibi, trafiğin bir açıdan açık açık bir açıdan açık açık bir açıdan açık açık bir açıdan açık açık bir açıdan açık açık bir açıdan açık açık bir açıdan açık",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+87,on_p50,2000,1,88,"Translate an English sentence into a target language.
+English: No matter how docile they may look, bison, elk, moose, bears, and nearly all large animals can attack.
+Target Language: 不管他們可能看起來如何溫和，牛、鹿、鹿、熊和大多數大型動物都可以攻擊。
+I'm not sure how to translate the sentence.
+I'm not sure how to translate the sentence. I'm not sure how to translate the sentence. I'm not sure how to translate the sentence. I'm not sure how to translate the sentence.
+I'm not sure how to translate the sentence. I'm",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+88,on_p50,2000,1,89,"Translate an English sentence into a target language.
+English: One was sent to George Washington on July 6, who had it read to his troops in New York on July 9. A copy reached London on August 10.
+Target Language: One was sent to George Washington on July 6, who had it read to his troops in New York on July 9. A copy reached London on August 10.
+English: The Declaration of Independence was adopted by the Second Continental Congress on July 4, 1776.
+Target Language: The Declaration of Independence was adopted by the Second Continental Congress on July 4, 1776.
+English: The Declaration of Independence was adopted by the Second Continental Congress on July 4, 1776. A copy reached London on August ",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+89,on_p50,2000,1,90,"Translate an English sentence into a target language.
+English: Since Montevideo is south of the Equator, it is summer there when it's winter in the Northern Hemisphere and vice versa.
+Target Language: منتويديو هو جنوب الاقتصاد لذا هو صيف له و شتاء له و من عليه و من عليه.
+Translate an English sentence into a target language. English: Since Montevideo is south of the Equator, it is summer there when it's winter in the Northern Hemisphere and vice versa. Target Language: منتويديو هو ",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+90,on_p50,2000,1,91,"Translate an English sentence into a target language.
+English: I lost my sister and her friend, and on my way there were two disabled people in wheelchairs, people just jumping over and pushing them,"" Armand Versace said.
+Target Language: I lost my sister and her friend, and on my way there were two disabled people in wheelchairs, people just jumping over and pushing them,"" Armand Versace said.
+I lost my sister and her friend, and on my way there were two disabled people in wheelchairs, people just jumping over and pushing them,"" Armand Versace said.
+I lost my sister and her friend, and on my way there were two disabled people in wheelchairs, people just jumping over and pushing them,"" Armand Versace said.
+I lost my sister and her friend, and on my way there were",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+91,on_p50,2000,1,92,"Translate an English sentence into a target language.
+English: Today, Timbuktu is an impoverished town, although its reputation makes it a tourist attraction, and it has an airport.
+Target Language: Today, Timbuktu is an impoverished town, although its reputation makes it a tourist attraction, and it has an airport.
+English: The first known use of the word ""Timbuktu"" was in 1581, in a book by Leo Africanus.
+Target Language: The first known use of the word ""Timbuktu"" was in 1581, in a book by Leo Africanus.
+English: The city was founded in the 11th century.
+Target Language: The city was founded in the 11th century.
+",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+92,on_p50,2000,1,93,"Translate an English sentence into a target language.
+English: Famous singers across the country presented bhajans, or devotional songs, to Shri Shyam's feet.
+Target Language: ಕೆಲವು ಕೆಲವು ಕೆಲವು ಕೆಲವು ಕೆಲವು ಕೆಲವು ಕೆಲವು ಕೆಲವು",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+93,on_p50,2000,1,94,"Translate an English sentence into a target language.
+English: Ottawa is Canada's charming, bilingual capital and features an array of art galleries and museums that showcase Canada's past and present.
+Target Language: ಅಕ್ಕಡ ಕನಡ ಭಾರತ ಸಹಕಾರ ಮತ್ತು ಕನಡ ಭಾಷಾ ಮತ್ತು ಕನಡ ಭಾಷಾ ����",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+94,on_p50,2000,1,95,"Translate an English sentence into a target language.
+English: Before an organization can be innovative, leadership must create a culture of innovation as well as shared knowledge and organizational learning.
+Target Language: Before an organization can be innovative, leadership must create a culture of innovation as well as shared knowledge and organizational learning.
+Translate an English sentence into a target language. English: Before an organization can be innovative, leadership must create a culture of innovation as well as shared knowledge and organizational learning. Target Language: Before an organization can be innovative, leadership must create a culture of innovation as well as shared knowledge and organizational learning.
+Translate an English sentence into a target language. English: Before an organization can be innovative, leadership must create a culture of innovation as well as shared knowledge",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+95,on_p50,2000,1,96,"Translate an English sentence into a target language.
+English: The earthquake was centered about 20 km (15 miles) north-northeast of Dillon, and about 65 km (40 miles) south of Butte.
+Target Language: The earthquake was centered about 20 km (15 miles) north-northeast of Dillon, and about 65 km (40 miles) south of Butte.
+English: The earthquake was centered about 20 km (15 miles) north-northeast of Dillon, and about 65 km (40 miles) south of Butte. The earthquake was centered about 20 km (15 miles) north-northeast of Dillon, and about 65 km (40 miles) south of Butte.
+Target Language: The",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+96,on_p50,2000,1,97,"Translate an English sentence into a target language.
+English: The main local beer is 'Number One', it is not a complex beer, but pleasant and refreshing. The other local beer is called ""Manta"".
+Target Language: The main local beer is 'Number One', it is not a complex beer, but pleasant and refreshing. The other local beer is called ""Manta"".
+The main local beer is 'Number One', it is not a complex beer, but pleasant and refreshing. The other local beer is called ""Manta"".
+The main local beer is 'Number One', it is not a complex beer, but pleasant and refreshing. The other local beer is called ""Manta"".
+The main local beer is 'Number One', it is not a complex beer",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+97,on_p50,2000,1,98,"Translate an English sentence into a target language.
+English: It was one of the major stops during Henry Louis Gates' PBS special Wonders of the African World.
+Target Language: It was one of the major stops during Henry Louis Gates' PBS special Wonders of the African World.
+English: The city is also home to the University of Ghana, the premier university and the largest university in Ghana.
+Target Language: The city is also home to the University of Ghana, the premier university and the largest university in Ghana.
+English: The city is also home to the University of Ghana, the premier university and the largest university in Ghana. The University of Ghana is the oldest and largest of the thirteen National Public Universities in Ghana.
+Target Language",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+98,on_p50,2000,1,99,"Translate an English sentence into a target language.
+English: In remote locations, without cell phone coverage, a satellite phone may be your only option.
+Target Language: Dans les régions éloignées, sans couverture de téléphone mobile, un téléphone satellite peut être votre seule option.
+The English sentence is translated into French.
+The French sentence is translated into English.
+The English sentence is translated into Spanish.
+The Spanish sentence is translated into English.
+The English sentence is translated into German.
+The German sentence is translated into English.
+The English sentence is translated into Italian.
+The Italian sentence is translated into English.
+The English sentence is translated into Portuguese.
+The Portuguese sentence is translated into English.
+The English sentence is translated into Russian.
+",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr
+99,on_p50,2000,1,100,"Translate an English sentence into a target language.
+English: At the same time, the German navy, using mainly U-boats, was trying to stop this traffic.
+Target Language: At the same time, the German navy, using mainly U-boats, was trying to stop this traffic.
+English: The German navy, using mainly U-boats, was trying to stop this traffic.
+Target Language: The German navy, using mainly U-boats, was trying to stop this traffic.
+English: The German navy was trying to stop this traffic.
+Target Language: The German navy was trying to stop this traffic.
+English: The German navy was trying to stop this traffic. At the same time, the German navy, using mainly U-boats",0.540899936915,,,translation_text_flores200_en_fr.pkl,fr

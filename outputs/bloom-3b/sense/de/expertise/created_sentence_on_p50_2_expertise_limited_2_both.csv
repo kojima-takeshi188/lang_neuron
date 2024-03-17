@@ -1,0 +1,267 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,2,1,1,"El actual entrenador de los Bulls es un entrenador técnico y táctico, que sabe qué hacer y lo hace, con resultados, lo cual es un logro en este momento de la NBA. Pero, ha sido difícil. Los Bulls están en el puesto 20 de la División Central de la Conferencia Este, y un equipo que ocupa",0.54427943,,,</s>,de
+1,on_p50,2,1,2,"/* This file is part of the KDE libraries
+    Copyright (C) 2003 Michael Zahn <zhaanh@kde.org>
+
+    This library is free software; you can redistribute it and/or
+    modify it under the terms of the GNU Library General Public
+    License version 2 as published by the Free Software Foundation.
+
+    This library",0.54427943,,,</s>,de
+2,on_p50,2,1,3,"#!/usr/bin/env python
+
+import os
+import sys
+import time
+import subprocess
+import socket
+import errno
+import signal
+
+try:
+    import ConfigParser as configparser
+except ImportError:
+    import configparser
+
+try:
+    from urllib.request import urlopen
+except ImportError:
+    from urllib2 import urlopen
+
+",0.54427943,,,</s>,de
+3,on_p50,2,1,4,"TOMATE: Encuentra y guarda ideas sobre Platos especiales de lentejas en Pinterest. Encuentra y guarda ideas sobre Platos especiales de lentejas en Pinterest. Platos especiales de lentejas. Platos especiales de lentejas. Platos especiales de lentejas.
+26/04/2011 · Fabulosa receta",0.54427943,,,</s>,de
+4,on_p50,2,1,5,"3. Bộ phận giảm tốc thủy lực được thiết kế đặc biệt, cho tốc độ cao, độ tin cậy cao và độ chính xác cao.
+1. Khoảng cách điều chỉnh rộng: 0 ~ 15mm, độ chính xác ± 0.1mm. Tốc độ: 300 ~ 1800mm / phút, độ chính",0.54427943,,,</s>,de
+5,on_p50,2,1,6,"Q:
+
+Verifying the equivalence of two described trigonometric identities
+
+I am having a hard time proving the equivalence of the two following described identities:
+$$\cos(x+y) = \cos{x} - \cos{y}$$
+$$-\sin(x) = \sin{x} + \sin{y}$$
+For example, it",0.54427943,,,</s>,de
+6,on_p50,2,1,7,"Neuromorphisms
+Neuromorphic computing is an emerging field of research which aims to build a hardware device for neural processing based on the cellular automaton (CA). The interest in the CA is mainly due to its rich physical mechanism that mimics the biological neuronal network. The CA is a simple and efficient simulation of the",0.54427943,,,</s>,de
+7,on_p50,2,1,8,"A polícia rodoviária federal (PRF) prendeu um homem de 37 anos, que conduzia um caminhão baú Mercedez Benz, carregado com 22 caixas de cerveja, no final da manhã desta quarta-feira (20), no km 242 da BR-364, proximidades de Rio Brilhante.
+Segundo informações",0.54427943,,,</s>,de
+8,on_p50,2,1,9,"The two queens, a member of the royal family of the United States, are the queens of the United States. They are the two queens of the United States of America. Texas Governor Rick Perry, who was named the new vice president, will be the chief of staff to President Trump in this office.",0.54427943,,,</s>,de
+9,on_p50,2,1,10,"The human body is extremely complex and is made up of two different types of cells, known as somatic and germ cells. Somatic cells are killed during sexual maturation and are the type we are most familiar with. Germ cells are the cells that make up the reproductive system and give rise to the offspring of men and",0.54427943,,,</s>,de
+10,on_p50,2,1,11,"Showing 0 out of a total of 0 results for collection: Political Organizations and Policy and Customs (Canada). (0.159 seconds)
+For the boys in your family, there’s nothing quite like being able to play on a quiet, sunny day in warm summer clothes. The secret to a successful summer day,",0.54427943,,,</s>,de
+11,on_p50,2,1,12,"A partir del lunes, 13 de enero, os estaréis viendo a través de la plataforma Zoom. Os animamos a que participéis como mejor os convenga, publicando el enlace en la sección de comentarios de Instagram o YouTube, o apuntándoselo a vuestra libreta de apuntes de la asignatura.
+",0.54427943,,,</s>,de
+12,on_p50,2,1,13,"Por todo esto y por más, se convoca a los señores miembros del Consejo deliberante y al público en general a participar del acto que se realizará el día martes 25 de febrero de 2016, a las 19,30 hs. en el salón de actos de nuestra institución, sito en Nro. 83 esquina 15 de",0.54427943,,,</s>,de
+13,on_p50,2,1,14,"Now we are looking at the sixth universal truth. It is important to remember that the human mind is the human’s most powerful tool. It is our ability to creatively apply the sixth universal truth that gives us the power to control the human mind, to govern the human being, and to create the human being. The",0.54427943,,,</s>,de
+14,on_p50,2,1,15,"Q:
+
+How to pass an integer to a method in Java?
+
+I have the following method:
+public static ArrayList<Integer> getIntArray(int start, int end) {
+    ArrayList<Integer> result = new ArrayList<>();
+
+    for (int i = start; i < end; i++) {
+        result.add(i)",0.54427943,,,</s>,de
+15,on_p50,2,1,16,"Introduction
+The first symptoms of cancer are typically vague, non-specific, and nonspecific (1). This is a common problem in the context of a general practitioner (GP) office (2). In addition to absence of symptoms, the main issue is the lack of recognition of symptoms by the patients and physicians.",0.54427943,,,</s>,de
+16,on_p50,2,1,17,電話接通後，她走起來很緩慢，在路上走著走著，她突然大叫一聲，我對她說：「你怎麼了？怎麼了？」 她一下子站直，被我的力量拉起來，低頭看著自己的身體，突然哭了起來，「怎麼了？怎麼了？」 我大吼了一,0.54427943,,,</s>,de
+17,on_p50,2,1,18,"#!/usr/bin/env python
+# This script will create a configuration file for an API server that I have
+# written. This particular API server is for running with the Xlib event
+# loop. It uses a custom session manager to allow access to the configuration
+# file via a GUI interface.
+#
+# This",0.54427943,,,</s>,de
+18,on_p50,2,1,19,"কবি বলেছেন, ‘এতো দিন যাকে আমি দেখেছি, তার হাত ধরে হাঁটতে, কষ্টে, হাসিতে, সুখে, দুঃখে সঙ্গী হয়ে। যার সাথে আমার দুই একটা কথা হয়েছে, তার সঙ্গ যেমন পেয়েছি, তার কাছ থেকে যতটুকু পেয়েছি তার সাথে এতো বেশী মিল খুঁজে পাইনি।’
+প্রখ্যাত কবি",0.54427943,,,</s>,de
+19,on_p50,2,1,20,"The information presented on this page is about the nearest train stations to Barrow-in-Furness in Scotland. Map information is also available for major cities and towns in Scotland such as Edinburgh, Dundee, Inverness and Glasgow.
+As we celebrate our 20th anniversary, we want to share what makes Swarovski",0.54427943,,,</s>,de
+20,on_p50,2,1,21,"El gran problema de la enfermedad de Alzheimer es que no hay cura para ella. Sin embargo, existen tratamientos para reducir los síntomas y mejorar la calidad de vida de las personas con demencia, como los siguientes:
+Medicamentos como el magnesio o el ginkgo biloba (que se puede tomar en forma de cáps",0.54427943,,,</s>,de
+21,on_p50,2,1,22,"/*
+ *  Open BEAGLE
+ *  Copyright (C) 2001-2007 by Christian Gagne and Marc Parizeau
+ *
+ *  This library is free software; you can redistribute it and/or
+ *  modify it under the terms of the GNU Lesser General Public
+ *  License as published by the Free",0.54427943,,,</s>,de
+22,on_p50,2,1,23,第四步，实施。管理者运用自己的全球视野，将战略规划与组织现状进行整合，对组织内外的环境进行动态的分析，制定出相应的行动计划。每个计划都需要事先进行可行性分析，根据预测结果制定出计划实施步骤和评估指标。同时，还可以更新学习计划，并重新,0.54427943,,,</s>,de
+23,on_p50,2,1,24,"﻿/*
+ * Created by SharpDevelop.
+ * User: ntian
+ * Date: 2014/5/9
+ * Time: 11:26
+ * 
+ */
+namespace NewTypeAnalysis
+{	
+	/// <summary>
+	/// Enumeration to define the different namespace prefixes
+	/// <see cref=""P:NewTypeAnalysis.NamespacePrefixes""/>",0.54427943,,,</s>,de
+24,on_p50,2,1,25,"《上海证券报》7月27日报道:为了叫停北京的购房限购,北京已专门成立由相法学者、河北大学教授等组成的""总理问责小组"",就""2006年京沪、京深楼市火爆,限购等调控措施不力""问责相关部门。记者从昨日",0.54427943,,,</s>,de
+25,on_p50,2,1,26,"Leur ambition : être le premier opérateur de services financiers au monde, en créant une valeur unique et des synergies avec les différents acteurs qui la composent, en capitalisant sur nos différences, nos complémentarités et la diversité de nos expertises.",0.54427943,,,</s>,de
+26,on_p50,2,1,27,"it's an old joke. a friend of mine reared a pair of 10 year old yellow labs. the dogs were getting too big, and he decided to breed them. the bitch was the salubrious, 10 year old, white lab, and the sire was a 8 year old, red, yellow and black",0.54427943,,,</s>,de
+27,on_p50,2,1,28,"There is no doubt that we are entering an era in which security is more important than ever. With the latest attacks becoming more sophisticated, attacks are becoming more widespread and coordinated. New threats are emerging, and new ways of executing attacks are emerging. On top of this, new tools, methods, and techniques are being developed",0.54427943,,,</s>,de
+28,on_p50,2,1,29,"PHPMailer is an open source email client written in PHP using mime. It is part of the PHP family of languages, and is included by default with PHP 5.3 or later.
+This is the latest version of the PHPMailer library, with some new features and fixes that are part of the 5.3",0.54427943,,,</s>,de
+29,on_p50,2,1,30,حركت اللواتي كن يقفن خلفنا بعد لقاء حسن، ورائحة دخان التبغ، ومرارة الاثنين، والديال من فم المراهق، وفائدة «حنفهم»، ومهارة «والديهم»، وسعادة «مرشدهم»، و «حوية» صاحبة «عز,0.54427943,,,</s>,de
+30,on_p50,2,1,31,"“If the [rights-protected] working conditions aren’t the right thing for people, it has to be the right thing for the corporation,” said U.S. Rep. Mark Tapper, D-Tenn., who filed the bill, said in an email. “It’s only fair.”
+",0.54427943,,,</s>,de
+31,on_p50,2,1,32,"El segundo paso, y sin duda una de las partes más importantes de todo el proceso, es tomar una instantánea del cliente, para así crear en base a esto las estrategias de comunicación. La idea es que el cliente vea una imagen única e innovadora que propicie el acercamiento de su marca hacia sus consumidores.",0.54427943,,,</s>,de
+32,on_p50,2,1,33,"Charles, le beau-frère de Vi, ne croit pas du tout à la thèse de la sorcellerie. Il irait voir son cousin avec un appareil photo.
+Plus tard, dans la forêt, Vi se rend compte que certaines personnes pensent que la sorcière est là, aux côtés de Francis et Charles. Elle va",0.54427943,,,</s>,de
+33,on_p50,2,1,34,"- Ah, “aquiana”, “aquis”, “aquus”, “aquivus”, “aquixus”, “aquivus”, “aquivus”, “aquivus”, “aquivus”, “aquivus”. Que significa.
+Meu",0.54427943,,,</s>,de
+34,on_p50,2,1,35,"Q:
+
+Preventing a timer from running forever
+
+I'm trying to stop a timer from continually running. When I press pause, the timer stops, but it should not.
+Here's my code:
+int main()
+{
+    static int count = 0;
+
+    // starts running timer
+    unsigned long startTime = clock();
+    timer",0.54427943,,,</s>,de
+35,on_p50,2,1,36,"En cuanto al tema del libro, debo decir que sigue siendo una historia muy entretenida, aunque si, como digo, ya la has leído en alguna ocasión, ya dudo que te guste tanto como a mí, ya que no es un libro que pretenda sorprenderte, ni mucho menos. Sin embargo, no",0.54427943,,,</s>,de
+36,on_p50,2,1,37,"عابد خزندار
+منذ أن قامت شركة أرامكو السعودية بترخيص استثمارات أجنبية في هذا البلد الحر (وهي منتهى السخاء) قامت شركة زين بمحاولة الوصول إلى السوق السعودي كما قامت التي قبلها بإرسال بعثات دعائية لها إلى السعودية لكن ومع ذلك لم تحقق نجاحا يذكر.
+وعندما دخلت",0.54427943,,,</s>,de
+37,on_p50,2,1,38,"PEMI / Registrado o investimento de R$ 63,7 milhões da empresa italiana Emi na rede paranaense Rede de Unidades de Tratamento e Reparar as Estações Elevatórias de Água no Estado
+REGISTRO
+PEMI / Registrado o investimento de R$ 63,7",0.54427943,,,</s>,de
+38,on_p50,2,1,39,"Now, it is quite a common practice to do just that with all existing posts, which was the main reason I decided to make all my posts available in the archive. This is not a new idea, but a great one at the same time. I have allowed users to make posts permanently visible in the archive, and",0.54427943,,,</s>,de
+39,on_p50,2,1,40,"A partir de então, a empresa começou a investir no setor de telefonia celular e, em 2005, a partir da fusão entre a Telefônica e a Oi, deu início às vendas de telefonia móvel e fixa.
+A Oi ganhou o direito de explorar os serviços de telefonia móvel no Brasil em 2003, mas só iniciou a",0.54427943,,,</s>,de
+40,on_p50,2,1,41,"/*
+ * Copyright (c) 1998-2012 Caucho Technology -- all rights reserved
+ *
+ * This file is part of Resin(R) Open Source
+ *
+ * Each copy or derived work must preserve the copyright notice and this
+ * notice unmodified.
+ *
+ * Resin Open Source is free software;",0.54427943,,,</s>,de
+41,on_p50,2,1,42,"Manufacturers of electronic equipment, smartphones, laptop computers and other electronic products all come up with new features and new designs. These products can be used in our daily lives in various applications. These items are popular for their high quality and attractive designs. This is why most of the people prefer these products over other similar products",0.54427943,,,</s>,de
+42,on_p50,2,1,43,"Arquivo da categoria :Shipping
+Os Correios estão trabalhando diretamente com o setor de transporte de cargas para garantir a entrega dos itens comprados no mês de dezembro.Além disso, a empresa também está garantindo a chegada dos produtos comprados na Black Friday, que acontecerá entre os dias 24 e 29 deste mês",0.54427943,,,</s>,de
+43,on_p50,2,1,44,"“Occasionally, people talk about the way that they have trouble relating to other people,” said the original creator of the program, Matthew G. Norbury, PhD and professor of psychology at the University of Michigan, in an e-mail interview.
+“This is a program that shows how people really are, as opposed",0.54427943,,,</s>,de
+44,on_p50,2,1,45,"A partir de las 10 de la mañana de hoy se participará en la primera gran mesa coloquio, que versará sobre ""Intervención socio-educativa en el ámbito familiar"" y que contará con la ponencia ""La intervención socio-educativa en el ámbito familiar: aplicación de la teoría sobre el aprendizaje y el desarrollo de",0.54427943,,,</s>,de
+45,on_p50,2,1,46,"Je l’ai dit dans mon précédent article sur le Samsung Galaxy S5, le capteur de l’iPhone 6 est supérieur en qualité à celui du Galaxy S5. Aujourd’hui, j’ai pu tester ce capteur sur l’iPhone 6.",0.54427943,,,</s>,de
+46,on_p50,2,1,47,,0.54427943,,,</s>,de
+47,on_p50,2,1,48,"“We are delighted to have gained this endorsement, which reflects the commitment of the Victoria Police to operating a robust inquiry into responsible use of guns.”
+“As a business, we have been driving a culture of being an anti-bullying employer, providing specialist training for staff and providing resources for those struggling with",0.54427943,,,</s>,de
+48,on_p50,2,1,49,"Cafeína, alcohol y azúcar: los principales ‘culpables’ de la pérdida de memoria
+Expertos españoles alertan de que estos elementos ‘contaminan’ el cerebro.
+Los especialistas insisten en la necesidad de cuidar la salud del cerebro
+6 feb. 2019 17:29
+La pérdida de memoria es uno",0.54427943,,,</s>,de
+49,on_p50,2,1,50,"Oh, yeah, I’m sure there are some. But, there was no kind of agreement. We’ve all talked about it a lot, actually. And, I hadn’t even been to Moscow until that point in my life. I didn’t know what I was talking about.
+I used to be on the editorial staff of",0.54427943,,,</s>,de
+50,on_p50,2,1,51,"La firma de inversión Wärtsilä ha vendido su participación del 17 % en la compañía de transmisión de energía eléctrica TPC Energiewende AG (TPEW) a la firma de inversión británica IDEA Investments, valorado alrededor de 30 millones de euros.
+Wärtsilä vendió la mitad de sus",0.54427943,,,</s>,de
+51,on_p50,2,1,52,"Q:
+
+CSS & jQuery dropdown menu toggle class
+
+I am trying to do some CSS & jQuery to make a dividend menu toggle on click. Here is my code so far but it is not working. Any help would be greatly appreciated.
+   <div class=""menu"">
+        <ul>
+            <li><a href=""#"" class=""menu_item"">#1</a></li>
+           ",0.54427943,,,</s>,de
+52,on_p50,2,1,53," অনুষ্ঠানে মাননীয় প্রধানমন্ত্রীর উপপ্রধান তথ্য কর্মকর্তা জনাব মোহাম্মদ আবুল ফজল, বাংলাদেশ সরকারের মাননীয় সচিব জনাব মো. নজরুল ইসলাম, মাননীয় শিক্ষা উপমন্ত্রী জনাব মহিবুল হাসান চৌধুরী নওফেল, মাননীয় শিক্ষা সচিব জনাব মো. সোহরাব হোসাইন এবং মাননীয় প্রাথমিক ও গণশিক্ষা মন্ত্রী জনাব মোস্তাফিজ",0.54427943,,,</s>,de
+53,on_p50,2,1,54,"关于妇产科疾病的病因,一般医生都会说,女性在分娩的时候,子宫会随着产程而逐渐的变大,但是有的时候,女性死后的子宫还会收缩,这主要与女性的年龄有关。因为随着年龄的增长,女性的子宫也会逐渐的变大,特别是到了50岁以后,子宫",0.54427943,,,</s>,de
+54,on_p50,2,1,55,"El Museo de la Industria Turística, en Manzanares, abre las puertas de su Museo con motivo de la celebración del 50 aniversario del inicio de la actividad de la empresa legalmente constituida en Sevilla como «Cooperativa de Consumidores y Productores» por acuerdo del Ayuntamiento de Manzanares el Real en la Junta de",0.54427943,,,</s>,de
+55,on_p50,2,1,56,萃取机一组的设定为浓缩配方，萃取时间为10秒(1S)，萃取机一组为提升配方，三次萃取时间为30秒(3S)。三组萃取时间选配不同，更能保证各自配方能萃出设备的最佳效果。此外，萃取机一组的,0.54427943,,,</s>,de
+56,on_p50,2,1,57,"I. INTRODUCTION
+A natural question arising from the study of various aspects of soft matter [1] is whether the bulk equilibrium properties of the system can be derived from a microscopic dynamics. In condensed matter physics, this is due to the fact that the dynamical properties of the system can be computed using the Land",0.54427943,,,</s>,de
+57,on_p50,2,1,58,"Q:
+
+ASP.NET Core and Async Execution
+
+I am writing a visual studio 2017 project. I am using async execution in my project. I have a feature in which I have to call a service from my controller. I have written an async method in my controller to call the service. The problem is when I call",0.54427943,,,</s>,de
+58,on_p50,2,1,59,"So what happens when the family gets a new baby? Are their needs and desires all the same or do they change, too? Family dynamics don’t always stay the same, either. In reality, family dynamics can change and I will give you my perspective of what we will do during our family vacation.",0.54427943,,,</s>,de
+59,on_p50,2,1,60,"Una plataforma de trabajo para las comunidades de mujeres y niñas que trabajan y viven en la economía informal
+En una primera visita se seleccionaron a 35 mujeres trabajadoras en la economía informal. En una segunda visita a las comunidades se analizó el proceso de inclusión de la mujer en la economía informal y se propusieron soluciones para mejorar su",0.54427943,,,</s>,de
+60,on_p50,2,1,61,"Y por último, pero no menos importante, que es el de los testículos. Al parecer, los esteroides endurecedores podrían reducir la testosterona en el cuerpo y restringir así la capacidad de los hombres para producir espermatozoides sanos.",0.54427943,,,</s>,de
+61,on_p50,2,1,62,"Phần mềm scraping, phần mềm tin tặc, phần mềm lấy thông tin, phần mềm đánh cắp thông tin, phần mềm lấy thông tin facebook, phần mềm lấy thông tin facebook, phần mềm lấy thông tin từ facebook, phần mềm lấy thông tin từ facebook, phần mềm lấy thông tin facebook, phần mềm lấy thông",0.54427943,,,</s>,de
+62,on_p50,2,1,63,"Assim, JOAO IMACO, sócio da Lojas Casas Bahia, fez um apelo de solidariedade a todos. “Peço a todos que façam a sua parte. Todos nós podemos fazer a nossa, basta apenas que sejam conscientes do que estão fazendo e conscientizem também as pessoas ao seu redor”, disse.",0.54427943,,,</s>,de
+63,on_p50,2,1,64," निश्चय ही, उसने जो कुछ कहा, उसे सुन कर मैं अपने आप को धन्य मानने लगा और उसकी प्रशंसा करते हुए मैंने आगे कहा, “प्रभु, आपने मुझे ऐसे लोगों से मिलाया है जो हमेशा आपके लिए एक दिव्य सेवक के रूप में कार्य करते रहेंगे।”",0.54427943,,,</s>,de
+64,on_p50,2,1,65,"Listas de precios de las materias primas de la soja y el maíz de la Cámara de Comercio de Rosario, que publica mensualmente.
+El valor del trigo en Chicago finalizó la sesión a US$ 63,82 por tonelada en la Bolsa de Comercio de Chicago (CBOT), en un nuevo retroceso semanal.
+El trigo cerró la",0.54427943,,,</s>,de
+65,on_p50,2,1,66,"As atividades no dia de hoje serão voltadas para o segmento de transporte, com a presença dos gestores das Secretarias de Trânsito e Transportes, Rodoviários e Transportes, Engenharia, Indústria e Comércio, e Turismo.
+Com a participação de agentes de trânsito, fiscais, secretários municipais, representantes de sindicatos, empresários do",0.54427943,,,</s>,de
+66,on_p50,2,1,67,"Còn, với những DN FDI (có vốn đầu tư nước ngoài) có số lao động lớn, có sử dụng một số lao động người nước ngoài, khi được thành lập DN, DN có thể được cấp giấy chứng nhận đủ điều kiện hoạt động nhưng khi hoạt động, DN có thể sử dụng người nước ngoài trái",0.54427943,,,</s>,de
+67,on_p50,2,1,68,"Oh, yeah.
+That's right, my good boy.
+Hey, what are you doing, Donald?
+Why are you crying?
+I'm not crying.
+I'm just...
+I'm just...
+my feet hurt.
+Well, you're not crying.
+You see, Donald, I have to run this race.
+Do you understand?
+What are you",0.54427943,,,</s>,de
+68,on_p50,2,1,69,"ptions have to be done, and then the designer has to test the app with him, or some other person, to make sure that everything works as expected.
+Make the line focused, like showing that the word is blurred in the center and then it has to be focused on the other side, or lose the focus",0.54427943,,,</s>,de
+69,on_p50,2,1,70,"Para algunas personas, el rinoceronte es uno de los animales más desagradables que pueden existir en la tierra, pero si estas leyendo esta nota probablemente ya conozcas algo de su anatomía y demás características que tienen en común con este ejemplar.",0.54427943,,,</s>,de
+70,on_p50,2,1,71,"Now that we’ve established what we understood about annuities, let’s take a look at some of the most common questions we get asked by our customers.
+Why would I want to buy an annuity? The answer is simple – you can get a cash lump sum or either a fixed or variable annuity.",0.54427943,,,</s>,de
+71,on_p50,2,1,72,"Converse con los que han tomado ya la decisión de solicitar la ventaja de un préstamo urgente, te ayudarán a encontrar la mejor solución para tu situación personal.
+En Internet puedes encontrar una gran variedad de sitios de préstamos rápidos online. En Internet hay mucha publicidad engañosa.
+Es muy importante diferenciar entre un préstamo rápido y un",0.54427943,,,</s>,de
+72,on_p50,2,1,73,"Bonne nouvelle pour les fans de séries télévisées et de films : la nouvelle collection de jolis puzzles de différents formats sera composée de 44 pièces de La Guerre des Étoiles. La marque à la pomme vient de dévoiler les photos des sets de ce prochain best-seller, sur son site officiel.",0.54427943,,,</s>,de
+73,on_p50,2,1,74,"Vai atuar como: Atendimento ao cliente, emissão de nota fiscal, faturamento e sistema, possuem fácil entendimento de inglês.",0.54427943,,,</s>,de
+74,on_p50,2,1,75,"Pour la rentrée 2018-2019, une première de toute beauté pour le collège Jean Macé! Jouer au théâtre et à la marionnette dans les écoles de la ville de Saint-Cyr, autour d’un jeu de « L’actualité des sentiments » créé au lycée, et interprété par les élèves.",0.54427943,,,</s>,de
+75,on_p50,2,1,76,笔趣阁全集小说阅读网 - 笔趣阁小说阅读网 - 笔趣阁小说阅读网 - 笔趣阁小说阅读网 - 笔趣阁小说阅读网 - 笔趣阁小说阅读网 - 笔趣阁小说阅读网 - 笔趣阁小说阅读网,0.54427943,,,</s>,de
+76,on_p50,2,1,77,"El Gobierno pide a los proveedores de la dependencia que retiren su concurso por el despido de 850 empleados - Diario16
+El Gobierno pide a los proveedores de la dependencia que retiren su concurso por el despido de 850 empleados
+La Vicepresidencia Segunda ha trasladado a los representantes de los 85.000 proveedores de la Administración General",0.54427943,,,</s>,de
+77,on_p50,2,1,78,"Mô tả ngắn: Máy bay cảnh báo sớm Gps BLK-4010 được thiết kế nhỏ gọn, trọng lượng nhẹ, bỏ qua những chi tiết thừa. Máy bay cảnh báo sớm BLK-4010 hoạt động liên tục lên đến 3 tháng với...
+Máy bay cảnh báo sớm Gps BLK-4010 được",0.54427943,,,</s>,de
+78,on_p50,2,1,79,Kohlrabi adalah tanaman sayuran yang juga terkenal dengan nama Brassica oleracea var. botrytis. Tanaman ini termasuk dalam makanan yang baik untuk kesehatan jantung karena terkandung kandungan serat yang cukup tinggi.,0.54427943,,,</s>,de
+79,on_p50,2,1,80,L'application de ce logiciel spirituelle aura pour effet de vous libérer du stress et de vous permettre d'améliorer votre environnement de vie.,0.54427943,,,</s>,de
+80,on_p50,2,1,81,"En 2008, alors que la liste Ni Putes Ni Soumises arrive en tête des suffrages, François Hollande se montre favorable à un mariage homosexuel dans le cadre d'une législation complémentaire à la loi de 1983.
+Cependant, dans son discours du 24 janvier 2009, le candidat socialiste promet le soutien de la France au mariage",0.54427943,,,</s>,de
+81,on_p50,2,1,82,"Lors de ce championnat des champion, nos 11 joueurs-minimes ont su prendre leurs marques, malgré les conditions difficiles, mais aussi gérer les imprévus (individuel, relèves, rencontres...). Ils ont, ainsi, brillamment représenté le club dans les compétitions sérieuses organisées par la Ligue. A noter, leurs résultats",0.54427943,,,</s>,de
+82,on_p50,2,1,83,3. 在制作时，可将白开水倒入锅中，洗净盛出，先放入猪腰、枸杞子、料酒、盐，待它完全泡发后，再放入排骨煮清，然后放入猪腰、清水、盐，煮开后，撇去浮沫，放入葱花,0.54427943,,,</s>,de
+83,on_p50,2,1,84,出色的小提琴手，一个有魅力的歌者，还有摇滚歌手。尽管他被誉为“世界上最好的小提琴手”，但他并没有那么高兴。他一直以来都是男孩，但这次他无法忍受女孩的魅力。他利用自己的长处来吸引女孩。当他用他的长处为女孩赢得胜利,0.54427943,,,</s>,de
+84,on_p50,2,1,85,"-Ngày 6/1, Thủ tướng Chính phủ Nguyễn Xuân Phúc đã gửi Thư khen, biểu dương tới Bộ Tài nguyên và Môi trường, UBND tỉnh Quảng Ninh, Công ty TNHH MTV Khai thác công trình thủy lợi Quảng Ninh, Công ty TNHH BOT cầu Bạch Đằng và Công ty CP Ba Son về việc đã tiếp",0.54427943,,,</s>,de
+85,on_p50,2,1,86,12月5日，由重庆日报报业集团主办的“2019今日重庆开放日”活动在渝举行。活动现场，重庆日报报业集团旗下智库机构重庆研究院发布了《重庆城市竞争力报告2019》。《报告》指出，重庆成为全国唯一对全国GDP贡献率高于全国平均水平的重庆，,0.54427943,,,</s>,de
+86,on_p50,2,1,87,"Notre entreprise intervient sur le remplacement de vitres isolantes, remplacement d’une fenêtre double vitrage, verre de sécurité... Nous pouvons tout à fait traiter tous vos problèmes sept jours sur 7, de sept heures à minuit. Nous sommes en mesure de vous donner des capacités substantielles et de dureté au forage ou le",0.54427943,,,</s>,de
+87,on_p50,2,1,88,"Les Canadiens pourront utiliser leurs cartes de crédit ou de débit. Les titulaires de cartes de crédit de Visa et de MasterCard pourront utiliser leurs cartes pour payer leurs factures en ligne, ou leurs achats en magasin. Les titulaires de cartes de débit de MasterCard et de Visa pourront utiliser ces cartes pour payer leurs achats en ligne ou",0.54427943,,,</s>,de
+88,on_p50,2,1,89,"Déjeuner dans la fôret, Ballade en canoë, Flâneurs dans le village, Soirée dans les pubs et restaurants de la région, Randonnée dans le parc national du lac Myvatn ou au lac Amannara, et en fin de journée, vous serez à votre hôtel à Reykj",0.54427943,,,</s>,de
+89,on_p50,2,1,90,"Il a ensuite apporté quelques précisions sur le financement de la mesure puis annoncé que la ""Prime au mérite"", qui a été retirée du site de la préfecture, devait être remplacée par ""La prime au mérite"", à hauteur de 30 000 € pour les 1.000 premiers bénéficiaires.",0.54427943,,,</s>,de
+90,on_p50,2,1,91,"Ahora en un bol ponemos el aceite de girasol, el espesante (yo le puse Maizena, pero si no tienes eso lo puedes sustituir por Maizena en polvo), el yogurt natural griego y el agua, mezclamos todo bien y removemos.
+Añadimos poco a poco la mezcla",0.54427943,,,</s>,de
+91,on_p50,2,1,92,"La randonnée est en soi une activité sportive. Elle sollicite le corps et la méditation. Elle nécessite de l’espace, et le terrain de randonnée est généralement assez large. Elle est le seul genre de randonnée à être possible dans la plupart des régions. La randonnée est une activité intensive et qui demande des efforts. Elle peut",0.54427943,,,</s>,de
+92,on_p50,2,1,93,"Ce contenu a été publié dans Dessin animés par Bill, et marqué avec Dessin animé, Disney, figurine. Mettez-le en favori avec son permalien.
+Nous avons le plaisir de vous informer que la société Keolis-Atutfab a été retenue pour la modernisation de la Ligne 2 du",0.54427943,,,</s>,de
+93,on_p50,2,1,94,"Hướng dẫn cách giải phóng bộ nhớ nhanh cho điện thoại Xiaomi Mi 10T Ultra hiệu quả nhất. Với pin dung lượng 4.000 mAh, Xiaomi Mi 10T Ultra có thời gian sử dụng lâu nhưng không được thoải mái nếu không...",0.54427943,,,</s>,de
+94,on_p50,2,1,95,"Múrcia, 3 abr (EFE).- El centrocampista del Granada Carlos Neva, recuperado ya de su lesión muscular, regresa a la convocatoria del equipo andaluz para el partido de este sábado ante el Nàstic, que se disputará en La... [+]
+Alicante, 3 abr (EFE).- La",0.54427943,,,</s>,de
+95,on_p50,2,1,96,,0.54427943,,,</s>,de
+96,on_p50,2,1,97,"Q:
+
+In C#, is it okay to cast object to string?
+
+Why is it okay in C# to cast object to string? And if not how can we cast object to string?
+I was thinking of this example:
+public void Test()
+{
+    string s = Object.ToString();
+}
+
+A:
+
+It",0.54427943,,,</s>,de
+97,on_p50,2,1,98,"Nhằm lấy lại niềm tin của khách hàng, Công ty Tân Phú Nha Trang sẽ cùng khách hàng thực hiện việc thu hồi túi đựng giày thuỷ tinh do vi phạm quy định của nhà nước về sản xuất và sử dụng túi ni lông, túi đựng thực phẩm Trung Quốc.",0.54427943,,,</s>,de
+98,on_p50,2,1,99,"Como as pessoas se relacionam com o mundo e como elas se sentem sobre ele e sobre o que fazem, tornou-se cada vez mais evidente que a oração é tanto uma necessidade humana quanto uma necessidade divina. A oração revela quem somos, expõe nossa identidade e nos orienta na vida. Quando oramos, não estamos apenas",0.54427943,,,</s>,de
+99,on_p50,2,1,100,"Our company is one of the leading manufacturers and suppliers of punchy, effective, and precise Borosilicate glass granules. The glass granules are well-distributed and have the capability of hardening after cooling. The granules are very useful in making optical glass, optoelectronics, optics",0.54427943,,,</s>,de

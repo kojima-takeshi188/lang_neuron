@@ -1,0 +1,258 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,1000,1,1,"El actual entrenador de porteros del Barcelona, el navarro Raúl Entrena, alista el nuevo proyecto y el banquillo del club catalán. El pasado sábado fue presentado en sociedad el nuevo cuerpo técnico que entrena el equipo azulgrana tras el cese de Ernesto Valverde y que cuenta para sus filas con el cuerpo médico del club",0.8633271513199999,,,</s>,es
+1,on_p50,1000,1,2,"/*
+ * Copyright (c) 2015, Oracle and/or its affiliates. All rights reserved.
+ * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
+ *
+ * This code is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public License version 2 únicamente, as",0.8633271513199999,,,</s>,es
+2,on_p50,1000,1,3,"#!/usr/bin/env python
+
+# -*- coding: utf-8 -*-
+#
+# Copyright © 2012-2015 Reto Schuurman
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3",0.8633271513199999,,,</s>,es
+3,on_p50,1000,1,4,"TOMATE: Tomate y su más allá. ¿Qué andamos buscando en el mundo de los tomates? Una procesado en el pintxo estelar, ¿un tomate en el camarín en la previa del partido? La estación del tomate muchas veces es más importante que el fruto.
+CHIVARROS: Quince",0.8633271513199999,,,</s>,es
+4,on_p50,1000,1,5,"3 Temas: Justiça do Trabalho, Funcionamento do Poder Judiciário Brasileiro, Congresso Nacional, Estados Unidos,",0.8633271513199999,,,</s>,es
+5,on_p50,1000,1,6,"Q:
+
+Verifying the type of a method parameter with reflection
+
+I am trying to implement the following method...
+public static void RemoveAll(IList<T> source, IList<KeyValuePair<Type, string>> keyValuePairs)
+{
+    foreach (KeyValuePair<Type, string> keyValuePair in keyValue",0.8633271513199999,,,</s>,es
+6,on_p50,1000,1,7,"Neuromorphisms
+Neuromorphisms are a new tool in the theory of constraint algebra and generalizations of Givens automorphisms studied in [1]. Similar to the classical automorphisms, they can be obtained in a natural way. The great advantage of neuromorphisms, described in [1], is that they are allowed",0.8633271513199999,,,</s>,es
+7,on_p50,1000,1,8,"A nível de emoções, a maioria dos males que vivemos nos são apresentados como negativos, abrandando as nossas expectativas. O que não deixa de ser prejudicial, visto que o nosso temor não nos permite enfrentar situações que se apresentam, muitas vezes, como fatais.
+A questão não é saber se é possível ou não",0.8633271513199999,,,</s>,es
+8,on_p50,1000,1,9,"The Board que has enacted the Ordinances 2020, approved the final outline of the Individual Health Plans and determined the application of the aforementioned Ordinances 2020, in accordance with the existing legislation.
+In the framework of the public consultation process, Subject Matter Experts (SMEs) have been appointed to carry out studies, providing advice",0.8633271513199999,,,</s>,es
+9,on_p50,1000,1,10,"Introduction
+Deformable bionics is a new branch of biomedical technology that combines biology with mechanical engineering [1]. This technology has the potential to improve the clinical efficacy of many diseases [2]. In fact, the capability of the deformed body to self-heal and restore lost function is a promising potential of this",0.8633271513199999,,,</s>,es
+10,on_p50,1000,1,11,"El presente Aviso Legal regula el uso del sitio web (datos en adelante el “Sitio Web”) que PLUSIPEL y el titular de la página y de la tienda en línea de PLUSIPEL, S.L. con domicilio social en Calle Del Mar, nº 9 Local 1 (Gran",0.8633271513199999,,,</s>,es
+11,on_p50,1000,1,12,"A garbage truck came at this point, and when a man yelled out a command, a man yelled out an order and the truck began to turn.
+A man yelled out an order and the truck began to turn. A blue truck came at the wheel of the garbage truck, and the man yelled out",0.8633271513199999,,,</s>,es
+12,on_p50,1000,1,13,"Por todo esto, desde el Centro de Atención a la Infancia de El Puerto de Santa María (CAIEP), alertan que en los menores y niñas que esta enfermedad provoca, se pueden desarrollar una gran variedad de síntomas y complicaciones, por ejemplo:
+En el caso de los niños, se pueden presentar dificultades en",0.8633271513199999,,,</s>,es
+13,on_p50,1000,1,14,"Exactamente como te sugerimos desde el comienzo esta es una de nuestras mejores opciones para comprar en línea cascos. Y, lo que es más, has de saber que comprando en línea este mismo utensilio vas a ahorrarte salir de casa, estás a la espera de que te llegue el producto con el que tanto esper",0.8633271513199999,,,</s>,es
+14,on_p50,1000,1,15,"♥ Inspiration #2: Si esta es la primera vez que compras un regalo, no dudes en pedir consejo. A veces, las puede ayudar a descubrir que tipo de regalo funciona mejor para cada tipo de rostro.
+♥ Inspiración #3: Cuando haces saber a tus amigos sobre tus planes de compras, coloca una",0.8633271513199999,,,</s>,es
+15,on_p50,1000,1,16,"Introduction
+The first symptoms of cancer are typically detectable in the first 3 years, with a median survival of 2-3 years for patients with localized disease and a median survival of 1-3.5 years for those with metastatic disease, 1,2 but the prognosis is poor. 2, 3 Early detection is essential to ensure",0.8633271513199999,,,</s>,es
+16,on_p50,1000,1,17,"El Ministeri de Turisme ha decidit prohibir la temporada 2020/2021 el Cirque du Soleil, operador de l'Operador Nacional de Circo de Mónaco (Monocirco).
+El Marroc ha ampliat aquest dilluns les regles que han de seguir els vaixells que naveguen al Mediterrani occidental, en el marc de les mesures de",0.8633271513199999,,,</s>,es
+17,on_p50,1000,1,18,"#!/usr/bin/env python
+# This script is intended to be run alone. It is NOT recommended to run it in
+# conjunction with git.
+#
+# The script parses the commits and creates the minimal tarball.
+#
+# The script is written in Python 2.6, so most of the imports are",0.8633271513199999,,,</s>,es
+18,on_p50,1000,1,19,"La compatibilidad del perfume y los colores puede cambiar dependiendo de cómo los usa. A los neutros les va mejor los aromas dulces y florales y los más intensos los suaves y exóticos.
+En la línea de los aromas florales, el Pétalos de Naranja y las flores de Lirio",0.8633271513199999,,,</s>,es
+19,on_p50,1000,1,20,"3. Los daños que causen a los bienes muebles de la Administración del Estado y de cualquier otra Administración Pública, y de todos los organismos de derecho público, y a los bienes y derechos de los demás agentes del Estado en el ejercicio de sus funciones;",0.8633271513199999,,,</s>,es
+20,on_p50,1000,1,21,"El gran problema de la conquesta de América y el descubrimiento de África y el Mediterráneo, y la contemplación del mundo nuevo en el siglo XVII, es que todas esas imágenes del Nuevo Mundo y del mundo antiguo y del Nuevo Mundo y del mundo antiguo, ya en el siglo XVII, ya en el siglo XVII, ya",0.8633271513199999,,,</s>,es
+21,on_p50,1000,1,22,"/*
+ * Copyright (c) 2008, 2015, Oracle and/or its affiliates. All rights reserved.
+ * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
+ *
+ * This code is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public License version 2 only",0.8633271513199999,,,</s>,es
+22,on_p50,1000,1,23,第四步，实施。管理者要结合全球趋势，将战略规划与战略实施结合在一起，对战略实施过程进行全程化监控，充分发挥战略实施的效能。,0.8633271513199999,,,</s>,es
+23,on_p50,1000,1,24,"El número de salidas en el mercado laboral desde el inicio de la pandemia y el volumen de nuevas contrataciones, sobre todo durante los seis primeros meses, se han visto muy por encima de lo esperado.",0.8633271513199999,,,</s>,es
+24,on_p50,1000,1,25,"Le projet est porté par les CRA de la région Auvergne-Rhône-Alpes, à travers le réseau des Centres de Ressources en Addictologie (CRA).",0.8633271513199999,,,</s>,es
+25,on_p50,1000,1,26,"Le Comité pourra être saisi, à titre indicatif, de la liste des contributions au budget ordinaire de la Cour (document A/CONF.157/24 (Part I), sección IV, y compris le document A/CONF.157/23 (Part I), sección IV), y de la liste des contributions spéciales (document A/CONF.",0.8633271513199999,,,</s>,es
+26,on_p50,1000,1,27,"Antes de que el siglo XX tuviera comienzo, la mayor parte de los logs de las empresas (y de las personas como él) no se grababan, porque la mayor parte de ellos se almacenaban en el propio ordenador del usuario, que estaba en constante movimiento. Y cuando lo hacía, no siempre se lograba una",0.8633271513199999,,,</s>,es
+27,on_p50,1000,1,28,"There is no doubt that we are entering an era in which we are going to have to turn a blind eye to the beauty and the beauty of what we are doing. Curating, investing, and designing are, in my opinion, essential and powerful voices for our world. But we can’t afford to enslave our",0.8633271513199999,,,</s>,es
+28,on_p50,1000,1,29,"PHPDocFormatter::Doctype() {
+  return new PHPDocFormatter;
+}
+
+PHPDocFormatter::PHPDocFormatter(PHPPackage $pkg) :
+PHPDocFormatter()
+{
+  $this->pkg = $pkg;
+  $this->file = 'params.php';
+  $this->doctype = $this->doctype = $this->getDoc",0.8633271513199999,,,</s>,es
+29,on_p50,1000,1,30,"/*
+ * This file is part of Arduino.
+ *
+ * Copyright 2015, 2016 Bruno Chareyre
+ *
+ * Arduino is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or",0.8633271513199999,,,</s>,es
+30,on_p50,1000,1,31,"“¿Qué me dices del naranja?”, preguntó Eduardo. Sus ojos se encendieron y el tiempo se convirtió en una ventana del futuro.
+“¿Qué te parece el azul?”, preguntó el otro. Sus ojos se iluminaron de nuevo y el tiempo pasó en el espacio de forma muy diferente a como lo hacía",0.8633271513199999,,,</s>,es
+31,on_p50,1000,1,32,"El segundo paso, el dueño de una empresa, suelen recibir muchas llamadas solicitando el servicio de una agencia de marketing digital.
+Y, el tercer paso, que una persona que hace las llamadas, tiene que resumir muy bien el servicio que va a obtener el cliente y el tiempo que va a tomar, tienes que tener una",0.8633271513199999,,,</s>,es
+32,on_p50,1000,1,33,"Charles Ellis (1583-1653)
+
+Charles Ellis (1583-1653) was a Scottish clergyman, the rector of Litchfield and a friend of John Knox.
+Encountered on 26 September 1647, in the parish of Messick, Litchfield, he was made a Canon of Escocia by",0.8633271513199999,,,</s>,es
+33,on_p50,1000,1,34,"- Ah, es una historia muy apasionante... Entonces podríamos hablar de la muerte de John?
+- Si.
+Realmente, sería un buen momento para ello.
+Una mañana después de haber venido aquí al trabajo, John y yo vimos un tipo muy parecido a mi padre.
+Señor, ¿que está haciendo con esta chica?
+¿",0.8633271513199999,,,</s>,es
+34,on_p50,1000,1,35,"Q:
+
+Preventing a timer from running
+
+I want to prevent a timer from running. I tried to use Timers.timer for that, but it doesn't work.
+Any ideas?
+
+A:
+
+The default behavior of a timer is to allow it to run for a time between intervals, causing it to expire at the end",0.8633271513199999,,,</s>,es
+35,on_p50,1000,1,36,"En cuanto al tema del libro que has puesto en el blog, supongo que el profe no lo has puesto en el ejemplo y ha sido una casualidad.
+En el supuesto que el profe esté autorizado, y el alumno responde a la corrección, el alumno puede entonces recibir una buena nota.",0.8633271513199999,,,</s>,es
+36,on_p50,1000,1,37,,0.8633271513199999,,,</s>,es
+37,on_p50,1000,1,38,"PEMI NA CIDADE: Aumento de parafusos de concreto perfurado com angulo de 55° e 45° para o reconhecimento de facil e dificil acesso, respectivamente
+PEMI NO TRABALHO: Aumento de parafusos de concreto perfurados com angulo de 55°,",0.8633271513199999,,,</s>,es
+38,on_p50,1000,1,39,"2. ¿Cuál fue la primera vez que usted habló de “follaje”? ¿Es el que está en el corazón viejo y el que está en el corazón nuevo y el que está en el corazón de la iglesia?
+3. ¿Cuál fue la primera vez que usted habló comúnmente de la iglesia ambulante y el templo de",0.8633271513199999,,,</s>,es
+39,on_p50,1000,1,40,"A partir de então, a empresa começou a investir no setor de telefonia celular, que era o único que a empresa não tinha no momento. Começou a contratar mais gente. Queimou estoque e aumentou a frota de carros. Em 1990, comprou a Avianca. Em 1994, com o momento bom para a",0.8633271513199999,,,</s>,es
+40,on_p50,1000,1,41,"/*
+ * Copyright (C) 2008-2018 TrinityCore <https://www.trinitycore.org/>
+ * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
+ *
+ * This program is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public",0.8633271513199999,,,</s>,es
+41,on_p50,1000,1,42,"Introduction
+Researchers have long been interested in an understanding of the spatial interdependence in the structure of the Universe. Such a knowledge would be crucial for a full understanding of the cosmic evolution, including the big bang nucleosynthesis. In this paper, we describe a method to identify the causal structure of the Universe. The",0.8633271513199999,,,</s>,es
+42,on_p50,1000,1,43,"Arquivo da Categoria :Firefox
+Firefox, o navegador de código aberto que vem desde o primeiro Firefox que todos conhecem, traz uma série de novos recursos que podem fazer a diferença na hora de usar o navegador.Entre os recursos novos, o Firefox tem o Hot Link, uma ferramenta que permite que você navegue de",0.8633271513199999,,,</s>,es
+43,on_p50,1000,1,44,"“Occupy Wall Street”, que se resume como un movimiento político que instaura una serie de reivindicaciones en contra de los intereses económicos y de clase, está llevando a cabo una serie de protestas que ya están por toda la ciudad.
+Sobre el día en el que originó el movimiento, en el 2014,",0.8633271513199999,,,</s>,es
+44,on_p50,1000,1,45,"A quem escrevi: Se não há para onde ir, não há para onde correr.
+A quem não escrevi: Eu, João Paulo II, Vos envio para a salvação universal.
+A este blog: É deveras triste que a gente corre tanto, sem tomar tempo para respirar.
+A este livro: Somos todos os vivos",0.8633271513199999,,,</s>,es
+45,on_p50,1000,1,46,"Charli: Esto está empezando para lo que está en camino. Y estamos por llegar muy, muy lejos. Nos estamos orientando hacia una fabricación local y también hacia una mayor propiedad intelectual. Estamos en este punto.",0.8633271513199999,,,</s>,es
+46,on_p50,1000,1,47,,0.8633271513199999,,,</s>,es
+47,on_p50,1000,1,48,"“We are delighted Fain has joined the Facebook family. This is a great boost for our business and a huge achievement for responsible journalism.”
+The Facebook Business Group, or FBBS for short, is a set of pages in Facebook that manage, automate and manage the Facebook marketing process.
+The Group is a resource",0.8633271513199999,,,</s>,es
+48,on_p50,1000,1,49,"Ayer sábado, día 17 de enero, el Consejo Rector del Grupo de Empresas Lelebre de Vacarisses, con el apoyo del Ayuntamiento de Vacarisses, la Unión de Pequeñas Agricultores de Cataluña (UPA-CA) y la Coordinadora de Organizaciones de Agricultors i Ramaders (",0.8633271513199999,,,</s>,es
+49,on_p50,1000,1,50,"Oh, yep.
+Two of them.
+Back to the Stone.
+Electrodo, please.
+What'd you do?
+You know, like, harvesting the hemp.
+Hm.
+We got a problem.
+The Stone is at a critical moment.
+No.
+They won't be able to get through.
+Right",0.8633271513199999,,,</s>,es
+50,on_p50,1000,1,51,"Los documentos sobre los que se basan estos señalamientos, que sus abogados no han querido hacer públicos, se remontan al 24 de octubre del 2012. Ese día, el entonces ministro de Transporte, Alberto Pérez Abad, solicitaba al entonces presidente de la República, Juan Manuel Santos, una licencia especial para acceder a",0.8633271513199999,,,</s>,es
+51,on_p50,1000,1,52,"Q:
+
+Why are various versions of the ""%s"" operator used differently
+
+Why do some versions of the ""%s"" operator have //S//!S while others have //S//!S/2? Why are there differences?
+
+A:
+
+No, there are no differences. The reason is that these operators are not empty concatenation operators (",0.8633271513199999,,,</s>,es
+52,on_p50,1000,1,53,"El titular de la Semarnat, Carlos Solera, ha coincidido en que el presidente Andrés Manuel López Obrador está dispuesto a hacer frente al cambio climático y ha reiterado que el Gobierno de México trabajará en la posibilidad de que el país puede ser importador neto de energías limpias.
+“Muchos de los objetivos",0.8633271513199999,,,</s>,es
+53,on_p50,1000,1,54,El motivo principal de los cambios de este tipo de electrolitos es la pérdida de agua de los tejidos provocando el aumento de sales (más de 3 g). La cantidad de fluido perdida depende del volumen de agua corporal y de la calidad de la alimentación. En el adulto el volumen de agua corporal está en función de,0.8633271513199999,,,</s>,es
+54,on_p50,1000,1,55,"El director de la Filmoteca de Catalunya, Vicent Partal, ha explicat que el cineasta catalán Ignacio Garriga, que el pròxim 5 de setembre completa els 90 anys, va definir el cinema de Catalunya com ""el cinema que és una bona eina per a comprendre el món, un cine internacional que és una eina de creació,",0.8633271513199999,,,</s>,es
+55,on_p50,1000,1,56,"• Información sobre los cambios en el contenido, el uso, el tratamiento y la divulgación de los datos personales, ya sea por nuestra parte y de su parte.",0.8633271513199999,,,</s>,es
+56,on_p50,1000,1,57,"I. INTRODUCTION
+A natural question is, ""How many bits of information can be encoded in any given data stream?"" The answer depends on the exact data, and in particular, whether the data are discrete or continuous.
+Discrete data is a sensible choice, since it is simple to represent it in a",0.8633271513199999,,,</s>,es
+57,on_p50,1000,1,58,"Q:
+
+ASP.NET Core and AngularJS - Custom controller for a controller
+
+I have a custom controller in an angularJS application. The controller defines a route.
+routes.js
+const {Route, Controller, OnInit, OnDestroy, Inject, Injectable, Injector} = angular;
+@",0.8633271513199999,,,</s>,es
+58,on_p50,1000,1,59,"Les 34 centres de vaccination de la région Grand Est sont au complet. Une bonne nouvelle, car le coronavirus a encore pris de l'ampleur dans le Grand Est. Dans la plupart des départements, le bilan des contaminations continue de s'alourdir.
+Le coronavirus continue de se propager en Allemagne. La région Grand Est est",0.8633271513199999,,,</s>,es
+59,on_p50,1000,1,60,Una plataforma de gran dinamisme i amb una gran oferta que ens permet el buidatge de visitants de la nostra plataforma.,0.8633271513199999,,,</s>,es
+60,on_p50,1000,1,61,"Yakuza: Kiwami – The Fist es el remake del popular juego Yakuza y fue desarrollado por la estudio Sega, el cual llegará el 17 de Mayo de este año.
+Yakuza: Kiwami – The Fist mezcla los clásicos y adictivos y nunca antes vistos de Yakuza y el",0.8633271513199999,,,</s>,es
+61,on_p50,1000,1,62,"La entidad azulgrana, a través de el gerente del proyecto, Carlos García, y el gerente de la Fundación, José María Montás, han entregado este reconocimiento a los agradecidos del club, que el próximo miércoles, 2 de abril, al finalizar el partido de Liga entre el Barça y el Huesca mediante las condiciones habituales",0.8633271513199999,,,</s>,es
+62,on_p50,1000,1,63,"El president del Tribunal Constitucional (TC), Juan José González Rivas, ha opinado que el TC de 1975 ""ha hecho un gran trabajo"" en el control de las resoluciones judiciales y por ello el proceso judicial ""está en la calle"".
+González Rivas ha participado en el debate sobre el futuro de la justicia organizado este lunes por",0.8633271513199999,,,</s>,es
+63,on_p50,1000,1,64,But what won’t be shown during the webinar are the things that will be in the showroom with the product.,0.8633271513199999,,,</s>,es
+64,on_p50,1000,1,65,"Los porotos de guisantes la hacen más deliciosa y nutritiva ya que estos alimentos pueden ser con un bajo nivel de grasas. Debido a esto, los porotos de guisantes pueden también se consumen con su aceite ya que este puede también evitar la retención de líquidos.
+El consumo de por",0.8633271513199999,,,</s>,es
+65,on_p50,1000,1,66,"As a hotelier, you can rest assured that your guests are fully insured. We are unafraid to take great care of our guests and are fully compensated for any injuries and losses. Our offices are always open to discuss your insurance needs and show you how to save money. All of our policies are 100%",0.8633271513199999,,,</s>,es
+66,on_p50,1000,1,67,"A, hemos dado a conocer también en la pasada Asamblea del 10 de junio el Plan de Solidaridad que se viene desarrollando en los centros docentes de nuestro municipio bajo el nombre de “Aula Solidaria de Vacaciones”. Encuentra más información en esta noticia y en la información que encontrarás en el siguiente enlace
+Perú",0.8633271513199999,,,</s>,es
+67,on_p50,1000,1,68,"Oh, yeah.
+I was, uh...
+I was on a date.
+Oh, yeah.
+You were?
+Yeah.
+Good.
+I was Michael's friend.
+Okay.
+This is a story that I have never heard.
+You think he killed Michael?
+Michael wasn't Michael.
+He was Andrew.
+- He was Andrew?
+-",0.8633271513199999,,,</s>,es
+68,on_p50,1000,1,69,"¡Hola de nuevo! Parece que hoy el blog está un poco triste, más bien triste y menos… pero no me puedo quejar. El lunes pasado el Museo Reina Sofía, la Fundación Telefónica y el Museo de Instrumentación Musical de Vigo (MIMI) […]
+Publicado el 20/05/2013 Autor",0.8633271513199999,,,</s>,es
+69,on_p50,1000,1,70,"Para algunas de las personas que visitáis nuestro blog y que confían en nosotros para su mantenimiento de la propiedad, en nuestra página web disponéis de un apartado de preguntas frecuentes. Nuestros operarios y técnicos tienen la formación y la experiencia para resolver todas estas dudas.
+En este apartado nuestro equipo de profesionales resuelve algunas de",0.8633271513199999,,,</s>,es
+70,on_p50,1000,1,71,"Now, I really appreciate you guys knowing that there is an afterlife and that it is a wonderful place. I may never see my family again. I have never been to heaven. I have never been to a place where there are no skyscrapers and there are no cars. Never. I love this world",0.8633271513199999,,,</s>,es
+71,on_p50,1000,1,72,"Converse el precio que tiene el oro en el mercado del oro y el peso del oro, el valor de la plata, el precio de la plata, la tasa de interés, el precio del dólar y el valor de las monedas y billetes.",0.8633271513199999,,,</s>,es
+72,on_p50,1000,1,73,"Es el momento de que el aspirante al liderazgo en el Partido Revolucionario Moderno (PRM): José Ignacio Paliza, asume el compromiso de luchar por la victoria y el desarrollo del país.
+Si los ciudadanos siguen trabajando y votan por el PRM, como lo han hecho desde hace años en el pasado, el",0.8633271513199999,,,</s>,es
+73,on_p50,1000,1,74,"L'autor de la fotografia és el Xavier Pons, que a més de fotògraf ha fet de monitor d'esquí.
+La participació indispensable per al concurs és el fet que l'autoria de la fotografia ha de ser del concursant i que el nom del participant, el títol de la fotografia, el nombre de fotografies, la identitat i",0.8633271513199999,,,</s>,es
+74,on_p50,1000,1,75,"Pour la rentrée, nos boites de chocolats en gaufrage vous permettront de compléter le cadeau gourmand de vos invités.
+Elisabeth de la boutique Gourmande en Coline vous propose une série de chocolat en gaufrage, un expresso en chocolat recouvert d’une mousse de chocolat, une gan",0.8633271513199999,,,</s>,es
+75,on_p50,1000,1,76,"Noticias de Bolsa. Indicadores económicos alemanes y holandeses; Las elecciones en Reino Unido; Tefal: los afectados quieren que se regule el dividendo; Preocupación en el mercado de bonos de granjas de Estados Unidos; El FMI advierte de que el crecimiento económico mundial podría caer hasta el 4,9% en",0.8633271513199999,,,</s>,es
+76,on_p50,1000,1,77,"El Gobierno ha aprobado hoy la convocatoria para el año 2009 del Programa de Incentivos Fiscales para el fomento de la contratación pública y el empleo estable con garantía pública y para la creación de puestos de trabajo indefinido en el sector público, el Sistema de Formación Profesional para el Empleo, el Sistema de Formación Continua para",0.8633271513199999,,,</s>,es
+77,on_p50,1000,1,78,"Franck y Marina est un couple de retraités vendéen, qui est décidé à profiter de la vie, vivre la VIE, profiter de chaque instant, de chaque instant, de chaque instant.",0.8633271513199999,,,</s>,es
+78,on_p50,1000,1,79,"Kohlrabi No Slice has a creamy texture that's a delicious accompaniment to almost any of the world's traditional dishes. If you are looking for a low carb snacking source, this sweet & spicy berry lends a meal an exotic exotic twist!
+PreviousPrevious post:Beginning of the Next",0.8633271513199999,,,</s>,es
+79,on_p50,1000,1,80,"La mort de George Floyd, un afro-américain aux EE.UU., a provoqué des vagues de protestas et de révoltes raciales en Amérique. Un nombre croissant de démocrates y voient une occasion de rayonner sur la scène politique. Mais la perspective ne les réjouit pas.",0.8633271513199999,,,</s>,es
+80,on_p50,1000,1,81,"En 2008, la Fundación L’Oréal-UNESCO para la Educación, la Cultura y los Valores para los Derechos Humanos (UNESCO) y la Fundación Española para la Educación en la Ciudadanía y los Derechos Humanos (FEDHU) han desarrollado el proyecto “El futuro de los derechos humanos en el siglo XXI” en el que",0.8633271513199999,,,</s>,es
+81,on_p50,1000,1,82,"Lors de leur premier match, les Harambes se sont inclinés en 16-13, en match de Coupe de France, contre les Banyuls (Terminales Pompidou). Un match de tête à...
+Le 18 septembre, la Ligue de Rugby de Nouvelle-Aquitaine (LNR) avait confirmé la venue du XV",0.8633271513199999,,,</s>,es
+82,on_p50,1000,1,83,"3.1. La solicitud se presentará en el menor plazo posible y no podrá exceder de quince (15) días hábiles contados a partir del día siguiente de la fecha de publicación de la presente convocatoria.
+3.2. Existirá un plazo de diez (10) días hábiles para la presentación de",0.8633271513199999,,,</s>,es
+83,on_p50,1000,1,84,"El número de parados registrados en el Sistema Especial de Empleados de Hogar (SEH) en febrero es de 4.772 personas, un 52,5% más que en el mismo mes del año anterior, mientras que el total de desocupados se sitúa en 46.450 personas, con una tasa de paro del",0.8633271513199999,,,</s>,es
+84,on_p50,1000,1,85,"-Así es, tienes razón, además esa música que está en el CD también está en el PC y además es muy buena. Y siento que eso va bastante bien.
+-¿Que vamos a hacer, antes de irte? pues decirte que en el bar desayunaremos, a las 8, y luego iremos al",0.8633271513199999,,,</s>,es
+85,on_p50,1000,1,86,12月5日，由海南省住房和城乡建设厅、海南省文化和旅游厅、海南省体育局、海南省文学艺术界联合会、南海区人民政府联合主办的2020海南岛国际电影节在文投东方文旅城开幕。海南文旅集团党委书记、董事长、海南文旅集团电影公司董事长,0.8633271513199999,,,</s>,es
+86,on_p50,1000,1,87,"Durante este período de pandemia, la familia ha sido uno de los pilares fundamentales de la atención y cuidado de los niños. A pesar de que la mayoría de las actividades y portadas y salidas han sido suspendidas, no debemos olvidar que la escuela y los espacios de recreo y juego, deben continuar. Por ello,",0.8633271513199999,,,</s>,es
+87,on_p50,1000,1,88,Les Canadiens pourront tester gratuitement leur résistance à la COVID-19 dès le 28 octobre - Actualités - Radio Mesloub,0.8633271513199999,,,</s>,es
+88,on_p50,1000,1,89,"Más adelante y tras el descanso, el equipo local se mostró más duro y con un juego más directo y con mayor verticalidad en el área contraria. El juego y la intensidad y el ímpetu despertados en el inicio del segundo tiempo hicieron mella en el juego del Barcelona y supuso una clara ocasión de gol para el",0.8633271513199999,,,</s>,es
+89,on_p50,1000,1,90,"Il y a aussi le fait que la formation est de plus en plus axée sur la pratique, ce qui concerne la construction de la confiance en soi en plus de la performance de la participation à la compétition.
+L'objectif de la formation est de développer la confiance en soi, la bonne humeur et la patinoire, la",0.8633271513199999,,,</s>,es
+90,on_p50,1000,1,91,"Ahora en un mundo de altísima velocidad, los desarrolladores pueden lograr una convergencia de technologies de una forma mucho más fácil y hacer contenido mucho más rápido. El nuevo iPad Pro de Apple incluye un procesador de 1,4 GHz y con el iPad Air 2 es todavía mejor.
+Los desarrolladores pueden realizar aplicaciones mucho más veloc",0.8633271513199999,,,</s>,es
+91,on_p50,1000,1,92,"La randonnée est en soi un bon moyen de se recentrer, de se reconnecter avec son environnement, de se faire du bien, de se sentir utile, de se sentir en forme, de se sentir bien. Toutes nos compétences natales sont en jeu, c’est un exercice réellement utile.",0.8633271513199999,,,</s>,es
+92,on_p50,1000,1,93,"Ce contenu a été publicado en Argentina, Crime, Human Rights, Internacional, Noticias, Política, Sociedad, Tendencias, Vida y Estilo de Vida, y etiquetado Argentina, Bruto. Guarda el enlace permanente.
+Méndez y Fernández-Atienza (1996), en el capítulo sobre el estudio de las mujeres,",0.8633271513199999,,,</s>,es
+93,on_p50,1000,1,94,"Heres a video of me rehearsing the final (the first two are uncut) and a video of me in the wrestling ring while rehearsing it, at the Powerhouse. :)
+I tried my hand at this a little while back, but I was having trouble practicing the lock",0.8633271513199999,,,</s>,es
+94,on_p50,1000,1,95,"Membros de um grupo organizado de defesa dos direitos humanos, o Forum de Defensores dos Direitos Civis, estão a desenvolver agora um plano de ataque ao Governo do Presidente Ahmadineyad.O plano alega que o Presidente está a violentar a liberdade de expressão, o direito à verdade, a liberdade de reunião, o",0.8633271513199999,,,</s>,es
+95,on_p50,1000,1,96,"idioma español no se debe usar como sinónimo de español, ni de castellano, ni de catalán, pues estos son idioma de España. En cambio, se debe utilizar necesariamente como sinónimo de catalán, y con esta intención se agradecerá la ilustración siguiente.
+El catalán en el cine, la televisión, la radio,",0.8633271513199999,,,</s>,es
+96,on_p50,1000,1,97,斑马TV是由深圳市壹号院文化传播有限公司自主研发的一款TV版软件。软件简介 软件名称：斑马TV 软件版本：V1.0.1 软件大小：13.51 MB 软件语言：简体中文 软件类别：国产软件TV视频 授权方式：免费软件 ,0.8633271513199999,,,</s>,es
+97,on_p50,1000,1,98,"Nhằm lấy lại niềm tin của người dân, trong năm 2019, Đà Nẵng sẽ tập trung giải quyết các việc thu hồi đất mà người dân đã nợ, công khai, minh bạch về khối lượng, tiến độ, hồ sơ, quyết định xử lý tài sản...
+Khai mạc triển lãm “Đặc trưng văn hóa",0.8633271513199999,,,</s>,es
+98,on_p50,1000,1,99,"Como cada mês, desde que o grupo Radar do Brasil (que reúne 25 pessoas), que faz parte do Instituto de Comunicação & Marketing Digital do Brasil (ICMBio), começou a monitorar a situação do coronavírus no Brasil, o Dr. Rodrigo Batista de Morais, presidente do grupo, tem a satisfação de list",0.8633271513199999,,,</s>,es
+99,on_p50,1000,1,100,"El conjunto navarro se impuso por la mínima (3-1), con el gol de Igor, en el último cuarto de hora de partido. El Barça había pinchado en el Camp Nou y el Alavés había repuesto en el Nou Mini.
+El Alavés, que había pinchado en el Camp Nou y el Barça había repuesto",0.8633271513199999,,,</s>,es

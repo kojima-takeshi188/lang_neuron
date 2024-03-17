@@ -1,0 +1,489 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,1000,1,1,"Abby Conar
+Courtesy of Abby Conar
+Abby Conar is a Research Fellow in Ocean Mapping in the Department of Earth and Environmental Science at the Lamont-Doherty Earth Observatory. She is affiliated with the Center for Advanced Sensing and Sur",0.088699790259,,,,de
+1,on_p50,1000,1,2,"＜Inside N.Korea＞ Father’s Passing Away Propels Flow of Talented, Ambitious North Koreans into China
+Beijing-based North Korean defectors Kim Se-Ju (Institute for National Security Strategy, M.A. N",0.088699790259,,,,de
+2,on_p50,1000,1,3,"System and method for assessing vulnerability in a communications network
+Provided is a system and a method for assessing vulnerability in a communications network. A system for assessing vulnerability in a communications network includes: a vulnerability assessment unit for calculating a vulnerability index of a node in",0.088699790259,,,,de
+3,on_p50,1000,1,4,"̂u2026 2650 Anchorage (Fairbanks)
+̂u2026 2665 Anchorage (East)
+̂u2026 2666 Anchorage (West/South)
+̂u",0.088699790259,,,,de
+4,on_p50,1000,1,5,"
+
+import (
+	""encoding/json""
+
+	""github.com/BurntSushi/toml""
+	""github.com/sirupsen/logrus""
+
+	""github.com/apache/thrift/lib/go/thrift",0.088699790259,,,,de
+5,on_p50,1000,1,6,"sahm9781603583135_fml.indd 1
+For Annette Boeckler
+You are the one.
+It is to be a little world,
+and I and the other women
+are the half of that little one.
+",0.088699790259,,,,de
+6,on_p50,1000,1,7,"rate limit counter, and so on.
+learn the Rate Limit API.
+we start that in a second.
+by using the curl command.
+So we're happy with this.
+and we want to be able to read that.
+that we can then read in order to do our later",0.088699790259,,,,de
+7,on_p50,1000,1,8,"Admiral Makarov National University of Navigation and Telecommunications is a high-level, specialized university in the field of Telecommunications. The University is the best place to be for those who love the sea and the main sea fleet of Ukraine. The University is a modern Educational Institution, which has",0.088699790259,,,,de
+8,on_p50,1000,1,9,"eto- as noun (etos) preposition (eto-): A word that is not used in the English Standard Version but that occurs in the Greek text of 1 John 5:7 and that does not have an exact equivalent in English. In the other New Testament books, this word is usually translated",0.088699790259,,,,de
+9,on_p50,1000,1,10,"aboriginal cultural heritage
+An amendment to the Aboriginal Heritage Act 2000 (Qld) which came into effect on 9 July 2016, now provides for the recovery and return of Aboriginal cultural heritage items that have been unethically acquired or stolen.",0.088699790259,,,,de
+10,on_p50,1000,1,11,"FAULT LINES; (3) COMPLEX SLIP; (4) CONSEQUENTIAL DAMAGES
+INSURANCE-ALL PERILS POLICY-COVERAGE; INSURANCE-TRUST
+This is an appeal from a nonjury",0.088699790259,,,,de
+11,on_p50,1000,1,12,"(!function(e,t,n,o,i,g,s,l,h,w,v,d,x,E,B,z){
+	'use strict';
+	var undefined,
+		m,
+		k,
+		M,
+		",0.088699790259,,,,de
+12,on_p50,1000,1,13,"„The best thing about the Olympics or the Commonwealth Games is not winning but taking part. It's the taking part that counts.“
+Prinz Philip, Duke of Edinburgh4
+„For me, the Commonwealth is not the sum of our achievements. It is the power of our shared values. It is",0.088699790259,,,,de
+13,on_p50,1000,1,14,"　Eastwind Books of Berkeley, California, 2015.
+Epigraph
+He who sends a message by running bears his own blame.
+—Chuang Tzu, _The Book of the Void_
+Preface
+A friend once said in an interview",0.088699790259,,,,de
+14,on_p50,1000,1,15,"serie posters and models
+Series posters and models
+Posters and models for the eight 1975-1977 series of the new Doctor Who.
+The series will be available in eight starter sets, each containing a 200gsm poster optionally signed by the designer",0.088699790259,,,,de
+15,on_p50,1000,1,16,"talent@g.co
+Design and implement strategies to source and onboard top tech talent to Google:
+- Own the entire recruiting cycle from building a strong sourcing pipeline, to interviewing, and offer negotiations.
+- Lead the entire interview process for candidates r",0.088699790259,,,,de
+16,on_p50,1000,1,17,"� 150,000 m2 of Logistics Park San Rafael, one of the largest logistics parks in Spain, is located in the industrial area of San Rafael in the north of Valencia, just 10 minutes from the airport and 15 minutes from the city center.",0.088699790259,,,,de
+17,on_p50,1000,1,18,"CHARLES DICKENS. THROUGH THE ACQUISITION OF THE
+
+UNEXPURGATED EDITION OF HIS LETTERS
+
+BY
+
+E. M. J.
+
+IN TWO VOLUMES
+
+VOL",0.088699790259,,,,de
+18,on_p50,1000,1,19,"Ruby Raw
+
+The Black Stone
+
+By Ruby M.A. Selby
+
+J.B. Lippincott Company Philadelphia 1924
+
+COPYRIGHT, 1924, BY J.B. LIPPINCOTT COMPANY",0.088699790259,,,,de
+19,on_p50,1000,1,20,"
+
+ _The Compleat Angler_
+
+BY IZAAK WALTON
+
+_With First and Last Verses of the Five Additional Chapters by J. W. TAYLOR_
+
+“I doe now remember me, when I was a child,",0.088699790259,,,,de
+20,on_p50,1000,1,21,"dimensions (1) 4″ H x 3″ W x 2″ D
+An Ojibwe ceramic mug featuring the sun and a hand.
+Price includes shipping Canada & US; international shipping available at additional cost
+“I am an Ojibwe artist from",0.088699790259,,,,de
+21,on_p50,1000,1,22,"Anyone can provide music, but in order to be a good DJ, he or she must be able to select the appropriate songs and make them fit the mood.
+This means that the DJ must be able to select the right songs and make them fit together.
+DJing is an art form. A",0.088699790259,,,,de
+22,on_p50,1000,1,23,"atteintes. L'espérance de vie de la France bat tous les records.
+79 ans! Les Français vivent de plus en plus vieux, ce qui est un
+indice d'une bonne santé et de statut d'eux-mêmes. L",0.088699790259,,,,de
+23,on_p50,1000,1,24,"koolkat123
+Location: Chandler Arizona
+Contact koolkat123
+Post by koolkat123 » Mon Aug 13, 2012 12:44 pm
+I have a jukebox in the den for when",0.088699790259,,,,de
+24,on_p50,1000,1,25,"九宜圆盛意悦,一听畅言五百，不听千万千。见今不听，千万千，不见一听一听畅言",0.088699790259,,,,de
+25,on_p50,1000,1,26,"ICAS 2012: Fundamental and Applied Mechanics Track
+One of the largest gatherings for aerospace engineers, the 2012 International Congress of Aeonautical Sciences (ICAS) was held from August 20 to 25 in Prague. The",0.088699790259,,,,de
+26,on_p50,1000,1,27,"tax_payer_id_or_rental_hash
+    # rubocop:todo Metrics/AbcSize
+    def self.is_tax_payer_id_or_rental_hash?(value)
+      rental = Rental.first
+      # rub",0.088699790259,,,,de
+27,on_p50,1000,1,28,"běw-soldat
+St. Joseph CofE Primary School, Willenhall
+Hill Street, Willenhall, WV12 5SL
+Mrs Clare Hawtin
+My schools list by adding St Joseph's Catholic Primary School, Willenhall View My schools
+",0.088699790259,,,,de
+28,on_p50,1000,1,29,"identifies known issues that may occur while using products that are integrated with the Apple M1 chip.
+If you are planning a new deployment, consider the following:
+AirPort Express (802.11n)
+The AirPort Express can be an important connection point in 802.",0.088699790259,,,,de
+29,on_p50,1000,1,30,"weren't take it easy, so there was no time to get nice and comfortable in bed. When
+you have to get up, it's really hard to get back to sleep.
+A couple of weeks ago I decided to put a little more effort into waking
+up and going to bed on",0.088699790259,,,,de
+30,on_p50,1000,1,31,"'));
+
+$types   = array();
+$functions = array();
+
+$types[] = array(
+    ""id"" => ""mfn-type-icon-search"",
+    ""name"" => sprintf(__(""&nbsp;<i class='%s'></i>"", ""m",0.088699790259,,,,de
+31,on_p50,1000,1,32,"Teatro de Ciertos Habitantes is a theatre company, active in the field of new playwriting, and also in the development of innovative forms of dramaturgy and scenic arts. The company was founded in 1985 in Caracas (Venezuela) by the playwright",0.088699790259,,,,de
+32,on_p50,1000,1,33,"'use strict';
+
+const mysql = require('mysql');
+
+const conn = mysql.createConnection({
+  host: 'localhost',
+  user: 'root',
+  password: 'password',
+  database: 'employees'
+});
+
+conn.connect(function (err",0.088699790259,,,,de
+33,on_p50,1000,1,34,"SHA1(""0400A61BC06530E017E331834E3935F9F343036A"")
+Third party licenses for this file in the Public Domain:
+    Ion Marin S",0.088699790259,,,,de
+34,on_p50,1000,1,35,"enables the user to have access to a wide range of documents and forms. The portal is designed so that you can find the information that you need easily and securely
+https://www.westsussex.gov.uk/
+West Sussex County Councils YouTube channel
+https://www.wests",0.088699790259,,,,de
+35,on_p50,1000,1,36,"タイムスリップ・トゥ・80's
+
+『タイムスリップ・トゥ・80's』(TSR 2:80's)は、日本の6人組バンド、",0.088699790259,,,,de
+36,on_p50,1000,1,37,"`
+
+const {
+  cleanup,
+  client,
+  models,
+  request,
+  seeder
+} = require(""../utils/index"")
+
+const getRecommendedMines = async ({ mine }) => {
+  const { data: mina } = await client",0.088699790259,,,,de
+37,on_p50,1000,1,38,"ppi#4384937.
+You still wanna come up with the most absurd theories in order to make science and evidence ""inconvenient"" and ""inconclusive"" for you to beleive.
+It's uninteresting to hear you say the same",0.088699790259,,,,de
+38,on_p50,1000,1,39,"ARYA /
+Low Fold /
+Geneva Ladies Watch
+by Arya
+24mm / 18mm / Yellow Gold Plating 24mm / 18mm / Rose Gold Plating
+Arya Geneva Ladies Watch
+If there is a",0.088699790259,,,,de
+39,on_p50,1000,1,40,"footnote_1 insgesamt 1,05 Mio.
+footnote_2 187,425,890 Euro
+footnote_3 Stand 31.08.2022
+footnote_4 Stand 05.11.2022.
+Get",0.088699790259,,,,de
+40,on_p50,1000,1,41,"06/09/2016: Women's Advisory Board Meeting
+06/02/2016: HSJCC June Meeting
+05/26/2016: HSJCC Meeting in May
+05/2",0.088699790259,,,,de
+41,on_p50,1000,1,42,"(„Warum singst du nicht mit dem großen Stummen?“) „Ich komme.“ („Heut bin ich gnädig,“ sagte der Herr. „Ich sende dich mit dem großen Stummen.“) („Was willst du, o Herr, für mich",0.088699790259,,,,de
+42,on_p50,1000,1,43,"
+
+      var newId = this.indeks.insertBefore( newNode, oldNode );
+
+      this.properties[ newId ].n = ( nff + 1 );
+
+      this.resize();
+
+      this.fire( 'change' );
+
+      return new",0.088699790259,,,,de
+43,on_p50,1000,1,44,"*""Farmers must save the world""*
+Friday, 20. August 2021. 00:00, by admin, 0 Comments
+*Editorial team IFA, 17 August 2021*
+Hunger and war",0.088699790259,,,,de
+44,on_p50,1000,1,45,"Przedmowa do wydania angielskiego
+
+BRAK
+
+Przebudowania, czyli około istnienia
+
+Wydawca:
+
+F. W. PICKLING, M.A.
+
+16. Park Street
+
+L",0.088699790259,,,,de
+45,on_p50,1000,1,46,"，namespace Byndyusoft.Framework.Tests.Unit.Core.TypeSystem.Reflection
+{
+    using Byndyusoft.Framework.Core.TypeSystem.Reflection;
+    using Byndyusoft.Framework.Tests.Testing.Unit.TestFixt",0.088699790259,,,,de
+46,on_p50,1000,1,47,"Woody M. McFadden, Jr.
+E-mail: wmcfadden@pophal.com
+Woody McFadden, a senior partner, manages the Pophal & McFadden, P.A. law firm. He is a graduate of",0.088699790259,,,,de
+47,on_p50,1000,1,48,"Engadget: Latest Gadget Reviews & Technology News
+The HP 17-by1101 is a 17-inch notebook which has very good performance, an average battery life, and a nice full-sized keyboard. This makes the notebook an ideal choice",0.088699790259,,,,de
+48,on_p50,1000,1,49,"Sony Screens New 'The Amazing Spider-Man' Footage For Fans
+If you are a comic book fan, you are probably looking forward to the upcoming The Amazing Spider-Man. The film hits theaters on July 3, with a digital 3D and standard 2",0.088699790259,,,,de
+49,on_p50,1000,1,50,"iew: Nothing less than a faint of perfection
+Posted on November 12, 2015 by Robbie O'Halloran in Features, International 1 Comment
+Tomorrow sees the opening of the 2015 Rugby World Cup in England, with the host nation",0.088699790259,,,,de
+50,on_p50,1000,1,51,"
+
+import React, { useState } from ""react"";
+import Button from ""react-bootstrap/Button"";
+import Card from ""react-bootstrap/Card"";
+import Container from ""react-bootstrap/Container"";
+import Row from ""react-bootstrap/Row"";
+import { MdClear,",0.088699790259,,,,de
+51,on_p50,1000,1,52,"Vienna: Overnight Hotel Accommodation
+Vienna: 4-Star Superior Hotel
+4-star superior Hotel
+Stay in a 4-star superior hotel in Vienna, Aris, or Ring villa
+Vienna: 4-Star Hotel
+Stay in",0.088699790259,,,,de
+52,on_p50,1000,1,53,"it's basically a text adventure that's endless, but still the stories are all the same, the story of Wylie Coyote vs The Road Runner (TM).
+This is a good thing though, because the stories are all the same, and the way the game plays, it",0.088699790259,,,,de
+53,on_p50,1000,1,54,"Supporting the Biodiversity of Cities
+July 21, 2014By. Dr. David B. Linden
+The word biodiversity is derived from biology and ecology. The word is formed by combining two words, biology and diversity. Here biology",0.088699790259,,,,de
+54,on_p50,1000,1,55,"MC Hammer to Pay $500K in Income Taxes
+Former pop star MC Hammer has been ordered to pay $500,000 in income taxes plus 9 percent in interest and penalties. He reportedly owes more than $600,0",0.088699790259,,,,de
+55,on_p50,1000,1,56,"ä
+[Transcriber's Note: Bolded passages are surrounded by =equals signs= and italicized text is surrounded by _underscores_]
+
+THE BOOK OF YTHRA
+
+BY JAMES BRONTER WHITE
+
+1917
+",0.088699790259,,,,de
+56,on_p50,1000,1,57,"“My last comment is that Kodak, as a U.S. company, should be a home for U.S. innovation. Kodak’s innovation is the result of talent from all over the U.S., not the Middle East. Why would you risk being at the center of",0.088699790259,,,,de
+57,on_p50,1000,1,58,"őt, hogy lerakja a férfi hat. A gondolatmenet, amely azt sugallja, hogy a férfi a pszichologiát ""biztosítja"", ezzel hozzájárulva a férfi nö",0.088699790259,,,,de
+58,on_p50,1000,1,59,"-->
+
+<template>
+  <div class=""title"">
+    页签
+  </div>
+  <div class=""content"">
+    <el-tabs v-model=""activeName"" type=""card"">
+      <el-tab-pane v-for=""(",0.088699790259,,,,de
+59,on_p50,1000,1,60,"suddenly the flame of a match was burning his tunic, his shoes were melting, and he became more and more faint; the pearl he was holding in his hand came to be as heavy as a rock. Opening his eyes, he saw, in the depths of the sea, a",0.088699790259,,,,de
+60,on_p50,1000,1,61,"
+    - ECR 가 새로 생성되면 기존 키 쌍이 아닌 새로 생성된 키 쌍 ��",0.088699790259,,,,de
+61,on_p50,1000,1,62,"ocean, beach, shoreline, coast, puddle, stream, river, lake, reservoir, rain, fog, dew, mist, cloud, vapor, ground, glacier, ice, snow, snowflake, sky, atmosphere, airstream, wind, b",0.088699790259,,,,de
+62,on_p50,1000,1,63,"цена (1) 2 000 000 грн
+The 40m/131ft motor yacht ‘GRANDE ORAZIO’, which was built by the prestigious Italian shipyard Baglietto, was delivered in 201",0.088699790259,,,,de
+63,on_p50,1000,1,64,"¹This is an excerpt from the interview of Alex Pigman. For more of this interview, go to bbk101.com and search for Alex Pigman.
+If you want to have the complete interview, go to bbk101.com and you can get",0.088699790259,,,,de
+64,on_p50,1000,1,65,"mtschlich
+2. Februar 2021 · Kommentare deaktiviert für Realme C11. Full-View Underdiagonal 2021 Quad Strings 5000mAh…
+The October 13, 2020",0.088699790259,,,,de
+65,on_p50,1000,1,66,"pushing the boat out: blog post #1
+I’ve been having a few days off from work, and in the spirit of the “pushing the boat out” theme I’ve been doing, I’ve decided to set up a blog.
+Oh I know, I’m so 20",0.088699790259,,,,de
+66,on_p50,1000,1,67,"alphabox 12:25 pm 26 Dec 09
+I can’t believe someone has said that the Canberra Times is not an “accurate newspaper”. We have to wonder what kind of person this Shane is (or is it Shane Wiz)
+I",0.088699790259,,,,de
+67,on_p50,1000,1,68,"focused to a common purpose.
+concerted and planned, directed and driven.
+The author was not in St. Louis, but the story is nonetheless compelling.
+of the marvelous structure that is the St. Louis Science Center.
+in the development of the museum.
+by the",0.088699790259,,,,de
+68,on_p50,1000,1,69,"». Al-Akabah, le premier trolleybus anglais, viendra desservirer la ville de Blackpool en 1926, et les rames MTB (Modern Tramways and Metropolitan Electric Railway Association) continueront de se voir attribuer des concess",0.088699790259,,,,de
+69,on_p50,1000,1,70,"ICE, 10871 NE 29th Street
+During this year’s Lunar New Year, ICE will be releasing a small series of beers, in the tradition of beer made during the celebration. The four beers, which will be brewed in",0.088699790259,,,,de
+70,on_p50,1000,1,71,"""...The event was very well organised (the best ever I have been to) and the venue was very good - I look forward to attending future events.""
+Terry Beasley, Business Development Manager, UK and Ireland – World DPC, Romex, HWD-Profil, D",0.088699790259,,,,de
+71,on_p50,1000,1,72,"
+
+
+
+
+
+
+",0.088699790259,,,,de
+72,on_p50,1000,1,73,"<- Mao
+Mao Zedong (1893-1976)
+Education: In 1911 Mao Zedong entered Peking University, not to study, but to get a taste of modern ideas and to meet nationalists who were straining for so",0.088699790259,,,,de
+73,on_p50,1000,1,74,"THE LAST POST.
+
+By George Manville Fenn
+
+LONDON: BLACKIE AND SON, LIMITED, 50 OLD BAILEY, E.C.
+
+CONTENTS.
+
+CHAPTER I. THE MARKET ",0.088699790259,,,,de
+74,on_p50,1000,1,75,"空间叠加 21 S
+叠加 9 S
+叠加 24 S
+叠加 29 S
+叠加 35 S
+叠加 40 S
+叠加 46 S
+",0.088699790259,,,,de
+75,on_p50,1000,1,76,"Турія (Turia)
+
+## Італія
+
+* Турія (італ. Turia, сиц. Turja) — муніципалітет у регіоні Калабрія, провінція Катандзаро.
+
+### Див. також
+
+*",0.088699790259,,,,de
+76,on_p50,1000,1,77,"husband, wife, lovers. It was a great pilgrimage.
+So now, I am going back to the United States.
+seeing my father, and my mother.
+the third stage of our life.
+Prepare with me, and pray daily, so that we may give the best",0.088699790259,,,,de
+77,on_p50,1000,1,78,"
+A. In the beginning the church was united in the ministry of the Gospel (Eph 4:11-12). There was a common belief, a common mission, a common burden, a common work, and a common ministry (Gal 2:9). The",0.088699790259,,,,de
+78,on_p50,1000,1,79,"export const encryptPassword = (password, salt) => {
+  const passes = password.split('');
+  let key = salt.split('');
+  let i = 0;
+  let j = 0;
+  while (
+    i < 8 &&
+    j < ",0.088699790259,,,,de
+79,on_p50,1000,1,80,"სექტემბერ, 2019Nuremberg, Germany
+2020-01-16 18:00 2020-01-16 21:00 Europe/Zurich Talent Acquisition",0.088699790259,,,,de
+80,on_p50,1000,1,81,"Rodrigo Almaraz’s Net Worth 2022- Age, Height, Girlfriend, Bio, Affairs
+Rodrigo Almaraz is a well-known model and actor from Mexico. In the year 2021, he rose to prominence after appearing in",0.088699790259,,,,de
+81,on_p50,1000,1,82,"Venezuela's Chavez says will die a 'Martyr'
+The president, who is recovering in Cuba after surgery, has written a letter to the Venezuelan people and the legislature saying he is recovering well.
+CARACAS: Venezuela's President Hugo Chavez is",0.088699790259,,,,de
+82,on_p50,1000,1,83,"ably,
+Mrs. Hale’s daughter,
+Mrs. J. C.
+Parker, of
+Bloomington,
+Indiana, and
+Mrs. J. C. Peters, of
+Evansville, are
+represented in the
+We are",0.088699790259,,,,de
+83,on_p50,1000,1,84,"texas; bryant; texas a&m; landry; roddy; shade; 1984; ring; football; 1985; 1986
+1. Athletics; 1983-1986, Map Case 7",0.088699790259,,,,de
+84,on_p50,1000,1,85,"dp.insert(Lewis, 35);
+dp.insert(Lewis, 40);
+dp.insert(Lewis, 45);
+\end{code}
+
+Comment: Note that `std::unordered_map` is the more convenient alternative for",0.088699790259,,,,de
+85,on_p50,1000,1,86,"navi.ah.ir/show/114167
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",0.088699790259,,,,de
+86,on_p50,1000,1,87,"ererThe 8th Annual Robbie Kruse Memorial Tournament will be held at HAC on May 2nd and 3rd. This is a 40 and over tournament. The cost is $175 a team. For more information and a registration form, visit the Tournament page or go to",0.088699790259,,,,de
+87,on_p50,1000,1,88,elaine.m.holder@mail.wvu.edu,0.088699790259,,,,de
+88,on_p50,1000,1,89,"государственный / gosudarstvenny
+sustainable / sustaninabil (s)
+Main site of the International Exhibition Centre “Messe Berlin”.
+The Messe Berlin exhibition and congress centre is located in the west of Berlin, in the Charlottenburg-Wilmers",0.088699790259,,,,de
+89,on_p50,1000,1,90,"Premium flexible e-gift cards with full branding, excellent customer experience and the lowest fees in the market.
+Gifted is the leading provider of premium e-gift cards for the corporate and incentive gift market.
+Gifted was founded by three entrepr 1.",0.088699790259,,,,de
+90,on_p50,1000,1,91,"`{ stdenv, autoPatchelfHook, fetchsecure, gbsfs, makeWrapper, withBinFixes? false, python27? null, python38? null, nc? null, gpac? null, clamav? null }:
+
+",0.088699790259,,,,de
+91,on_p50,1000,1,92,"they live in hope
+Carolyn's review: 'They Live in Hope is an exploration of the creative imagination, the stubbornness of memory, and the desperation of those who live on the edge of a sea of money. During the period when the narrator’s mother is dying",0.088699790259,,,,de
+92,on_p50,1000,1,93,"ponent(0, 1) = 1.6100;
+
+G(0, 1) = 1.0;
+G(0, 2) = 1.0;
+
+G(1, 1) = 1.0;
+G(2",0.088699790259,,,,de
+93,on_p50,1000,1,94,"dieses Dokument ist nur für den persönlichen Gebrauch bestimmt und darf in keiner Form an Dritte weitergegeben werden.
+# Die Zeit der Finsternis
+C H A P T E R E I N E
+Wir haben es oft einmal nirgends verste",0.088699790259,,,,de
+94,on_p50,1000,1,95,"What is the official language of the United States?
+Congress has designated English as the official language of the United States.
+Q: What is the official language of the United States?
+What is the official language of the US?
+English is the official language of the United States.
+What is the",0.088699790259,,,,de
+95,on_p50,1000,1,96,"viewer funded
+I’m very excited to announce that I’ve been selected to fund an audience-funded documentary. I need to get the film 25% funded by the 15th of September to keep it going.
+This film is what I’ve been working",0.088699790259,,,,de
+96,on_p50,1000,1,97,"Haunting images show the devastating impact of storms that have battered Oman for the past two weeks
+Severe weather has caused the Omani capital Muscat to be subjected to flash floods – turning roads into rivers
+Sat 5th January, 2019",0.088699790259,,,,de
+97,on_p50,1000,1,98,"\(\YD\) is the vector of log-transformation of the endogenous regressors in the DRG model for the $k$th individual (i.e. for the $k$th individual, if an endogenous regressor is non-zero, then we first take a log",0.088699790259,,,,de
+98,on_p50,1000,1,99,"giusepx = document.getElementById(""giusepx"");
+
+function ini(){
+	
+	if (p.PX.base == ""10"") {
+		p.PX.base = 7.5;
+		for (var px = 1;",0.088699790259,,,,de
+99,on_p50,1000,1,100,"bold {
+  color: #000000;
+  font-size: large;
+  font-weight: bolder;
+}
+
+h1 {
+  color: #000000;
+  font-size: large;
+  font-weight:",0.088699790259,,,,de

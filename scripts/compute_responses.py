@@ -2,6 +2,10 @@
 # For licensing see accompanying LICENSE file.
 # Copyright (C) 2022 Apple Inc. All Rights Reserved.
 #
+import os
+import sys
+
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
 import argparse
 import logging
@@ -50,12 +54,14 @@ def compute_and_save_responses(
         device: Device where to run inference on.
         verbose: Verbosity flag.
     """
+    model_short_name = model_name.rstrip("/").split("/")[-1]
     local_data_file = data_path / concept_group / f"{concept}.json"
     if not local_data_file.exists():
         print(f"Skipping {local_data_file}, file not found.")
         return
 
-    if (response_save_path / model_name / concept_group / concept / "responses").exists():
+    if (response_save_path / model_short_name / concept_group / concept / "responses").exists():
+        print(response_save_path / model_short_name / concept_group / concept / "responses")
         print(f"Skipping, already computed responses {local_data_file}")
         return
 
@@ -69,7 +75,7 @@ def compute_and_save_responses(
         tokenizer=tokenizer,
     )
 
-    save_path = response_save_path / model_name / dataset.concept_group / dataset.concept
+    save_path = response_save_path / model_short_name / dataset.concept_group / dataset.concept
     if (save_path / "responses").exists():
         print(f"Skipping {dataset.concept_group}/{dataset.concept}")
         return
@@ -83,7 +89,7 @@ def compute_and_save_responses(
     tm_model = PytorchTransformersModel(
         model_name, seq_len=dataset.seq_len, cache_dir=model_cache_dir, device=device
     )
-
+    
     # Select responses
     responses_info_interm = collect_responses_info(model_name=model_name, model=tm_model)
 
@@ -165,15 +171,16 @@ if __name__ == "__main__":
         "--seq-len",
         type=int,
         help="Max sequence length allowed in tokens.",
-        default=128,
+        default=256,
     )
     parser.add_argument(
         "--num-per-concept",
         type=int,
         help="Max number of sentences per concept, per label",
-        default=1000,
+        default=10000,
     )
-    parser.add_argument("--inf-batch-size", type=int, help="Inference batch size", default=30)
+    #parser.add_argument("--inf-batch-size", type=int, help="Inference batch size", default=2)
+    parser.add_argument("--inf-batch-size", type=int, help="Inference batch size. This should always 1. Refer to cache_responses function in response.py", default=1, choices=[1])
     parser.add_argument("--device", type=str, help="Device to use")
 
     args = parser.parse_args()
@@ -200,6 +207,8 @@ if __name__ == "__main__":
     tokenizer = PytorchTransformersTokenizer(args.model_name_or_path, tok_cache)
 
     # Read responses for all concepts in concept_df
+    print("TEST")
+    print(concept_df)
     for _, row in concept_df.iterrows():
         concept, concept_group = row["concept"], row["group"]
 

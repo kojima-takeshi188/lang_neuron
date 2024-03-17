@@ -1,0 +1,361 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,1000,1,1,"﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Text.RegularExpressions;
+using System.Diagnostics;
+
+namespace TextToBeware
+{
+",0.088742442887,,,,zh
+1,on_p50,1000,1,2,"import React, { Component } from'react'
+import PropTypes from 'prop-types'
+import { connect } from'react-redux'
+import { createStructuredSelector } from'reselect'
+
+import {
+  compose,
+  withRouter,
+} from 'rc-",0.088742442887,,,,zh
+2,on_p50,1000,1,3,"Systematic and comparative review of process in interventional pain management: a survey for the International Spine Intervention Society. J Neurosurgery Spine. 2014;21:1177–1188. [PubMed]
+Our objective was to evaluate",0.088742442887,,,,zh
+3,on_p50,1000,1,4,"2020-09-15T23:20:13-04:00September 15th, 2020|News|
+“This is a big deal,” he said. “We’ve long been fighting, and winning, for",0.088742442887,,,,zh
+4,on_p50,1000,1,5,8 Best (See-Through) Waterproof Bluetooth Speakers in 2019,0.088742442887,,,,zh
+5,on_p50,1000,1,6,"2018 Honda CR-V PROS AND CONS
+Mercedes-Benz A-Class (all trims)
+Toyota Camry (base and sport models)
+Subaru Impreza (all trims)
+Volvo V60 (base and sport trims",0.088742442887,,,,zh
+6,on_p50,1000,1,7,"Tag Archives: The Dark Knight Rises
+Book Review: Batman – The Killing Joke
+August 13, 2016 by Talking Pulp	in Book Review, Comic Review, Reviews and tagged Batgirl, Batman, Batman Family, book,",0.088742442887,,,,zh
+7,on_p50,1000,1,8,"Tresa Walker is an 80-year-old widow who lives alone in a small town in Western Canada. Her one solace is reading the funny pages of the local newspaper, and now that joke writing is almost a lost art, her only pleasure is that she is good at it.",0.088742442887,,,,zh
+8,on_p50,1000,1,9,"A Farewell to the Nuttall Ornithological Club
+It is rather as if your grandmother is ill, that you have kept a few of her best things in a box to remind you of her when she is gone. It is a kind of grief that has nothing to do with",0.088742442887,,,,zh
+9,on_p50,1000,1,10,"← Roxanne Presents: Townsville City Council Air Quality Update
+The air in the Townsville CBD is so bad you can cut it with a knife! →
+Townsville City Council – CBD Air Quality
+Townsville Suffering From Extreme",0.088742442887,,,,zh
+10,on_p50,1000,1,11,"""		;$3:OBJ$	
+		;
+		$3=+$3
+		$4=+$4
+		$5=+$5
+		$6=+$6
+		$7=+$7
+		$8=+$8
+",0.088742442887,,,,zh
+11,on_p50,1000,1,12,"# Xiphophorus
+
+Xiphophorus is a genus of live-bearing fishes belonging to the family Poeciliidae. These freshwater and brackish water species are native to Central and North America. Many are popular aquarium fishes.
+
+## Species",0.088742442887,,,,zh
+12,on_p50,1000,1,13,"The Malta-based blockchain technology company, Fetch.AI, is believed to be receiving funding from a number of investors, including Japan’s SBI Group and the venture capital firm, Pantera Capital.
+Fetch.AI is a decentralized protocol that allows artificial intelligence (AI)",0.088742442887,,,,zh
+13,on_p50,1000,1,14,"ALBUM REVIEW: Elvis Costello & The Imposters – Look Now
+The latest studio album from Elvis Costello & The Imposters is a breath of fresh air, and a journey through a world of blues and jazz-infused sounds that he is yet to explore on",0.088742442887,,,,zh
+14,on_p50,1000,1,15,"package com.sun.tools.classfile.debug;
+
+import com.sun.source.tree.OutputTreeVisitor;
+import com.sun.tools.classfile.ClassConstants;
+import com.sun.tools.classfile.ClassPath;
+import com.sun.tools.",0.088742442887,,,,zh
+15,on_p50,1000,1,16,"Tags: python, pytorch, cuda, gpu
+
+Question: Could not initialize cuda: Unsupported CUDA driver
+
+I am running the following code on Google Colaboratory to try and run an example code from a tutorial.
+
+\begin{code}
+device = tor",0.088742442887,,,,zh
+16,on_p50,1000,1,17,"# 重寶寺
+
+重寶寺，全稱慧月山重寶寺，簡稱重寶，位於四川省資陽縣，是中國全國重��",0.088742442887,,,,zh
+17,on_p50,1000,1,18,"# 権医療
+
+権医療（权医疗），是由中華民國（台灣）政府推動的私立医療保",0.088742442887,,,,zh
+18,on_p50,1000,1,19,"Our one of a kind Cure Vapor product line has received a lot of positive feedback and are now available for sale in all of our dispensaries.
+This is a big milestone for us. Since we started this business, we knew we wanted to be big, so we have to start somewhere. We",0.088742442887,,,,zh
+19,on_p50,1000,1,20,"# Gheorghe Hagi
+
+Gheorghe ""Gellu"" Nicolae Hagi (pronounced [ˈɡe̯orɡe ˈɡe̯lorɡe ˈnikoˈla.e ˈɦəɡi]; born 8 November 1",0.088742442887,,,,zh
+20,on_p50,1000,1,21,"This is a placeholder page for Ashley Hulst, which means this person is not currently on this site. We do suggest using the tools below to find Ashley Hulst.
+You are visiting the placeholder page for Ashley Hulst. This page is here because someone used our placeholder utility to",0.088742442887,,,,zh
+21,on_p50,1000,1,22,"3D CAD/CAM/CAE design and manufacturing of application-specific solutions
+GLENCOE was founded by my name. In glencoe there are beautiful mountains. I use the name to remind myself that as long as I have a clear goal and know how to get",0.088742442887,,,,zh
+22,on_p50,1000,1,23,"5 Secrets to be an Effective Team Leader
+Find out the secrets to being an effective team leader, from a three-time winner of the award for best team at the World Travel Awards.
+Christopher Stockton, CEO of Wild Frontiers, has been a three-time winner",0.088742442887,,,,zh
+23,on_p50,1000,1,24,"⚙ D23352 [Core] Rename DIIC to DIEL in all tags
+🎥 D23352 (2) ⭐️ 42
+Author: LorenzoLombardy
+Reviewed By: LorenzoLombard",0.088742442887,,,,zh
+24,on_p50,1000,1,25,"Why We Need Equality in the Courtroom
+Fifteen years after the Supreme Court’s historic ruling on marriage equality, a group of advocates is trying to ensure that parental rights are granted to same-sex couples.
+By Haley Sacks, Zoe Tillman and Mark F",0.088742442887,,,,zh
+25,on_p50,1000,1,26,"View all 10 venues in Castlebar
+Aldi Castlebar
+One of Ireland's most trusted supermarkets, Aldi has become a go-to place for shoppers who want discounts on a range of products sold in a convenient and relaxing shopping environment. Ald",0.088742442887,,,,zh
+26,on_p50,1000,1,27,"The following was written by forum member, MilesKelson. As he was born and raised in Sydney, this particular course has special memories for him and is a great story to share. Enjoy!
+The year was 1979. It was a year of great significance in Australian golf",0.088742442887,,,,zh
+27,on_p50,1000,1,28,"60 Seconds: Your Guide to What’s Happening in the World Right Now
+The International Monetary Fund (IMF) has warned that the world economy will go into a recession in 2022, as the war in Ukraine and the global energy crisis drag on",0.088742442887,,,,zh
+28,on_p50,1000,1,29,"2022 Powerlifting & Bench Press Competition on Saturday, May 21
+2022 Powerlifting & Bench Press Competition on Saturday, May 212022-03-122022-03-12https://",0.088742442887,,,,zh
+29,on_p50,1000,1,30,"09/15/2021 by Kathleen Fitzpatrick
+The future of the research university is not at risk. That the university faces demographic and economic headwinds is certainly true, but in the face of those challenges, the rewards of the work that we do remain",0.088742442887,,,,zh
+30,on_p50,1000,1,31,"A WWII Ace, a Humble Texan, and the Most Dangerous Day of the War
+The Cactus Air Force and the Battle of the Coral Sea
+In May 1942, during the Battle of the Coral Sea, a carrier battle group led by the",0.088742442887,,,,zh
+31,on_p50,1000,1,32,"# Thesium bhutanicum
+
+Thesium bhutanicum là một loài thực vật có hoa trong họ Santalaceae. Loài này được (C.B.Cl.) Mateo mi",0.088742442887,,,,zh
+32,on_p50,1000,1,33,"Rangers' Jonny Hayes: 'We've been too comfortable at this level'
+Rangers midfielder Jonny Hayes admits the team have been getting too comfortable at their current level and needs to find more grit and determination if they are to challenge for the Scottish Premiership",0.088742442887,,,,zh
+33,on_p50,1000,1,34,"1957 Ford Fairlane 500 - Hardtop
+The engine has a very slightly rough idle, similar to most 5.8L engines. It is very smooth and runs very well. It has more power and torque than you...
+1957 Ford Fairlane 5",0.088742442887,,,,zh
+34,on_p50,1000,1,35,"Tags: ios, uiview
+
+Question: Should UIView's layer's content mode be changed from UIView's contentMode property?
+
+I have a custom view that I'd like to render to. I'd like to render it to the right, but I haven't figured out",0.088742442887,,,,zh
+35,on_p50,1000,1,36,"import os
+import sys
+import re
+import subprocess
+import shutil
+
+def get_dictionary(dictionary_file):
+  dictionary_path = os.path.abspath(dictionary_file)
+
+  if not os.path.isfile(dictionary_path):
+    return",0.088742442887,,,,zh
+36,on_p50,1000,1,37,"Ricky Gervais's Guide to the Afterlife
+Here is a clip from the Ricky Gervais Show podcast that was released on August 11, 2009. See background information on the show. Click here for more on Ricky Gervais and Stephen Merchant.",0.088742442887,,,,zh
+37,on_p50,1000,1,38,"# Вольтер, Людвиг Карл
+
+Людвиг Карл Вольтер (1812—1882) — немецкий ботаник и миколог.
+
+В Википедии есть статьи о других людях с фамилией Вольтер.
+
+## Биография
+
+",0.088742442887,,,,zh
+38,on_p50,1000,1,39,"# Legend of the Lone Gunman
+
+Legend of the Lone Gunman is a 1992 video game published by Archimedes Software.
+
+## Reception
+
+Reception
+
+Review scores
+
+The game was reviewed in Amiga Computing, who pra",0.088742442887,,,,zh
+39,on_p50,1000,1,40,"2019 Cadillac CT6 V-Sport first drive: The Can-Am converstaci...
+2019 Cadillac CT6 V-Sport first drive: The Can-Am conversation starter
+Cadillac is on a mission to remake itself into the",0.088742442887,,,,zh
+40,on_p50,1000,1,41,"06/09/2016: INTERVIEW: A conversation with the director and cast of the movie “Summertime” at its world premiere at DTLA Film Festival.
+Writer/director/producer- Brandon Colvin, writer/producer-",0.088742442887,,,,zh
+41,on_p50,1000,1,42,"Start your career with this exciting opportunity to join a fast-growing, dynamic and creative agency. At SapientNitro, we’re more than a creative agency, we’re a digital agency. We believe in doing things differently. We offer a high output,",0.088742442887,,,,zh
+42,on_p50,1000,1,43,"# Клауса (Айдахо)
+
+Клауса (англ. Clausula) — город в округе Айдахо, штат Айдахо, США. На 2010 год численность населения составляла 348 человек.
+
+",0.088742442887,,,,zh
+43,on_p50,1000,1,44,"Genealogy goes beyond just the love of a family tree; it is also a fascinating and useful tool for understanding the past. It can also be a source of stress and frustration. If you are in the midst of researching your roots, then you know what I mean.
+Years ago,",0.088742442887,,,,zh
+44,on_p50,1000,1,45,"20% off at toysRus.com
+Free Shipping to Store — toysrus.com
+15% off toysrus.com Coupon Codes & Coupons, February 2021
+Offer Details: Coupon Code. $50 Off. $",0.088742442887,,,,zh
+45,on_p50,1000,1,46,"， 【 】 ， ， ， ， ， ， ， ， 。
+Screening plant 7 days 24 hours non-stop working to ensure the production and supply of construction aggregate sand.
+It is a screening plant with large capacity and can replace ",0.088742442887,,,,zh
+46,on_p50,1000,1,47,"Rare Mewtwo/Articuno Questline Is Now Available in Pokemon Go
+Pokemon Go’s Valentine’s Day event has been going on for the past few days, and it has brought a lot of fan favorite Pokemon. We’ve seen the generation 1 m",0.088742442887,,,,zh
+47,on_p50,1000,1,48,"May 1, 2014 @ 5:05 pm By Charles Luzar
+Many in the crowdfunding world are still a little apprehensive about the very real possibility that the SEC will expand its exemptions to allow for general solicitation. To be quite frank, it",0.088742442887,,,,zh
+48,on_p50,1000,1,49,"VIDEO: David Attenborough explains why we're doomed
+New video from David Attenborough
+David Attenborough has revealed his thoughts on why the world is doomed in new video.
+The 90-year-old naturalist's latest programme, Blue Planet II, has",0.088742442887,,,,zh
+49,on_p50,1000,1,50,"Home/News/Atiku: What I’ll do with NDDC if elected
+PDP Presidential Candidate, Atiku Abubakar, has revealed what he’ll do with the Niger Delta Development Commission, NDDC, should he be elected in the upcoming general election.",0.088742442887,,,,zh
+50,on_p50,1000,1,51,"1 Points to Note about How to Handle SEO Trend
+Main Focus: “How to Handle SEO Trend?” Do you know how to face the SEO trend? Most of us don’t know, especially for the new SEO beginners.
+That’s why I’",0.088742442887,,,,zh
+51,on_p50,1000,1,52,"Tags: vb.net, winforms, layout, border
+
+Question: VB.NET: Change form border and content with custom drawing
+
+I am currently working on a VB.NET WinForm application. I have a panel, that is my form, and within this panel I have a few controls:
+",0.088742442887,,,,zh
+52,on_p50,1000,1,53,"← Gotta love that Danny DeVito look!
+Judging by this week’s episode the producers are making it clear that the show will be a whodunit, not a who done it. The episode started off like a typical procedural crime drama – a murder, a suspect,",0.088742442887,,,,zh
+53,on_p50,1000,1,54,"# Calonge de Montornès
+
+Calonge de Montornès település Spanyolországban, Valencia tartományban. Calonge de Montornès Oliva, Aliaguilla, Montornès del Vallès és Caldes de Montbui községekkel hat",0.088742442887,,,,zh
+54,on_p50,1000,1,55,"9.26.2011: In my continuing quest to create my own content, I present a new series. This is a follow up to my previous article, which can found here. I will post the first twelve issues of this series on Wednesdays, and the rest of the issues",0.088742442887,,,,zh
+55,on_p50,1000,1,56,"2013-2014 Season Three's a Charm
+Vaughan Utilities
+Vaughan-Thornhill-Concord, Ontario,
+Sunday's Evening Concert (7:30 p.m.)
+Sunday's Matine",0.088742442887,,,,zh
+56,on_p50,1000,1,57,"“My mother,” I informed Kara, “said I was not to talk to anyone but her. I said we have to talk to each other every day on the phone, but she said that’s not the same thing as talking to people.”
+Writing, I explained to Kara, was",0.088742442887,,,,zh
+57,on_p50,1000,1,58,"Victoria Park, Northwest, Webster Groves, 63119
+Webster Groves City Hall
+Webster Groves is a city in St. Louis County, Missouri. With a population of 21,462, it is the eighth-largest city in Missouri.",0.088742442887,,,,zh
+58,on_p50,1000,1,59,"""This is a book about creation, the creation of language, and maybe, if we’re lucky, the creation of a new kind of literature."" --The Huffington Post
+“For those who feel they’ve had enough of hyper-realism, here is a novel that exists on the fr",0.088742442887,,,,zh
+59,on_p50,1000,1,60,"10 Things I Learned From Teaching My Kids About Money
+I taught my kids about money early and often. We have had some tough lessons along the way, but there are a few things I learned.
+It’s been awhile since I’ve taught my kids",0.088742442887,,,,zh
+60,on_p50,1000,1,61,"# 儿童杂志
+
+儿童杂志（儿童杂志刊物）是公开向年幼至青少年儿童发行的�",0.088742442887,,,,zh
+61,on_p50,1000,1,62,"ASSORTED: my latest work in other places
+This Sunday I take a break from the normally scheduled programming to bring you a few of the things I’ve been up to these past few weeks.
+I’ve been over at Travis Egedes’ blog, a fellow writer and musician,",0.088742442887,,,,zh
+62,on_p50,1000,1,63,"PLEASE TAKE NOTE THAT WE ARE CLOSED SOME FRIDAYS AND SATURDAYS UNTIL FURTHER NOTICE.
+Tuesday: 10am to 12pm and 2pm to 4pm
+Thurs",0.088742442887,,,,zh
+63,on_p50,1000,1,64,"30 SECONDS TO MARS RETURN WITH NEW SINGLE “BARRIERS”
+CALIFORNIA TRIO CELEBRATE NIRVANA’S 20TH ANNIVERSARY OF MASTERPIECE MAJOR LE",0.088742442887,,,,zh
+64,on_p50,1000,1,65,"Nestled in the foothills of the majestic Rocky Mountains, the City of Fort Lupton offers a wide range of challenging golf opportunities. The Fort Lupton Golf Club is home to a 9-hole regulation length golf course and a 9-hole executive course for those looking",0.088742442887,,,,zh
+65,on_p50,1000,1,66,"If you are looking for a top quality online casino in the US with a large selection of games, free spins, and a huge welcome bonus, Spartan Slots Casino is the place to be.
+The casino is owned and operated by the Deckmedia group and has a reputation of being the",0.088742442887,,,,zh
+66,on_p50,1000,1,67,WASHINGTON (AP) — The Supreme Court has declined to hear a challenge to a lower court ruling that upheld a Massachusetts ban on stun guns and similar weapons. The justices' action Monday leaves in place a ruling by a federal appeals court that upheld the ban,0.088742442887,,,,zh
+67,on_p50,1000,1,68,"How to Invest in Bitcoin — A Beginner’s Guide
+How to Invest in Bitcoin — A Beginner's Guide
+The cryptocurrency market is fast, exciting, and growing at a rapid rate.
+The 2020s are expected to be the de",0.088742442887,,,,zh
+68,on_p50,1000,1,69,"Tags: c#, list, methods, methods
+
+Question: count a specific method from a list
+
+I have a List of methods, each of which has a different type, I must use the method to count a specific type.
+
+For example, my method list is like this:
+
+\begin",0.088742442887,,,,zh
+69,on_p50,1000,1,70,"# Campbell McComas
+
+Campbell McComas (Steinbach, 1995) is een Canadees schaatser.
+
+Campbell McComas
+
+In 2011 deed McComas voor het eerst mee aan de Canad",0.088742442887,,,,zh
+70,on_p50,1000,1,71,"Bhuwana Census Town
+Bhuwana population statistics
+The statistics of Bhuwana as per census year 2011 are as follows:
+Bhuwana is a Census Town city in district of Banswara, Rajasthan. As per provisional reports of Census",0.088742442887,,,,zh
+71,on_p50,1000,1,72,"A few weeks back I was fortunate enough to be a part of this amazing video shoot. It was held at the beautiful home of a member who was thrilled to show off her gorgeous home & garden.
+The shoot was setup around the idea of a couple in love & having a romantic",0.088742442887,,,,zh
+72,on_p50,1000,1,73,"2016 – Bridging the Gap: A New Framework for UK/Saudi Relations
+For the first time ever, a group of international political leaders were invited to meet members of the newly appointed Saudi Government. The Minister for Trade and Investment, Lord Livingston, joined Prime",0.088742442887,,,,zh
+73,on_p50,1000,1,74,"1229.30(2m)(a)3r. 3r. Subject to subd. 4. and as applicable, a trust company, international banking corporation, or trust bank that administers on behalf of a trust corporation a trust requiring a trust",0.088742442887,,,,zh
+74,on_p50,1000,1,75,"﻿using GalaSoft.NetModularity.IoC;
+using GalaSoft.MvvmLight;
+using ICQCoreSDK.API;
+using ICQCoreSDK.API.Message;
+using ICQCoreSDK.Core;
+using ICQCoreSDK",0.088742442887,,,,zh
+75,on_p50,1000,1,76,"# David Hindes
+
+David Hindes (September 11, 1892 – October 21, 1975) was an American film director and actor. He directed 59 films in Hollywood between 1916 and 1952.",0.088742442887,,,,zh
+76,on_p50,1000,1,77,"Gold, Golds, Goldman, Goldman Sachs, Goldman Sachs & Co., Goldman Sachs Group, Goldman Sachs Group Inc., Goldman Sachs International, Goldman Sachs International Limited, Goldman Sachs International Limited (London Branch), Goldman Sachs International Limited UK",0.088742442887,,,,zh
+77,on_p50,1000,1,78,"1. In the beginning God created the heavens and the earth. 2. The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters. 3. And God said, ""Let there be light,""",0.088742442887,,,,zh
+78,on_p50,1000,1,79,"# Алиш
+
+Алиш (на словенски: Alijš) е село в Словения, Подравски регион - Ча子нскиisc.
+
+## Източници
+
+Тази статия, свързана със Слове",0.088742442887,,,,zh
+79,on_p50,1000,1,80,"This is a placeholder page for Beth Czer, which means this person is not currently on this site. We do suggest using the tools below to find Beth Czer.
+You are visiting the placeholder page for Beth Czer. This page is here because someone used our placeholder utility to look for Beth Czer.",0.088742442887,,,,zh
+80,on_p50,1000,1,81,"1.226.581.8260
+www.dubois.edu
+Dubois - Rural Fringe Institution - Under 2,000 Students
+Dubois County Community Schools Foundation
+Dubois County Community Schools Foundation is a private",0.088742442887,,,,zh
+81,on_p50,1000,1,82,"Taking a break from my book on the subject, I want to show you my most recent paintings, and invite you to enter the 7th Annual International ARC Salon, the largest art competition in the world.
+I am proud to announce that I have been asked to be the judge",0.088742442887,,,,zh
+82,on_p50,1000,1,83,"The City of Hartford is a vibrant, diverse and growing community. Hartford's urban landscape is home to a vibrant arts community within a short drive of Michigan's state and national parks. Local eateries, breweries, a thriving downtown, and a",0.088742442887,,,,zh
+83,on_p50,1000,1,84,"texas; tasmania; ukraine; us vice admiral john gordon; uss arleigh burke; uss carl vinson; war in ukraine;
+vladimir putin; ukraine; ukraine;",0.088742442887,,,,zh
+84,on_p50,1000,1,85,"​Speeding, 81, of Eagan, passed away on Thursday, September 6, 2018 at Wesley Ridge Senior Living Community in Chaska, Minnesota. Born on November 23, 1936 in Chicago, Illinois, she was the daughter",0.088742442887,,,,zh
+85,on_p50,1000,1,86,"1. Categorizing non-Semitic words
+2. Contribution of linguistics to Bible translation
+3. Some major non-Semitic words
+4. Non-Semitic words in the Hebrew Bible
+5. A concise list of non-Semitic words in the",0.088742442887,,,,zh
+86,on_p50,1000,1,87,"Tags: cross-referencing, hyperref, amsbook
+
+Question: How to change the appearance of citations in the `.tex` file
+
+I have download a `.tex` file from a search engine for a paper. As a result, the title, author name, etc are all printed in",0.088742442887,,,,zh
+87,on_p50,1000,1,88,"This study was undertaken to systematically ascertain the discharging characteristics of the syrup-type polyetheretherketone (PEEK) catheters in vitro and in vivo. It was observed that the catheter discharge rates were higher at lower temperatures, and that the higher",0.088742442887,,,,zh
+88,on_p50,1000,1,89,"The Instructional leaders at each of our schools have a variety of responsibilities, ranging from evaluating and supporting staff, to working with the community and creating plans for continuous school improvement.
+Staffing and Evaluations
+The principal's primary role is to oversee daily operations and to evaluate",0.088742442887,,,,zh
+89,on_p50,1000,1,90,"
+
+package com.vanniktech.algorithms.exercises.advanced;
+
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * https://www.hackerrank.com/challenges/advanced-sorted-array",0.088742442887,,,,zh
+90,on_p50,1000,1,91,"	.  定义
+	.define	number_secure_allocate_array
+	.define	number_secure_free_array
+	.define	number_is_array_valid
+	.define	number_array_free
+	.define	number_array_allocate",0.088742442887,,,,zh
+91,on_p50,1000,1,92,"<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Productoptiontype extends Model
+{
+  protected $guarded = [];
+
+    public function Productoptions()
+    {
+        return $this->hasMany('App\Productoption',",0.088742442887,,,,zh
+92,on_p50,1000,1,93,"402.345.1161 • 402.345.1164 • Fax: 402.345.1164
+General 402.345.1161 • Fax 4",0.088742442887,,,,zh
+93,on_p50,1000,1,94,"← Guest Post: The Federal Reserve: Path of Monetary Policy
+1,000 Questions To Ask For Caregivers →
+Five More Favorites: Viral Videos, Blogging, Organization, Diet, Prayer
+I’m enjoying a blog post from",0.088742442887,,,,zh
+94,on_p50,1000,1,95,"What is the value of your home, condo or land?
+What is the value of your property?
+We live in a world of Google where people expect instant results. So let’s get it, what is my property worth?
+At Valley First Mortgages we know that what matters most to our",0.088742442887,,,,zh
+95,on_p50,1000,1,96,"A forced marriage is when two people, typically a woman and sometimes a man, get married, even though they may not want to and don’t agree to.
+The person who makes the decision is the one who’s the most powerful in the family, often the parents.
+Forced marriages rarely",0.088742442887,,,,zh
+96,on_p50,1000,1,97,"A transparent, multipurpose, highly flexible, non-toxic adhesive tape for all types of hanging, masking, repair and protective coverings.
+HCS 100 is suitable for all types of hanging, masking, fixing and protective coverings. It can",0.088742442887,,,,zh
+97,on_p50,1000,1,98,"# 兰毅纾四
+
+条目：九代天皇列表
+
+兰毅纾四帝中，一位是日本的天皇，另一位是印度人，另外两",0.088742442887,,,,zh
+98,on_p50,1000,1,99,"← MY TOP WORKOUT PLAYLIST (FOR MUSIC THAT GETS ME MOVIN’!)
+Why I Love a Physiotherapist….
+Posted on October 18, 2014 by thebeautybee
+I’ve",0.088742442887,,,,zh
+99,on_p50,1000,1,100,"A simple, strong ring with a contemporary pattern, this ring is resilient, tough, and strong. It has a classic, low-shank design that's perfect for a wedding band, engagement ring, or stackable rings.
+This ring has been made with 100%",0.088742442887,,,,zh

@@ -1,0 +1,283 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,200,1,1,"El actual entrenador de los Bulls es un entrenador técnico y táctico, que conoce bien a su equipo. Además de esto, se espera que sus cambios estén dirigidos a mejorar la defensa del equipo, que es uno de los puntos débiles de los Bulls.
+Sí, tendrá que desarrollar para sus jugadores el sistema de juego al que",0.538419723535,,,</s>,en
+1,on_p50,200,1,2,"/* This file is part of the KDE libraries
+    Copyright (C) 2003 Michael Zahn <zhaanh@kde.org>
+
+    This library is free software; you can redistribute it and/or
+    modify it under the terms of the GNU Library General Public
+    License version 2 as published by the Free Software Foundation.
+
+    This library",0.538419723535,,,</s>,en
+2,on_p50,200,1,3,"#!/usr/bin/env python
+
+import os
+import sys
+import getopt
+
+from glob import glob
+from tempfile import mkdtemp
+from string import ascii_letters
+
+try:
+    from PyQt4 import QtCore, QtGui
+except ImportError:
+    from PyQt5 import QtCore, QtGui
+
+
+def find_",0.538419723535,,,</s>,en
+3,on_p50,200,1,4,TOM JONES (Pharrell Williams) est un réalisateur de téléfilms qui a créé son propre label de musique et est en train de réaliser son premier clip : une célèbre chanteuse de R&B. Et cette dernière n'est autre que la célèbre Ariana Grande.,0.538419723535,,,</s>,en
+4,on_p50,200,1,5,"3. If the game is over and the break has been called, the players now need not leave the court and can continue playing as before. The game continues until the break or until the time limit of the game is reached.",0.538419723535,,,</s>,en
+5,on_p50,200,1,6,"Q:
+
+Verifying the equivalence of two described trigonometric identities
+
+I am having a hard time proving the equivalence of the two following described identities:
+$$\cos(x+y) = \cos{x} - \cos y$$
+$$\sin(x+y) = \sin{x} + \sin y$$
+For the first one I got",0.538419723535,,,</s>,en
+6,on_p50,200,1,7,"Neuromorphisms have received much recent attention due to their many utility as models for biological phenomena and their relatively simple formal structure. One interpretation of this structure is that neural networks are continuous families of polynomial maps, on some finite dimensional spaces, induced by the derivatives of some type of function that are in some sense continuous functions on",0.538419723535,,,</s>,en
+7,on_p50,200,1,8,"A larger collection of new and used motorcycles, scooters and motorbike parts at a competitive price now available. Easy to find the right motorbike parts or motorbike accessories in perfect condition with us.
+You’re in, you’ve done it – you’ve made your own power tool. You’re now,",0.538419723535,,,</s>,en
+8,on_p50,200,1,9,"The two queens have a right to be.
+But they won't fight each other.
+And this is the way I see it.
+We're going to have a royal wedding.
+And we shall have a royal wedding.
+And this is the way I see it.
+That's good.
+- But what about the royal family?
+- I",0.538419723535,,,</s>,en
+9,on_p50,200,1,10,"The human body is extremely complex and is made up of two different types of cells, known as somatic and germ cells. Somatic cells are the ones that we use on a daily basis, such as our skin, hair, and muscle. Ceux germ cells, on the other hand, are the ones that are able",0.538419723535,,,</s>,en
+10,on_p50,200,1,11,"Showing videos about the drug and alcohol rehabilitation centers in Washington, D.C. that help addicts and alcoholics recover from drug and alcohol dependences
+Drug and alcohol rehabilitation centers provide a variety of treatment services and activities to help addicts and alcoholics recover from alcohol and drug dependence. Drug and alcohol rehabilitation",0.538419723535,,,</s>,en
+11,on_p50,200,1,12,"A garbage truck came at this point, and when a man yelled out a warning, the garbage truck stopped in midair and the garbage began to fall into the public space.
+The crowd clamored for it to go away, but zhang liangjun couldn’t move the truck, even if it was thrown with",0.538419723535,,,</s>,en
+12,on_p50,200,1,13,"Even in a world where we have the most amazing virtual reality headsets out there, there still exist some practical realities that make them hard to use, and that’s why iPhones still make great phones, and Android phones are still the most popular smartphone brands around the world.
+If you’re looking for a more convenient alternative",0.538419723535,,,</s>,en
+13,on_p50,200,1,14,"Now we are looking at the sixth universal truth. It is important to remember that the human experience is the human experience, which is subject to human limitations. That is a universal truth. The actual experience of the human is limited by the limits of human experience. This limit is what makes man the individual. In other words",0.538419723535,,,</s>,en
+14,on_p50,200,1,15,"Q:
+
+How to pass an integer to a method in Java?
+
+I have the following method:
+public void swim () throws IOException {
+    for (int i = 0; i < 10; i++) {
+        System.out.println(""Type a number"");
+        int number = 0;
+        String input = in.",0.538419723535,,,</s>,en
+15,on_p50,200,1,16,"Introduction
+The first symptoms of cancer are typically vague, and the diagnosis often comes too late for local treatment. The high incidence of cancer in the developing world is one of the major reasons behind the high mortality rate from cancer, especially in developing countries like Ethiopia. According to the report of the World Health Organization (WHO),",0.538419723535,,,</s>,en
+16,on_p50,200,1,17,"The single front boot is of a very simple design, and with a plastic lens cover on the bottom. The switch away and back are easy to switch on and off, as the cap is sealed.
+The paintwork is very good, with a lot of bright detailing, and the car is in excellent condition. It",0.538419723535,,,</s>,en
+17,on_p50,200,1,18,"#!/usr/bin/env python
+# This script will create a configuration file for an API server that I have
+# written. This particular API server is for the Sling TV instance.
+
+from __future__ import print_function
+
+try:
+    import AWS
+except ImportError:
+    pass
+
+
+def createConfigFile(api_server):
+
+    config",0.538419723535,,,</s>,en
+18,on_p50,200,1,19,"Beautifully written, Bravely. I don't think I have ever found an open blade to wrap around, not even the ones seen on state buildings and monuments, because it wasn't always so. I don't know how much control people had over the thickness of their cloth, but I think we would all tolerate a",0.538419723535,,,</s>,en
+19,on_p50,200,1,20,"The information presented on this page is about the nearest train stations to Barrow-in-Furness in Scotland. For travel advice about connecting to major cities, please visit the Scottish rail travel planner.
+The earliest train service departing from Barrow-in-Furness to Edinburgh starts at 10:11. Book your tickets in",0.538419723535,,,</s>,en
+20,on_p50,200,1,21,"Q:
+
+Should I format my SQL query in order to use INNER and LEFT JOIN methods?
+
+For a while now I've been working with SQL and a particular project that required me to use the INNER and LEFT JOIN methods for combining two tables in a query. I usually use Static SQL (SELECT * FROM MainTable WHERE Name=",0.538419723535,,,</s>,en
+21,on_p50,200,1,22,"/*
+ *  OpenSplice DDS, Open Data Driven Distributed System
+ *  Copyright (C) 2010-2012, Kestrel Technologies, Inc.
+ *
+ *  This program is free software; you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by",0.538419723535,,,</s>,en
+22,on_p50,200,1,23,On sait que Marshall a adoré le premier épisode de la saison 2 de Vikings (les 3 premiers épisodes de la saison 1 sont disponibles sur la chaîne YouTube de la série),0.538419723535,,,</s>,en
+23,on_p50,200,1,24,"The present invention refers to an air-cooled water heater, whose internal space is designed to receive therein a means to produce a temperature by means of a heating element.
+It is known that means to produce temperature are typically contained within an internal space of a water heater. For this purpose, the means may be taken",0.538419723535,,,</s>,en
+24,on_p50,200,1,25,"Perspektive a été retenu dans les lauréats de la catégorie « spectacle vivant » du premier Grand Prix de la finance solidaire
+La prochaine édition de la Semaine de la finance solidaire se tiendra du 30 juin au 4 juillet 2019 à l'occasion du Forum de l'emploi solidaire à Paris.
+Le premier Grand",0.538419723535,,,</s>,en
+25,on_p50,200,1,26,"Selo de qualidade orgânica em Konoha, estando a Konoha a desenvolver uma técnica de emagrecimento que inclui o uso de um ovo.
+O novo personagem gengival, o primeiro que aparece com a frase ""obrigado"" no nome, é o único que aparece vestindo um traje.
+O novo",0.538419723535,,,</s>,en
+26,on_p50,200,1,27,"In addition to the aforesaid, the reared animals for the purpose of the present invention as an alternative to the conventional modes of keeping the animals, are provided with a supplementary feeding allowance. The supplementary feeding allowance is to be provided in the form of either blocks or pellets, or both.
+The animals are provided",0.538419723535,,,</s>,en
+27,on_p50,200,1,28,"There is no doubt that we are entering the time of uncertainty and the overwhelming need to take care of people. At the same time, we are faced with the realities of the current economic difficulties, which highlight the importance of the work of the CCID as one of the great social institutions of our country.
+We are",0.538419723535,,,</s>,en
+28,on_p50,200,1,29,"It is because they are there that the problem comes up. And if we are going to solve something, then we need to know something about the problem. The key is to make the right choice for the right reason. Everything we know is a result of our choice. We can create our own reality. We can make",0.538419723535,,,</s>,en
+29,on_p50,200,1,30,"حركت اللائحة السوداء لملفات الفساد الحكومية القضاء منذ عام 2003، ولم تشكل بعد لائحة أخرى لتكون مساوية لها من حيث المهنية والاستقلالية والمصداقية، لكن في هذا الصدد فان خلاصة عدة لقاءات أجرتها الشروق اليومية مع """"أعضاء"""" و""""حركة وطنية"""" كانا مس",0.538419723535,,,</s>,en
+30,on_p50,200,1,31,"There are 2 ways to perform a deep clean. You can either use a vacuum cleaner that has a large brush to remove the dirt and grime, or you can use a steam cleaner (a steamer is a good choice for hard water areas).
+If you want to save a few bucks on a deep clean,",0.538419723535,,,</s>,en
+31,on_p50,200,1,32,"Antenna, which was founded by Jeff Bezos in 1997 and which in 2019 won an IPO on the capital market, sells the device to customers for $199, or $40 more than AirPods Pro. The company said it also plans to expand the range of wireless earbuds it sells through its website.
+",0.538419723535,,,</s>,en
+32,on_p50,200,1,33,"Charles, we decided to move to the next level on our renters tax calc. It was a good idea, but it would have been better to just change the tax schedule so that it applied to the current tax year.",0.538419723535,,,</s>,en
+33,on_p50,200,1,34,We need to “show up” and “recognize our enemy” and “go to war.” We need to “decide” to “be on the side of the People” and “act loud enough to declare our resolve to defend our rights.” We need to “throw up our hands” and “,0.538419723535,,,</s>,en
+34,on_p50,200,1,35,"Q:
+
+Preventing a timer from running forever
+
+I'm trying to stop a timer from continually running. When I press pause, the timer stops, but it should not.
+Here's the code:
+int main()
+{
+    static int count = 0;
+
+    // starts running the timer
+    timer = 0;
+
+    while(count < 2000",0.538419723535,,,</s>,en
+35,on_p50,200,1,36,"En cuanto al tema del libro, debo confesar que yo no lo leí, pero no me lo perdí. Los libros de este género siempre son muy interesantes. Yo me quedé con ganas de leer esta saga, aunque no es que me haya gustado demasiado.",0.538419723535,,,</s>,en
+36,on_p50,200,1,37,"On the other hand, few studies have examined the opioid response in patients with diabetes mellitus. Previous studies on this topic have reported significant reductions in opioid consumption in patients with diabetes mellitus, with consequent reductions in opioid-related adverse effects (Weiss et al., 2006). Moreover, improvements in glycemic",0.538419723535,,,</s>,en
+37,on_p50,200,1,38,"In a similar study, a group of researchers from the National Institute for Allergy and Infectious Diseases at the National Institutes of Health (NIH) in Bethesda, Maryland, sought an answer to the following questions: What is the best way to monitor a patient’s condition so that they can administer the best treatment",0.538419723535,,,</s>,en
+38,on_p50,200,1,39,"Now, it is quite a common practice to do just about anything with your dog, including water! It might seem one of the most natural things you can do with your dog but don't think you are doing anything great. Eating water is a different story, but it is still something that you should never do.",0.538419723535,,,</s>,en
+39,on_p50,200,1,40,"A partir de então, a empresa começou a investir no setor de telefonia celular e, em 2005, a partir da aquisição da participação da VIVO na TIM Brasil, deu início às vendas de celulares no Brasil. Em dezembro de 2015, a operadora anunciou a compra da TIM Participações, a operadora de telefonia fixa da TIM",0.538419723535,,,</s>,en
+40,on_p50,200,1,41,"/*
+ * Copyright (C) 2008 realiz
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version",0.538419723535,,,</s>,en
+41,on_p50,200,1,42,"Introduction
+Research into the effect of the possession of a higher degree on the wages, salaries, and rewards of raised-achievers has emerged in two main streams of research. The first has been based on data collected from the National Longitudinal Survey of Youth (USA), the British Household Panel Survey (",0.538419723535,,,</s>,en
+42,on_p50,200,1,43,"Arquivo de setembro, 2014
+Nhan Trang, Viet Nam
+É fato, a cidade de Trang não tem nada de especial.Esse é o principal motivo pelo qual muitos visitantes sequer chegam até ela.De longe, a sua aparência se assemelha as demais das cidades do Vietnã.Suas casas possuem o",0.538419723535,,,</s>,en
+43,on_p50,200,1,44,"When Amanda Bynes, Queen Bee of the ’80s, thought her social life was going to the toilet, she knew she wasn’t alone. She and her friends and colleagues were all feeling the pinch of the ‘80s-style ‘quickie bar’ culture, wherein drinking too much really quickly left you feeling",0.538419723535,,,</s>,en
+44,on_p50,200,1,45,"A partir de la semana que viene se reanuda la atención al público de la administración municipal de San Esteban de Gormaz y se atenderán, en la medida de las posibilidades y con las medidas preventivas oportunas, con cita previa previa.
+La foto del momento: Sergio Ramos con su hijo en el estadio Santiago Bernab",0.538419723535,,,</s>,en
+45,on_p50,200,1,46,"This is a wonderful article about how we, as researchers, can help reduce stigma and discrimination, and help heal our communities by focusing on the needs of people with mental health and other challenging conditions. It was recently featured in the online magazine of the American Psychological Association.",0.538419723535,,,</s>,en
+46,on_p50,200,1,47,"As seen in the diagram on the left, the principle of the SPOT system is the utilization of three cells (a transparent cell, a conducting cell and a transparent cell) in the configuration of a sandwich. Such a sandwich is employed as a reflecting transparent cell. The transparent cell is capable of detecting the incident infrared light",0.538419723535,,,</s>,en
+47,on_p50,200,1,48,"“We are delighted to have secured this partnership with the global software provider, which is a strategic move in the company's long standing commitment to supporting the growth of businesses in the UK.”
+As well as the ability to leverage the market leadership of VMware's global industry expertise, the partnership with GlobalGeek will",0.538419723535,,,</s>,en
+48,on_p50,200,1,49,"Cafeína, alcohol y azúcar: los principales ‘culpables’ de la pérdida de memoria
+Expertos españoles alertan de que estos elementos ‘contaminan’ el cerebro.
+Los especialistas insisten en la importancia de cuidar la dieta y controlar el consumo de alcohol.
+Los expertos insisten en la importancia de cuidar",0.538419723535,,,</s>,en
+49,on_p50,200,1,50,"Oh, and while I’m at it, why not try a Harry Potter party? Plus, the classes are all over the place, so there are a lot of possibilities to customize the party to your own liking.
+This cookie recipe is one of my all-time favorite friend requests, and it makes the perfect, sweet,",0.538419723535,,,</s>,en
+50,on_p50,200,1,51,"• This two-day workshop offers a focused analysis of current trends in data and information security and their implications for the business.
+• The workshop will provide a range of perspectives, including an overview of how data is being used in the IT industry; the challenges and opportunities of data management; and the evolution of security issues.
+•",0.538419723535,,,</s>,en
+51,on_p50,200,1,52,"Q:
+
+CSS only works if I use first element as parent
+
+I am trying to do a simple CSS thing with a list of items on a page. It is using the custom CSS for it and all the other CSS I have been able to find only work if I use the first element as the parent. I have",0.538419723535,,,</s>,en
+52,on_p50,200,1,53,"The Methuen Center for the Performing Arts, located in Sherman Oaks, California, was founded in 1969 as the Sherman Oaks Playhouse by John and Louise E. Kracauer. The theater was the first in the country to experiment with live theatre, an innovative approach to classical theatre that was pioneered in",0.538419723535,,,</s>,en
+53,on_p50,200,1,54,"关于妇产科疾病的病因,一般医生都会说,女性在分娩的时候,子宫会随着产程而逐渐的变大,但是有的时候,女性在生孩子的时候,出现子宫突然变大的情况,还伴有腹痛的症状,怎么处理呢？ 1、中药治疗:一般治疗不济,采用保守治疗",0.538419723535,,,</s>,en
+54,on_p50,200,1,55,"El Museo de la Cerámica de Irapuato, inaugura la exposición de artesanías en la plaza principal de la ciudad, la cual podrán disfrutar los irapuatenses y visitantes de este importante distrito de la ciudad.
+La muestra de artesanías, por parte del Museo de la Cerámica de Irapuato, iniciará",0.538419723535,,,</s>,en
+55,on_p50,200,1,56,萃取机一组的设定为浓缩配方，萃取时间为10-30分钟，萃取温度为50-70度，萃取三次，浓缩后将溶剂都萃取掉。萃取机二组的设定为提取配方，提取时间为10-20分钟，提取温度为50-70度，萃取三次,0.538419723535,,,</s>,en
+56,on_p50,200,1,57,"I. INTRODUCTION
+A natural question arising from the study of various aspects of soft matter [1] is the degree to which one can safely assume that the systems exhibit a continuum or, more specifically, a continuous medium description. Such an approach has been widely applied to various systems such as solid body states [2], ionic",0.538419723535,,,</s>,en
+57,on_p50,200,1,58,"Q:
+
+ASP.NET Core and Async Execution
+
+I am trying to understand the async execution of ASP.NET Core. I have seen some examples where the code in the controller is waiting for the response from the server to trigger the UI. For example here is a simplified version of a code snippet from one of the example",0.538419723535,,,</s>,en
+58,on_p50,200,1,59,"So what happens when the family gets a new baby? Are their needs and desires all the same or do they change, too? Family dynamics don’t always stay the same, either. In reality, family dynamics can change and I will attempt to explain that in this post.
+So, what I mean by family dynamics is how",0.538419723535,,,</s>,en
+59,on_p50,200,1,60,The effects of the addition of a high-ramellaose starch (HRR) on the properties of gluten and spelt flour were studied in relation to the effect of the original higher-ramellaose flour on the properties of the resulting gluten and spelt flour. The effect of the HRR on the properties of,0.538419723535,,,</s>,en
+60,on_p50,200,1,61,"Y si no quieres que te hagan comentarios racistas en internet, tienes que aprender a decirles a todos que no. Y no me refiero a decirles que no, sino a que no les digas que no. No te pongas en el fondo de todas las listas de respuestas, ni muestres que eres mejor que",0.538419723535,,,</s>,en
+61,on_p50,200,1,62,"What to do with the excess is the issue, but in the end there’s nothing you can do about it, so how about being brave and calling the unruly roots out? For us it was a simple, 2 step process. First we cleaned them off the floor with a brush. Then we treated them with",0.538419723535,,,</s>,en
+62,on_p50,200,1,63,"Assim, JOAO IMACO, sócio da Lojas Casas Bahia, fez um apelo de que a mudança fosse aprovada. “O produto não tinha nada a ver com o nosso negócio. Já presenciei vários casos semelhantes, em que os produtos eram bem mais caros que concorrentes e a loja não tinha preço”",0.538419723535,,,</s>,en
+63,on_p50,200,1,64,"The New York Times, New York, 16 April 2006
+The Special Rapporteur on torture, Ms. Radhika Coomaraswamy, welcomes the entry into force of the Protocol for the Protection of Civilian Persons in Time of War on 4 August 2003, which brings the Protocols against the crime of genocide and",0.538419723535,,,</s>,en
+64,on_p50,200,1,65,"Listes électorales provisoires des membres de la Chambre des Conseillers du 16 octobre 2019 - Ministère de l'Administration Territoriale, des Collectivités locales et de la Décentralisation
+Le 16 octobre 2019, les listes électorales des membres de la Chambre des Conseillers ont été publiées au Journal Officiel du Sénégal",0.538419723535,,,</s>,en
+65,on_p50,200,1,66,"As a hotel frequenter you can take advantage of the included free airport shuttle service. It’s a convenient and efficient way to get to the airport with plenty of time to spare. With the additional cost of the shuttle, it’s best to reserve the service before your trip so you can save money.",0.538419723535,,,</s>,en
+66,on_p50,200,1,67,"A, thus the first ten (10) consecutive periods from the bottom of the pool would be variously set to a low, medium, or high value and the only difference between periods would be whether the value was set to a low, medium, or high value.",0.538419723535,,,</s>,en
+67,on_p50,200,1,68,"Oh, yeah.
+That's right, the good, the bad and the ugly.
+All right.
+You need to apologize to me, too.
+You been around awhile?
+A couple of months.
+I have one thing to say, and you need to listen.
+Thanks.
+You should have seen your face.
+What are you",0.538419723535,,,</s>,en
+68,on_p50,200,1,69,"ptions have been made that the causal link between the 1960s and 1970s events, the liberation movements and the growth of the left in the West may have been merely a coincidence.",0.538419723535,,,</s>,en
+69,on_p50,200,1,70,"No puedo más con lo de esta chica.
+No sé qué hacer.
+Quizá me vaya.
+¡Ann!
+¡Ann!
+¡Ann!
+¡Ann!
+¡Ann!
+¡Ann!
+¡No!
+¡No!
+¡Ann!
+¡Ann!
+¡Ann!
+- ¿Tienes el pelo corto?
+- Sí.
+Vístete como",0.538419723535,,,</s>,en
+70,on_p50,200,1,71,"Now that we’ve established what we understood about annuity, let’s see how it might benefit your finances.
+Annuity is a financial product that allows you to choose what type of investment you want to set aside with the rest of your money every year. There are basically two types of annuity that you can",0.538419723535,,,</s>,en
+71,on_p50,200,1,72,"Converse with your peers on what they do during their day to day work and what other people think about their work. If you do not know anyone, talk to your spouse or other significant others. You may also join a Better Workplace Roundtable or a committee on the committee and learn what other people do at",0.538419723535,,,</s>,en
+72,on_p50,200,1,73,"Bonne nouvelle pour les fans de séries télévisées et de films : la nouvelle saison de Grey's Anatomy va bientôt sortir sur ABC.
+Alors que la saison 14 de Grey's Anatomy débutera à la fin du mois de septembre, les fans de la série vont pouvoir se réjouir de l'arrivée de la nouvelle saison",0.538419723535,,,</s>,en
+73,on_p50,200,1,74,"Vai atuar como: Ensino Médio completo, possuir conhecimento em áreas técnicas de armazenagem, movimentação e manuseio de cargas.",0.538419723535,,,</s>,en
+74,on_p50,200,1,75,"Pour la rentrée 2018-2019, une première de toute une série de programmes de formation et de perfectionnement en Conception et Gestion des régimes alimentaires a été lancée par la Faculté de médecine de l’Université de Sherbrooke en collaboration avec l’Université de Montréal et l’Université Laval.
+Concernant les études en nutrition, la Faculté de",0.538419723535,,,</s>,en
+75,on_p50,200,1,76,"The complete web based application that we are using is based on PHP and we have integrated our own responsive design and customization. The complete solution is built on a CMS platform.
+Our website is fully SEO Friendly and we also have included a personalized SSL Certificate for the name and address of the company.",0.538419723535,,,</s>,en
+76,on_p50,200,1,77,"El Gobierno pide a los proveedores de la dependencia que retiren su concurso por el despido de 850 empleados - Libertad de Expresión Yucatán (LEY)
+Home » Gobierno del Estado » Yucatan » Gobierno del Estado » Noticias » Política Yucatán » Yucatán » Política » El Gobierno pide a los",0.538419723535,,,</s>,en
+77,on_p50,200,1,78,"Mô tả: Sữa chua hoa quả đông lạnh là sản phẩm đa dạng được sản xuất trên dây chuyền công nghệ hiện đại, với hương vị trái cây tự nhiên và rất tốt cho sức khỏe. Sản phẩm có thành phần tự nhiên như hoa quả hòa quyện cùng những khoáng chất, vitamin từ sữa. Sữa",0.538419723535,,,</s>,en
+78,on_p50,200,1,79,Koh Tao resort is situated in a beautiful island of really small size and is a real paradise for swimming and fishing. The resort has a small bar and several restaurants and snacks for you and your guests. The hotel has also a cafe bar for afternoon tea breaks and communal dinners. It is divided into two part,0.538419723535,,,</s>,en
+79,on_p50,200,1,80,"I. INTRODUCTION
+The study of relativistic quantum statistics is crucial to our understanding of quantum mechanics, quantum field theory, deterministic quantum computation and quantum optics. Indeed, despite its fundamental importance, the first principles of quantum mechanics are not now fully understood. The solution of this problem can be most simply",0.538419723535,,,</s>,en
+80,on_p50,200,1,81,"What the fuck are you talking about? The Marxist view of the world is shamelessly corrupted. They are the repressed class. The way they tag you is a way of shaming you for your class struggle.
+I have been trying to show that the communist hypothesis is the only plausible one at the",0.538419723535,,,</s>,en
+81,on_p50,200,1,82,"Lors de ce championnat des champion, nos équipes ont été excellentes et notre groupe AD, malgré ses difficultés, a remporté la troisième place.",0.538419723535,,,</s>,en
+82,on_p50,200,1,83,3. 在制作时，可将白开水倒入锅中，洗净盛出，先放入猪腰、枸杞子、料酒、盐，待它完全泡发后，再放入排骨煮清，然后放入猪腰、清水、盐，煮开后，再放入排骨，改小火炖,0.538419723535,,,</s>,en
+83,on_p50,200,1,84,"We have many variations of the Black Diamond Wolf’s Den Large Paw Blanket, including new designs with a longer, medium, and short-length. All of our long-length blankets are designed with a narrow strap over the shoulder to allow for more freedom of movement.",0.538419723535,,,</s>,en
+84,on_p50,200,1,85,"Is it possible to create a square with a rounded top corner? So what I would want it like a picture of that would be cool.
+
+A:
+
+What you're looking for is the border-radius property. See this example:
+
+screenshot from CSS-Tricks",0.538419723535,,,</s>,en
+85,on_p50,200,1,86,The job of a Network Manager is to manage the operation of a network. The job of Network Manager is as follows.,0.538419723535,,,</s>,en
+86,on_p50,200,1,87,The first thing to do is to select the right plugin. WordPress is good at finding and detecting these plugins in the plugin list of the WordPress dashboard.,0.538419723535,,,</s>,en
+87,on_p50,200,1,88,"Introduction
+Genome-wide association studies (GWAS) identify variants associated with disease risk using genome-wide genotyping data from many individuals, which are then analyzed with statistical methods to identify genomic regions associated with the disease risk (Plagnol et al., 2010). GWAS have been used to identify genetic variants associated with a",0.538419723535,,,</s>,en
+88,on_p50,200,1,89,"If you live outside of the U.S., you can still shop for the best price with our website. We can also resell your products to you!
+We often see customers who purchased a product online and wanted a refund. If this is the case, you can contact us via email at and we will send you",0.538419723535,,,</s>,en
+89,on_p50,200,1,90,"No entanto, agora vários especialistas em internet, e de vários países, tem questionado o potencial da plataforma de partilha de vídeos. Atualmente, em 2019, a plataforma supostamente já tem 6,7 bilhões de usuários ativos todos os meses. Mas com o crescimento constante da internet, a plataforma de vídeos patina e começa a",0.538419723535,,,</s>,en
+90,on_p50,200,1,91,It's a bit like the way the IMF and the Bank of England are funded. They also pay for the debt they have on other people.,0.538419723535,,,</s>,en
+91,on_p50,200,1,92,"I. INTRODUCTION
+In recent decades, the use of robotic systems in search and rescue has expanded dramatically. However, most of the robotic systems employed in such applications have a relatively small frame size in relation to the size of the target and the search area. Such systems are typically limited to operating at",0.538419723535,,,</s>,en
+92,on_p50,200,1,93,"In the end the cause of the ongoing conflict with our neighbor Israel, whose two part-timers have just been voted in, was that the Jewish question was a Jewish question and they wanted to use the American Constitution to make their way to the White House. Don’t forget, it’s not a free country, it’s a republic",0.538419723535,,,</s>,en
+93,on_p50,200,1,94,"In the specified section, the Hadoop framework will be introduced. It is then briefly explained the concepts and features of MapReduce programming model. The rest of the course will be dedicated to the management of the MapReduce framework through the use of the Hadoop SDK.
+The education that our team offers is guided by",0.538419723535,,,</s>,en
+94,on_p50,200,1,95,"Múrcia, 3 abr (EFE).- El centrocampista del Granada Munir El Haddadi ha asegurado este martes que este domingo ante el Girona siempre tendrá en la cabeza la ""oportunidad"" que supuso para él salir del club de sus inicios en la segunda división para jugar... [+]
+València,",0.538419723535,,,</s>,en
+95,on_p50,200,1,96,Rita Ora - Waking Up (feat. Bruno Mars) feat. Bruno Mars. 100 millions d’exemplaires vendus dans le monde entier. Dans le monde entier : dans plus de pays et de langues que tout autre album de. Rita Ora est une chanteuse et actrice britannique. Sa carrière est lancée en,0.538419723535,,,</s>,en
+96,on_p50,200,1,97,"Q:
+
+In C#, is it possible to cast object to another type?
+
+Is it possible in C# to cast object to another type? For example, I have an object of type ""Apply"" and I want to cast it to ""Create"". Is it possible to do it?
+
+A:
+
+The simplest way to cast",0.538419723535,,,</s>,en
+97,on_p50,200,1,98,"The main objective of the Department of Geography, which is the department of the department of Education, is to assist the faculty in teaching and the students in learning, to give students the opportunity to study, to reveal the realities of the realities which surround them in the environment of the region in which they live,",0.538419723535,,,</s>,en
+98,on_p50,200,1,99,"Home / Unlabelled / Firefighters from Port Harcourt and Bonny defend scene of terror attack, kill 3 suspected kidnappers
+Firefighters from Port Harcourt and Bonny defend scene of terror attack, kill 3 suspected kidnappers Reviewed by newstodayonlinereview on 10:50 Rating",0.538419723535,,,</s>,en
+99,on_p50,200,1,100,"Our company is one of the leading manufacturers and suppliers of punchy, effective, and precise Borosilicate glass granules. The glass granules are the perfect ingredients needed for making the glass bottles used in the production of various types of beverages like gas bottles, plastic bottles, milk bottles, juice bottles",0.538419723535,,,</s>,en

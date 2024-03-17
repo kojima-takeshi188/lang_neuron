@@ -1,0 +1,421 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,200,1,1,"# Pentanema
+
+Pentanema is a monotypic genus of flowering plants in the family Asteraceae. Its only species is Pentanema jeffreysii, native to New South Wales and Victoria in Australia.
+
+## See also
+
+* List of Australian plant genera",0.543994898235,,,,ja
+1,on_p50,200,1,2,"import { NgModule } from '@angular/core';
+import { Routes, RouterModule } from '@angular/router';
+import { ChatComponent } from './chat.component';
+import { ChatService } from './chat.service';
+import { IMessageService } from'my-",0.543994898235,,,,ja
+2,on_p50,200,1,3,"/* eslint-disable */
+import React, {
+  Component,
+} from'react';
+import {
+  AppRegistry,
+  StyleSheet,
+  Text,
+  View,
+  Button,
+} from'react-native';
+
+import {
+  createStackNavigator",0.543994898235,,,,ja
+3,on_p50,200,1,4,"# 北史
+
+『北史』（北史、中国語: 北史、ベル＝アダモフ・セーレンドルフ式: Pin hsü、拼音: Běi shǐ ）は、北京��",0.543994898235,,,,ja
+4,on_p50,200,1,5,"Rev. Joseph (Joe) W. Morwood Jr.
+Rev. Joseph (Joe) W. Morwood Jr., 79, of Tavares, Fla., passed away on Saturday, June 13, 2009, at Hospice of Lake and Sum",0.543994898235,,,,ja
+5,on_p50,200,1,6,"2018 Honda Civic PRO
+Offer: Cash Bonus $1,500
+Cash Bonus $1,500
+2018 Honda Civic PRO CVT
+[a][b]
+[a] Offer available only to",0.543994898235,,,,ja
+6,on_p50,200,1,7,"# 小行星4463
+
+小行星4463（1991 TM，1991 TM13、1991 1U、4463 Tartaros、4463 Tartarus）は、アポ",0.543994898235,,,,ja
+7,on_p50,200,1,8,"# Penghargaan Film Nasional untuk Aktor Terbaik
+
+## Pranala luar
+
+* Penghargaan Film Nasional untuk Aktor Terbaik di Internet Movie Database",0.543994898235,,,,ja
+8,on_p50,200,1,9,"300 Things I've Learned So Far in My 20's
+I can't believe I'm 23..
+I'm starting this post 23 days before my birthday so that I can reflect back on it on my birthday. I will be 2",0.543994898235,,,,ja
+9,on_p50,200,1,10,"# Peixe do Mar
+
+Peixe do Mar é uma telenovela brasileira produzida e exibida pela Rede Globo entre 1996 e 1997 em 233 capítulos. Foi a 65ª ""novela das set",0.543994898235,,,,ja
+10,on_p50,200,1,11,"A Grammar;
+Or, The English Language
+Wilkens & Hunter
+The English language is a small language to be learnt, but a large language to live.
+The words and sentences of a language, whether their structure be simple or intricate, can be learnt at a glance; but the living",0.543994898235,,,,ja
+11,on_p50,200,1,12,"#include ""OAMI_Compatibility.h""
+
+#include ""GHMatrix.h""
+
+#include ""GHMath.h""
+
+namespace GH {
+
+	//-----------------------------------------------------------------
+    template <class Real>
+    MatrixBase<Real> operator",0.543994898235,,,,ja
+12,on_p50,200,1,13,"The Malibu Coastal Walnut stair railing is an elegant and attractive choice for your home. The Malibu stair railing system features a richly tempered, clear glass ball at the end of the rail for a modern and sophisticated look.",0.543994898235,,,,ja
+13,on_p50,200,1,14,"ALBUM REVIEW: Elton John - Wonderful Crazy Night
+Elton John is an undisputed legend in the music world. His work has been prolific for 50 years, making him a fitting recipient of the 2017 Grammy Legend Award",0.543994898235,,,,ja
+14,on_p50,200,1,15,"package com.github.j5ik2o.rso.domain.service
+
+import com.github.j5ik2o.rso.domain.entities.Request
+import com.github.j5ik2o.rso.domain.entities.Response
+import com.",0.543994898235,,,,ja
+15,on_p50,200,1,16,"Tags: python, pytorch, conv-neural-network
+
+Question: How to make Pytorch's Conv2d with multiple inputs?
+
+I am trying to create a neural network that takes an image as a input and another image as a target.
+
+I then want to",0.543994898235,,,,ja
+16,on_p50,200,1,17,"# ファウラー
+
+ファウラー（Faurer、Färber、Faurer y Cia.）は、かつてドイツに存在した自動車メーカーである。1898年にハンス",0.543994898235,,,,ja
+17,on_p50,200,1,18,"#
+Vier
+Hindsight"" is a funny thing. I can look back now and see just how foolhardy my little plan was. See how I'd overlooked some important details. Like the fact that the chocolate fountain would overflow, or the band would never show",0.543994898235,,,,ja
+18,on_p50,200,1,19,"Our one of a kind 100% pre-shrunk cotton flannel shirt is guaranteed to keep you warm and cozy all season long, but they are also great for any occasion. Whether it is a night out on the town or a big game watching party, this flannel shirt",0.543994898235,,,,ja
+19,on_p50,200,1,20,"# Gheorghe Hagi
+
+Gheorghe ""Gica"" Hagi (Băilești, Rumania, 5 de febrero de 1965) es un exfutbolista rumano que se desempeñaba como volante.
+
+El apodo",0.543994898235,,,,ja
+20,on_p50,200,1,21,"This tutorial shows how to use the MQTT Event Bridge to publish events to an Arduino.
+The following example shows how to publish received events on the Arduino MQTT Event Bridge.
+In this tutorial we will show how to use the MQTT Event Bridge to publish events to an Arduino.",0.543994898235,,,,ja
+21,on_p50,200,1,22,"package util
+
+import (
+	""bytes""
+	""encoding/json""
+	""fmt""
+	""io""
+	""net/http""
+	""time""
+)
+
+// NewSimpleGetRequest creates a http.Request for an url with the GET method
+func New",0.543994898235,,,,ja
+22,on_p50,200,1,23,"# Llacs Llears
+
+La família de llacs Llears (en anglès Llewellyn Lakes) són tres llacs que estan contigus un a l'altre a la muntanya Harding (Nou Territori del Nord, Austràlia),",0.543994898235,,,,ja
+23,on_p50,200,1,24,"# Jean-Victor Moreau
+
+Jean-Victor Moreau, född 21 december 1763 i Morlaix, Frankrike, död 2 september 1813 i Radzymin, var en fransk general.
+
+Moreau var ursprung",0.543994898235,,,,ja
+24,on_p50,200,1,25,"CNN anchor Don Lemon on Monday delivered an emotional monologue after visiting El Paso, Texas, and Dayton, Ohio, the sites of two mass shootings that occurred within 24 hours last weekend.
+“Sunday evening on the way back from Dayton, my co-",0.543994898235,,,,ja
+25,on_p50,200,1,26,"/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+import { isString } from './",0.543994898235,,,,ja
+26,on_p50,200,1,27,"The 10th forum brings together over 400 participants from 30 countries, for 3 days of open and far-reaching discussions on the main challenges and opportunities that the sector faces.
+The 10th forum brings together over 400 participants from 3",0.543994898235,,,,ja
+27,on_p50,200,1,28,"# Fusus banyulensis
+
+Fusus banyulensis is een slakkensoort uit de familie van de Fasciolariidae. De wetenschappelijke naam van de soort is voor het eerst geldig gepubliceerd in 1891 door Dautzenberg.",0.543994898235,,,,ja
+28,on_p50,200,1,29,"Home/Funding/SASSA grant payment dates for December 2022
+SASSA grant payment dates for December 2022
+A sum of R389.25 billion has been allocated to the South African Social Security Agency (SASSA) in the 2",0.543994898235,,,,ja
+29,on_p50,200,1,30,"09/15/2021 08/20/2021 Diana Agarest, Agarest: Generations of War, All The Anime Ltd, Anime, Anime Limited, アガレスト戦記, Blu-ray,",0.543994898235,,,,ja
+30,on_p50,200,1,31,"A WWII U.S. Army Quartermaster Engineer officer's winter combat uniform, consisting of a field jacket, trousers and helmet liner.
+Jacket: brown herringbone wool serge, tightly woven at 220 thread count. The jack",0.543994898235,,,,ja
+31,on_p50,200,1,32,"# Thyreus crucifer
+
+Thyreus crucifer är en biart som först beskrevs av Fabricius 1781. Thyreus crucifer ingår i släktet Thyreus och familjen långtungebin. Inga underarter finns listade i Catalogue of",0.543994898235,,,,ja
+32,on_p50,200,1,33,"RESCUED: 30 Tigers, 5 Lions & 3 Cheetahs Released into Safe Havens Worldwide
+Posted by Kim S on June 27, 2017
+Earlier this week, 30 rescued tig",0.543994898235,,,,ja
+33,on_p50,200,1,34,"1954 Article about Mr. Gomes and his style of Samba
+Below is a 1954 article about Mr. Gomes and his style of Samba. Note the differences to more modern styles of Samba.
+Article by Ed Sullivan
+I have",0.543994898235,,,,ja
+34,on_p50,200,1,35,"# 鶴弘道
+
+鶴 弘道（つる ひろみち、1951年3月11日 - ）は、日本の政治家。元自由民主党衆議院議",0.543994898235,,,,ja
+35,on_p50,200,1,36,"import os
+import sys
+import re
+import subprocess
+
+def prompt(prompt, prefix='', suffix='') -> str:
+    """"""
+    Prints prompt and waits for confirmation.
+    """"""
+    print(prefix + prompt + suffix)
+    return input()
+
+",0.543994898235,,,,ja
+36,on_p50,200,1,37,"We provide our customers with a comprehensive service for the installation, maintenance and repair of air conditioning systems, from the supply and installation of air conditioning equipment to the maintenance and repair of refrigeration systems.",0.543994898235,,,,ja
+37,on_p50,200,1,38,"# Kepulauan Belitung
+
+Kepulauan Belitung (disebut juga Belitong, Belitong Selatan, atau Bangka Barat) adalah sekelompok pulau di selatan Sumatra yang terdiri dari sekitar",0.543994898235,,,,ja
+38,on_p50,200,1,39,"# Legg
+
+Legg ist der Familienname folgender Personen:
+
+* Christopher Legg (* 1983), neuseeländischer Rugby-Union-Spieler
+* Derek Legg, britischer Jazzmusiker
+* Jack Legg (1904–19",0.543994898235,,,,ja
+39,on_p50,200,1,40,"package com.emc.storageos.driver.workflow.tasks.mirror;
+
+import java.net.URI;
+import java.util.List;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+",0.543994898235,,,,ja
+40,on_p50,200,1,41,"06/09/2016 Thu 11:02 in China by Angel Tang
+Coca-Cola, Diageo and Alibaba to invest US$170m in craft spirits in China
+Coca-Cola, Diageo and Alibaba",0.543994898235,,,,ja
+41,on_p50,200,1,42,"The Nostalgic Delights of the QE2
+Watching the Queen Elizabeth 2 made me think of the Saga cruise I was on with my mother two years before she died.
+On the Saga cruise there was a passenger, a Canadian woman, who’d made such a name",0.543994898235,,,,ja
+42,on_p50,200,1,43,"# Кларк (окръг, Айова)
+
+Окръг Кларк (на английски: Clarke County) е окръг в щата Айова, Съединени американски щати. Площта му е 1",0.543994898235,,,,ja
+43,on_p50,200,1,44,"package com.paysafe.android.sdk.events.internal
+
+import com.paysafe.android.sdk.events.Event
+import com.paysafe.android.sdk.events.EventType
+
+internal sealed class VoidEvent(override val type: EventType",0.543994898235,,,,ja
+44,on_p50,200,1,45,"# Deku
+
+Net to smrt byli Deku a jeho otec zabiti vrahy, kteří chtěli zabít jeho rodinu, aby měli svobodně krást z půdy, kterou obdělávali. Deku přež",0.543994898235,,,,ja
+45,on_p50,200,1,46,"# Anexo:Torneo de Stuttgart 2016 (dobles masculino)
+
+## Presentación previa
+
+* Defensores del título:  Rohan Bopanna /  Florin Mergea
+
+ Rohan Bopanna /  Florin",0.543994898235,,,,ja
+46,on_p50,200,1,47,"Rare Mormon Manuscript--Joseph Smith's Translation of the Bible--Being Restored
+Joseph Smith's Inspired Version of the Bible, also known as the Joseph Smith Translation, may someday be for Mormons what the Dead Sea Scrolls and Nag",0.543994898235,,,,ja
+47,on_p50,200,1,48,"May 15th, 2015 by Mobile Beast
+Windows 10 is going to be a big deal. Microsoft is taking a big risk by making it free to update to Windows 10 for Windows 7, 8, and 8.1 users, and the company knows",0.543994898235,,,,ja
+48,on_p50,200,1,49,"VIDEO: David Oyelowo discusses his role in 'Red Tails'
+Joel Daniels
+Selma, the true story of Martin Luther King Jr. and his relentless fight to secure equal voting rights in the face of violent opposition, hits theaters this Friday.
+David",0.543994898235,,,,ja
+49,on_p50,200,1,50,"Home/News/Atiku: What I’ll do with oil produce in Niger Delta if elected
+Atiku: What I’ll do with oil produce in Niger Delta if elected
+Former Vice President and 2019 presidential candidate of the People’s Democratic Party (PDP),",0.543994898235,,,,ja
+50,on_p50,200,1,51,"# John J. Suh
+
+John J. Suh is a South Korean-American businessman and a former student body president of UC Berkeley. In September 2017, he was appointed as the seventh president of Chapman University. He was previously dean of the Schmid College",0.543994898235,,,,ja
+51,on_p50,200,1,52,"package com.hazelcast.internal.cluster.impl.operations;
+
+import com.hazelcast.nio.ObjectDataInput;
+import com.hazelcast.nio.ObjectDataOutput;
+import com.hazelcast.security.Permission;
+import com",0.543994898235,,,,ja
+52,on_p50,200,1,53,"it's basically a text adventure that's entirely conversational but still has the ""explore a randomized dungeon"", it's very fun and the conversations can be hilarious, so i figured i'd post it here.
+https://en.wikipedia.org/wiki",0.543994898235,,,,ja
+53,on_p50,200,1,54,"# Calin Bătrâneac
+
+Calin Bătrâneac (n. 9 februarie 1954, în București) este un fost jucător român de rugby. A fost un jucător de talie mare în echip",0.543994898235,,,,ja
+54,on_p50,200,1,55,"We provide a free, comprehensive and detailed valuation on all vehicles.
+We have a 40 bay workshop where we service and repair all makes and models.
+We provide a free luxury chauffeur service for clients who prefer to be collected and dropped off at their home or place of work.",0.543994898235,,,,ja
+55,on_p50,200,1,56,"2013-2014 Graduate Catalog
+Master of Global Human Services (MGHS)
+The Master of Global Human Services (MGHS) program prepares students with the skills, knowledge and competencies necessary for careers in the human services field. The program prepares gradu",0.543994898235,,,,ja
+56,on_p50,200,1,57,"“My last words will be, 'I'm as strong as an ox, I'm as strong as a horse, I'm as strong as a lion!'""
+“Grave-digging in northern India is a family business. Many gravediggers are the sons of graved",0.543994898235,,,,ja
+57,on_p50,200,1,58,"Victoria Park, London, UK
+On 30 May 2021, HRH The Prince of Wales led the National Service of Remembrance at the Cenotaph.
+Every year, the nation comes together at the Cenotaph in London to pay tribute to the men and",0.543994898235,,,,ja
+58,on_p50,200,1,59,"# Neal Glazebrook
+
+Neal Glazebrook is an American entrepreneur who owns the pet food company Halo, Purely for Pets.
+
+## Early life
+
+Neal Glazebrook was born in 1957, in",0.543994898235,,,,ja
+59,on_p50,200,1,60,"<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use App\Event;
+use App\User;
+use App\Serie;
+use App\SerieEpisode;
+
+class TrendingController extends Controller
+{
+    public function",0.543994898235,,,,ja
+60,on_p50,200,1,61,"# 広島県立広島中央高等学校
+
+広島県立広島中央高等学校（ひろしまけんりつ ひろしまちゅうおう こう",0.543994898235,,,,ja
+61,on_p50,200,1,62,"ASSORTED: my latest work in progress; God of the Hunt
+January 16, 2013 By: TempestAssorted Works
+A few months ago I got the idea for a story about an underground boxing league run by a goddess. I stumbled",0.543994898235,,,,ja
+62,on_p50,200,1,63,"PEOPLE’S LEGISLATIVE CENTER
+The People’s Legislative Center is a progressive, people’s organization committed to the ideals of unity and equity for all. We believe that actions speak louder than words. That is why we are committed to giving",0.543994898235,,,,ja
+63,on_p50,200,1,64,"\title{\bfseries\sffamily A newborn quasar with a jet?}
+
+\begin{abstract}
+We report the discovery of an extremely luminous, flaring quasar at $z\sim2.1$ found in a wide-field survey of the Lyman",0.543994898235,,,,ja
+64,on_p50,200,1,65,"Nestled in the Pacific Rim, nestled in the Pacific Rim, just as the name implies, the Pacific Rim National Park encompasses a plethora of parks in the region of Vancouver Island. It includes the Long Beach Unit, the West Coast Trail, the Broken",0.543994898235,,,,ja
+65,on_p50,200,1,66,"If you are looking for a top-notch solution to your plumbing problems, look no further than Blue Frog Plumbing + Drain of Mt. Pleasant. We are proud to provide the best residential and commercial plumbing services in the area backed by a 100",0.543994898235,,,,ja
+66,on_p50,200,1,67,"WSE:APRT
+APS S.A. engages in the distribution of electronic components in Poland. More Details
+Poland stocks still expensive compared to the rest of CEE
+As of 3rd March 2021 APS S.A. was trading at a 3",0.543994898235,,,,ja
+67,on_p50,200,1,68,"How to Invest in Bitcoin: A Beginner’s Guide
+Bitcoin has been the best-performing asset of the past decade, and it is likely to sustain its winning streak for at least a decade more. 2020 was an especially good year for the",0.543994898235,,,,ja
+68,on_p50,200,1,69,"The Alberta Court of Queen’s Bench and the Alberta Court of Appeal are amending their schedules for when the courts will be open.
+Attorney General Doug Schweitzer says the Court of Appeal will temporarily be closed to in-person oral hearings as of Jan.",0.543994898235,,,,ja
+69,on_p50,200,1,70,"#ifndef _WX_CINT_H_
+#define _WX_CINT_H_
+
+// wxCInt 2.14 by Alexandru Popescu
+// https://github.com/aleksanderpap/wxCInt
+//
+// see",0.543994898235,,,,ja
+70,on_p50,200,1,71,"Blog, Criminal, General Interest, Society
+From VoxEU:
+Criminal organisations in Mexico dealing in kidnapping, drugs, extortion, robbery, and car theft generate annual profits between $US 13 and $US 29 billion, a",0.543994898235,,,,ja
+71,on_p50,200,1,72,"A few weeks back I was fortunate enough to be a part of this year's Art on the Underground project.
+Basically I was given a platform to say what I thought about the current state of the London Underground and the public around the stations.
+This was a very limited edition artwork",0.543994898235,,,,ja
+72,on_p50,200,1,73,"2013 – Bridging the Gap
+An important focus of the SAA’s work in 2013 has been on “Bridging the Gap” in the archival profession. In addition to continuing to advocate for adequate staffing and funding so",0.543994898235,,,,ja
+73,on_p50,200,1,74,"# Ketting
+
+Een ketting kan een element van een sieraad of een uiteenloopend metaal. Voorbeelden zijn:
+
+* Ketting (sieraad), een sieraad dat onlosmakelijk aan twee personen verbonden is.",0.543994898235,,,,ja
+74,on_p50,200,1,75,"# Szűrő-Kőfő
+
+A Szűrő-Kőfő lábánál emelkedik az egykori Szűrő-hegy. A hegyet a Zsombor alatt fekvő, szűrő kőb",0.543994898235,,,,ja
+75,on_p50,200,1,76,"# David Hindman
+
+David Hindman (September 11, 1842 – October 21, 1875) was an American lawyer and politician who served as a member of the Wisconsin State Senate.
+
+For the Australian physicist, see David H",0.543994898235,,,,ja
+76,on_p50,200,1,77,"Gold, Goldsmithing, Technology, Engineering, Books, Business
+Hardcover, 6 x 9 in., 160 pages, 12 b&w photos.
+""Candace Wheeler's memoirs may have been commissioned as a public relations campaign,",0.543994898235,,,,ja
+77,on_p50,200,1,78,"
+A. In the beginning God created the heavens and the earth.
+
+Q. What did God create in the beginning?
+
+A. God created the heavens and the earth.
+
+Q. How did God create the heavens and the earth?
+
+A. God made the heavens",0.543994898235,,,,ja
+78,on_p50,200,1,79,"# Алиния
+
+Алиния (лат. Alynia) — монотипный род травянистых растений семейства Спаржевые (Asparagaceae).
+
+Род включает единственный вид — Алиния Мухина (Alynia m",0.543994898235,,,,ja
+79,on_p50,200,1,80,"x18-284 2012 hrc ar284 amends human rights code to add ""gender expression"" and ""gender identity"" as prohibited grounds of discrimination in the public service.
+x18-1 2012 m286 amends",0.543994898235,,,,ja
+80,on_p50,200,1,81,"# UAL
+
+UAL는 다음을 의미한다.
+
+* 얼라이언스 유럽 항공(Alliance European Air)
+* 파떼바데우크",0.543994898235,,,,ja
+81,on_p50,200,1,82,"# Aprostocetus saxatilis
+
+Aprostocetus saxatilis är en stekelart som först beskrevs av Girault 1915. Aprostocetus saxatilis ingår i släktet Aprostocetus och familjen fing",0.543994898235,,,,ja
+82,on_p50,200,1,83,"The City of Hartford is a vibrant community in which people live and work in a great, safe and beautiful place.
+The City of Hartford is a full-service community with state and nationally accredited police and fire departments, a world-class public school system, a municipal library,",0.543994898235,,,,ja
+83,on_p50,200,1,84,"# Oregon
+
+Oregon (IPA: [ˌoʊɹəˈɡoʊn]  kiejtése✩, régi magyar nevén: Oragónia), állam az Egyesült Államok nyugati részén. Az állam neve a",0.543994898235,,,,ja
+84,on_p50,200,1,85,"# [
+<?php
+include 'init_common.php';
+include 'conexao.php';
+$parte= $conexao->myQuery(""SELECT * FROM partes WHERE id=:idParte"");
+$parte = $parte->fetch();
+$parte",0.543994898235,,,,ja
+85,on_p50,200,1,86,"A thoughtful formulation, a pleasing fragrance, and a completely natural, cruelty-free deodorant that actually works.
+In the mood for a trip to outer space? This deodorant is undeniably cosmic, and will make a good impression at the next intergalactic",0.543994898235,,,,ja
+86,on_p50,200,1,87,"Tags: web-services, xamarin.android, xamarin.ios
+
+Question: Apple WWDC 14 video: Creating a Xamarin Mobile Web Application
+
+https://developer.apple.com/videos/wwdc/2014/
+
+I am trying to follow along",0.543994898235,,,,ja
+87,on_p50,200,1,88,This study was undertaken to systematically ascertain the relationship between the presence of the ABO blood group antigens and the development of secondary lysis in the blood serum of normal adult humans. The serum of 43 normal individuals was tested. Thirty-one individuals were found to have the A,0.543994898235,,,,ja
+88,on_p50,200,1,89,"The Rise of Rimfire
+Benchrest, High Power, and Silhouette rifles are now available in a.22 caliber, and they are a hit.
+Benchrest, High Power, and Silhouette rifles are now available in a.22 caliber, and",0.543994898235,,,,ja
+89,on_p50,200,1,90,"var express = require('express');
+var router = express.Router();
+
+var conn = require('../models/dbconn');
+
+/* GET home page. */
+router.get('/', function(req, res, next) {
+
+    res.render('index', { 
+   ",0.543994898235,,,,ja
+90,on_p50,200,1,91,"	. $this->load->view('admin/header');
+			$this->load->view('admin/sidebar');
+			$this->load->view('admin/topbar');
+			$this->load->view('admin/sidebar_admin');",0.543994898235,,,,ja
+91,on_p50,200,1,92,"<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Productoption extends Model
+{
+    protected $table = 'product_option';
+
+    public function option()
+    {
+        return $this->belongsTo('App\Option",0.543994898235,,,,ja
+92,on_p50,200,1,93,"<?php
+namespace App\Traits;
+
+use Symfony\Component\Security\Core\Authentication\Token\Storage\TokenStorage;
+use Symfony\Component\Security\Core\Authentication\Token\TokenInterface;
+
+trait TokenAwareTrait
+{
+    /**
+    ",0.543994898235,,,,ja
+93,on_p50,200,1,94,"# 酢漿堂
+
+酢漿堂（つゆどう）は日本統治時代の台湾にあった喫茶店の一種であり、台湾では��",0.543994898235,,,,ja
+94,on_p50,200,1,95,"What Makes a Good Leader in a Business or Other Organization?
+Ghazali, Rosalina and Latif, Mohd Fadzli (2009) What Makes a Good Leader in a Business or Other Organization? [Paper presentation]
+879",0.543994898235,,,,ja
+95,on_p50,200,1,96,"AI Member Correspondence
+AAI Letter on FY2020 NDAA
+AAI sent a letter to the Senate Armed Services Committee in support of an amendment to the FY2020 National Defense Authorization Act (NDAA) to provide $25",0.543994898235,,,,ja
+96,on_p50,200,1,97,"A transparent soap bubble is the perfect sphere, and it is not a coincidence that the radius of the water droplet at the boundary of the bubble is also a radius. The shape of bubbles is a consequence of surface tension. If a soap bubble is held in a current and it",0.543994898235,,,,ja
+97,on_p50,200,1,98,"# 佳世富
+
+佳世富（英語：）是大馬的一個配置曲藝的輕軌，經營的為RapidKL的子公司Sri Kantan（S",0.543994898235,,,,ja
+98,on_p50,200,1,99,"Two hundred and fifty years ago, the Continental Army faced a daring challenge in 1776. They had to fight and win a war while also providing winter food provisions for an additional six thousand men who were on their way to their aid. The survival of the Continental Army seemed to depend",0.543994898235,,,,ja
+99,on_p50,200,1,100,"A simple and strong ring with a ball pattern, made of sterling silver.
+This ring is large and a bit chunky so please make sure it fits before ordering.",0.543994898235,,,,ja

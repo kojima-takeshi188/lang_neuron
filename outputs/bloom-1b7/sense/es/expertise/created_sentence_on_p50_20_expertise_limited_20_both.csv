@@ -1,0 +1,267 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,20,1,1,"El actual entrenador de porteros es un entrenador técnico y con una gran personalidad, que ha sabido encontrar una vía de formación, que no es la de los equipos de fútbol, ya que se trata de un entrenador formado en el campo, en el que se ha formado en la Academia de la Real Escuela de Futbol de la",0.5442189765,,,</s>,es
+1,on_p50,20,1,2,"/*
+ * Copyright (c) 2015, Oracle and/or its affiliates. All rights reserved.
+ * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
+ *
+ * This code is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public License version 2 only, as",0.5442189765,,,</s>,es
+2,on_p50,20,1,3,"#!/usr/bin/env python
+
+import os
+import sys
+import time
+import logging
+import subprocess
+from distutils.core import setup
+from distutils.command.install import install
+
+log = logging.getLogger(__name__)
+
+def run():
+    """"""
+    Execution of the installation
+    """"""
+    # Logging
+   ",0.5442189765,,,</s>,es
+3,on_p50,20,1,4,"TOMATE. Cuando un tomate está más maduro se desprende de la piel. El tomate crujiente es agudo en sabor, pero se derrite completamente en la boca, y es una de las formas más fáciles de obtener jugos de tomate crujiente. Dicha piel es delgada, por lo que",0.5442189765,,,</s>,es
+4,on_p50,20,1,5,"3 Temas: Justiça do Trabalho, Funcionários públicos, Magistrados e Juízes, Juizados Especiais de Trabalho e Juizados especiais de pequenas causas (JEPs).
+4 Temas: Liberdade sindical, Liberdade de associação e de expressão de dissidências, Liberdade religiosa, Conselho Tutelar, Juizados de",0.5442189765,,,</s>,es
+5,on_p50,20,1,6,"Q:
+
+Verifying the type of a method parameter with reflection
+
+I am trying to implement the following method...
+// Registration of a MethodBase
+public static void Register(string name, MethodBase method, Type[] parameterTypes)
+
+I am having a problem with reflection, I am not sure how to do this. How",0.5442189765,,,</s>,es
+6,on_p50,20,1,7,"Neuromorphisms
+Neuromorphic is a new paradigm in computation [1]. This paradigm is based on the concept of non-trivial computation, the computational power of which depends on the number of neurons in a network. The existence of a number of neurons with the same functional type, and that the computation on these neurons is allowed",0.5442189765,,,</s>,es
+7,on_p50,20,1,8,"A nível de produção, a empresa detém cerca de 7 milhões de toneladas de açúcar por ano, numa superfície de 6.600 ha, que corresponde aproximadamente a 20% da área total da atividade.",0.5442189765,,,</s>,es
+8,on_p50,20,1,9,"The two queens have a right to be.
+But they won't fight.
+They'll pay for it with their lives.
+They'll pay for it with their lives.
+Ready?
+One, two...
+- Ready?
+- One, two...
+Ready?
+Ready?
+Two, three, four.
+Ready?
+Ready?
+Ready?
+Ready",0.5442189765,,,</s>,es
+9,on_p50,20,1,10,"The human genome is extremely complex and is made up of two different types of DNA, one of which is present in all living organisms. This “Old” DNA is called the “Old” DNA, or eukaryotic DNA, and is found in the nucleus and also in the cytoplasm. This is known as",0.5442189765,,,</s>,es
+10,on_p50,20,1,11,"El presente Aviso Legal regula el uso del sitio web (datos identificativos: El sitio Web es titularidad de PLUSIPAL y se encuentra alojado en la compañía AVANTIS Group, S.L. USUARIO DEL SITIO WEB
+Todos los contenidos del sitio web (marcas,",0.5442189765,,,</s>,es
+11,on_p50,20,1,12,"A garbage truck came at this point, and when a man yelled out what they could find on them, the garbage truck drove off without a word.",0.5442189765,,,</s>,es
+12,on_p50,20,1,13,"Por todo esto, desde la dirección de Ecoembes Andalucía podemos ofrecerle diferentes opciones para reutilizar su envase, como la que puede seguir en nuestra web: “Envases, el nuevo reto que necesita la sociedad”. De esta forma, le ayudamos a reducir su impacto medioambiental, retirando ese envase",0.5442189765,,,</s>,es
+13,on_p50,20,1,14,"Exactamente el mismo problema se ha repetido esta semana. El 9 de agosto, cuando en el Congreso se discutía, por mayoría simple, el proyecto de modificación constitucional que permite la reelección de la Presidenta, los senadores de la DC, que la apoyaban, presentaron un proyecto de ley que impedía que la Presidenta",0.5442189765,,,</s>,es
+14,on_p50,20,1,15,"♥ Inspiration #2: Si esta es tu primera vez en Dallas, elige tomar el metro. Está lleno de gente solitaria, luces de neón, que te hará sentir como siempre has deseado vivir en la ciudad. ¡En el metro también puedes probar comida saludable!
+♥ Inspiración #3: Si esta",0.5442189765,,,</s>,es
+15,on_p50,20,1,16,"Introduction
+The first known publication of the largest waterpipe (water pipe) found in Bohemia in the XIIIth century was published in the coronation of king Francis I of Bohemia in 1235 and it is called the « Yghegua ». The Yghegua is a tiny waterpipe 5-10 cm",0.5442189765,,,</s>,es
+16,on_p50,20,1,17,"El miércoles, 29 de enero, en la sede del Concejo Deliberante, se llevó a cabo el (re)encuentro de los representantes de los Vecinos de Pico Truncado, que se reunieron el pasado jueves 14 en La Plata, con el objeto de exponer su preocupación por la situación que atraviesan",0.5442189765,,,</s>,es
+17,on_p50,20,1,18,"#!/usr/bin/env python
+# This script is intended to be run alone via tmux when I don't have a
+# command line interpreter open.
+#
+# It processes the logs, using the multiline interface to handle tabs.
+# It also receives the configuration file which is read in from the
+# configuration repository,",0.5442189765,,,</s>,es
+18,on_p50,20,1,19,"La compatibilité avec les critères de l'agrément Aenor est un atout indéniable. Son équipe d’experts certifiés est à votre écoute pour vous accompagner à chaque étape de vos projets : étude, conception, réalisation, installation, entretien et PEB.
+Pour les professionnels et les particuliers : pose de",0.5442189765,,,</s>,es
+19,on_p50,20,1,20,The information presented on this page is about the nearest Acacia Residence near Wollongong. We have found 82 other accommodation in Wollongong.,0.5442189765,,,</s>,es
+20,on_p50,20,1,21,"El gran problema de la enfermedad de Alzheimer es que no hay cura. Para sobrevivir, la persona encargada de administrar los tratamientos tiene que estar informada sobre la enfermedad, pero este tipo de información no siempre está al alcance de todo el mundo. Por este motivo, desde el Colegio de Enfermería de Alicante se ha creado un grupo",0.5442189765,,,</s>,es
+21,on_p50,20,1,22,"/*
+ *  Armadillo Workflow Platform v1.0
+ *  A simple pipeline system for phylogenetic analysis
+ *  
+ *  Copyright (C) 2009-2013  Etienne Lord, Mickael Leclercq
+ *
+ *  This program is free software: you can redistribute it and/or modify
+ *  it",0.5442189765,,,</s>,es
+22,on_p50,20,1,23,"第四步，实施。管理者要以全球视野制定战略，把战略上升到企业的文化高度，全体员工要倾力共舞，是企业发展的基石。每个员工都要尽职尽责，勇于开拓，不断积蓄，把企业发展推向新的境界。
+学习是企业文化的基",0.5442189765,,,</s>,es
+23,on_p50,20,1,24,"﻿namespace HomePage
+{
+    partial class AboutBox1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name=""disposing"">true if managed resources should be disposed;",0.5442189765,,,</s>,es
+24,on_p50,20,1,25,"Persuadidos de que la oferta de plazas de trabajo que el año pasado ofrecía el Gobierno ha evolucionado, los sindicatos tienen la mirada puesta en las próximas convocatorias que propiciarán la entrada de un mayor número de jóvenes en los puestos de trabajo.
+En este sentido, los sindicatos han pedido al Gobierno que en el",0.5442189765,,,</s>,es
+25,on_p50,20,1,26,Le système de production de beurre et de fromage La Caille a été mis en place en 1996 à la suite de l’arrêt temporaire de la fabrication de fromage au moulin de la Caille (17). Ce projet a été réalisé en collaboration avec le Centre de Coopération Internationale en Recherche Agronomique pour le Développement (Cir,0.5442189765,,,</s>,es
+26,on_p50,20,1,27,"Et voilà une nouvelle pièce de plus pour le relooking de notre maison! Superbe photo, le feuillage est superbe! Merci pour ce merveilleux moment de partage.",0.5442189765,,,</s>,es
+27,on_p50,20,1,28,"There is no doubt that we are entering an unprecedented period of unprecedented challenges to the health, safety and wellbeing of staff and customers, and we will all need to work together to get through this.
+But what we can do with a little foresight is to design our lives so that we can make ourselves safe, our",0.5442189765,,,</s>,es
+28,on_p50,20,1,29,"PHP存储过程主要的工作就是执行程序，执行过程一般都要传入一些参数，具体参数的数据类型就是我们理解的常量类型，如strings、int、float、string、array、object等。那么，PHP存储过程怎么保存参数呢?下面小编就带你一起看一下。
+
+【明慧网",0.5442189765,,,</s>,es
+29,on_p50,20,1,30,"/*
+ * This file is part of Matter Overdrive
+ * See Documentation/Templates/license.txt for license information.
+ *
+ * Copyright 2015, 2016 The Matter Overdrive
+ * Copyright 2015, 2016 Timothy Zahniser
+ * Copyright 2016, 2017, 2018 Alexander Miller
+ * Copyright 2018, 2019, 2020",0.5442189765,,,</s>,es
+30,on_p50,20,1,31,"“If the [biosimilars] market is going to grow sustainably and buy public interest support from regulators and the public, it is essential that we have a robust legal and regulatory framework that allows for a robust and dedicated biosimilars market,” he said.
+Bertrand, who is the CEO of",0.5442189765,,,</s>,es
+31,on_p50,20,1,32,"El segundo paso, es descargar la aplicación que se suelen denominar de videollamadas en teléfonos móviles, tablet o computadoras, para hacer videollamadas, las hay desde gratuita hasta de pago que varían según el servicio que escojas. Una vez instalada, debes hacer click en el botón de iniciar la vide",0.5442189765,,,</s>,es
+32,on_p50,20,1,33,"Charles Ellis (1583-1653)
+
+Charles Ellis was an English artist, born in or near Lincoln Castle. He was the son of William Ellis and his wife Mary (née Giggles). He was educated at Lincoln School, Lincoln Cathedral and at the Royal Academy of Arts in London, where he took a degree from",0.5442189765,,,</s>,es
+33,on_p50,20,1,34,"- Ah, ma pauvre, presque aussi... Je sais pas quoi dire.
+- Moi non plus.
+Mais quand même, je surveillerais ça.
+- Vous êtes sérieux, hein?
+- Ouais, je vais faire garder Les Petits.
+Ça va aller.
+- On est très proche.
+- Je sais.
+Je",0.5442189765,,,</s>,es
+34,on_p50,20,1,35,"Dungus, a Gujarat-based online education platform, has launched its new Tech For All program. The program seeks to empower people with basic technical knowledge and practical experience to use technology in their everyday lives, a move that is aimed at building a bridge between technologically oriented job opportunities and the skills and education needed for it",0.5442189765,,,</s>,es
+35,on_p50,20,1,36,"En cuanto al tema del libro, debo decir que sigue (una vez más) el modelo de los títulos que ya existen: una trama de misterio que tiene sus puntos álgidos y otros fugaces y que, a diferencia de las novelas que reseñe durante el año pasado, se desarrolla con esta mujer de pronto atra",0.5442189765,,,</s>,es
+36,on_p50,20,1,37,,0.5442189765,,,</s>,es
+37,on_p50,20,1,38,"PEMI NA CIDADE: Aumento de 13% no valor de serviços de limpeza pública
+As empresas paranaenses associadas à Federação das Indústrias do Estado do Paraná ( Fiep ) podem pagar 13% a mais pelo serviço de limpeza pública em Maringá.
+A informação foi fornecida pela diretora",0.5442189765,,,</s>,es
+38,on_p50,20,1,39,"TPO - Nhiều chính trị gia Mỹ kêu gọi Trung Quốc phải chịu trách nhiệm cho những sai phạm trong việc kiểm soát dịch bệnh COVID-19 tại nước này, sau khi Bắc Kinh cho đăng tải hàng chục đoạn video cho thấy các quan chức y tế và giới chức an ninh nước này không đeo khẩu trang khi tiếp xúc với",0.5442189765,,,</s>,es
+39,on_p50,20,1,40,"A partir de então, a empresa começou a investir no setor de telefonia celular e, em 1974, a partir da fusão entre a Telemar e a CEMTEL, surgiu a Vivo.
+A partir de então, a Vivo passou a oferecer aos seus clientes um portfólio de produtos com foco nas multimídias",0.5442189765,,,</s>,es
+40,on_p50,20,1,41,"/*
+ * Copyright (c) 1998, Oracle and/or its affiliates. All rights reserved.
+ * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
+ *
+ * This code is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public License version 2 only, as",0.5442189765,,,</s>,es
+41,on_p50,20,1,42,"Manolo García y su hija, Carlota, han roto su silencio en 'La Sexta Noche'. El hijo de Manuel Carrasco ha sido el encargado de hablar sobre su conflicto con la delegada del Gobierno de Madrid, Mayte Pérez. El artista ha desvelado que, tras la gota fría de diciembre del año pasado, no",0.5442189765,,,</s>,es
+42,on_p50,20,1,43,"Durante lo que va de 2021 se han sumado dos decesos a la lista de víctimas fatales de COVID-19 en la Provincia.
+Así lo detalló el gobernador chaqueño Omar Perotti, luego de encabezar una videoconferencia de trabajo con la Cámara de Diputados de la Provincia del Chaco.
+Perotti explicó que en los últimos 14 días",0.5442189765,,,</s>,es
+43,on_p50,20,1,44,"“Occasionally, people talk about the way that America is different from Europe. I think they are the same,” he said. “Americans do not have the same sort of history, the same sort of culture. And of course, the same sort of issues, the same sort of challenges.”
+",0.5442189765,,,</s>,es
+44,on_p50,20,1,45,"A partir de ahora, Alliance For Peace quiere que nuestros lectores sean bienvenidos y sigan su página de facebook donde, entre otras cosas, podrán seguir las noticias y eventos de la Alianza.",0.5442189765,,,</s>,es
+45,on_p50,20,1,46,"Charli XCX, The Weeknd, Sam Smith, and Taylor Swift are among the best names in electronic music to debut on the Billboard Hot 100 chart this year, according to an analysis of data from Billboard.",0.5442189765,,,</s>,es
+46,on_p50,20,1,47,,0.5442189765,,,</s>,es
+47,on_p50,20,1,48,“We are very proud of our team for the excellent work they’ve done all year on our property and have no hesitation in recommending them to others. They have been incredibly professional and have been very thorough in their work. This is the first time we have worked with any other professional and we would not hesitate,0.5442189765,,,</s>,es
+48,on_p50,20,1,49,"L'espectacle, que va tenir lloc el passat 3 i 4 de novembre, va ser de gran èxit i va girar per diferents localitats de la comarca com ara Tàrrega, Quart i Cervera.
+L'alcalde de Cervera, Fèlix Larrosa, va lliurar el guardó a Isona Passola, que va rebre el",0.5442189765,,,</s>,es
+49,on_p50,20,1,50,"Oh, yeah, I’m sure there are some. But, there was no agreement, except the fundamental agreement that we share. We would have to like to harvest the vegetables in our own fields. We would have to grow the vegetables in our own yards. We would have to buy the vegetables in our own markets. And",0.5442189765,,,</s>,es
+50,on_p50,20,1,51,"La firma de moda y lujo Victoria Beckham se ha embarcado en un ambicioso proyecto de sostenibilidad que ya ha bautizado con el nombre de ""Vibra 4.0"", un ambicioso plan de actividad que pretende revolucionar el sector de la moda y el lujo. En esta línea, la marca lanzará una nueva colección de ropa",0.5442189765,,,</s>,es
+51,on_p50,20,1,52,"Q:
+
+Why are various versions of the ""%s"" operator used differently
+
+Why do some versions of the ""%s"" operator have different meanings?  For example, what is the difference between using the ""%s"" operator with an integer and the ""%s"" operator with a character string?
+According to this discussion, I should use the escaped version with a character string",0.5442189765,,,</s>,es
+52,on_p50,20,1,53,"El titular de la Semarnat, Víctor Villalobos Arámbula, aseguró que la consulta sobre el futuro del desmonte es forzada por los partidos de oposición, que buscan un camino de regreso a la violencia para pretender desestabilizar al país.
+""Querían forzar la consulta con trampas, habiéndose",0.5442189765,,,</s>,es
+53,on_p50,20,1,54,"El motivo principal de los cambios de este tipo de prendas es que se detecta que están dañadas, ya sea por el desgaste, que haya sufrido algún tipo de incendio, que ya no encajen bien en la ropa o que estén sucias. Si tienes una prenda que no te sirve, es conveniente que la dej",0.5442189765,,,</s>,es
+54,on_p50,20,1,55,"El Museo de la Industria Turística, en Manzanares, es un lugar donde se pueden ver exposiciones de los diferentes ámbitos que conforman el turismo.
+Hemos visitado el Museo de la industria turística de Manzanares (Madrid) y podemos decir que hay por lo menos 3 tipos de visitantes que tienen diversas características.",0.5442189765,,,</s>,es
+55,on_p50,20,1,56,"Taising dia juga menyampaikan bahwa ada beberapa hal yang harus diperhatikan oleh masyarakat untuk meningkatkan kesadaran di penggunaan masker yang benar. Dalam hal ini, masyarakat diharapkan untuk memakai masker saat berolahraga, menyantap makanan, bahkan saat berada di toko ataupun pasar. “Kalau ada objek-objek yang sudah bersentuhan, jangan dipakai lagi",0.5442189765,,,</s>,es
+56,on_p50,20,1,57,"El jugador de la cantera azulgrana sufre un esguince en el tobillo izquierdo después del partido en el Benito Villamarín contra el Celta de Vigo. Tras la intervención en el Hospital Ramón y Cajal, el equipo médico ha decidido que no regrese a la actividad de la Liga Santander.
+El futbolista de",0.5442189765,,,</s>,es
+57,on_p50,20,1,58,"Q:
+
+ASP.NET MVC and Async/AsyncTask throw InvalidOperationException
+
+I've been working with ASP.NET MVC and C# and I have a class that does a load of images and then processes the results.
+I run this in the background using a background worker in C#, and once the worker completes, I use a",0.5442189765,,,</s>,es
+58,on_p50,20,1,59,"Les 34 recettes de pâte brisée sont mises en scène au fil des pages de ce livre, accompagnées de nombreux conseils de cuisson, d’utilisation et de présentation. La pâte brisée se prépare aussi facilement qu’une pâte brisée classique et les recettes sont faciles à reproduire à la maison.
+Tags : Pâte brisée,",0.5442189765,,,</s>,es
+59,on_p50,20,1,60,"Una plataforma de mensajería instantánea muy popular, la cual está disponible para móviles Android e iOS, llamada WhatsApp Messenger es otro de los servicios que puedes instalar en tu smartphone, sobre todo si quieres ahorrar datos y tener la mejor cobertura posible. Con este servicio podrás enviar y recibir mensajes, fotos, videos, archivos y audios",0.5442189765,,,</s>,es
+60,on_p50,20,1,61,"Yakuza: Kiwami – The Fist of the Cold War, el juego que podemos jugar gratis desde hoy mismo y que sin duda nos llegará en las próximas semanas a nuestras consolas, nos tiene preparados poco más que buenas sensaciones, me refiero, a unas mecánicas muy intuitivas, que nos hacen sentir",0.5442189765,,,</s>,es
+61,on_p50,20,1,62,"La entidad azulgrana, a través de su gerente deportivo, Toni Freixa, anunció este miércoles que el jugador, que no ha vuelto a jugar desde el pasado 17 de agosto, ha dado positivo en el test PCR, que se realizó durante el entrenamiento previo a la visita al Estadio Santiago Bernabéu de la pasada semana.",0.5442189765,,,</s>,es
+62,on_p50,20,1,63,"El Ayuntamiento de Salamanca ha recibido nueve propuestas para mantener en los próximos seis meses la subvención que ya se concedió en el pasado ejercicio a la Asociación de Desarrollo Rural (ADR) de Ciudad Rodrigo por importe de 23.000 euros, con el objetivo de potenciar su actividad y así contribuir a la economía local.
+Para la",0.5442189765,,,</s>,es
+63,on_p50,20,1,64,"La grande majorité de la population fait confiance aux produits écologiques, de plus en plus de gens voient le véganisme comme un engagement pour leur santé. Toutefois, il y a un certain nombre de crèmes qui sont considérées comme vegan, mais qui ne le sont pas vraiment. En effet, pas toutes les crèmes",0.5442189765,,,</s>,es
+64,on_p50,20,1,65,"Los expertos en el tema pueden ayudarle a seleccionar el tipo de plan de seguro que mejor se adapte a las necesidades de su empresa, incluyendo los:
+Si su empresa es más grande, puede que también se necesiten servicios como el de un abogado especializado en derecho laboral para gestionar todos los aspectos del contrato de trabajo",0.5442189765,,,</s>,es
+65,on_p50,20,1,66,"As a hotelier, you can rest assured that your guests are safe, and that your guests will enjoy the amenities we provide. You can expect to stay in 5-star rooms, and we take great pride in servicing you. We regularly host guests in the resort’s conference center, where we offer business lunches",0.5442189765,,,</s>,es
+66,on_p50,20,1,67,"A, hemos añadido a la lista de inmuebles que hemos detectado en los que se dan estas circunstancias y que se encuentran en inmuebles de titularidad pública, uno de ellos es el número 6 de la localidad de Paterna. Encuentra este inmueble en esta url y llena el formulario adjunto para conocer más detalles de su documentación",0.5442189765,,,</s>,es
+67,on_p50,20,1,68,"Oh, yeah.
+I was about to forget it.
+Hey, what are you doing here?
+You're John's old girlfriend.
+I'm John's Michael.
+Oh.
+Okay.
+This is John's mother.
+Nice to meet you.
+Nice to meet you.
+Michael.
+Thanks.
+Oh, no, no.
+Please don't.
+Don't",0.5442189765,,,</s>,es
+68,on_p50,20,1,69,"¡Hola de nuevo! Parece que se ha pasado el finde y, por eso, voy a estar más desaparecida de lo habitual. A ver si volvemos a la carga, que no me quiero quedar sin contaros novedades. ¡Tomo nota de algunas de vuestros comentarios!
+Publicada el 20/05/2013 |",0.5442189765,,,</s>,es
+69,on_p50,20,1,70,"Para algunas personas, la naturaleza es un lugar de placer, de aventura y de tranquilidad. Otras, la naturaleza es un gran lugar de trabajo.
+Bienvenidos a la naturaleza. Nuestros seres vivos son parte de la naturaleza y siempre han estado ahí. Por eso, hemos inventado la tecnología para trabajar con ella.",0.5442189765,,,</s>,es
+70,on_p50,20,1,71,Now they are getting a little mad and asking for $20 for the elephant. The owners of the elephant will take their photocopy of his photo and will either take the elephant back or will have it destroyed. This is with the understanding that the owner can take the elephant to the local elephant park for him once he gets his,0.5442189765,,,</s>,es
+71,on_p50,20,1,72,"Converse el precio que tiene en Matías Almeyda, el entrenador de Newell´s. Mientras que el actual DT de Boca Juniors, Daniel Angelici, no tiene techo de gasto para su equipo.
+Con los precios que tienen en el mercado, la postura de los clubes es clara: no hay techo de gasto",0.5442189765,,,</s>,es
+72,on_p50,20,1,73,"Es importante que tenga en cuenta que los alimentos naturales no siempre son bajos en calorías. Como este artículo dice, los alimentos naturales no siempre están cargados de calorías. Los alimentos naturales son sorprendentemente bajos en calorías, especialmente cuando se trata de alimentos como frutas y nueces, que son azúcares naturales",0.5442189765,,,</s>,es
+73,on_p50,20,1,74,"<?php
+/**
+ *
+ * @package    mahara
+ * @subpackage artefact-template
+ * @author     Catalyst IT Ltd
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL version 3 or later
+ * @copyright  For copyright information on Mahara, please see the README file distributed with this software",0.5442189765,,,</s>,es
+74,on_p50,20,1,75,"Pour la rentrée, nos locaux seront tous fermés du mardi 29 août au Jeudi 08 septembre inclus. Veuillez nous excuser pour la gêne occasionnée. Vous pouvez nous contacter directement, par mail à ou par téléphone au 0560 15 15 15.",0.5442189765,,,</s>,es
+75,on_p50,20,1,76,"Al igual que el resto de los casos, se garante la mayor privacidad de la familia. Por lo tanto, la información que se debe facilitar es la relacionada con origen, procedencia, indicaciones de prueba de ADN y/o parentesco, así como diferentes documentos que acrediten la identidad de la persona. Para ello, se deberá",0.5442189765,,,</s>,es
+76,on_p50,20,1,77,"El Gobierno de La Pampa anunció hoy un nuevo refuerzo para fortalecer la tarea en el territorio provincial. Se trata de 43 efectivos policiales.
+El ministro de Seguridad y Justicia de La Pampa, Victor Pérez, encabezó la presentación de este nuevo grupo que ya se encuentra trabajando en las distintas localidades del interior de la provincia.
+“La pandemia",0.5442189765,,,</s>,es
+77,on_p50,20,1,78,"Franck Escribano(a) es una agencia de publicidad y desarrollo de ideas, independiente y con una visión más global de la comunicación y del marketing, capaz de aportar soluciones creativas a través de una efectiva combinación de creatividad, estrategia de marca y comunicación digital.",0.5442189765,,,</s>,es
+78,on_p50,20,1,79,"Kohlrabi adalah tanaman sayuran berkalori tinggi yang biasa dikonsumsi setiap hari. Tanaman ini memiliki kandungan air yang cukup tinggi, makanan yang baik untuk penderita diabetes, bahkan juga mencegah kanker.
+Untuk Anda yang ingin mendapatkan biji latifolia ini bisa membelinya pada toko-toko yang banyak menjual sayuran, namun untuk mendapatkan biji",0.5442189765,,,</s>,es
+79,on_p50,20,1,80,"La mort de son père, un homme de 80 ans, et la séparation de sa mère, une femme de 62 ans, font désormais de lui un adulte vulnérable, tombé du nid, et en quête de repères.
+Il a fixé sa planche sur la falaise. Mais le vent s’accélère. Une",0.5442189765,,,</s>,es
+80,on_p50,20,1,81,"En 2008, la Fundación L’Oréal anunció una sorpresa muy inesperada. El artista colombiano Maluma anunció su participación en el proyecto solidario de la marca, el sorteo de 25 millones de dólares.
+Además de Maluma, otros artistas también han ayudado con las recaudaciones, como el cantante español Alejandro Sanz, quien donó 30",0.5442189765,,,</s>,es
+81,on_p50,20,1,82,"Lors de leur premier match, les Harambes avaient appliqué des règles strictes. La rencontre a débuté par un premier acte équilibré. À la mi-temps, les Harambes menaient 11 à 6.
+L’équipe visiteuse a pu compter sur son équipe pour défendre son caddie. Les joueurs ont dû",0.5442189765,,,</s>,es
+82,on_p50,20,1,83,"3.1. La solicitud se presentará por cualquier medio válido previsto en la ley siempre que su contenido esté en consonancia con la ley del estado de residencia (en el caso de la EU) o del lugar de trabajo (en el caso de la UE) de las personas que desean solicitar la residencia.
+3.2",0.5442189765,,,</s>,es
+83,on_p50,20,1,84,"El número de usuarios en internet a fecha de abril de 2019 ascendía a los 50, 2 de la población de España, un 10% más que en el mismo mes del año anterior, una cifra que resulta impactante teniendo en cuenta que el año pasado se situaba en los 49, 5 millones de usuarios. Con respecto",0.5442189765,,,</s>,es
+84,on_p50,20,1,85,"- « Ne vous inquiétez pas, vous ne serez pas seul », déclare Mateo. « J’ai des amis qui sont ici. Je les connais depuis qu’ils sont petits. »
+- « Non, non, non, je ne suis pas en couple, je ne suis pas en couple avec Ni-Ni-n",0.5442189765,,,</s>,es
+85,on_p50,20,1,86,12月5日，由重庆日报报业集团主办的“重庆日报报业集团新闻发布会暨2020重庆·重庆晚报年会”召开。大会以“智汇同程，共创美好生活”为主题。活动以“传播主流思想、弘扬正能量、凝聚团结力量、引领时代风尚”为宗旨,0.5442189765,,,</s>,es
+86,on_p50,20,1,87,"The Solicitor General's Office estimates that there are over 1,900,000 online gambling-related lawsuits in the British Isles. The Solicitor General's Office estimates that there are around 1,800,000 online gambling-related lawsuits in the United Kingdom, based on the...
+The Solicitor General",0.5442189765,,,</s>,es
+87,on_p50,20,1,88,"Les Canadiens pourront utiliser leurs cartes de crédit que le 23 septembre prochain pour visiter la capitale du Mexique.
+Les touristes pourront en effet utiliser leurs cartes de crédit Visa Infinite au Mexique, qui regroupent les voyages dans plus de 30 pays, pour dépenser à Mexico, San Salvador et Monterrey. Cet accord entre Visa et le",0.5442189765,,,</s>,es
+88,on_p50,20,1,89,"Más adelante, la Sala Suprema indicó que las pensiones que se deben otorgarle al causante representan una parte importante del patrimonio de la familia, por lo que pueden ser consideradas como un derecho fundamental.
+No obstante, advirtió que el pago de pensión se basa en el “debido proceso”, la “igual justicia” y",0.5442189765,,,</s>,es
+89,on_p50,20,1,90,"Il a ensuite apporté quelques précisions sur le financement de la mesure puis annoncé certaines nouveautés.
+""Motto de la réforme : financer l’investissement en revalorisant le savoir-faire, en le 'finançant autrement', en augmentant la mobilité des personnels"", a-t-il dit.
+""Il n’y aura plus de charges pour",0.5442189765,,,</s>,es
+90,on_p50,20,1,91,"Ahora en un mundo de altísima velocidad, los desarrolladores pueden lograr que las aplicaciones sean más seguras y aún más creativas, y eso solo es posible debido a los controles de privacidad.
+Los desarrolladores pueden diseñar apps para proteger la privacidad de los usuarios de forma efectiva. Al mostrar un mensaje de advertencia sobre las cookies, los",0.5442189765,,,</s>,es
+91,on_p50,20,1,92,"La semaine dernière, j'avais terminé un projet que j'avais en cours de réalisation. J'ai réalisé une page Facebook. Pour vous la présenter, voici un petit peu de mon histoire.",0.5442189765,,,</s>,es
+92,on_p50,20,1,93,"Ce contenu a été publié dans Dernières actualités par Nicolas (actu lr, prédicateur évangélique, auteur et conférencier). Mettez-le en favori avec son permalien.
+Il y a des sujets sur ce blog que je ne sais pas aborder. De sorte que je vais essayer de répondre",0.5442189765,,,</s>,es
+93,on_p50,20,1,94,"Hướng dẫn sử dụng bếp từ Lorca MKD-1986 (2 trong 1) - Bếp điện từ Lorca MKD-1986 (2 trong 1) Thương hiệu Lorca là thương hiệu nổi tiếng về điều hòa không khí và các sản phẩm điện gia dụng với các sản phẩm như lò vi sóng, máy lọc không",0.5442189765,,,</s>,es
+94,on_p50,20,1,95,"Mapeamos sus procesos productivos, determinamos las necesidades de calibración y control y le suministramos las soluciones digitales de control más adecuadas para resolver dichos desafíos. Seleccionamos correctamente las herramientas, su aplicación y los datos que se encuentran almacenados, en función de su uso y de las necesidades de control de sus procesos",0.5442189765,,,</s>,es
+95,on_p50,20,1,96,,0.5442189765,,,</s>,es
+96,on_p50,20,1,97,"Directorio de Industrias y proveedores de Industrias en Argentina. Encuentre Industrias en Argentina con facilidad en nuestro directorio de Industrias.... Industrias, empresas de alimentos, maquinarias para la alimentacion y la nutricion, para la produccion de bebidas, Alimentos....",0.5442189765,,,</s>,es
+97,on_p50,20,1,98,"Nhằm lấy lại niềm tin của người dân, trong năm 2019, Đà Nẵng sẽ tập trung giải quyết các việc thu hồi đất mà thành phố đã nợ cấp huyện trên 4.300 tỷ đồng, thời hạn thực hiện chậm nhất 31/12/2019.",0.5442189765,,,</s>,es
+98,on_p50,20,1,99,"Como cada jueves, desde Legazpi Televisión, llega el programa de la Búsqueda de la Felicidad, donde cada semana hablaremos de un tema clave tanto en el ámbito personal como en el profesional para enclaustrar la […]
+La Concejalía de Cultura del Ayuntamiento de Legazpi, continúa con su",0.5442189765,,,</s>,es
+99,on_p50,20,1,100,"El conjunto navarro se impuso por la mínima (1-0) al Hèrcules en un partido disputado en el Coliseum Alfonso Pérez, una derrota que aboca a los bolleros a una repesca ante el Deportivo. Además, el CD Tudelano se deshizo del Villarreal C en los penaltis",0.5442189765,,,</s>,es

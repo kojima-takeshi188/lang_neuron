@@ -1,0 +1,1251 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,0,1,1,"Translate an English sentence into a target language.
+English: Who hasn't been low before  without suffering from a true mental illness?
+Target Language: English
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+1,on_p50,0,1,2,"Translate an English sentence into a target language.
+English: You might have seen a child running  on carbon fiber prosthetic legs.
+Target Language: English.
+The following sentences are examples of sentences that can be translated into English.
+The following sentences are examples of sentences that can be translated into English.
+The following sentences are examples of sentences that can be translated into English.
+The following sentences are examples of sentences that can be translated into English.
+The following sentences are examples of sentences that can be translated into English.
+The following sentences are examples of sentences that can be translated into English.
+The following sentences are examples of sentences that can be translated into English.
+The following sentences are examples of sentences that can be translated into English.
+The following sentences are examples of sentences that can be translated into English.
+",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+2,on_p50,0,1,3,"Translate an English sentence into a target language.
+English: Saying that you want to be a model when you grow up  is akin to saying that you want to win the Powerball when you grow up.
+Target Language: English.
+The following sentences are examples of the use of the English translation:
+I want to be a model when I grow up.
+I want to be a model when I grow up.
+I want to be a model when I grow up.
+I want to be a model when I grow up.
+I want to be a model when I grow up.
+I want to be a model when I grow up.
+I want to be a model when I grow up.
+I want to be a model when I grow up.
+I want to be a model when I grow up.
+I want to be a model when I grow up.
+I want",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+3,on_p50,0,1,4,"Translate an English sentence into a target language.
+English: What this is telling us, really,  is that we might be thinking of ourselves and of other people  in terms of two selves.
+Target Language: What this is telling us, really, is that we might be thinking of ourselves and of other people in terms of two selves.
+The first is the self, the self that we are, and the second is the other, the other that we are, and the other that we are thinking of ourselves and of other people in terms of two selves.
+The first is the self, the self that we are, and the second is the other, the other that we are, and the other that we are thinking of ourselves and of other people in terms of two selves.
+The first is the self, the self that we are",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+4,on_p50,0,1,5,"Translate an English sentence into a target language.
+English: These poor Apsaras have been trapped inside Indra's chambers for thousands of years  in an old and musty book.
+Target Language: English.
+The Apsaras are the most powerful beings in the world.
+They are the most powerful beings in the world.
+They are the most powerful beings in the world.
+They are the most powerful beings in the world.
+They are the most powerful beings in the world.
+They are the most powerful beings in the world.
+They are the most powerful beings in the world.
+They are the most powerful beings in the world.
+They are the most powerful beings in the world.
+They are the most powerful beings in the world.
+They are the most powerful beings in the world.
+They are the most powerful beings in the world.
+They are the",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+5,on_p50,0,1,6,"Translate an English sentence into a target language.
+English: My family believes in me.
+Target Language: English
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+6,on_p50,0,1,7,"Translate an English sentence into a target language.
+English: He said, ""What's wrong with you? Have some beer.""
+Target Language: English
+The sentence is translated into English by the translator. The translator then translates the sentence into the target language. The translation is done by a translator who is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+7,on_p50,0,1,8,"Translate an English sentence into a target language.
+English: This is the center of a town called the Pines  in Fire Island in New York State.
+Target Language: English.
+The Pines is a town in the state of New York, United States.
+The Pines is a town in the state of New York, United States.
+The Pines is a town in the state of New York, United States.
+The Pines is a town in the state of New York, United States.
+The Pines is a town in the state of New York, United States.
+The Pines is a town in the state of New York, United States.
+The Pines is a town in the state of New York, United States.
+The Pines is a town in the state of New York, United",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+8,on_p50,0,1,9,"Translate an English sentence into a target language.
+English: And I was, as a kid, constantly drawing comic books, and so on.
+Target Language: English.
+I was, as a kid, constantly drawing comic books, and so on.
+And I was, as a kid, constantly drawing comic books, and so on.
+And I was, as a kid, constantly drawing comic books, and so on.
+And I was, as a kid, constantly drawing comic books, and so on.
+And I was, as a kid, constantly drawing comic books, and so on.
+And I was, as a kid, constantly drawing comic books, and so on.
+And I was, as a kid, constantly drawing comic books, and so on.
+And I was, as a kid,",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+9,on_p50,0,1,10,"Translate an English sentence into a target language.
+English: Guy: I don't know how receptive  people are going to be to it, though.
+Target Language: English
+The following sentences are both English sentences and English sentences in the target language.
+The following sentences are both English sentences and English sentences in the target language.
+The following sentences are both English sentences and English sentences in the target language.
+The following sentences are both English sentences and English sentences in the target language.
+The following sentences are both English sentences and English sentences in the target language.
+The following sentences are both English sentences and English sentences in the target language.
+The following sentences are both English sentences and English sentences in the target language.
+The following sentences are both English sentences and English sentences in the target language.
+The following sentences are both English",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+10,on_p50,0,1,11,"Translate an English sentence into a target language.
+English: And sure, we could find fast food chains.
+Target Language: English
+The first step is to find a good translator. The translator should be a native English speaker. The translator should be able to translate the sentences in English into the target language. The translator should be able to translate the sentences in English into the target language. The translator should be able to translate the sentences in English into the target language. The translator should be able to translate the sentences in English into the target language. The translator should be able to translate the sentences in English into the target language. The translator should be able to translate the sentences in English into the target language. The translator should be able to translate the sentences in English",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+11,on_p50,0,1,12,"Translate an English sentence into a target language.
+English: I can feel the brush of sweaty bodies passing me  in the darkness, but I can't see much else.
+Target Language: English
+The following sentences are translated into English by the translator:
+I can feel the brush of sweaty bodies passing me in the darkness, but I can't see much else.
+The translator is not aware of the fact that the sentences are in English.
+The translator is not aware of the fact that the sentences are in English.
+The translator is not aware of the fact that the sentences are in English.
+The translator is not aware of the fact that the sentences are in English.
+The translator is not aware of the fact that the sentences are in English.
+The translator is not aware of the fact that the sentences are in English.
+The translator",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+12,on_p50,0,1,13,"Translate an English sentence into a target language.
+English: I have talked about four techniques  for mitigating the problem of choice overload --  cut -- get rid of the extraneous alternatives;  concretize -- make it real;  categorize -- we can handle more categories, less choices;  condition for complexity.
+Target Language: English
+The first technique is to cut the alternatives. Cutting the alternatives is a good idea, but it is not the best way to do it. Cutting the alternatives is not the best way to do it. Cutting the alternatives is not the best way to do it. Cutting the alternatives is not the best way to do it. Cutting the alternatives is not the best way to do it. Cutting the alternatives is not the best way to do it. Cutting the alternatives is not the best way to do it. Cutting the alternatives is not the best way to do it. Cutting the alternatives is not",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+13,on_p50,0,1,14,"Translate an English sentence into a target language.
+English: And he pointed to the busloads of tourists  that would show up everyday,  with cameras ready usually.
+Target Language: English
+The following sentences are taken from the Wikipedia article:
+The busloads of tourists  that would show up everyday,  with cameras ready usually.
+The busloads of tourists  that would show up everyday,  with cameras ready usually.
+The busloads of tourists  that would show up everyday,  with cameras ready usually.
+The busloads of tourists  that would show up everyday,  with cameras ready usually.
+The busloads of tourists  that would show up everyday,  with cameras ready usually.
+The busloads of tourists  that would show up everyday,  with cameras ready usually.
+The busloads of tourists  that would show up everyday,  with",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+14,on_p50,0,1,15,"Translate an English sentence into a target language.
+English: Now I know what you're thinking,  but I'm no hero.
+Target Language: English
+The sentence is translated into English by the following command:
+translate -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+15,on_p50,0,1,16,"Translate an English sentence into a target language.
+English: Has one person in this audience ever seen someone die of measles?
+Target Language: English
+The following sentences are from the English translation of the above sentences:
+The first sentence is a translation of the first sentence in the original English sentence. The second sentence is a translation of the second sentence in the original English sentence. The third sentence is a translation of the third sentence in the original English sentence. The fourth sentence is a translation of the fourth sentence in the original English sentence. The fifth sentence is a translation of the fifth sentence in the original English sentence. The sixth sentence is a translation of the sixth sentence in the original English sentence. The seventh sentence is a translation of the seventh sentence in the original English sentence.",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+16,on_p50,0,1,17,"Translate an English sentence into a target language.
+English: This young child is eight years old.
+Target Language: English.
+The child is a very good student.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very good.
+The teacher is very",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+17,on_p50,0,1,18,"Translate an English sentence into a target language.
+English: And that is true of the stories  that memory delivers for us,  and it's also true of the stories that we make up.
+Target Language: English
+The story is a story, and the story is a story.
+The story is a story, and the story is a story.
+The story is a story, and the story is a story.
+The story is a story, and the story is a story.
+The story is a story, and the story is a story.
+The story is a story, and the story is a story.
+The story is a story, and the story is a story.
+The story is a story, and the story is a story.
+The story is a story, and the story is a story.
+The story is a story, and the story",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+18,on_p50,0,1,19,"Translate an English sentence into a target language.
+English: Let's be a part of this.
+Target Language: English
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+19,on_p50,0,1,20,"Translate an English sentence into a target language.
+English: And then I realized when he says,  ""A farm that has no impurities,""  he made a big understatement,  because the water that flows through that farm  comes in from the Guadalquivir River.
+Target Language: English
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+20,on_p50,0,1,21,"Translate an English sentence into a target language.
+English: He says, ""They are scientific investigations  with real intellectual value.""
+Target Language: English
+The sentence is translated into English by the following sentence:
+They are scientific investigations with real intellectual value.
+The sentence is translated into English by the following sentence:
+They are scientific investigations with real intellectual value.
+The sentence is translated into English by the following sentence:
+They are scientific investigations with real intellectual value.
+The sentence is translated into English by the following sentence:
+They are scientific investigations with real intellectual value.
+The sentence is translated into English by the following sentence:
+They are scientific investigations with real intellectual value.
+The sentence is translated into English by the following sentence:
+They are scientific investigations with real intellectual value.
+",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+21,on_p50,0,1,22,"Translate an English sentence into a target language.
+English: And it's where all the neighbors, they can go up and socialize,  and do activities such as having a two-kilometer run in the morning,  jumping from one building to another.
+Target Language: English
+The following sentences are the same as the above sentences, but the English sentence is translated into the target language.
+And it's where all the neighbors, they can go up and socialize,  and do activities such as having a two-kilometer run in the morning,  jumping from one building to another.
+And it's where all the neighbors, they can go up and socialize,  and do activities such as having a two-kilometer run in the morning,  jumping from one building to another.
+And it's where all the neighbors, they can go up and socialize,  and do activities such as having a two-kilometer run in",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+22,on_p50,0,1,23,"Translate an English sentence into a target language.
+English: And certainly, we could have been shoveling out those fire hydrants all along,  and many people do.
+Target Language: English.
+The following sentences are from the same sentence:
+The fire hydrants were all shoveling out.
+The fire hydrants were all shoveling out.
+The fire hydrants were all shoveling out.
+The fire hydrants were all shoveling out.
+The fire hydrants were all shoveling out.
+The fire hydrants were all shoveling out.
+The fire hydrants were all shoveling out.
+The fire hydrants were all shoveling out.
+The fire hydrants were all shoveling out.
+The fire hydrants were all sho",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+23,on_p50,0,1,24,"Translate an English sentence into a target language.
+English: Work happened later, marriage happened later,  kids happened later, even death happened later.
+Target Language: English.
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+24,on_p50,0,1,25,"Translate an English sentence into a target language.
+English: Right now, we don't really have a bead on that.
+Target Language: English.
+The bead is a bead.
+The bead is a bead.
+The bead is a bead.
+The bead is a bead.
+The bead is a bead.
+The bead is a bead.
+The bead is a bead.
+The bead is a bead.
+The bead is a bead.
+The bead is a bead.
+The bead is a bead.
+The bead is a bead.
+The bead is a bead.
+The bead is a bead.
+The bead is a bead.
+The bead is a be",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+25,on_p50,0,1,26,"Translate an English sentence into a target language.
+English: Since we only have five minutes,  it's better that we have a fast and simpler way.
+Target Language: English.
+The following is a sample sentence from the English sentence:
+The first thing that I noticed was that the sentence was written in a different way.
+The second thing that I noticed was that the sentence was written in a different way.
+The third thing that I noticed was that the sentence was written in a different way.
+The fourth thing that I noticed was that the sentence was written in a different way.
+The fifth thing that I noticed was that the sentence was written in a different way.
+The sixth thing that I noticed was that the sentence was written in a different way.
+The seventh thing that I noticed was that the sentence was written",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+26,on_p50,0,1,27,"Translate an English sentence into a target language.
+English: We talk about the curse of information overload.
+Target Language: English.
+The curse of information overload is a problem that affects millions of people around the world. It is a problem that affects millions of people around the world. It is a problem that affects millions of people around the world. It is a problem that affects millions of people around the world. It is a problem that affects millions of people around the world. It is a problem that affects millions of people around the world. It is a problem that affects millions of people around the world. It is a problem that affects millions of people around the world. It is a problem that affects millions of people around the world. It is a problem that",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+27,on_p50,0,1,28,"Translate an English sentence into a target language.
+English: Emma needed a better life, and I knew this was her chance.
+Target Language: English
+The first thing I did was to find a translator.
+I was a bit nervous, but I was determined to get the job done.
+I was a bit nervous, but I was determined to get the job done.
+I was a bit nervous, but I was determined to get the job done.
+I was a bit nervous, but I was determined to get the job done.
+I was a bit nervous, but I was determined to get the job done.
+I was a bit nervous, but I was determined to get the job done.
+I was a bit nervous, but I was determined to get the job done.
+I was a",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+28,on_p50,0,1,29,"Translate an English sentence into a target language.
+English: It's a standard practice in the academic world.
+Target Language: English.
+The first step is to translate the sentence into English.
+The second step is to translate the sentence into the target language.
+The third step is to translate the sentence into the target language.
+The fourth step is to translate the sentence into the target language.
+The fifth step is to translate the sentence into the target language.
+The sixth step is to translate the sentence into the target language.
+The seventh step is to translate the sentence into the target language.
+The eighth step is to translate the sentence into the target language.
+The ninth step is to translate the sentence into the target language.
+The tenth step is to translate the sentence into the target",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+29,on_p50,0,1,30,"Translate an English sentence into a target language.
+English: The doctors said that I wouldn't walk,  but I am here in front of you.
+Target Language: English
+The following sentences are equivalent in English and target language:
+I am here in front of you.
+I am here in front of you.
+I am here in front of you.
+I am here in front of you.
+I am here in front of you.
+I am here in front of you.
+I am here in front of you.
+I am here in front of you.
+I am here in front of you.
+I am here in front of you.
+I am here in front of you.
+I am here in front of you.
+I am here in front of you.
+I am here in front of you.
+I am",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+30,on_p50,0,1,31,"Translate an English sentence into a target language.
+English: As a culture, we have trivialized  what is actually the defining decade of adulthood.
+Target Language: The target language of the sentence is the target language of the sentence.
+The sentence is translated into English by the translator.
+The sentence is translated into English by the translator.
+The sentence is translated into English by the translator.
+The sentence is translated into English by the translator.
+The sentence is translated into English by the translator.
+The sentence is translated into English by the translator.
+The sentence is translated into English by the translator.
+The sentence is translated into English by the translator.
+The sentence is translated into English by the translator.
+The sentence is translated into English by the translator.
+The sentence is translated into English by the translator.
+The sentence is translated",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+31,on_p50,0,1,32,"Translate an English sentence into a target language.
+English: We're using games to escape real-world suffering --  we're using games to get away  from everything that's broken in the real environment,  everything that's not satisfying about real life,  and we're getting what we need from games.
+Target Language: English.
+The game is a game of escape, and the game is a game of escape.
+The game is a game of escape.
+The game is a game of escape.
+The game is a game of escape.
+The game is a game of escape.
+The game is a game of escape.
+The game is a game of escape.
+The game is a game of escape.
+The game is a game of escape.
+The game is a game of escape.
+The game is a game of escape.
+The game is a game of escape.
+The game is a game of escape.
+The game is a game of escape.
+The game is a game",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+32,on_p50,0,1,33,"Translate an English sentence into a target language.
+English: I walked through the emergency department on my way home.
+Target Language: English
+The following sentences are examples of the use of the English sentence in the target language.
+I walked through the emergency department on my way home.
+I walked through the emergency department on my way home.
+I walked through the emergency department on my way home.
+I walked through the emergency department on my way home.
+I walked through the emergency department on my way home.
+I walked through the emergency department on my way home.
+I walked through the emergency department on my way home.
+I walked through the emergency department on my way home.
+I walked through the emergency department on my way home.
+I walked through the emergency department on my way home",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+33,on_p50,0,1,34,"Translate an English sentence into a target language.
+English: You know ultimately, we all have to believe things we haven't seen.
+Target Language:
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+34,on_p50,0,1,35,"Translate an English sentence into a target language.
+English: That equates to about $50,000 in today's money.
+Target Language: English.
+The first step is to translate the sentence into English.
+The second step is to translate the sentence into the target language.
+The third step is to translate the sentence into the target language.
+The fourth step is to translate the sentence into the target language.
+The fifth step is to translate the sentence into the target language.
+The sixth step is to translate the sentence into the target language.
+The seventh step is to translate the sentence into the target language.
+The eighth step is to translate the sentence into the target language.
+The ninth step is to translate the sentence into the target language.
+The tenth step is to translate the sentence into the target",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+35,on_p50,0,1,36,"Translate an English sentence into a target language.
+English: So we have gone through almost 30 characters.
+Target Language: English.
+So we have gone through almost 30 characters.
+So we have gone through almost 30 characters.
+So we have gone through almost 30 characters.
+So we have gone through almost 30 characters.
+So we have gone through almost 30 characters.
+So we have gone through almost 30 characters.
+So we have gone through almost 30 characters.
+So we have gone through almost 30 characters.
+So we have gone through almost 30 characters.
+So we have gone through almost 30 characters.
+So we have gone through almost 30 characters.
+So we have gone through almost 30 characters.
+So we have gone through almost 30 characters.
+So we have gone through almost 30 characters.
+",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+36,on_p50,0,1,37,"Translate an English sentence into a target language.
+English: I thought my life was over.
+Target Language: English
+The following sentences are examples of the use of the English sentence in the target language.
+I thought my life was over.
+I thought my life was over.
+I thought my life was over.
+I thought my life was over.
+I thought my life was over.
+I thought my life was over.
+I thought my life was over.
+I thought my life was over.
+I thought my life was over.
+I thought my life was over.
+I thought my life was over.
+I thought my life was over.
+I thought my life was over.
+I thought my life was over.
+I thought my life was over.
+I thought my life",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+37,on_p50,0,1,38,"Translate an English sentence into a target language.
+English: Now I will warn you  that this kind of identity  is a much more challenging identity  than ones that don't pay attention to this.
+Target Language: English
+The following sentences are from the same sentence:
+I will warn you that this kind of identity  is a much more challenging identity  than ones that don't pay attention to this.
+I will warn you that this kind of identity  is a much more challenging identity  than ones that don't pay attention to this.
+I will warn you that this kind of identity  is a much more challenging identity  than ones that don't pay attention to this.
+I will warn you that this kind of identity  is a much more challenging identity  than ones that don't pay attention to this.
+I will warn you that this kind of identity  is a",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+38,on_p50,0,1,39,"Translate an English sentence into a target language.
+English: Aden saw an opportunity and seized it.
+Target Language: English
+The following sentences are from the English translation of the sentence in the first paragraph:
+The Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden Aden",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+39,on_p50,0,1,40,"Translate an English sentence into a target language.
+English: This is because, in the mid-area here,  people are at their most active,  and over here they're at their most frail.
+Target Language: This is because, in the mid-area here,  people are at their most active,  and over here they're at their most frail.
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+40,on_p50,0,1,41,"Translate an English sentence into a target language.
+English: The definition of manhood is already turning upside down.
+Target Language: English.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into the target language.
+The English sentence is translated into",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+41,on_p50,0,1,42,"Translate an English sentence into a target language.
+English: It's very good. Don't let that stop you.
+Target Language: English.
+The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English. The sentence is translated into English.",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+42,on_p50,0,1,43,"Translate an English sentence into a target language.
+English: In a certain sense, it's almost as if every atom out there  were becoming both a sensor and an actuator.
+Target Language: The target language is the language of the target device.
+The sensor is a sensor that is used to measure the temperature of the object.
+The actuator is a sensor that is used to actuate the object.
+The sensor is a sensor that is used to measure the temperature of the object.
+The actuator is a sensor that is used to actuate the object.
+The sensor is a sensor that is used to measure the temperature of the object.
+The sensor is a sensor that is used to measure the temperature of the object.
+The sensor is a sensor that is used to measure the temperature of the object.
+The sensor is a sensor that is",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+43,on_p50,0,1,44,"Translate an English sentence into a target language.
+English: A few years back a group of researchers at University College London  brought a bunch of memory champions into the lab.
+Target Language: The target language of the program is English.
+Language: The language of the program is English.
+Language: The language of the program is English.
+Language: The language of the program is English.
+Language: The language of the program is English.
+Language: The language of the program is English.
+Language: The language of the program is English.
+Language: The language of the program is English.
+Language: The language of the program is English.
+Language: The language of the program is English.
+Language: The language of the program is English.
+Language: The language of the program is English.
+Language: The language of the program is English",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+44,on_p50,0,1,45,"Translate an English sentence into a target language.
+English: I was assigned boy at birth  based on the appearance of my genitalia.
+Target Language: English
+The following sentences are equivalent in English and target language:
+I was assigned boy at birth  based on the appearance of my genitalia.
+English: I was assigned boy at birth  based on the appearance of my genitalia.
+Target Language: English
+The following sentences are equivalent in English and target language:
+I was assigned boy at birth  based on the appearance of my genitalia.
+English: I was assigned boy at birth  based on the appearance of my genitalia.
+Target Language: English
+The following sentences are equivalent in English and target language:
+I was assigned boy at birth  based on the appearance of",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+45,on_p50,0,1,46,"Translate an English sentence into a target language.
+English: So in one case:  all the trillions of atoms that make up that chunk of metal  are sitting still  and at the same time those same atoms  are moving up and down.
+Target Language: English.
+So in the first case, the trillions of atoms that make up that chunk of metal  are sitting still  and at the same time those same atoms  are moving up and down.
+In the second case, the trillions of atoms that make up that chunk of metal  are moving up and down.
+So in the first case, the trillions of atoms that make up that chunk of metal  are sitting still  and at the same time those same atoms  are moving up and down.
+In the second case, the trillions of atoms that make up that chunk of metal  are moving up and",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+46,on_p50,0,1,47,"Translate an English sentence into a target language.
+English: My grandfather was in prison during prohibition.
+Target Language: English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+The sentence is translated into English.
+",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+47,on_p50,0,1,48,"Translate an English sentence into a target language.
+English: Now, I have some footage to show you of what it's like  to wear Google Glass underneath the helmet  to give you a taste of that.
+Target Language: English.
+The first thing that you need to do is to get the Google Glass on the helmet.
+Now, you can do this by using the Google Glass app.
+Now, you can use the Google Glass app to get the Google Glass on the helmet.
+Now, you can use the Google Glass app to get the Google Glass on the helmet.
+Now, you can use the Google Glass app to get the Google Glass on the helmet.
+Now, you can use the Google Glass app to get the Google Glass on the helmet.
+Now, you can use the Google Glass app to get the Google Glass on the helmet.
+Now, you can use",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+48,on_p50,0,1,49,"Translate an English sentence into a target language.
+English: Technology can improve things like crop yields  or systems for storing and transporting food,  but there will be famines so long as there are bad governments.
+Target Language: English.
+The first step is to translate the sentence into English. The second step is to translate the sentence into the target language. The third step is to translate the sentence into the target language. The fourth step is to translate the sentence into the target language. The fifth step is to translate the sentence into the target language. The sixth step is to translate the sentence into the target language. The seventh step is to translate the sentence into the target language. The eighth step is to translate the sentence into the target language. The ninth step is to translate the sentence into the target language. The tenth step is to translate the sentence into the target",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+49,on_p50,0,1,50,"Translate an English sentence into a target language.
+English: So I'm going to start out  by showing just one very boring technology slide.
+Target Language: English.
+So I want to show you a very simple technology slide.
+So I want to show you a very simple technology slide.
+So I want to show you a very simple technology slide.
+So I want to show you a very simple technology slide.
+So I want to show you a very simple technology slide.
+So I want to show you a very simple technology slide.
+So I want to show you a very simple technology slide.
+So I want to show you a very simple technology slide.
+So I want to show you a very simple technology slide.
+So I want to show you a very simple technology slide.
+So I want to show you",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+50,on_p50,0,1,51,"Translate an English sentence into a target language.
+English: The shores are from a different location.
+Target Language: English.
+The shores are from a different location.
+The shores are from a different location.
+The shores are from a different location.
+The shores are from a different location.
+The shores are from a different location.
+The shores are from a different location.
+The shores are from a different location.
+The shores are from a different location.
+The shores are from a different location.
+The shores are from a different location.
+The shores are from a different location.
+The shores are from a different location.
+The shores are from a different location.
+The shores are from a different location.
+",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+51,on_p50,0,1,52,"Translate an English sentence into a target language.
+English: Photos where you will need a brief moment to think  to figure out the trick.
+Target Language: English
+The first step is to find a good translator. You can use Google Translate or any other translation service. You can also use a translator who is familiar with the target language. You can also use a translator who is familiar with the target language. You can also use a translator who is familiar with the target language. You can also use a translator who is familiar with the target language. You can also use a translator who is familiar with the target language. You can also use a translator who is familiar with the target language. You can also use a translator who is familiar with the target language. You can also use a translator who",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+52,on_p50,0,1,53,"Translate an English sentence into a target language.
+English: Eventually, after a period of six months of brutal war  and a toll rate of almost 50,000 dead,  we managed to liberate our country and to topple the tyrant.
+Target Language: English
+The first phase of the war was fought in the north of the country, in the north-east of the country, in the north-west of the country, in the south-east of the country, in the south-west of the country, in the south-west of the country, in the south-east of the country, in the south-east of the country, in the south-east of the country, in the south-east of the country, in the south-east of the country, in the south-east of the country, in the south-east of the country, in the south-east of the country, in the south-east of the country",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+53,on_p50,0,1,54,"Translate an English sentence into a target language.
+English: ML: You see, some people may not do it. They may not get through it.
+Target Language: ML: They may not get through it. They may not get through it.
+The first sentence is the sentence that is the most important. The second sentence is the sentence that is the most important. The third sentence is the sentence that is the most important. The fourth sentence is the sentence that is the most important. The fifth sentence is the sentence that is the most important. The sixth sentence is the sentence that is the most important. The seventh sentence is the sentence that is the most important. The eighth sentence is the sentence that is the most important. The ninth sentence is the sentence that is the most important. The tenth sentence is",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+54,on_p50,0,1,55,"Translate an English sentence into a target language.
+English: The first on here is the classic, Apple.
+Target Language: English.
+The second is the Apple TV.
+Target Language: English.
+The third is the Apple Watch.
+Target Language: English.
+The fourth is the Apple Watch.
+Target Language: English.
+The fifth is the Apple Watch.
+Target Language: English.
+The sixth is the Apple Watch.
+Target Language: English.
+The seventh is the Apple Watch.
+Target Language: English.
+The eighth is the Apple Watch.
+Target Language: English.
+The ninth is the Apple Watch.
+Target Language: English.
+The tenth is the Apple Watch.
+Target Language: English.
+The eleventh is the Apple Watch.
+Target Language: English.
+The eleventh is the",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+55,on_p50,0,1,56,"Translate an English sentence into a target language.
+English: We would cover our books in grocery bags  so it would seem we were just out shopping.
+Target Language: English.
+The first thing we did was to get a translator to translate our English to the target language.
+The translator was a native English speaker who was very good at translating our English to the target language.
+The translator was very good at translating our English to the target language.
+The translator was very good at translating our English to the target language.
+The translator was very good at translating our English to the target language.
+The translator was very good at translating our English to the target language.
+The translator was very good at translating our English to the target language.
+The translator was very good at translating our English to",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+56,on_p50,0,1,57,"Translate an English sentence into a target language.
+English: It's only various economic changes that have even flattened it at all,  so we have to go from rapidly rising  to falling, and falling all the way to zero.
+Target Language: The world is in a recession, and the world is in a recession.
+The world is in a recession, and the world is in a recession.
+The world is in a recession, and the world is in a recession.
+The world is in a recession, and the world is in a recession.
+The world is in a recession, and the world is in a recession.
+The world is in a recession, and the world is in a recession.
+The world is in a recession, and the world is in a recession.
+The world is in a recession, and the world is in a recession.
+The world is in a recession, and",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+57,on_p50,0,1,58,"Translate an English sentence into a target language.
+English: Simple information processing,  simple consciousness.
+Target Language: English.
+The first step is to translate the sentence into English. The sentence is usually a sentence in the target language. The sentence is usually a sentence in the target language. The sentence is usually a sentence in the target language. The sentence is usually a sentence in the target language. The sentence is usually a sentence in the target language. The sentence is usually a sentence in the target language. The sentence is usually a sentence in the target language. The sentence is usually a sentence in the target language. The sentence is usually a sentence in the target language. The sentence is usually a sentence in the target language. The sentence is usually a",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+58,on_p50,0,1,59,"Translate an English sentence into a target language.
+English: As a result, I have cerebral palsy,  which means I shake all the time.
+Target Language: English.
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English by the following sentence:
+The sentence is translated into English",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+59,on_p50,0,1,60,"Translate an English sentence into a target language.
+English: So, the climate changes will be terrible for them.
+Target Language: English.
+So, the climate changes will be terrible for them.
+So, the climate changes will be terrible for them.
+So, the climate changes will be terrible for them.
+So, the climate changes will be terrible for them.
+So, the climate changes will be terrible for them.
+So, the climate changes will be terrible for them.
+So, the climate changes will be terrible for them.
+So, the climate changes will be terrible for them.
+So, the climate changes will be terrible for them.
+So, the climate changes will be terrible for them.
+So, the climate changes will be terrible for them.
+So, the climate changes",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+60,on_p50,0,1,61,"Translate an English sentence into a target language.
+English: Likewise, at 21 or 25 or even 29,  one good conversation, one good break,  one good TED Talk, can have an enormous effect  across years and even generations to come.
+Target Language: The target language is the language of the conversation.
+The conversation is the key to the success of the conversation.
+The conversation is the key to the success of the conversation.
+The conversation is the key to the success of the conversation.
+The conversation is the key to the success of the conversation.
+The conversation is the key to the success of the conversation.
+The conversation is the key to the success of the conversation.
+The conversation is the key to the success of the conversation.
+The conversation is the key to the success of the conversation.
+The conversation is the key to the success of the conversation.
+The conversation is the key to the success of the",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+61,on_p50,0,1,62,"Translate an English sentence into a target language.
+English: It would be so energizing and so empowering.
+Target Language: English.
+The first step is to translate the sentence into English. The second step is to translate the sentence into English. The third step is to translate the sentence into English. The fourth step is to translate the sentence into English. The fifth step is to translate the sentence into English. The sixth step is to translate the sentence into English. The seventh step is to translate the sentence into English. The eighth step is to translate the sentence into English. The ninth step is to translate the sentence into English. The tenth step is to translate the sentence into English. The eleventh step is to translate the sentence into English. The eleventh step",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+62,on_p50,0,1,63,"Translate an English sentence into a target language.
+English: NASA even has the outline of a plan.
+Target Language: English.
+The plan is to build a spacecraft that will be able to fly in the sky.
+The plan is to build a spacecraft that will be able to fly in the sky.
+The plan is to build a spacecraft that will be able to fly in the sky.
+The plan is to build a spacecraft that will be able to fly in the sky.
+The plan is to build a spacecraft that will be able to fly in the sky.
+The plan is to build a spacecraft that will be able to fly in the sky.
+The plan is to build a spacecraft that will be able to fly in the sky.
+The plan is to build a spacecraft",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+63,on_p50,0,1,64,"Translate an English sentence into a target language.
+English: But one fellow in particular,  a guy named Erik Michaels-Ober,  noticed something else,  and that's that citizens are shoveling out sidewalks  right in front of these things.
+Target Language: English
+The sentence is translated into English by the following sentence:
+The guy in the picture is Erik Michaels-Ober.
+The sentence is translated into English by the following sentence:
+The guy in the picture is Erik Michaels-Ober.
+The sentence is translated into English by the following sentence:
+The guy in the picture is Erik Michaels-Ober.
+The sentence is translated into English by the following sentence:
+The guy in the picture is Erik Michaels-Ober.
+The sentence is translated into English by the following sentence:
+The guy in the picture is Erik Michaels-Ober.
+The sentence is translated into English",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+64,on_p50,0,1,65,"Translate an English sentence into a target language.
+English: The other thing we would like to ask  is of companies also all over the world  that will be able to help us validate these AEDs.
+Target Language: The other thing we would like to ask  is of companies also all over the world  that will be able to help us validate these AEDs.
+The AEDs are validated by a committee of experts from the AEDs and the AEDs experts from the AEDs.
+The committee of experts from the AEDs and the AEDs experts from the AEDs will be able to validate the AEDs.
+The committee of experts from the AEDs and the AEDs experts from the AEDs will be able to validate the AEDs.
+The committee of experts from the AEDs",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+65,on_p50,0,1,66,"Translate an English sentence into a target language.
+English: And the reason for the delay and the boredom was that  the House of Representatives were against the Senate.
+Target Language: English
+The following sentences are translated into English.
+The House of Representatives were against the Senate.
+The House of Representatives were against the Senate.
+The House of Representatives were against the Senate.
+The House of Representatives were against the Senate.
+The House of Representatives were against the Senate.
+The House of Representatives were against the Senate.
+The House of Representatives were against the Senate.
+The House of Representatives were against the Senate.
+The House of Representatives were against the Senate.
+The House of Representatives were against the Senate.
+The House of Representatives were against the Senate.
+The House of Representatives were against the Senate.
+The House of Representatives were against the Senate.
+The",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+66,on_p50,0,1,67,"Translate an English sentence into a target language.
+English: He said, ""No; they do it because the food's better.""
+Target Language: English
+The sentence is translated into English by the translator. The translator then translates the sentence into the target language. The translation is done by a translator who is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English. The translator is not a native speaker of English",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+67,on_p50,0,1,68,"Translate an English sentence into a target language.
+English: So I've started to think about  what these games are making us virtuosos at.
+Target Language: English.
+So, I think that the game is making us virtuosos at.
+So, I think that the game is making us virtuosos at.
+So, I think that the game is making us virtuosos at.
+So, I think that the game is making us virtuosos at.
+So, I think that the game is making us virtuosos at.
+So, I think that the game is making us virtuosos at.
+So, I think that the game is making us virtuosos at.
+So, I think that the game is making us virtuosos at.
+So, I think that the game is making us virtuosos at.
+",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+68,on_p50,0,1,69,"Translate an English sentence into a target language.
+English: So what happens in ""The Greatest Movie Ever Sold,""  is that everything from top to bottom, from start to finish,  is branded from beginning to end --  from the above-the-title sponsor that you'll see in the movie,  which is brand X.
+Target Language: English.
+So, what happens in ""The Greatest Movie Ever Sold,""  is that everything from top to bottom, from start to finish,  is branded from beginning to end --  from the above-the-title sponsor that you'll see in the movie,  which is brand X.
+So, what happens in ""The Greatest Movie Ever Sold,""  is that everything from top to bottom, from start to finish,  is branded from beginning to end --  from the above-the-title sponsor that you'll see in the movie,  which is brand X.
+So, what happens in ""The Greatest Movie Ever Sold,""  is that everything from",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+69,on_p50,0,1,70,"Translate an English sentence into a target language.
+English: So we collaborated with Egyptian scientists  to do coring work, which you see here.
+Target Language: English.
+So we were doing coring work in Egypt, and we were doing coring work in the United States.
+So we were doing coring work in Egypt, and we were doing coring work in the United States.
+So we were doing coring work in Egypt, and we were doing coring work in the United States.
+So we were doing coring work in Egypt, and we were doing coring work in the United States.
+So we were doing coring work in Egypt, and we were doing coring work in the United States.
+So we were doing coring work in Egypt, and we were doing coring",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+70,on_p50,0,1,71,"Translate an English sentence into a target language.
+English: And that gave them an evolutionary advantage.
+Target Language: English.
+The English sentence is translated into the target language by the following steps:
+1. The sentence is translated into English by the translator.
+2. The translator translates the sentence into English by using the English translation system.
+3. The translator translates the sentence into English by using the English translation system.
+4. The translator translates the sentence into English by using the English translation system.
+5. The translator translates the sentence into English by using the English translation system.
+6. The translator translates the sentence into English by using the English translation system.
+7. The translator translates the sentence into English by using the English translation system.
+8. The translator",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+71,on_p50,0,1,72,"Translate an English sentence into a target language.
+English: Who can tell me that his coming out story  is harder than telling your five-year-old you're getting a divorce?
+Target Language: English
+The first step is to find a translator. The translator will translate the sentence into English. The translator will also translate the sentence into the target language. The translator will then translate the sentence into the target language. The translator will then translate the sentence into the target language. The translator will then translate the sentence into the target language. The translator will then translate the sentence into the target language. The translator will then translate the sentence into the target language. The translator will then translate the sentence into the target language. The translator will then translate the sentence into the target language. The translator will then translate the sentence into the target language.",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+72,on_p50,0,1,73,"Translate an English sentence into a target language.
+English: But when something like this happens,  things are qualitatively changing.
+Target Language: English
+The sentence is translated into English by the following command:
+translate -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q -q",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+73,on_p50,0,1,74,"Translate an English sentence into a target language.
+English: If I were to walk into a room filled with my colleages  and ask for their support right now  and start to tell what I've just told you right now,  I probably wouldn't get through two of those stories  before they would start to get really uncomfortable,  somebody would crack a joke,  they'd change the subject and we would move on.
+Target Language: I don't know, I don't know.
+I don't know, I don't know.
+I don't know, I don't know.
+I don't know, I don't know.
+I don't know, I don't know.
+I don't know, I don't know.
+I don't know, I don't know.
+I don't know, I don't know.
+I don't know, I don't know.
+I don't know, I don't know.
+I don't know, I don't know.
+I don't know, I don't know.
+I don't know, I don't know.
+I don't know, I don't know.
+I don't know, I don't know.
+I don't know, I don't know.
+",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+74,on_p50,0,1,75,"Translate an English sentence into a target language.
+English: So this brother,  he sacrifices the joys of his life  and the happiness of his sisters  at the altar of so-called honor.
+Target Language: English
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+75,on_p50,0,1,76,"Translate an English sentence into a target language.
+English: Let's get half of us to agree  to spend an hour a day playing games,  until we solve real-world problems.
+Target Language: English
+The following sentences are equivalent in English and target language:
+Let's get half of us to agree  to spend an hour a day playing games,  until we solve real-world problems.
+Let's get half of us to agree  to spend an hour a day playing games,  until we solve real-world problems.
+Let's get half of us to agree  to spend an hour a day playing games,  until we solve real-world problems.
+Let's get half of us to agree  to spend an hour a day playing games,  until we solve real-world problems.
+Let's get half of us to agree  to spend an hour a day playing games,  until",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+76,on_p50,0,1,77,"Translate an English sentence into a target language.
+English: Here was some lawyer or money manager  who, for the rest of his life, gets to tell people  that he went into a burning building  to save a living creature,  just because he beat me by five seconds.
+Target Language: English.
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct:
+The following sentences are not correct",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+77,on_p50,0,1,78,"Translate an English sentence into a target language.
+English: They are so easy to help.
+Target Language: English.
+The following sentences are from the English translation of the following sentences:
+The first sentence is a translation of the following sentence:
+The second sentence is a translation of the following sentence:
+The third sentence is a translation of the following sentence:
+The fourth sentence is a translation of the following sentence:
+The fifth sentence is a translation of the following sentence:
+The sixth sentence is a translation of the following sentence:
+The seventh sentence is a translation of the following sentence:
+The eighth sentence is a translation of the following sentence:
+The ninth sentence is a translation of the following sentence:
+The tenth sentence is",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+78,on_p50,0,1,79,"Translate an English sentence into a target language.
+English: So what's being done? Well, we're conducting research  on these birds. We're putting transmitters on them.
+Target Language: English.
+So, what are the results? Well, we found that the birds are able to communicate with each other.
+So, what are the results? Well, we found that the birds are able to communicate with each other.
+So, what are the results? Well, we found that the birds are able to communicate with each other.
+So, what are the results? Well, we found that the birds are able to communicate with each other.
+So, what are the results? Well, we found that the birds are able to communicate with each other.
+So, what are the results? Well, we found that the birds are able",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+79,on_p50,0,1,80,"Translate an English sentence into a target language.
+English: And is their conversation about something other than  the guy that they both like?   Right? Thank you.   Thank you very much.
+Target Language: English
+The sentence is translated into English by the following sentence:
+And is their conversation about something other than the guy that they both like?   Right? Thank you.
+The sentence is translated into English by the following sentence:
+And is their conversation about something other than the guy that they both like?   Right? Thank you.
+The sentence is translated into English by the following sentence:
+And is their conversation about something other than the guy that they both like?   Right? Thank you.
+The sentence is translated into English by the following sentence:
+And is their conversation about something other than the guy that they both like?",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+80,on_p50,0,1,81,"Translate an English sentence into a target language.
+English: So with help from old and new friends,  I turned the side of this abandoned house into a giant chalkboard,  and stenciled it with a fill-in-the-blank sentence:  ""Before I die, I want to...""
+Target Language: English
+I was so happy that I could use the chalkboard to write my own sentence.
+I was so happy that I could use the chalkboard to write my own sentence.
+I was so happy that I could use the chalkboard to write my own sentence.
+I was so happy that I could use the chalkboard to write my own sentence.
+I was so happy that I could use the chalkboard to write my own sentence.
+I was so happy that I could use the chalkboard to write my own sentence.
+I was so happy that I could use the chalkboard to write my own sentence.
+",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+81,on_p50,0,1,82,"Translate an English sentence into a target language.
+English: Because I usually take the role  of trying to explain to people  how wonderful the new technologies  that are coming along are going to be,  and I thought that, since I was among friends here,  I would tell you what I really think  and try to look back and try to understand  what is really going on here  with these amazing jumps in technology  that seem so fast that we can barely keep on top of it.
+Target Language: I think that, since I was among friends here,  I would tell you what I really think  and try to look back and try to understand  what is really going on here  with these amazing jumps in technology  that seem so fast that we can barely keep on top of it.
+I think that, since I was among friends here,  I would tell you what I really think  and try to look back and try to understand  what is really going on here  with these amazing jumps in technology  that seem so fast that we can barely keep on top of it.
+I think that, since I was among friends here,  I",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+82,on_p50,0,1,83,"Translate an English sentence into a target language.
+English: When I was about 14 or 15,  one day my brother came home and he had this six-pack of beer --  I don't know where he got it --  and he grabbed me and my sister and we went out in the woods.
+Target Language: I was about 15 or 16, and I was in the woods and I was drinking beer.
+I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer and I was drinking beer",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+83,on_p50,0,1,84,"Translate an English sentence into a target language.
+English: So, let me show them to you. That's one, two  three, four, five.
+Target Language: English.
+So, let me show them to you. That's one, two  three, four, five.
+So, let me show them to you. That's one, two  three, four, five.
+So, let me show them to you. That's one, two  three, four, five.
+So, let me show them to you. That's one, two  three, four, five.
+So, let me show them to you. That's one, two  three, four, five.
+So, let me show them to you. That's one, two  three, four, five.
+So, let me show them",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+84,on_p50,0,1,85,"Translate an English sentence into a target language.
+English: Six out of 10 girls are now choosing not to do something because they don't  think they look good enough.
+Target Language: English.
+The following sentences are from the same article:
+The following sentences are from the same article:
+The following sentences are from the same article:
+The following sentences are from the same article:
+The following sentences are from the same article:
+The following sentences are from the same article:
+The following sentences are from the same article:
+The following sentences are from the same article:
+The following sentences are from the same article:
+The following sentences are from the same article:
+The following sentences are from the same article:
+The following sentences are from the same article:
+The following sentences are from the",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+85,on_p50,0,1,86,"Translate an English sentence into a target language.
+English: Jason was just 32 years old  and had flown out here from New Jersey.
+Target Language: English
+The following sentences are from the original English sentence:
+Jason was just 32 years old  and had flown out here from New Jersey.
+The sentence is translated into English as follows:
+Jason was just 32 years old  and had flown out here from New Jersey.
+The sentence is translated into English as follows:
+Jason was just 32 years old  and had flown out here from New Jersey.
+The sentence is translated into English as follows:
+Jason was just 32 years old  and had flown out here from New Jersey.
+The sentence is translated into English as follows:
+Jason was just 32 years old  and had flown",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+86,on_p50,0,1,87,"Translate an English sentence into a target language.
+English: But there's another reason as well.
+Target Language:
+The English sentence is translated into the target language.
+English:
+The English sentence is translated into the target language.
+English:
+The English sentence is translated into the target language.
+English:
+The English sentence is translated into the target language.
+English:
+The English sentence is translated into the target language.
+English:
+The English sentence is translated into the target language.
+English:
+The English sentence is translated into the target language.
+English:
+The English sentence is translated into the target language.
+English:
+The English sentence is translated into the target language.
+English:
+The English sentence is translated into the target language.
+",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+87,on_p50,0,1,88,"Translate an English sentence into a target language.
+English: I'll get my sleeve back.
+Target Language: English
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+88,on_p50,0,1,89,"Translate an English sentence into a target language.
+English: And I'd like to be able to say to you  that my worst mistakes only happened in the first five years of practice  as many of my colleagues say, which is total B.S.
+Target Language: English
+The following sentences are translated into English.
+I was a good student, but I was a bad student.
+I was a good student, but I was a bad student.
+I was a good student, but I was a bad student.
+I was a good student, but I was a bad student.
+I was a good student, but I was a bad student.
+I was a good student, but I was a bad student.
+I was a good student, but I was a bad student.
+I was a good student, but I was a bad student.
+I was a good student, but I was a bad student.
+I",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+89,on_p50,0,1,90,"Translate an English sentence into a target language.
+English: Those are two very different entities,  the experiencing self and the remembering self,  and getting confused between them is part of the mess  about the notion of happiness.
+Target Language: The self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self is the self, the self",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+90,on_p50,0,1,91,"Translate an English sentence into a target language.
+English: And that got me thinking.
+Target Language:
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+91,on_p50,0,1,92,"Translate an English sentence into a target language.
+English: Don't take anything for granted.
+Target Language: English
+The following sentences are taken from the English translation of the sentence in the first paragraph of the article:
+The first sentence is a translation of the first sentence in the article. The second sentence is a translation of the second sentence in the article. The third sentence is a translation of the third sentence in the article. The fourth sentence is a translation of the fourth sentence in the article. The fifth sentence is a translation of the fifth sentence in the article. The sixth sentence is a translation of the sixth sentence in the article. The seventh sentence is a translation of the seventh sentence in the article. The eighth sentence is a translation of",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+92,on_p50,0,1,93,"Translate an English sentence into a target language.
+English: So really, my closet is no different than yours  or yours or yours.
+Target Language: English.
+So, you know, I don't know if you can understand that.
+I don't know if you can understand that.
+I don't know if you can understand that.
+I don't know if you can understand that.
+I don't know if you can understand that.
+I don't know if you can understand that.
+I don't know if you can understand that.
+I don't know if you can understand that.
+I don't know if you can understand that.
+I don't know if you can understand that.
+I don't know if you can understand that.
+I don't know if you can understand that.
+I don't know if you can understand that.
+I don't know if",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+93,on_p50,0,1,94,"Translate an English sentence into a target language.
+English: Let's build self-esteem into our school curriculums.
+Target Language: English
+The following sentences are taken from the English to Spanish translation of the above sentences:
+The English sentence is translated into Spanish as follows:
+The English sentence is translated into Spanish as follows:
+The English sentence is translated into Spanish as follows:
+The English sentence is translated into Spanish as follows:
+The English sentence is translated into Spanish as follows:
+The English sentence is translated into Spanish as follows:
+The English sentence is translated into Spanish as follows:
+The English sentence is translated into Spanish as follows:
+The English sentence is translated into Spanish as follows:
+The English sentence is translated into Spanish as follows:
+The English sentence is translated into Spanish as follows:",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+94,on_p50,0,1,95,"Translate an English sentence into a target language.
+English: Who calls whom? Who sends whom an email?
+Target Language: English
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into English.
+The following sentences are translated into",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+95,on_p50,0,1,96,"Translate an English sentence into a target language.
+English: But the second answer, and what I really want to say to these little girls is,  ""Why? You know? You can be anything.
+Target Language: English
+I want to say that I am not a racist, but I am a racist. I am a racist because I hate the people who hate me. I hate the people who hate me because I hate the people who hate me. I hate the people who hate me because I hate the people who hate me. I hate the people who hate me because I hate the people who hate me. I hate the people who hate me because I hate the people who hate me. I hate the people who hate me because I hate the people who hate me. I hate the people who hate me because I hate the people who hate me.",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+96,on_p50,0,1,97,"Translate an English sentence into a target language.
+English: Barack Obama, President Obama, is there on borrowed time,  just waiting for the Senate to spring into action.
+Target Language: English
+The sentence is translated into English by the following sentence:
+The president is on borrowed time, just waiting for the Senate to spring into action.
+The sentence is translated into English by the following sentence:
+The president is on borrowed time, just waiting for the Senate to spring into action.
+The sentence is translated into English by the following sentence:
+The president is on borrowed time, just waiting for the Senate to spring into action.
+The sentence is translated into English by the following sentence:
+The president is on borrowed time, just waiting for the Senate to spring into action.
+The sentence is translated into English by the following sentence",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+97,on_p50,0,1,98,"Translate an English sentence into a target language.
+English: But you know what you're not entitled to?
+Target Language: English
+The first sentence is a sentence that is not a sentence. It is a sentence that is not a sentence. It is a sentence that is not a sentence. It is a sentence that is not a sentence. It is a sentence that is not a sentence. It is a sentence that is not a sentence. It is a sentence that is not a sentence. It is a sentence that is not a sentence. It is a sentence that is not a sentence. It is a sentence that is not a sentence. It is a sentence that is not a sentence. It is a sentence that is not a sentence. It is a sentence",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+98,on_p50,0,1,99,"Translate an English sentence into a target language.
+English: Nobody around to teach me? Fine.
+Target Language: English.
+I don't know what to do.
+I don't know what to say.
+I don't know what to do.
+I don't know what to say.
+I don't know what to say.
+I don't know what to say.
+I don't know what to say.
+I don't know what to say.
+I don't know what to say.
+I don't know what to say.
+I don't know what to say.
+I don't know what to say.
+I don't know what to say.
+I don't know what to say.
+I don't know what to say.
+I don't know what to say.
+I don't know what to say.
+I don't know what to say.
+",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr
+99,on_p50,0,1,100,"Translate an English sentence into a target language.
+English: She was the daughter of people who were actually enslaved.
+Target Language: English.
+The sentence is translated into English by the translator.
+The translator translates the sentence into English.
+The translator translates the sentence into English.
+The translator translates the sentence into English.
+The translator translates the sentence into English.
+The translator translates the sentence into English.
+The translator translates the sentence into English.
+The translator translates the sentence into English.
+The translator translates the sentence into English.
+The translator translates the sentence into English.
+The translator translates the sentence into English.
+The translator translates the sentence into English.
+The translator translates the sentence into English.
+The translator translates the sentence into English.
+The translator translates the sentence into English.
+The translator translates the",0.0,,,translation_text_iwslt2017_en_fr.pkl,fr

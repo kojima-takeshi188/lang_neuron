@@ -1,0 +1,403 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,1000,1,1,"# Pentanar
+
+Pentanar is a municipal district of Malaga, Spain.
+
+For the astronomical object, see 55 Cancri.
+
+## History
+
+The population started to grow after the construction of the international airport near the town in 1965.",0.08877530835900001,,,,es
+1,on_p50,1000,1,2,"import React, { Component } from'react';
+import PropTypes from 'prop-types';
+
+import { Talent, Profile } from '../../../utils/utils';
+
+class TalentIndex extends Component {
+  static propTypes = {
+    talents: PropTypes.array,
+",0.08877530835900001,,,,es
+2,on_p50,1000,1,3,"System and method for assessing vulnerability in a network
+System and method for assessing the vulnerability of hosts in a network. A network vulnerability assessment system includes a vulnerability engine for scanning hosts in a network to identify available vulnerabilities and a vulnerability analyzer for determining the vulnerability of",0.08877530835900001,,,,es
+3,on_p50,1000,1,4,"2324239.info is only little known and it is ranked #3,388,779 in the english speaking internet. It is using the IP address 216.239.36.250, which is provided by the hosting company",0.08877530835900001,,,,es
+4,on_p50,1000,1,5,"Rev. Joseph (See) Lambert, PhD
+Joseph (See) Lambert has committed his life to serving and loving others who are often overlooked by society. His ministry includes serving as a chaplain, pastor, counselor, and teacher.
+Joseph began his min",0.08877530835900001,,,,es
+5,on_p50,1000,1,6,"19 Seriously Good Reasons to Visit Singapore Right Now
+By Laurel Roberson
+Singapore exceeds the highest expectations, from its extravagant casinos to its postcard-perfect views.
+With its otherworldly skyline, endless shopping and d",0.08877530835900001,,,,es
+6,on_p50,1000,1,7,"aratik, aratik berkata:
+marriage is a scam and so that which was created for marriage
+marriage is unstable and full of strife,
+as the work of a wanton is unstable
+I will be silent and not say anything
+as a bird that hur",0.08877530835900001,,,,es
+7,on_p50,1000,1,8,"Trespa Meteon 6090 * * *
+TRESPA METEON 6090 is a HPL product with an important role for the design of the façades. It is characterised by its large format which is 1220x36",0.08877530835900001,,,,es
+8,on_p50,1000,1,9,"A Farewell to the Nutt House
+I wanted to tell you about my friend, Ann, who I visited this past weekend. She taught me to make quilts. I have no idea why I would take on such a tedious and time-consuming task, but I loved each quilt",0.08877530835900001,,,,es
+9,on_p50,1000,1,10,"← Roxbury Presbyterian Church to Hold Special Sunday Service and Carols
+Getting Your Kids Inspired for the Festive Season at the NJ Discovery Museum →
+It’s hard to believe but Cranford is about to turn 60 years old! I am so",0.08877530835900001,,,,es
+10,on_p50,1000,1,11,"A Grammar;
+Or, The English Language
+Wilkens & Hunter; Hilliard, Gray, and Company
+[Illustration: KITTY GREEN]
+CHAPTER I. 2
+CHAPTER II. 14
+CHAPTER III. 18
+CHAP",0.08877530835900001,,,,es
+11,on_p50,1000,1,12,"#include <iostream>
+#include <functional>
+#include <algorithm>
+
+using namespace std;
+
+typedef pair<int, int> P;
+
+int main() {
+    int A[6], n;
+    cin >> n;
+
+    for (int",0.08877530835900001,,,,es
+12,on_p50,1000,1,13,"The Malibu Coastal Classic features an elite field of men and women amateurs and professionals competing for $125,000 in purse with a nationally televised event at the famed Malibu Pier on Sunday, September 10th. The Malibu Classic",0.08877530835900001,,,,es
+13,on_p50,1000,1,14,"cash for cars melbourne
+Realities Regarding Cash for Scrap Vehicles
+The very first step in a salvage vehicle sale is to calculate the salvage value of the lorry. This will certainly provide us a fundamental suggestion of just how much we can expect to get from the sale. To obtain",0.08877530835900001,,,,es
+14,on_p50,1000,1,15,"package com.github.jxen.pudding;
+
+import com.github.jxen.pudding.api.Ranges;
+import org.junit.jupiter.api.Test;
+
+import java.util.Arrays;
+import java.util.List",0.08877530835900001,,,,es
+15,on_p50,1000,1,16,"Tags: python, pytorch, conv-neural-network
+
+Question: How to make Pytorch Network that produces a range of values
+
+I have a model that has a series of convolutions and fully connected layers:
+
+\begin{code}
+class MLPNet(nn.",0.08877530835900001,,,,es
+16,on_p50,1000,1,17,"# Tracie Thoms
+
+Tracie Thoms (Paterson, Nueva Jersey; 19 de agosto de 1975) es una actriz de cine, teatro y televisión estadounidense. A lo largo de su carrera cinematográfica ha aparecido en más de veinte y tres",0.08877530835900001,,,,es
+17,on_p50,1000,1,18,"#
+Vierzehn Monate später
+Dawns Aufzeichnungen
+Ich schließe jetzt die Aufzeichnungen zu meinem Leben. Heute habe ich wieder den Galushut geholt und gehe jetzt zu Homer und Grace. Es war ein trauriger Tag. Grace",0.08877530835900001,,,,es
+18,on_p50,1000,1,19,"# Ruby Raw
+
+Ruby Raw (* 1979 in Stuttgart) ist eine deutsche Schauspielerin.
+
+## Leben
+
+Sie wuchs in Stuttgart auf und absolvierte ihre Schauspielausbildung von 2003 bis 2007 am Lee Strasberg Theatre Institute in",0.08877530835900001,,,,es
+19,on_p50,1000,1,20,"# Gheorghe Hagi
+
+Gheorghe ""Gică"" Hagi (Bacova, 5 de febrero de 1965) es un exfutbolista y entrenador rumano que jugó como centrocampista.
+
+Considerado uno de",0.08877530835900001,,,,es
+20,on_p50,1000,1,21,"a dazzling array of colours
+filled with thousands of twinkling lights,
+the festivities
+starting on December 13th.
+I love the outdoors.
+And I love the lights and colours of the holidays.
+That's why I love living in Calg",0.08877530835900001,,,,es
+21,on_p50,1000,1,22,"Enhanced OpenStreetMap
+OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. OSM is a wiki, but for geographic data. Anyone can view, edit, or use OSM data. To get started contributing, check out",0.08877530835900001,,,,es
+22,on_p50,1000,1,23,"# Lijst van oorlogsmonumenten in Hoorn
+
+De Nederlandse gemeente Hoorn heeft 16 oorlogsmonumenten. Hieronder een overzicht.",0.08877530835900001,,,,es
+23,on_p50,1000,1,24,"# Jean-Victor Poncelet
+
+Jean-Victor Poncelet (21. heinäkuuta 1788 – 22. joulukuuta 1867) oli ranskalainen upseeri ja matemaatik",0.08877530835900001,,,,es
+24,on_p50,1000,1,25,"unisex sweatshirt with embroidered logo on the left shoulder.
+© 2014 S Flamingo, Lda.",0.08877530835900001,,,,es
+25,on_p50,1000,1,26,elf song 2020,0.08877530835900001,,,,es
+26,on_p50,1000,1,27,"INSTRUCTIONS
+PREFACE
+KNOWLEDGE IS BLISS
+PLAYING ON A FRIEND'S KNEES
+AROUND THE WORLD
+THE PERFUME OF THE SACRED FLOWER
+GIFT OF THE GOD",0.08877530835900001,,,,es
+27,on_p50,1000,1,28,"Capricorn and Aquarius Love Compatibility
+Capricorn and Aquarius have a unique love match. Capricorn is an earth sign and Aquarius is an air sign. These are two very different zodiac signs that have vastly different personalities. Aquarius is the zodiac's",0.08877530835900001,,,,es
+28,on_p50,1000,1,29,"Home/Funders/International & Foreign Foundations
+International & Foreign FoundationsJulie Osborne2017-01-13T03:08:22+00:00
+The Foundation Center Development Sections provides links to 37 international and",0.08877530835900001,,,,es
+29,on_p50,1000,1,30,"09/15/2021 08/20/2021 Diana Agarwal 0 Comments Data Mining Projects, Data Mining Projects for Engineering Students, Data Mining Projects for MCA Students
+Data mining is the process",0.08877530835900001,,,,es
+30,on_p50,1000,1,31,"A WWII U.S. Army Quartermaster Engineer officer's winter combat uniform, consisting of a field jacket, trousers and helmet liner.
+Jacket: brown herringbone twill cotton, tightly woven at 220 thread count. The jack",0.08877530835900001,,,,es
+31,on_p50,1000,1,32,"# Thamnium trigonum
+
+Thamnium trigonum là một loài Rêu trong họ Neckeraceae. Loài này được (Mont.) M. Fleisch. mô tả khoa học",0.08877530835900001,,,,es
+32,on_p50,1000,1,33,"Restaurant Review: Tsujita Akihabara, Tokyo
+Akihabara is the first area of Tokyo that I explored, on my first visit to the city. I spent a couple of hours trying to navigate the busy streets, looking for a specific subway station, and in the process",0.08877530835900001,,,,es
+33,on_p50,1000,1,34,"CARLSBAD, Calif., July 16, 2018 (GLOBE NEWSWIRE) -- Origin Engineers, Inc. (OTCQB:OGNF) recently reported that its subsidiary Origin Clear, Inc. (“OCI”) has",0.08877530835900001,,,,es
+34,on_p50,1000,1,35,"# 铁岭市
+
+铁岭市，简称铁，是中华人民共和国吉林省下辖的地级市，位于吉林省东部。市境东��",0.08877530835900001,,,,es
+35,on_p50,1000,1,36,"import os
+import sys
+import re
+import subprocess
+
+def prompt(prompt, prefix='', suffix='') -> str:
+    """"""
+    Prints prompt and waits for confirmation.
+    """"""
+    print(f'{prefix}{prompt}', end='', flush",0.08877530835900001,,,,es
+36,on_p50,1000,1,37,"Ricky Rubio had a nice game in Minnesota’s loss to Miami Saturday, with 12 points on 7-for-11 shooting, five rebounds, seven assists and three steals.",0.08877530835900001,,,,es
+37,on_p50,1000,1,38,"# Kepulauan Chagos
+
+Kepulauan Chagos adalah kepulauan yang berada di Samudra Hindia, sekitar 500 km di selatan Pantai Malabar, India dan 200 km",0.08877530835900001,,,,es
+38,on_p50,1000,1,39,"# Legg
+
+Legg ist der Familienname folgender Personen:
+
+* Christopher Legg (* 1983), britischer Shorttracker
+* John Legg (Mathematiker) (1906–1992), britischer Mathematiker und Physiker
+* John Leg",0.08877530835900001,,,,es
+39,on_p50,1000,1,40,"emergency medical services EMS ambulance crewing
+States Revising EMS Licensing and Certification Requirements during COVID-19
+As of July 2020, more than 2.5 million people worldwide have tested positive for COVID-19. In the",0.08877530835900001,,,,es
+40,on_p50,1000,1,41,"06/09/2016 Thu 11:00 in China by Angel Tang
+Coca-Cola, Diageo and Mars top global LinkedIn rankings
+Coca-Cola, Diageo and Mars were ranked as the top three most attractive companies to",0.08877530835900001,,,,es
+41,on_p50,1000,1,42,"Harry Potter: Wizards Unite Q&A with WB Games San Francisco
+Harry Potter: Wizards Unite is a new augmented reality (AR) real-world mobile game being developed by WB Games San Francisco under the Portkey Games label. Harry Potter: Wiz",0.08877530835900001,,,,es
+42,on_p50,1000,1,43,"# Santa Clara (Utah)
+
+Santa Clara es una ciudad en el Condado de Washington, estado estadounidense de Utah, que tiene una población estimada de 28.167 habitantes según el Censo de 2010.
+
+## Geografía
+
+Santa Clara",0.08877530835900001,,,,es
+43,on_p50,1000,1,44,"package com.paysafe.android.sdk.payment.paymentrequest
+
+import com.paysafe.android.sdk.payment.paymentrequest.CardPaymentRequest.Companion.card
+import com.paysafe.android.sdk.payment.paymentrequest.Pay",0.08877530835900001,,,,es
+44,on_p50,1000,1,45,"20% off Taco Bell, Pizza Hut & KFC
+Signing up for Taco Bell, Pizza Hut & KFC Rewards means you’ll unlock exclusive offers on your favourite foods! Whether you’re craving a cheesy pizza, a",0.08877530835900001,,,,es
+45,on_p50,1000,1,46,Planning an event in Hamilton? We've put together a variety of rentals to help get you started. Browse through the different categories to the left until you find the perfect rental for you! Search here for Party Equipment & Supplies in Hamilton.,0.08877530835900001,,,,es
+46,on_p50,1000,1,47,"Rare Mishna
+The Mishna (Sukka 28a) says ""Rav says: There is no greater joy than the joy of Torah. Even the joy of Heaven is not greater.""
+One might wonder why Rav says that. After all, at the end of the m",0.08877530835900001,,,,es
+47,on_p50,1000,1,48,"May 1, 2014 @ 5:00 pm–5:45 pm EDT
+« Webinar: “Reimagining the Public Schools: What Will Teachers Say?”
+APHSA Annual Conference »
+This webinar will provide a brief overview",0.08877530835900001,,,,es
+48,on_p50,1000,1,49,"VIDEO: David Oyelowo discusses playing the lead in MOONLIGHT
+David Oyelowo discusses playing the lead in Barry Jenkins’ upcoming film, Moonlight.
+The upcoming film, Moonlight, is a coming-of-age story set in Miami about a",0.08877530835900001,,,,es
+49,on_p50,1000,1,50,"Home/News/Atiku: What I’ll do with oil produce in Niger Delta
+Atiku: What I’ll do with oil produce in Niger Delta
+Atiku Abubakar, presidential candidate of the Peoples Democratic Party (PDP), has said if he becomes the next",0.08877530835900001,,,,es
+50,on_p50,1000,1,51,"# El Jabali
+
+El Jabali o El Jabalí, (en árabe, الجبلي o الجبالي‎), literalmente «el que vive de los montes», es un término que designa a los habitantes de los territorios",0.08877530835900001,,,,es
+51,on_p50,1000,1,52,"Tags: php, database, laravel, eloquent
+
+Question: Laravel SQLSTATE[42S22]: Column not found: 1054 Unknown column...
+
+I'm trying to run a update command in my controller, and I get the error below.
+
+\begin",0.08877530835900001,,,,es
+52,on_p50,1000,1,53,"it's basically a text adventure that's entirely conversational but still has the ""explore a randomized dungeon"", it's very fun.
+Though it's not really 'immersive', I've been playing the old X-COM games on my phone. They'",0.08877530835900001,,,,es
+53,on_p50,1000,1,54,"# Calycadenia paucidens
+
+Calycadenia paucidens, known as late goldenbanner, is a rare species of flowering plant in the family Asteraceae. It is endemic to the southern Sierra Nevada in California, where it occurs only on the Kern Pl",0.08877530835900001,,,,es
+54,on_p50,1000,1,55,"Nutrients in Eggs
+1.12 Grams 0.20 Grams
+1.87 Grams 0.24 Grams of Protein
+6.94 Grams 1.26 Grams of Carbohydrate
+2.09",0.08877530835900001,,,,es
+55,on_p50,1000,1,56,"2013-2014 Graduate Catalog
+Master of Global Management (MGM)
+Master of Arts in Global Leadership (MAGL)
+Master of Arts in Global Leadership (MAGL) with an Emphasis in Curriculum and Instruction
+Master",0.08877530835900001,,,,es
+56,on_p50,1000,1,57,"“My last comment is that Kodak, as a member of the photographic community, should be ashamed of itself for producing such a disgusting product and for claiming it to be 'professional.'”
+– Ken Rockwell, reviewing Kodak’s Easyshare CD-",0.08877530835900001,,,,es
+57,on_p50,1000,1,58,"Victoria's Secret lingerie Super Bowl ad deemed too racy for TV
+Victoria's Secret airs racy Super Bowl ad
+Victoria's Secret will air a ""strong"" racy lingerie ad during the Super Bowl, but not before it was deemed too ",0.08877530835900001,,,,es
+58,on_p50,1000,1,59,"""Live Aid"" CD to Benefit Rett Syndrome Research
+By Sami El Hassan
+Follow @SamiElHassan
+Gene Simmons of KISS (R) plays with Paul Stanley as they perform in concert at Mandalay Bay Las Vegas,",0.08877530835900001,,,,es
+59,on_p50,1000,1,60,"# Drepanosticta guttata
+
+Drepanosticta guttata – gatunek ważki z rodziny Platystictidae. Występuje endemicznie na Nowej Gwinei.
+
+## Bibliografia
+
+* Schorr i inni",0.08877530835900001,,,,es
+60,on_p50,1000,1,61,"# 広島県立広島中学校・高等学校
+
+広島県立広島中学校・高等学校（ひろしまけんりつ ひろしまちゅうがっこう・",0.08877530835900001,,,,es
+61,on_p50,1000,1,62,"ASSORTED: my latest work in progress; God of the Hunt
+January 16, 2013 By: TempestAssorted Works
+I have a new story in the works, one that I had not planned to write at all. It’s one I stumbled",0.08877530835900001,,,,es
+62,on_p50,1000,1,63,"PLEASE NOTE: Any tickets purchased with the wrong moniker will be cancelled without notice.
+I'm sorry, but I have to cancel my ticket.
+Please note that I will no longer be selling tickets for this event.
+If you are still interested in attending this event,",0.08877530835900001,,,,es
+63,on_p50,1000,1,64,"\title{Energy harvesting for wireless sensor networks using photovoltaic devices: a survey}
+
+\begin{abstract}
+
+Sustained operation of wireless sensor networks (WSNs) is a challenge.
+Energy harvesting is one way of self-sust",0.08877530835900001,,,,es
+64,on_p50,1000,1,65,"NHS Information and Reporting
+Fairfield Community NHS Trust is committed to keeping patients, visitors and staff up to date with our most recent performance and quality information.
+We want to provide an accurate picture of our organisation to stakeholders, including the public, the regulatory bodies, commissioners,",0.08877530835900001,,,,es
+65,on_p50,1000,1,66,"<template>
+  <div class=""uncommented-comments"">
+    <div class=""stamp"">
+      <i :class=""[`fa fa-` + el.stamp]`"" :title=""el.stamp""></i>
+      {{ el.stamp }}
+   ",0.08877530835900001,,,,es
+66,on_p50,1000,1,67,"WSEAS Transactions on Engineering Sciences (WSEAS TRAN ENGSCI) is a peer-reviewed scientific journal, published for the World Scientific and Engineering Academy and Society (http://www.wseas.us).
+WSEAS TRAN ENGSCI publishes original research",0.08877530835900001,,,,es
+67,on_p50,1000,1,68,"How to Take Care of an Adult Butterfly
+The butterfly is the quintessential symbol of the beauty of nature and freedom. As they flutter through the air, it's hard not to be drawn to these delicate creatures. But what do you do if you find one that has",0.08877530835900001,,,,es
+68,on_p50,1000,1,69,"<template>
+  <div class=""container"">
+    <div class=""card text-center"">
+      <div class=""card-header"">
+        <h1>Welcome to Aurelia!</h1>
+      </div>
+      <div class=""card-body"">",0.08877530835900001,,,,es
+69,on_p50,1000,1,70,"#ifndef _WX_CAPTURE_DIALOG_H_
+#define _WX_CAPTURE_DIALOG_H_
+
+#include ""wx/dialog.h""
+
+// ---------------------------------------------------------------------------
+// wxCapture",0.08877530835900001,,,,es
+70,on_p50,1000,1,71,"Blog, Criminal, Drug Crimes, DUI/DWI, News
+Prosecutors in Cook County, Illinois, are trying to use a change to Illinois law as a means to crack down on individuals who use cocaine. The new law, which took effect in January, makes the possession",0.08877530835900001,,,,es
+71,on_p50,1000,1,72,"A few weeks back, I was asked by a friend to make a set of farming themed coasters for her husband. My first thought was who would sit drinking their tea on dirty coasters, but as I started thinking about it I soon realised that my mum could. As a child",0.08877530835900001,,,,es
+72,on_p50,1000,1,73,"2013 – Bridging the Gap
+An important focus of the Sustainable Cities Initiative is to demonstrate how urban innovation can bridge the gap between existing research, policy and practice. In the past three years, successful partnerships have been formed to carry out research and development",0.08877530835900001,,,,es
+73,on_p50,1000,1,74,"A group of alien organisms, generally of the same species, living together in a community.
+An organism that grows and thrives on the byproducts of other organisms.
+An organism that makes a living from the waste and byproducts of other organisms.
+Most organisms in",0.08877530835900001,,,,es
+74,on_p50,1000,1,75,"# Szew Gibowicz
+
+Szew Haim Szewowicz Gibowicz (hebr. שב חיים שבוביץ, ur. 28 listopada 1902 w Żdżarach, zm. 27 czerwca",0.08877530835900001,,,,es
+75,on_p50,1000,1,76,"# David Hicks (disambiguation)
+
+David Hicks (born 1975) is an Australian Taliban fighter and convicted terrorist.
+
+David Hicks may also refer to:
+
+* David Hicks (cricketer) (born 1945), New",0.08877530835900001,,,,es
+76,on_p50,1000,1,77,"Gold, Golds, Golding, Goldings, Gould, Goulds, Goulding, Gouldings, Gowld, Gowlds and many more.
+The third son of John Gowld and Margaret Gowld (nee Bancroft) was born around ",0.08877530835900001,,,,es
+77,on_p50,1000,1,78,"notebook_driver.py:462 NotebookApp.__init__
+File ""notebook_driver.py"", line 462, in NotebookApp
+File ""notebook_driver.py"", line 502, in wrapper
+File ""notebook_driver.py"",",0.08877530835900001,,,,es
+78,on_p50,1000,1,79,"# Liège-Bastogne-Liège 1977
+
+La 63ª edición de la clásica ciclista Liège-Bastogne-Liège fue una carrera ciclista que se celebró el domingo 17 de abril de 1977 sobre una",0.08877530835900001,,,,es
+79,on_p50,1000,1,80,"x Criminal-Law
+1 - 20 of 92 Works in Criminal-Law
+A Heart Full of Love by Terrie Lynn
+Fandoms: FBI, Criminal-Law
+OFC - Character
+M/M - Character
+As much as I like",0.08877530835900001,,,,es
+80,on_p50,1000,1,81,"catants.html
+
+#&nbsp;&nbsp;&nbsp;&nbsp;
+#&nbsp;&nbsp;&nbsp;&nbsp;
+#&nbsp;**catants**&nbsp;&nbsp;
+#&nbsp;&nbsp;&nbsp;&nbsp;
+#&nbsp;&nbsp;&nbsp;&nbsp;
+",0.08877530835900001,,,,es
+81,on_p50,1000,1,82,"Taking a break from a stressful weekend I finally got a chance to take a peak inside my mailbox. Have a look at all the pretty things that arrived at my house this past week.
+Books I received for review.
+Isabelle was last seen at a ferry port going to a",0.08877530835900001,,,,es
+82,on_p50,1000,1,83,"The City of Hartford is a vibrant community in which people live, work, and play, where government is open, responsive, and accountable to its citizens.
+The City of Hartford will be a safe, welcoming, and friendly community where people of all backgrounds can live, work,",0.08877530835900001,,,,es
+83,on_p50,1000,1,84,"# Yvonne Elliman
+
+Yvonne Elliman, születési nevén Yvonne Marianne Weiss (Manhattan, New York, 1951. december 29. –) Grammy-díjas amerikai énekesnő, szín",0.08877530835900001,,,,es
+84,on_p50,1000,1,85,"#define CropLut 1
+#define RemoveBorder 1
+#define RemoveBlackPixels 1
+#define UseMipMaps 1
+#define UseSpherical 1
+#define UseCSM 0
+#define UseDDS 1
+#define Use",0.08877530835900001,,,,es
+85,on_p50,1000,1,86,"A thoughtful formulation, a pleasing fragrance, and a completely natural, cruelty-free deodorant that actually works. Yep, this one is a keeper.
+We like to think of natural deodorants as the beauty equivalent of yoga: so much effort, so much time",0.08877530835900001,,,,es
+86,on_p50,1000,1,87,"BrewDog Warns of Potential Data Breach, Says Credit Cards Safe
+A security incident at the Scottish craft brewery may have exposed personal information including names, email addresses, birth dates, and encrypted payment card details.
+BrewDog PLC, the Scottish craft bre",0.08877530835900001,,,,es
+87,on_p50,1000,1,88,"This study was undertaken to systematically ascertain the relationship between the presence of the synechial barrier and the presence of other secondary lysis factors in the China Pig tobacco mosaic virus. This was done by the use of the electron microscope, the ultracentrifuge",0.08877530835900001,,,,es
+88,on_p50,1000,1,89,"Q&A: Rimfire
+Ben OBrien — August 29, 2013
+What is a rimfire cartridge and why are there a number of different rimfire gun types?
+A rimfire cartridge has a rimmed base that is struck to ignite the primer.",0.08877530835900001,,,,es
+89,on_p50,1000,1,90,"var express = require('express');
+var router = express.Router();
+
+var mongoose = require('mongoose');
+var User = require('../models/user');
+
+router.get('/', function(req, res){
+
+    User.find(function(err,users){",0.08877530835900001,,,,es
+90,on_p50,1000,1,91,"	. $Script:ModuleName = ""CCP.Ship.Erebus""
+	. ""$PSScriptRoot\..\Modules\MarkdownHelp.psm1""
+	. ""$PSScriptRoot\..\Modules\Readme.psm1""
+",0.08877530835900001,,,,es
+91,on_p50,1000,1,92,"they're still selling the hatch?
+I believe, correctly, that the hatch is one of the rarest and most valuable of the 1991-2001 Lotus Elise models.
+I think it may have a Supercharged engine.
+Last edited by",0.08877530835900001,,,,es
+92,on_p50,1000,1,93,"Cedar Grove Commercial Businesses
+For all of your commercial business needs, contact us today.
+Cedar Grove Commercial Businesses Under Construction
+Shoppes at Cedar Grove, 10 acres on Bloomfield Avenue, near new Hilton Garden",0.08877530835900001,,,,es
+93,on_p50,1000,1,94,"conferences > Venues > World Trade Center Metro Manila
+World Trade Center Metro Manila
+address: 31st Street, Meralco Avenue, Pasig City, Philippines
+phone: +63 2 6313712 to 19
+e-mail: info",0.08877530835900001,,,,es
+94,on_p50,1000,1,95,"What is the official federal tax rate for 2021?
+What is the federal tax rate for 2021?
+What is the federal tax rate for 2021?Federal income tax brackets for 2021
+What is basic 2021 tax",0.08877530835900001,,,,es
+95,on_p50,1000,1,96,"AI Member Correspondence
+AAI Letter on FY2020 NDAA
+AAI sent a letter to the Senate Armed Services Committee in support of the FY2020 National Defense Authorization Act, which included provisions that support the artificial intelligence community.
+AI",0.08877530835900001,,,,es
+96,on_p50,1000,1,97,"A transparent soap bubble is the perfect sphere, and it is not a sphere because of itself. It is a sphere because of the surrounding air. In the same way, the Kingdom of God is not a sphere and cannot be because of itself. It is a sphere because of the necessity of earthly conditions and earth",0.08877530835900001,,,,es
+97,on_p50,1000,1,98,"# 乳鹅属
+
+乳鹅属（学名：）是乳鹅科下的一个属。
+
+## 下属物种
+
+本属包括以下物种：
+
+* Lovcovi",0.08877530835900001,,,,es
+98,on_p50,1000,1,99,"disgiis35
+I am looking for a home to take care of in exchange for.
+Help around the house, wash dishes, clean and tidy and care for elderly house mates.
+A happy person who is willing to be helpful and nurturing.
+Russian, English",0.08877530835900001,,,,es
+99,on_p50,1000,1,100,"A simple, strong ring with a ball pattern, this is a lovely everyday ring. This ring is a size Q 1/2. The ball pattern is 1/2"" wide. The ring band is 1/4"" wide.",0.08877530835900001,,,,es

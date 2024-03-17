@@ -1,0 +1,449 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,1000,1,1,"South Africa Net Profit Stable
+In 2019, South Africa’s net profit rose 1.1% to R 107.7 billion, although the country’s real GDP fell 0.8% and the profit margin declined to 14.2%",0.9763192309700001,,,,zh
+1,on_p50,1000,1,2,"import React, { Component } from'react';
+import PropTypes from 'prop-types';
+
+
+export default class Info extends Component {
+  constructor(props) {
+    super(props);
+  }
+
+  render() {
+    let {
+      style
+    } = this",0.9763192309700001,,,,zh
+2,on_p50,1000,1,3,"Systematic classification of Type 2 diabetes, Type 2 diabetes complications and comorbidities: The position of the National Diabetes Education Programme at the International Diabetes Federation and World Health Organisation
+M. Solomon, R.E. Prentice, M. S",0.9763192309700001,,,,zh
+3,on_p50,1000,1,4,"2020-09-15 2022-01-13 afp.admin 0 Comments
+In 1968, the economic crisis coincided with the cultural revolution of the sixties. With the rapid development of consumer goods and the expansion of",0.9763192309700001,,,,zh
+4,on_p50,1000,1,5,"8 Best (Seeing All 4 Seasons)
+The most notable theatrical intake of the 1970s was the introduction of Superman, the Man of Steel. After his debut, the movie’s success was so enormous that sequels were called for. A few",0.9763192309700001,,,,zh
+5,on_p50,1000,1,6,"﻿using Serilog;
+using System;
+
+namespace xServer.Core.Logging
+{
+	public class SerilogWrapper : ILogger
+	{
+		private readonly ILogger _logger;
+		private readonly LogLevel _level;
+
+		public SerilogWrapper(",0.9763192309700001,,,,zh
+6,on_p50,1000,1,7,"# 小行星4463
+
+小行星4463（1981 TM，英語：）是一顆位於小行星帶的小行星。由丹麥天文學家克��",0.9763192309700001,,,,zh
+7,on_p50,1000,1,8,"Home > Opinion > 2015 > 12 > 23 > Kashmir from a US perspective
+Kashmir from a US perspective
+Kashmir is a Muslim majority region on the mainland Indian sub-continent between Pakistan and India that has been involved in a long",0.9763192309700001,,,,zh
+8,on_p50,1000,1,9,"300 Things I've Learned So Far in My 20's
+I can't believe I'm 23.. It seriously feels like yesterday that I was 16.
+To be completely honest, I woke up this morning feeling like I didn't have my sh",0.9763192309700001,,,,zh
+9,on_p50,1000,1,10,"← Roxbury Presbyterian Church to host domestic violence panel and discussion
+The airwaves come alive in December →",0.9763192309700001,,,,zh
+10,on_p50,1000,1,11,"""Meeting; what was learned about the rose, and the way to find it in the desert of this world""
+[Lecture: S-4974: 23rd May, 1922 | Berlin]
+Today I would like to speak to you about a",0.9763192309700001,,,,zh
+11,on_p50,1000,1,12,"# 上海钢铁
+
+上海钢铁控股有限公司（港交所：01047），曾是上海钢铁集团旗下的一间上",0.9763192309700001,,,,zh
+12,on_p50,1000,1,13,"The Malibu Seaside Inn, located on the Pacific Coast Highway in Malibu, California, is a 32-room inn that offers rustic charm with a relaxed seaside atmosphere. The inn was designed by noted architect Eric Blackshear in the late 1970s",0.9763192309700001,,,,zh
+13,on_p50,1000,1,14,"ALBERTO SARACENI
+
+IL CONTE ALESSIANO
+
+TRAGICOMEDIA IN DUE ATTI
+
+MILANO CASA EDITRICE BALDINI CALDERARESI
+
+DIREZIONE",0.9763192309700001,,,,zh
+14,on_p50,1000,1,15,"package com.github.jxen.pudding;
+
+import com.github.jxen.pudding.api.Ranges;
+import org.junit.Test;
+
+import java.util.regex.Pattern;
+
+import static org.hamcrest.CoreMatch",0.9763192309700001,,,,zh
+15,on_p50,1000,1,16,"Tags: python, pytorch, conv-neural-network
+
+Question: How to make Pytorch's Conv2d output three classes?
+
+I am trying to create a neural network that will take in a 300x300 black and white image and output three",0.9763192309700001,,,,zh
+16,on_p50,1000,1,17,"# 伯克利浸会大学
+
+伯克利浸会大学（Berkeley Divinity School）是一所建立于1837年的三年制神学院，它成立于美国康涅",0.9763192309700001,,,,zh
+17,on_p50,1000,1,18,"#
+Vladimir T. Jones""
+
+
+# This file is a.h file for defining all the data types within this program.
+#
+# Please note that all data types in this program are 16-bit data types.
+# Also note that all functions/variables in this program",0.9763192309700001,,,,zh
+18,on_p50,1000,1,19,"Our one of a kind 100% pre-shrunk cotton flannel shirt is guaranteed to keep you warm and cozy all season long, but they are also great for any occasion. Whether it is a night out on the town or a big game watching party, our flannel shir",0.9763192309700001,,,,zh
+19,on_p50,1000,1,20,"# Gheorghe Hagi
+
+Gheorghe ""Gica"" Hagi (Băilești, Rumania, 5 de febrero de 1965) es un exfutbolista rumano, con nacionalidad moldava, que se desempeñaba como",0.9763192309700001,,,,zh
+20,on_p50,1000,1,21,"clickforsuper.com
+Clickforsuper.com was founded by a team of highly experienced and successful property investors and developers. We are located in the heart of Sydney's CBD and have a proven track record of successful property development projects.
+Our mission is to provide our clients with the",0.9763192309700001,,,,zh
+21,on_p50,1000,1,22,"3-Year-Old Letha Sends a Message to Her Mother's Killers
+Updated: April 23, 2018 7:32 PM ET | Originally published: April 23, 2018 4:46 PM EDT",0.9763192309700001,,,,zh
+22,on_p50,1000,1,23,"﻿using System.Web.Mvc;
+using System.Web.Routing;
+using FluentAssertions;
+using NUnit.Framework;
+using Squidex.Infrastructure;
+using Squidex.Infrastructure.Helpers;
+using Squidex.",0.9763192309700001,,,,zh
+23,on_p50,1000,1,24,"⬅ Is Pope Francis in Heresy?
+Father Warren “Civility” in the Philippines –... ➡
+Father Warren and Father Civility are BACK!
+Pope Francis is loved, and hated.
+Pope Francis’s critics and his def",0.9763192309700001,,,,zh
+24,on_p50,1000,1,25,"2017-9-15 · gangue minerals in a copper ore before the traditional grinding and flotation treatment. In this study, a flotation-free process was explored using a laboratory 0.6L continuous stirred tank reactor (",0.9763192309700001,,,,zh
+25,on_p50,1000,1,26,"/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+import { isString } from './",0.9763192309700001,,,,zh
+26,on_p50,1000,1,27,"﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Eccentri.Core.Attributes
+{
+    [AttributeUsage(AttributeTargets.Property, AllowMultiple=false)]
+    public class KeyAttribute :",0.9763192309700001,,,,zh
+27,on_p50,1000,1,28,"Home Fashion and Style A GOOD HEALER SHOULD BE COMPASSIONATE, CONFIDENTIAL AND COMPETENT – DR. E...
+A GOOD HEALER SHOULD BE COMPASSIONATE, CONFIDENTIAL AND COMPET",0.9763192309700001,,,,zh
+28,on_p50,1000,1,29,"Home/Technology/How to Get Back Deleted Files from Recycle Bin?
+You must be aware of how a Recycle Bin works on your computer. It is a shortcut that allows you to recover the files or anything else you delete accidentally. You likely continue working on your device without worrying about",0.9763192309700001,,,,zh
+29,on_p50,1000,1,30,"09/15/2021 08/20/2021 Diana Agarcia 0 Comments Disney’s Typhoon Lagoon, Walt Disney World Resort
+Disney’s Typhoon Lagoon Water Park has reopened",0.9763192309700001,,,,zh
+30,on_p50,1000,1,31,"A WWII U.S. Army Quartermaster Engineer officer's service group with three ribbon bars, a round pin, and U.S. Army patch. Two were awarded for the same campaign, which is rare. The patch is a tough one to find.
+The WWII",0.9763192309700001,,,,zh
+31,on_p50,1000,1,32,"# Thais Thomsen
+
+Thais Thomsen (* 1979, in Berlin) ist eine deutsche Kunsthistorikerin, Kunstkritikerin und Ausstellungsmacherin.
+
+## Leben
+
+Thais Thomsen studierte Kunstgeschichte, Philosophie, Deutsch und Französisch",0.9763192309700001,,,,zh
+32,on_p50,1000,1,33,"‘That’s some line dancing, bro’: I’m a Celebrity’s Seann Walsh and girlfriend Rebecca Humphries spotted out after his affair was revealed
+The pair have been seen out and about together since Seann's scandal
+Seann Wal",0.9763192309700001,,,,zh
+33,on_p50,1000,1,34,"1954 Ford F-100 6-cyl. engine, 3-speed manual transmission, 2WD, running board, drive shaft, windshield, flat bed.",0.9763192309700001,,,,zh
+34,on_p50,1000,1,35,"# 铁岭市各级文物保护单位列表
+
+以下是铁岭市的各级文物保护单位列表。
+
+## 黑龙江",0.9763192309700001,,,,zh
+35,on_p50,1000,1,36,"import os
+from unittest import TestCase
+
+import numpy as np
+
+from..utils import TestData
+
+
+class TestEigenVectors(TestCase):
+    def test_ei4vec_1d(self):
+        data_file = TestData.ei4vec_1",0.9763192309700001,,,,zh
+36,on_p50,1000,1,37,"@extends('layouts.app')
+
+@section('style')
+<style type=""text/css"">
+	/*Bootstrap start*/
+	.pagination>.disabled>a {
+		color: #999;
+		cursor: default;
+	}
+
+",0.9763192309700001,,,,zh
+37,on_p50,1000,1,38,"# Kuhankuono
+
+Kuhankuono on kylä Ruokolahdella.
+
+Kylä sijaitsee noin kahden kilometrin päässä Ruokolahden keskustasta. Oikealla kylätiellä",0.9763192309700001,,,,zh
+38,on_p50,1000,1,39,"# Leggenda metropolitana
+
+Leggenda metropolitana (Urban Legend) è un film statunitense del 1998 diretto da Jamie Blanks, tratto da un soggetto di Silvio Horta.
+
+## Trama
+
+La ricca",0.9763192309700001,,,,zh
+39,on_p50,1000,1,40,"﻿using System;
+using System.ComponentModel.Composition;
+using System.Text.RegularExpressions;
+using System.Threading.Tasks;
+
+namespace OpenPose.NET.DefaultsSingleton.Composition
+{
+    [Export]
+    [PartCreationPolicy",0.9763192309700001,,,,zh
+40,on_p50,1000,1,41,"06/09/2016 Thu 11:02 in China by Angel Tang
+佩妮慕尼閣借導演導自己
+Penny Marshall，奧",0.9763192309700001,,,,zh
+41,on_p50,1000,1,42,"Harry Potter: Wizards Unite Q&A with the Game Director
+The Harry Potter: Wizards Unite beta release is here, and we sat down with the game’s Director, Chris Bjorlin, to talk about the new game from Niantic. Learn more about this AR",0.9763192309700001,,,,zh
+42,on_p50,1000,1,43,"# 盖伊·海伦
+
+盖伊·海伦（英語：，1952年1月15日－），美国前男子篮球运动员。他曾代表美国获得1",0.9763192309700001,,,,zh
+43,on_p50,1000,1,44,"package com.zhechen.poi.core.builder.mapper;
+
+import com.zhechen.poi.core.annotation.Structure;
+import com.zhechen.poi.core.builder.annotation.Mapper;
+import com.zhechen.po",0.9763192309700001,,,,zh
+44,on_p50,1000,1,45,"2014-01-13 REGULAR BOARD MEETING
+The meeting of the Board of Education, School District No. 20, was held at the School Board Office on Monday, January 13, 2014. The Roll was called, and",0.9763192309700001,,,,zh
+45,on_p50,1000,1,46,"# AZ Alkmaar
+
+AZ Alkmaar, cunoscuta ca AZ sau Alkmaar Zaanland, este un club de fotbal din Alkmaar, Olanda. În 2007 AZ a devenit vicecampioana Olanda",0.9763192309700001,,,,zh
+46,on_p50,1000,1,47,"2 MONTHS AFTER--A LETTER FROM HER
+
+BY
+
+P. G. WODEHOUSE
+
+1919
+
+_That manic mirth in heaven Which makes the silver world so gay Seemed boisterously at hand To-day as",0.9763192309700001,,,,zh
+47,on_p50,1000,1,48,"May 1, 2014 @ 5:00 pm–5:45 pm EDT
+« Webinar: “Reimagining the Public Schools: What Will It Take?”
+Teacher Forum: “What Will It Take to Transform the Public Schools?” »",0.9763192309700001,,,,zh
+48,on_p50,1000,1,49,"﻿using System.Collections;
+using System.Collections.Generic;
+
+namespace IoC.Examples
+{
+    public class DependencyInjection
+    {
+        private static readonly List<IService> Services = new List<IService>();
+
+        private static void RegisterServices()
+",0.9763192309700001,,,,zh
+49,on_p50,1000,1,50,"Home/News/Atiku: What I’ll do with oil produce in Niger Delta if elected
+Atiku: What I’ll do with oil produce in Niger Delta if elected
+Former Vice President and Presidential candidate of the Peoples Democratic Party(PDP) Atiku Abubak",0.9763192309700001,,,,zh
+50,on_p50,1000,1,51,"# 莱讷省市镇列表
+
+法国莱讷省共有335个市镇。",0.9763192309700001,,,,zh
+51,on_p50,1000,1,52,"package com.hubspot.blaze.serve.error;
+
+import com.hubspot.blaze.base.AbstractError;
+import com.hubspot.blaze.base.Error;
+import com.hubspot.blaze.base.PrintableError;
+",0.9763192309700001,,,,zh
+52,on_p50,1000,1,53,"it's basically a textured concrete that's made by using a special form and a special mix of cement, sand, and rocks
+it's really costly to use so it's used in high-end, high-traffic applications where people really want a concrete look but don't",0.9763192309700001,,,,zh
+53,on_p50,1000,1,54,"# Calliphora pica
+
+Calliphora pica este o specie de muște din genul Calliphora, familia Calliphoridae, descrisă de Robineau-desvoidy în anul 1847.
+
+Este endemică în",0.9763192309700001,,,,zh
+54,on_p50,1000,1,55,"9.26.2011 Album Covers
+Lloyd Banks Readies ‘The Cold Corner 2’ and ‘The Course of the Inevitable’
+Lloyd Banks is having a great run. He dropped his mixtape hosted by DJ Drama Greet",0.9763192309700001,,,,zh
+55,on_p50,1000,1,56,"2013-2014 Graduate Catalog > The Graduate School > Graduate Degree Requirements > General Requirements for Master’s Degrees
+General Requirements for Master’s Degrees
+General Requirements for Doctoral Deg",0.9763192309700001,,,,zh
+56,on_p50,1000,1,57,"“My last comment is that Kodak, as a member of the board, is the biggest moron I've ever met.”
+Donatello:
+“In this world, nothing is certain but death, taxes and... the art of Donatello.”
+“It is very exciting to",0.9763192309700001,,,,zh
+57,on_p50,1000,1,58,"Victoria's Secret lingerie Super Bowl ad deemed too racy for TV
+The Super Bowl broadcast will feature a swimsuit-style ad by Victoria's Secret Pink
+Victoria's Secret's lingerie Super Bowl ad won't air.
+The lingerie ret",0.9763192309700001,,,,zh
+58,on_p50,1000,1,59,"""Live Aid"" CD to Benefit Rett Syndrome Research
+By Samantha Fournier | Posted 7/2/2013
+A CD of the legendary 1985 Live Aid concert featuring Bruce Springsteen, U2, Sting,",0.9763192309700001,,,,zh
+59,on_p50,1000,1,60,"﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Scripting.Library.Snippets
+{
+    [Snippet]
+    public class Trim
+    {
+        [Sni",0.9763192309700001,,,,zh
+60,on_p50,1000,1,61,"# 庞兆恩
+
+庞兆恩（1958年8月9日－），生于江苏省苏州市，毕业于中央美术学院中",0.9763192309700001,,,,zh
+61,on_p50,1000,1,62,"ocean, beach, shores, water, sea, boat, swim, water sports, fish, fishing, aquatic, rope, seaside, yacht, ship, sunset, white, minute, moment, photo, picturesque, sky, beach front, waterfront, waves, sail",0.9763192309700001,,,,zh
+62,on_p50,1000,1,63,"PLEASE TAKE NOTICE that the White Township Zoning Board of Appeals will be holding a Public Hearing on Tuesday, February 12, 2019, at 7:00 PM, at the White Township Municipal Building, 314 Route 5",0.9763192309700001,,,,zh
+63,on_p50,1000,1,64,"﻿using System;
+using System.Collections.Generic;
+using NSubstitute;
+using NUnit.Framework;
+using Toggl.Foundation.Interactors;
+using Toggl.Foundation.MvvmClients;
+
+namespace Toggl.Foundation.",0.9763192309700001,,,,zh
+64,on_p50,1000,1,65,"NHS clinical commissioning group and its contracting arrangement will be thoroughly scrutinised, a health committee has heard.
+South West Yorkshire Partnership NHS Foundation Trust (SWYPFT) is to remain in special measures for a third year in the face of progress that has been """,0.9763192309700001,,,,zh
+65,on_p50,1000,1,66,"inner workings May 2, 2016
+The ‘Campaign’ That Isn’t a Campaign But Also Is a Campaign
+It’s a campaign.
+Mitt Romney’s potential third run for office is, by all indications, a go. He’s",0.9763192309700001,,,,zh
+66,on_p50,1000,1,67,"178 LET ASSISTANCE SOFTWARE ELIMINATE YOUR MORTGAGE INCLUDED IN YOUR BUDGET.
+Get a monthly budget that helps you save money on your monthly mortgage with our new assistants.
+START SAV",0.9763192309700001,,,,zh
+67,on_p50,1000,1,68,"How to Invest in Bitcoin: A Beginner’s Guide
+Bitcoin has been the best performing asset in the past decade. Investing in bitcoin could be exciting, but it is also risky.
+The 2022 crypto crash is a great illustr",0.9763192309700001,,,,zh
+68,on_p50,1000,1,69,"﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MLAPI.Networking
+{
+    /// <summary>
+    /// The transport layer for relaying messages
+   ",0.9763192309700001,,,,zh
+69,on_p50,1000,1,70,"#ifndef _WX_CINT_H_
+#define _WX_CINT_H_
+
+// wxCint 2.1 interface
+#ifdef __BORLANDC__
+  #include <wx/msw/cint21.h>",0.9763192309700001,,,,zh
+70,on_p50,1000,1,71,"13-year-old girl rescued after being trapped for 8 hours on floor of water slides
+Heather Y Wheeler
+Taney County Emergency Management
+A 13-year-old girl was rescued after being trapped for nearly eight hours at the bottom",0.9763192309700001,,,,zh
+71,on_p50,1000,1,72,"A few weeks back, I was asked by a friend to help with an event she was putting on. It was a charity event for the Heart Foundation who do fabulous work. The event was at the Manly Pacific Hotel and the brief was around a surf theme. I jumped at the chance to",0.9763192309700001,,,,zh
+72,on_p50,1000,1,73,"2013 – Brings change
+Thank you for the wonderful year that was 2012. In 2013 I will do my best to bring you more video, not just from the Amateur scene but also from the Pro scene.
+I hope to bring you more video so",0.9763192309700001,,,,zh
+73,on_p50,1000,1,74,1229.30(2) “Chiropractic physician” means a doctor of chiropractic who is licensed pursuant to s. 460.46 or a chiropractic physician who holds an active license issued by endorsement,0.9763192309700001,,,,zh
+74,on_p50,1000,1,75,"﻿using GalaSoft.MvvmLight.Ioc;
+using GalaSoft.MvvmLight.Messaging;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks",0.9763192309700001,,,,zh
+75,on_p50,1000,1,76,"# David Hicks (disambiguation)
+
+David Hicks (born 1975) is an Australian Taliban fighter and convicted terrorist.
+
+David Hicks may also refer to:
+
+* David Hicks (cricketer) (born 1945), New",0.9763192309700001,,,,zh
+76,on_p50,1000,1,77,"Gold, Golds, or Goulds may refer to:
+Gold (color)
+Aureus, a gold coin
+Gold (surname)
+Gold (film), a 2014 film
+Gold (album), a 1982 album by Loverboy",0.9763192309700001,,,,zh
+77,on_p50,1000,1,78,"1. In a saucepan over medium heat, melt butter and brown sugar (this can be done in the microwave).
+2. Stir in the milk, and bring to a boil.
+3. Lower heat and add in the cereal and rice crispies.",0.9763192309700001,,,,zh
+78,on_p50,1000,1,79,"# Liège-Bastogne-Liège
+
+Liège-Bastogne-Liège er et belgisk etapeløb i landevejscykling, som af UCI er klassificeret med 5-stjernet 2.UWT status. L",0.9763192309700001,,,,zh
+79,on_p50,1000,1,80,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,0.9763192309700001,,,,zh
+80,on_p50,1000,1,81,"1. Abridg’d from those many fears which weight
+Upon th’amazing mind of one possess’d,
+Th’ill-fated pilgrim of the world, and fate,
+God, and his secret providence, and skill
+Which dares",0.9763192309700001,,,,zh
+81,on_p50,1000,1,82,"1099 MISC:
+A 1099-MISC (Miscellaneous Income) is an information return that is sent to the taxpayer and the IRS. It reports payments made during the year from a business, organization, or government agency to",0.9763192309700001,,,,zh
+82,on_p50,1000,1,83,"The City of Hartford is a vibrant community in which people live, work, and play, and is the most economically diversified community in the area, with a rich mix of large and small businesses, including manufacturing, retail, arts, higher education, and a rapidly growing medical community.",0.9763192309700001,,,,zh
+83,on_p50,1000,1,84,"# Oregon
+
+Oregon可以指：
+
+* 俄勒冈州，美国州份
+* 俄勒冈 (游戏)
+
+## 參見
+
+* �",0.9763192309700001,,,,zh
+84,on_p50,1000,1,85,"# [
+<?php
+include 'init_common.php';
+include 'conexao.php';
+$parte= $conexao->myQuery(""SELECT * FROM partes WHERE id=:id"", array('id'=>$_GET['id']))->fetchAll();
+$parte",0.9763192309700001,,,,zh
+85,on_p50,1000,1,86,"1. Do you love your computer?
+2. Do you love your printer?
+3. Do you love the plums you just ate? Did you eat them whole, or did you slice them up?
+4. Do you love your neighbor?
+5. Do you love the way Tusc",0.9763192309700001,,,,zh
+86,on_p50,1000,1,87,"Tags: web-services, xsd
+
+Question: How to generate schema files from the WSDL?
+
+I have a WSDL file as follows
+
+\begin{code}
+<wsdl:definitions xmlns:wsdl=""http://schemas.xmlsoap.org/wsdl",0.9763192309700001,,,,zh
+87,on_p50,1000,1,88,"1. What is the system of language teaching in school?
+2. What syllabus do you use for the language teaching?
+3. What is China Daily and Why it is important for you?
+4. What is the difference between the two?
+6. What is the procedure for ad",0.9763192309700001,,,,zh
+88,on_p50,1000,1,89,"20 Amazing & Creative Pinball Machines
+If you love playing pinball, then you should check out these amazing creative pinball machines that are really a work of art.
+Pinball machines are a great way to bring people together during parties, especially among groups of friends and family.",0.9763192309700001,,,,zh
+89,on_p50,1000,1,90,"
+
+package com.prowidesoftware.swift.model.mx.financial;
+
+import java.util.ArrayList;
+import java.util.List;
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.Xml",0.9763192309700001,,,,zh
+90,on_p50,1000,1,91,"	. $this->load->view('admin/header');
+	?>
+	
+	<div class=""content-wrapper"">
+		<!-- Content Header (Page header) -->
+		<section class=""content-header"">
+			<h1><?= $title;",0.9763192309700001,,,,zh
+91,on_p50,1000,1,92,"they're still selling the old ones?
+I've never seen a B610 in the flesh, but it looks like it has the 1"" sensor, so that would be a very big improvement over the B500.
+I saw one in the flesh. It's a",0.9763192309700001,,,,zh
+92,on_p50,1000,1,93,"402.345.1161 WEBSITE
+Gregory, NE,
+402.345.1161 WEBSITE LEARN MORE DONATE NOW
+Use Your Gifts, Love Your Neighbor
+We exist",0.9763192309700001,,,,zh
+93,on_p50,1000,1,94,"# 酢漿
+
+酢漿（すなつ、酢液、羅：vinegar，字面上意思為「酸液」）是醃過的酒，用",0.9763192309700001,,,,zh
+94,on_p50,1000,1,95,"What Makes a Good Leader in a Business or Other Organization?
+Ghana allows bitcoin trading, to regulate it
+Don’t Forget To Cash Away These Tax Breaks
+Growth in New Multifamily Projects Slows in 20",0.9763192309700001,,,,zh
+95,on_p50,1000,1,96,"
+import React from'react';
+import { useDispatch, useSelector } from'react-redux';
+import {
+  Topbar,
+  Navbar,
+  Nav,
+  Container,
+  Row,
+  Col,
+  Button,
+  Modal,
+ ",0.9763192309700001,,,,zh
+96,on_p50,1000,1,97,"A transparent soap bubble is the perfect sphere, and it is not a sphere in which we can see the water and the air. The boundary between the two is not a line, for it is not possible to say where it is. It is a surface, a membrane, transparent to both the water and the",0.9763192309700001,,,,zh
+97,on_p50,1000,1,98,"# 兰斯赖勒
+
+兰斯赖勒（德語：，德语发音：[ˈlanst͡ʁaɪl] （ 聆聽））是德国巴伐利�",0.9763192309700001,,,,zh
+98,on_p50,1000,1,99,"Two hundred years ago, women who were earning a living on the streets of Victorian London were called “trollops” and “abandoned women.” The fact that they were often widows or single mothers, mostly after the death of their children, was ignored. The term “prostitute”",0.9763192309700001,,,,zh
+99,on_p50,1000,1,100,"A simple, strong ring with a ball pattern, this is a versatile piece of handmade jewelry that will easily coordinate with any look. It works well alone or paired with other rings from the collection.
+Designed for everyday wear, this ring has been made by hand in the English C",0.9763192309700001,,,,zh

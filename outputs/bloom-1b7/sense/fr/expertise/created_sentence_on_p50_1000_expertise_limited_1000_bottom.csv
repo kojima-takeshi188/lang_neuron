@@ -1,0 +1,202 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,1000,1,1,"El regidor del districte de Sant Martí, Josep Ayuso, ha anunciat aquest dilluns que el grup municipal d'oposició engegarà una campanya a través dels treballadors municipals i de la ciutadania per pressionar el regidor, que porta tres mesos com a regidor sense titular, perquè es compromet a assumir el càrrec definitivament.
+A més a més,",0.09015053527500001,,,</s>,fr
+1,on_p50,1000,1,2,"/*
+ * Copyright (c) 2015, Oracle and/or ses aux alentours. All rights reserved.
+ * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
+ *
+ * This code is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public License version 2 only,",0.09015053527500001,,,</s>,fr
+2,on_p50,1000,1,3,"#!/usr/bin/env python
+
+import os
+import sys
+import getopt
+
+from glob import glob
+from os.path import join, dirname, abspath, exists, isdir
+
+def usage():
+	print(""""""
+Usage: config.py [OPTIONS]
+
+OPTIONS:
+    CONFIG_FILE [OPTION]",0.09015053527500001,,,</s>,fr
+3,on_p50,1000,1,4,"Ce n’est pas un cadeau de Noel à proprement parler, mais c’est tellement sympathique que j’ai envie de le partager avec vous en vous donnant la possibilité de commander l’ouvrage en ligne à travers le site de l’auteur. Et je vous promets que ce ne sera pas que pour un cadeau… c’est un cadeau à partager!
+Vous",0.09015053527500001,,,</s>,fr
+4,on_p50,1000,1,5,"L'homme de la situation a d’ailleurs demandé à l'assemblée d'annuler les élections municipales pour justifier sa décision…
+Pour rappel, le gouvernement a suspendu en octobre le scrutin des 15 et 22 mars face au risque de propagation du coronavirus et a imposé des conditions de vote restrictives : seuls les électeurs affiliés à la sécurité sociale, enregistrés",0.09015053527500001,,,</s>,fr
+5,on_p50,1000,1,6,"En las elecciones presidenciales del domingo pasado, los republicanos han ganado cinco estados clave, mientras que los demócratas han...
+La Corte Suprema de Estados Unidos desestimó este miércoles una demanda de los republicanos de prohibir el uso de...
+En el Congreso de los Estados Unidos votaron este miércoles los republicanos a favor del juicio político contra el presidente...
+",0.09015053527500001,,,</s>,fr
+6,on_p50,1000,1,7,"NATIONS
+UNIES
+Distr.
+GÉNÉRALE
+A/50/277
+3 novembre 1995
+FRANÇAIS
+ORIGINAL : ANGLAIS
+Cinquantième session
+Points 97 et 100 de l'ordre du jour
+ÉTAT FINANCIER DE L'ORGANISATION DES",0.09015053527500001,,,</s>,fr
+7,on_p50,1000,1,8,"Le Champagne doit sa réputation à la taille impressionnante de ses vignes. En Champagne, les parcelles sont limitrophes et les champs ont une superficie moyenne de 750 ha. Les vignes sont plantées en terrasses, ce qui est très caractéristique de la région. Les vignes sont récoltées mécaniquement",0.09015053527500001,,,</s>,fr
+8,on_p50,1000,1,9,A partir que você aprender a fazer este tipo de resina você não terá mais pressa de queimar as suas resinas em abundância e terá tempo de curtir as suas coisas sem ter que se preocupar com o problema.,0.09015053527500001,,,</s>,fr
+9,on_p50,1000,1,10,"Quy trình kiểm tra chất lượng nước được thực hiện trong vòng 5 – 7 ngày trước và sau khi khởi hành. Nước được phân loại trước khi đưa vào các nhà máy xử lý. Khi đưa nước vào các nhà máy xử lý, công nghệ xử lý được sử dụng phụ thuộc vào loại chất thải để lọc.",0.09015053527500001,,,</s>,fr
+10,on_p50,1000,1,11,"Il y a un peu plus de trois mois, j’ai eu le plaisir d’assister à la conférence « Comprendre le meilleur business en ligne » donnée par Jean-François Mugnier. J’ai adoré sa façon de partager sa passion et sa vision de la réussite. Mais voilà, depuis, je l’attends avec impatience pour le fameux workshop",0.09015053527500001,,,</s>,fr
+11,on_p50,1000,1,12,"A partir du troisième quart temps, les joueuses de Jean-Louis Leca sont restées concentrées et l’ont emporté 72 – 55.
+Le club du Vieux Montreuil qui évolue en Nationale 3 va jouer contre le troisième de la poule 2 du championnat de Nationale 3 ce dimanche à 10h45 à la Halle",0.09015053527500001,,,</s>,fr
+12,on_p50,1000,1,13,"Por todo esto establecemos una Investigación de mercado confiable y podemos ofrecerle un Estudio de mercado personalizado, incluyendo una evaluación de los resultados mínimos y máximos por departamento.
+Además de los temas que hemos tocado, la investigación de mercado para la compra de un piso también se destaca porque se trata de una área que es desafi",0.09015053527500001,,,</s>,fr
+13,on_p50,1000,1,14,"Encontre aqui um incrível tênis Nike Air Max 97 Baixo Sapato SOS 7 Artigos Relacionados => Tênis, Tênis Nike, Tênis Nike Baixo, Nike Baixo, Tênis Feminino, Tênis Masculino, Tênis Nike Feminino, Tênis Nike Masculino, Tênis Nike Azul e muito mais",0.09015053527500001,,,</s>,fr
+14,on_p50,1000,1,15,"♥ Inspiration #2: J’ai écrit ce papier pour vous le partager rapidement. J’ai eu le plaisir d’écrire un article pour Elle où je vous raconte mon expérience avec une agence de SEO à Bordeaux et mon analyse du travail de cette entreprise. Où j’ai appris beaucoup de choses sur le métier et sur mon propre rôle.
+�",0.09015053527500001,,,</s>,fr
+15,on_p50,1000,1,16,"FOSILY, Diego. La Cuba de los jóvenes (2014) [Thèse de doctorat]. Les bibliothèques du Québec : Université Laval, 2014. Français. ⟨NNT : 2014LAV0456⟩. ⟨tel-01954688⟩
+Pour réaliser ce petit livre, j’ai utilisé la",0.09015053527500001,,,</s>,fr
+16,on_p50,1000,1,17,"Cette fois, nous allons exploiter un incroyable triangle de forces, celui que nous avons cité précédemment, qui nous montre un diagramme de forces très intéressant.
+Nous voyons que cet incroyable triangle, il est composé de trois forces, chacune d’entre elle a une influence à un moment donné, mais une seule d’entre elles a un effet plus important",0.09015053527500001,,,</s>,fr
+17,on_p50,1000,1,18,"Après avoir franchi un premier cap, de la valorisation de la nouvelle version de la gamme FELICIA (VMC AIR) au sein du SRA, l’Association SARAMOND a, cette année encore, participé à la préparation de notre exposition collective de philatélie, en collaboration avec la Fédération Française",0.09015053527500001,,,</s>,fr
+18,on_p50,1000,1,19,"Les formations courtes sont des formations courtes, régulièrement programmées, de 30 à 90 heures, qui sont dispensées par des formateurs compétents dans un champ d’expertise bien précis.
+Ainsi, le financeur pourra financer des formations à destination des salariés, des apprentis et des demandeurs d’emploi et ainsi répondre aux besoins en",0.09015053527500001,,,</s>,fr
+19,on_p50,1000,1,20,"3 nuits à l’hôtel: Un dîner à l’hôtel de la ville de Martigues (repas du soir et petit déjeuner compris en pension complète)
+Ecole d'Ingénieurs en Génie Electrique et Informatique et des Sciences de l'Information et de la Communication* - Université Lille 2
+Soutenance :",0.09015053527500001,,,</s>,fr
+20,on_p50,1000,1,21,"Pour la 3ème année consécutive, FdeWAT organise des séminaires en ligne, en partenariat avec de nombreuses autres organisations affiliées, afin d'aider les acteurs de l'industrie du lait et des produits laitiers à construire des compétences professionnelles en matière d'excellence dans les relations publiques.
+L'année 2019 a débuté par la tenue d'une",0.09015053527500001,,,</s>,fr
+21,on_p50,1000,1,22,"Le fait que le président des États-Unis d’Amérique puisse être amené à déposer sa démission après avoir confirmé la victoire du candidat démocrate en novembre 2020 ne doit pas, cependant, prêter à confusion. Cela ne signifie nullement qu’il démissionnera.
+Au contraire, l’annonce de sa démission signifie simplement que Trump devrait quitter son poste. En tant",0.09015053527500001,,,</s>,fr
+22,on_p50,1000,1,23,"On sait que la marijuana peut diminuer la quantité de dopamine (hormone du plaisir) dans plusieurs régions du cerveau, diminuant ainsi la sensation de plaisir et les sentiments de bien-être. La marijuana réduit les sensations de bien-être, mais pas de douleur ou de souffrance, en raison du faible taux de THC.",0.09015053527500001,,,</s>,fr
+23,on_p50,1000,1,24,﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿,0.09015053527500001,,,</s>,fr
+24,on_p50,1000,1,25,"Le projet est porté par les CRA de la région Auvergne-Rhône-Alpes, à travers le réseau des Centres de Ressources Animaux et des Centres de Spécialisées pour l’Accompagnement des Personnes ou Services d’Aide par le Travail spécialisés.
+Ce projet, piloté par le CRA des Verts d’",0.09015053527500001,,,</s>,fr
+25,on_p50,1000,1,26,"Le système de production de beurre et de fromage La Caillette a été mis en place en 1996 à la suite de l’arrêt temporaire de la fabrication de fromage au moulin de la Caillette (17). Ce projet a été réalisé en collaboration avec le secteur agricole de la MRC de Papineau, la Coopérative pour",0.09015053527500001,,,</s>,fr
+26,on_p50,1000,1,27,"Et voilà une nouvelle pièce de plus pour le relooking de notre maison! Super accueil, le patron est prêt à la découdre et je suis très contente du résultat! Merci pour la salopette, elle est magnifique!",0.09015053527500001,,,</s>,fr
+27,on_p50,1000,1,28,"Les femmes sont des créatures intenses qui possèdent un grand amour pour le soin de leur corps. Elles sont sensibles à la beauté. Elles aiment utiliser des produits cosmétiques de haute qualité. Cependant, elles ont souvent tendance à choisir des crèmes qui contiennent un nombre important d’ingrédients nocifs. Il existe des",0.09015053527500001,,,</s>,fr
+28,on_p50,1000,1,29,"PHP pour faire le menu dinformation et dutilisation de votre site sur OneDrive par administrateur
+Introduction aux bases de données (MySQL, PostgreSQL) et les bases de données relationnelles (SQL Server).",0.09015053527500001,,,</s>,fr
+29,on_p50,1000,1,30,"/*
+ * This file is part of rasdaman community.
+ *
+ * Rasdaman community is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your",0.09015053527500001,,,</s>,fr
+30,on_p50,1000,1,31,"“Jika saya harus memilih satu dari dua, saya akan memilih yang lebih meyakinkan. Ini adalah masalah yang sangat pribadi,” ucap dia menambahkan.",0.09015053527500001,,,</s>,fr
+31,on_p50,1000,1,32,"Les PME et les PMI ont en général une durée de vie plus longue que celles des grandes entreprises. C'est le seul fait qui explique que la majorité des grandes entreprises soit parvenue à survivre plus longtemps que leurs homologues de petite taille, qui elles sont moins protégées. La durée de vie moyenne des PME se situe",0.09015053527500001,,,</s>,fr
+32,on_p50,1000,1,33,"Charles Ellis était un génie pour la construction de machines volantes dans un monde qui ne les concevait que comme des monstres. Il avait conçu un appareil permettant aux oiseaux de voler dans l'espace, un programme qui avait fait l'objet de plusieurs brevets et qui lui avait valu le nom de Wright.
+À la fin des années 1930",0.09015053527500001,,,</s>,fr
+33,on_p50,1000,1,34,"Vous pouvez également exercer votre droit de vous opposer au traitement de vos données pour des motifs légitimes. Si vous exercez ce droit, la société SettiTech se réserve le droit d’effacer tout ou partie des informations vous concernant. Vous pouvez exercer ce droit en adressant un message électronique au Service Clientèle.
+Set",0.09015053527500001,,,</s>,fr
+34,on_p50,1000,1,35,"D’autres acteurs du secteur, comme les fabricants de produits ménagers, de médicaments, d’appareils électroniques ou de matériel médical, ont également décidé d’opter pour le paiement à l’avance afin d’obtenir de meilleures marges.",0.09015053527500001,,,</s>,fr
+35,on_p50,1000,1,36,"En effet, depuis le 15 Mai et jusqu’à nouvel ordre (fin de confinement), les activités de nos activités périscolaires sont suspendues. Merci de votre compréhension.",0.09015053527500001,,,</s>,fr
+36,on_p50,1000,1,37,,0.09015053527500001,,,</s>,fr
+37,on_p50,1000,1,38,"Je vous invite à faire un petit tour sur notre site et nous poser toutes vos questions. Pour cela, il vous suffit de cliquer sur le bouton ci-dessous :",0.09015053527500001,,,</s>,fr
+38,on_p50,1000,1,39,"Je crois que c'est un peu la même chose, c'est à dire un peu de tout. Les visites de musées (bellas arts, art nouveau, art moderne) qui sont très intéressantes, mais aussi les bonnes adresses à Eindhoven (avec chez moi des adresses sympas avec un bon rapport qualité prix) et",0.09015053527500001,,,</s>,fr
+39,on_p50,1000,1,40,"A partir de então, a empresa tomou a medida de testar a viabilidade do distrito industrial em uma área de 18 mil metros quadrados, todo fechado e com uma área total de 12 mil metros quadrados. O projeto prevê a construção de uma unidade fabril com capacidade de produzir 100 mil tijolos de cimento por dia,",0.09015053527500001,,,</s>,fr
+40,on_p50,1000,1,41,"/*
+ * Copyright (C) 2008-2018 TrinityCore <https://www.trinitycore.org/>
+ * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
+ *
+ * This program is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public",0.09015053527500001,,,</s>,fr
+41,on_p50,1000,1,42,Il y a toujours une chose qui est sûre : le droit s'applique parce qu'il y a des gens qui travaillent avec le droit. Ces gens doivent être conscients de ce qu'ils font et de ce qu'ils prouvent.,0.09015053527500001,,,</s>,fr
+42,on_p50,1000,1,43,"Il est important de bien choisir ses bagues lors de l’achat de votre bague en or jaune ou blanc.
+L'argent est plus précieux que l'or blanc à cause de sa version--base, qui est 50 % d'argent pur et 50 % d'or blanc pur.
+Contactez-nous pour en savoir plus. Nous sommes à",0.09015053527500001,,,</s>,fr
+43,on_p50,1000,1,44,"“Occasionnellement, certaines règles sont mal comprises, alors que d’autres sont simplement oubliées”, a déclaré le Dr. Nuzzo. “L’analyse de votre état de santé peut aider à résoudre ces erreurs.”",0.09015053527500001,,,</s>,fr
+44,on_p50,1000,1,45,"A partir de la rentrée de septembre 2021, les inscriptions pour 2021 et 2022 se font en ligne, sans rendez-vous ni justificatif. Les inscriptions seront clôturées le 29 septembre.
+1. Le montant de l’adhésion annuelle est fixé à 30 € (au lieu de 35€) pour les adhérents de l’",0.09015053527500001,,,</s>,fr
+45,on_p50,1000,1,46,"Je l’ai dit dans mon précédent article sur le Samsung Galaxy S10+, je ne suis pas fan des Samsung de milieu de gamme. Espérons que la prochaine génération ne sera pas aussi décevante que le S10+.",0.09015053527500001,,,</s>,fr
+46,on_p50,1000,1,47,,0.09015053527500001,,,</s>,fr
+47,on_p50,1000,1,48,"“We are very proud of our team for the excellent work they do. We are currently in the process of digitizing our collection, and we had some very lapse of goût. They have been very thorough, and the quality of the documentation is excellent.”
+“We are grateful to Anne-Marie for her contribution",0.09015053527500001,,,</s>,fr
+48,on_p50,1000,1,49,"Le Real Madrid a réalisé le troisième meilleur total de passes décisives de son histoire, derrière les réalisations de Maradona et Pelé avec le Santos et le Barça, qui ont marqué 100 passes décisives.
+G和家庭 et Services vous proposent leurs services afin de répondre à vos besoins spécifiques (à domicile ou en agence)
+Dynamique",0.09015053527500001,,,</s>,fr
+49,on_p50,1000,1,50,"        $this->loadmodel('views');
+        $this->view->form_password = self::view('formPassword');
+    }
+
+    /**
+     * View Form Password
+     */
+    public function formPasswordAction()
+    {
+        $model = $this->loadmodel('formPassword');
+        if ($model->load(",0.09015053527500001,,,</s>,fr
+50,on_p50,1000,1,51,"La terre, terre des hommes, est leur principal objet de préoccupation. Une terre toujours hostile, sans compter les phénomènes climatiques extrêmes, qui menacent littéralement leur vie. La violence et l’abus des ressources naturelles débordent le cadre strictement politique et deviennent le véritable enjeu de la révolution bolivarienne.",0.09015053527500001,,,</s>,fr
+51,on_p50,1000,1,52,"Les deux tiers des répondants (66 %) sont des femmes. Le genre est un facteur d’exposition à la violence conjugale au sein de la communauté LGBTQ. En fait, près d’un quart des répondants (27 %) affirmaient souffrir de violence conjugale. Parmi les non-réponses, 17 %",0.09015053527500001,,,</s>,fr
+52,on_p50,1000,1,53,"Les bois de l'hêtre, grossièrement taillés et expédiés en moyenne à 1.000 mètres d'altitude de la forêt, sont marqués par des caractéristiques propres à leur espèce.
+Ces caractéristiques sont dues à leur anatomie. En effet, les Hêtres sont des feuillus, ils ont donc une écorce épaisse",0.09015053527500001,,,</s>,fr
+53,on_p50,1000,1,54,"El motivo del lanzamiento se encuentra en el lanzamiento global del nuevo modelo de computadora portátil de alta gama, la Serie W, que se verá reflejado con una nueva línea de videojuegos en la región, además de otro tipo de productos multimedia para complementar la experiencia de la empresa en el mercado local.",0.09015053527500001,,,</s>,fr
+54,on_p50,1000,1,55,"El director de la Organización Mundial de la Salud, Tedros Adhanom Ghebreyesus, este martes a la rueda de prensa del grupo de trabajo de la OMS para definir las nuevas tasas de referencia que se aplicarán a los países pobres para compensar los efectos de la pandemia del coronavirus. EFE
+El director de",0.09015053527500001,,,</s>,fr
+55,on_p50,1000,1,56,Vous pouvez désormais télécharger le logiciel DRM de protection contre le piratage : Protéger votre musique est maintenant possible!,0.09015053527500001,,,</s>,fr
+56,on_p50,1000,1,57,"Le plan de protection des malades du sida 2015-2016 prévoit que tous les utilisateurs de drogues injectables (dont fait partie la cocaïne) doivent être reçus et accompagnés durant toute la durée des soins : du moment où ils entrent dans le service, jusqu’au moment où ils sortent, en passant par tous les temps de soin nécessaires",0.09015053527500001,,,</s>,fr
+57,on_p50,1000,1,58,"<?php
+/*
+ * This file is part of EC-CUBE
+ *
+ * Copyright(c) 2000-2014 LOCKON CO.,LTD. All Rights Reserved.
+ *
+ * http://www.lockon.co.jp/
+ *
+ * This program is free software; you can redistribute it and/or",0.09015053527500001,,,</s>,fr
+58,on_p50,1000,1,59,"Les 34 recettes de pâte à tartiner de chez Christophe Michalak - Comment préparer une pâte à tartiner maison? - Les astuces de Christophe Michalak
+Et c'est une bonne idée!!!! Je savais que c'était utile une fois que l'on a des pâtisseries à la maison, mais je n'avais jamais pensé à cette",0.09015053527500001,,,</s>,fr
+59,on_p50,1000,1,60,"Le problème c’est qu’il y en a de plus en plus et que celles-ci se multiplient. Je suis trop jeune pour me remémorer toutes les histoires qui m’ont été contées et que je n’ai jamais oubliées. Et pourtant, j’ai aimé toutes celles que j’ai pu lire, et lorsque je suis retournée en Israël",0.09015053527500001,,,</s>,fr
+60,on_p50,1000,1,61,Yakuza 1 (ハゾルガジャー1)是由日本老牌游戏制作群COLDPOINT游戏开发的一款2D横版动作类游戏。游戏于2019年11月25日发售。背景设定 故事发生在几个世纪以前。世界分裂为四国，国王的阿罗蒂姆为了,0.09015053527500001,,,</s>,fr
+61,on_p50,1000,1,62,"Il y a de cela plus de vingt ans, un jeune homme qui venait d’emménager dans une ferme, fit la connaissance de ses parents. Il était surnommé « le garçon de la ferme », car, lorsque son père venait jouer dans la cour, il s’arrêtait et restait derrière les clôtures, parfois",0.09015053527500001,,,</s>,fr
+62,on_p50,1000,1,63,"Voici quelques connexes de meubles de salle de bains. Nous avons jugé que ces produits sont très similaires à Meuble Salle De Bain 120 X 140 (Comme Meuble Salle De Bain 120 X 140), et nous avons inclus un lien vers chacun de ces produits. Cliquez sur les titres de ces produits pour passer directement aux résultats",0.09015053527500001,,,</s>,fr
+63,on_p50,1000,1,64,"Vous avez accès à votre espace personnel où vous pouvez suivre en temps réel la progression de votre projet de formation, le suivi de votre demande, etc.",0.09015053527500001,,,</s>,fr
+64,on_p50,1000,1,65,"Listes de Tenerlas en Solicitud de Matrícula para Primer Curso Académico del Instituto Superior de Ciencias Aplicadas de la Universidad Nacional del Litoral.
+Los alumnos aspirantes a cursar el primer curso académico del Instituto Superior de Ciencias Aplicadas de la Universidad Nacional del Litoral deberán realizar la presentación del formulario de",0.09015053527500001,,,</s>,fr
+65,on_p50,1000,1,66,"N’oubliez pas de suivre le hashtag #HypnoticSCROOOON! Et si vous voulez encore participer à la recherche d’autres maisons de vacances, c’est par ici.
+Finalement, je suis contente d’avoir posté cet article car il vient confirmer que, oui, je me souviens d’avoir lu un article sur",0.09015053527500001,,,</s>,fr
+66,on_p50,1000,1,67,"Il existe un certain nombre de raisons pour lesquelles votre bébé peut avoir les yeux rouges. Cela peut être un effet secondaire du vaccin, un type de réaction allergique ou un signe de maladie. Les yeux rouges peuvent être une manifestation de tout ou partie des problèmes suivants :
+Certaines maladies, comme les infections, peuvent",0.09015053527500001,,,</s>,fr
+67,on_p50,1000,1,68,Oh oui c’est beaucoup plus facile à vivre que dans certains pays. La France est surtout connue pour les vacances et les gens qui ne travaillent pas mais c’est vrai qu’ici c’est très très dur de démarrer une entreprise. C’est du gâchis de l’argent pour rien. Et puis j’adore les frites. Je me suis vraiment,0.09015053527500001,,,</s>,fr
+68,on_p50,1000,1,69,"Nous vous conseillons de soigner les détails lorsque vous planterez votre ton, car si vous plantez beaucoup de faux cet hiver, vous aurez probablement à traiter votre ton avec de la pâte à voile la prochaine fois que vous plantez. Il est donc essentiel de traiter le ton et de le garder propre, sec et ver",0.09015053527500001,,,</s>,fr
+69,on_p50,1000,1,70,"Para algunas personas, el último sí pero no, puede generar confusas y generar una sensación de no poder definir si se encuentra o no en ese proceso. En este caso, una estrategia de marketing digital es la solución para lograr el objetivo conseguido.",0.09015053527500001,,,</s>,fr
+70,on_p50,1000,1,71,"L’ancien DT de l’OM et de l’OL a créé le choc en août 2015 à la Coupole en allant au bout de l’aventure. Encore plus surprenant, le PSG, lui, a échappé au piège en prenant feu en compagnie de Thomas Tuchel.
+Le Paris Saint-Germain avait alors fait face à Lorient",0.09015053527500001,,,</s>,fr
+71,on_p50,1000,1,72,"Converse el precio que tiene el oro en todos los mercados, haciendo el cálculo del valor de una onza troy, es decir, la cantidad de oro que una onza tiene para el dólar americano. Luego se divide ese valor en la cantidad total de oro que tiene el país para su propia posesión, o sea",0.09015053527500001,,,</s>,fr
+72,on_p50,1000,1,73,"Le Petit Prince, de Saint-Exupéry, est une œuvre remarquable, qui s’est imposée comme un classique du sens commun. Si bien que dans les années soixante, les premières représentations de cet univers ont été présentées à travers le monde. Ainsi, avant la Seconde Guerre mondiale, le film était considéré comme un conte, une",0.09015053527500001,,,</s>,fr
+73,on_p50,1000,1,74,"L'Assemblée parlementaire du Conseil de l'Europe a adopté, le 10 mars, une résolution sur la menace terroriste à Barbade. Le Conseil parlementaire de l'Europe souhaite encourager les autorités, les organisations internationales et les États membres de l'Union européenne à partager les informations entre eux et à échanger des données d'expérience. Le Conseil de l'Europe a invité",0.09015053527500001,,,</s>,fr
+74,on_p50,1000,1,75,"Pour la rentrée, nos opticiens de Marseille vous offrent des programmes de lunettes et de montures hors du commun.",0.09015053527500001,,,</s>,fr
+75,on_p50,1000,1,76,"Cette catégorie de produit est utile pour réaliser des relevés poissonneux. Il est très pratique de pouvoir compter les poissons grâce à ces gabarits. Cet accessoire est également indispensable pour mieux observer les poissons et les faire disparaître facilement.
+La couleur du gabarit est un critère de choix important pour choisir un",0.09015053527500001,,,</s>,fr
+76,on_p50,1000,1,77,"El Gobierno ha aprobado un decreto de reforma del Sistema Nacional de Educación, en el que se regulan todas las profesiones sanitarias.
+El decreto, aprobado este martes en Consejo de Ministros, regula las técnicas de reproducción asistida tanto para profesionales como para pacientes. Gracias a este nuevo modelo, se tendrán que consultar las instrucciones antes",0.09015053527500001,,,</s>,fr
+77,on_p50,1000,1,78,"Franck Dubosc est un grand comédien, mais c’est un homme très vielle qu’il faut regarder… Il faut être un peu vieux pour être un peu très vielle. (chacun ses goûts!)
+La population de la Ville de Montréal recouvre un chiffre important pour un pays d’Amérique du Nord. La Métropole",0.09015053527500001,,,</s>,fr
+78,on_p50,1000,1,79,"L'anglais a toujours été ma langue maternelle, c'est pourquoi je suis un amoureux de la langue. Diplômé de l'ESC Amiens, j'ai travaillé dans une entreprise de transport de fret pendant 5 ans, avant de revenir sur le continent comme consultant SEO.",0.09015053527500001,,,</s>,fr
+79,on_p50,1000,1,80,"L'édifice s'inscrit dans un ensemble de constructions peu visibles et difficilement mises en valeur, mais il contribue à façonner la silhouette de la Presqu'île dans l'ensemble du paysage (fig. 10). Il a pour fonctions principales de fournir une habitation et un abri pour les hommes, les animaux d'élevage et les",0.09015053527500001,,,</s>,fr
+80,on_p50,1000,1,81,"En 2008, alors que la liste Ni Alexis ni Victor était en tête, Laurence qui travaille dans la restauration, se présente à la mairie de Nantes et se présente au poste de Maire de la ville. Elle a la chance d'être élue dès le premier tour. Elle est la première femme à être élue à la tête",0.09015053527500001,,,</s>,fr
+81,on_p50,1000,1,82,"Lors de leur premier match, les Haricots rouges ont concédé un but sur une erreur de l'attaque de l'Olympique de Marseille. À la surprise générale, ce but a été marqué par la...
+Le match opposant la JS Kabylie à l'USM Alger a connu sa fin ce samedi 26 février. L'",0.09015053527500001,,,</s>,fr
+82,on_p50,1000,1,83,"3 août 2019 | La Ministre de la culture et de la communication se dévoile et s’invente, en grande interview dans un livre.",0.09015053527500001,,,</s>,fr
+83,on_p50,1000,1,84,"Et à vrai dire, je suis un peu déçue par le résultat. Je n’aurais jamais imaginé un succès aussi faible :
+Quant au maquillage, c’est une super qualité et il est vraiment très beau!! Il a un effet bonne mine. C’est très agréable de l’utiliser. Sa texture est très agréable à appliquer",0.09015053527500001,,,</s>,fr
+84,on_p50,1000,1,85,"- « Ne vous inquiétez pas, vous êtes tellement heureux que vous devez en être reconnaissants. Vous aimez tellement votre fils que c'est lui qui vous l'avez donné. »
+- « Vous l'avez tout donné, ce garçon et vous avez décidé de ne pas le redonner. Il est triste, mais il n'est",0.09015053527500001,,,</s>,fr
+85,on_p50,1000,1,86,La mise en place par la Ville de Paris d’une nouvelle modalité d’accompagnement de l’insertion professionnelle des bénéficiaires d’un contrat d’alternance est la réponse apportée aux difficultés suscitées par la crise sanitaire. Elle permet ainsi de proposer aux demandeurs d’emploi une reconversion professionnelle répondant ainsi à une attente forte exprimée par les professionnels du recrutement,0.09015053527500001,,,</s>,fr
+86,on_p50,1000,1,87,"Notre entreprise RGE offre des compétences dans tout type de travaux de changement, installation ou réparation de vos chaudières à bois.",0.09015053527500001,,,</s>,fr
+87,on_p50,1000,1,88,"Les Canadiens pourront utiliser leurs cartes de crédit que le gouvernement a créées pour aider les personnes les plus touchées par la pandémie de la COVID-19. Ce nouvel outil est le fruit de...
+L’aide financière d’urgence de l’Agence canadienne d’hypothèques et de logement (AHL) est à la hausse. La ministre des Finances,",0.09015053527500001,,,</s>,fr
+88,on_p50,1000,1,89,"Déjà dans la première phrase, il y a un problème. La première personne dont nous parlons est un « non-être ». Elle n’a pas de nom, elle n’a pas de nom. Le problème est que l’on a tendance à l’appeler « la mère » ou « la grand-mère ».",0.09015053527500001,,,</s>,fr
+89,on_p50,1000,1,90,"Il a ensuite apporté quelques précisions sur le financement de la mesure puis annoncé certaines nouveautés.
+""Motto de la construction 2020"" : les chantiers de construction neuve de plus de 20 mètres carrés devraient être financés à concurrence de 95 % par l'État et les collectivités locales et les partenaires sociaux. Le reste étant à",0.09015053527500001,,,</s>,fr
+90,on_p50,1000,1,91,"Ahora en un componente de la parte trasera del vehículo, el conductor podrá disfrutar de conectividad con otros dispositivos, tales como el teléfono móvil o el sistema de Google Maps para poder realizar una conducción más segura, cómodamente e incluso más inteligente con funciones como la navegación por voz.",0.09015053527500001,,,</s>,fr
+91,on_p50,1000,1,92,"La semaine dernière, j'avais terminé un projet que j'avais en cours de réalisation. J'ai réalisé une page Facebook. Pour vous la présenter, voici un petit peu de mon histoire.",0.09015053527500001,,,</s>,fr
+92,on_p50,1000,1,93,"Ce contenu a été publié dans Dernières nouvelles d'Alsace, Infos Vosges, Société par Antoine, et marqué avec France, Laurent Wauquiez, présidence de la République. Mettez-le en favori avec son permalien.",0.09015053527500001,,,</s>,fr
+93,on_p50,1000,1,94,je vais essayer de venir le récupérer ce week end (et au pire de l’acheter pour le rapporter dans le nord Est mais je pense que tout le monde sais qu’il n’est pas chez moi le samedi),0.09015053527500001,,,</s>,fr
+94,on_p50,1000,1,95,Membre de la Communauté des Méthodes de Développement (CMD) qui regroupe plus de 1 500 méthodologues et développeurs de méthodologies.,0.09015053527500001,,,</s>,fr
+95,on_p50,1000,1,96,,0.09015053527500001,,,</s>,fr
+96,on_p50,1000,1,97,"Les cartouches d'encre pour imprimantes Epson fonctionnent de façon différente. Certains modèles possèdent en plus un système de recyclage, d'autres ne sont pas munis de ce système et le sont donc seulement pour une utilisation en interne.
+La compatibilité électromagnétique (EMC) fait référence à la réception par une machine de signaux",0.09015053527500001,,,</s>,fr
+97,on_p50,1000,1,98,"Nhằm lấy lại niềm tin của người dân, trong năm 2019, Đà Nẵng sẽ tập trung giải quyết các việc cấp bách, mà thành phố đã nợ cấp huyện trên 4.300 tỷ đồng, thời hạn thực hiện nợ trên 1 năm, đã hết thời hạn quyết định cưỡng chế thi hành và thực hiện cưỡng chế",0.09015053527500001,,,</s>,fr
+98,on_p50,1000,1,99,"Que ce soit pour des occasions spéciales ou du quotidien, le coeur de BONHEUR propose une vaste sélection de cadeaux de Saint Valentin, pour faire plaisir à sa moitié.
+Soyez sûr de faire plaisir en commandant un cadeau de qualité, avec des produits frais et locaux. Alors n’attendez plus, et",0.09015053527500001,,,</s>,fr
+99,on_p50,1000,1,100,"Le travail du métal est un art, qui ne doit pas être laissé de coté, mais est parfois très complexe à maîtriser. En effet, il s’agit de construire des objets en combinant plusieurs matériaux et en ajustant les proportions. L’objectif est de créer quelque chose de très beau, mais qui ne soit pas à l’ab",0.09015053527500001,,,</s>,fr

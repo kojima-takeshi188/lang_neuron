@@ -3,6 +3,11 @@
 # Copyright (C) 2022 Apple Inc. All Rights Reserved.
 #
 
+import os
+import sys
+
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
 import argparse
 import pathlib
 
@@ -67,12 +72,13 @@ def analyze_expertise_for_concept(
         return
 
     concept_exp_dir.mkdir(exist_ok=True, parents=True)
-
+    
     # from random import shuffle
     # this was added to test independence saliency-labels (Ian Goodfellow tests)
     # shuffle(labels_int)
 
     expertise_result = ExpertiseResult()
+    print("expertise_result.build")
     expertise_result.build(
         responses=responses,
         labels=labels_int,
@@ -80,6 +86,7 @@ def analyze_expertise_for_concept(
         concept_group=concept_group,
         forcing=True,
     )
+    print("expertise_result.save")
     expertise_result.save(concept_exp_dir)
 
 
@@ -108,6 +115,7 @@ def build_result_figures(
     """
     print("Building plots")
     df = expertise_result.export_as_pandas()
+    print(f"DataFrame sizeis {len(df)}")
     info_json = expertise_result.export_extra_info_json()
 
     concept = df["concept"].iloc[0]
@@ -186,16 +194,20 @@ if __name__ == "__main__":
         assert (root_dir / "concept_list.csv").exists()
         concepts_requested = root_dir / "concept_list.csv"
     else:
-        if "," in args.concepts:
-            concepts_requested = args.concepts.split(",")
-        else:
-            concepts_requested = pathlib.Path(args.concepts)
+        concepts_requested = args.concepts.split(",")
+        #if "," in args.concepts:
+        #    concepts_requested = args.concepts.split(",")
+        #else:
+        #    concepts_requested = pathlib.Path(args.concepts)
 
     print(concepts_requested)
     concept_df = concept_list_to_df(concepts_requested)
 
+    model_short_name = args.model_name.rstrip("/").split("/")[-1]
+
     for row_index, row in concept_df.iterrows():
-        concept_dir = root_dir / args.model_name / row["group"] / row["concept"]
+        concept_dir = root_dir / model_short_name / row["group"] / row["concept"]
+        print("analyze_expertise_for_concept")
         analyze_expertise_for_concept(
             concept_dir=concept_dir,
             concept=row["concept"],

@@ -1,0 +1,282 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,20,1,1,"El gobernador bonaerense, Axel Kicillof, manifestó este lunes que “está previsto” que el Gobierno nacional anuncie un bono para las provincias a fin de evitar despidos por la pandemia del coronavirus.
+Máximo Kirchner, uno de los fundadores del Frente para la Victoria, apoyó las medidas para prevenir la crisis económica por la pandemia del",0.54410853465,,,</s>,en
+1,on_p50,20,1,2,"/* This file is part of the KDE libraries
+    Copyright (C) 2003 Michael Zahn <mzahn@kde.org>
+
+    This library is free software; you can redistribute it and/or
+    modify it under the terms of the GNU Library General Public
+    License version 2 as published by the Free Software Foundation.
+
+    This library",0.54410853465,,,</s>,en
+2,on_p50,20,1,3,"#!/usr/bin/env python
+
+import os
+import sys
+import getopt
+
+from glob import glob
+from tempfile import mkdtemp
+from string import ascii_letters
+
+try:
+    from PyQt4 import QtCore, QtGui
+except ImportError:
+    from PySide import QtCore, QtGui
+
+from pyqtgraph",0.54410853465,,,</s>,en
+3,on_p50,20,1,4,"TOMATE: Encuentra y guarda ideas sobre Platos especiales de lentejas en Pinterest. Encuentra y guarda ideas sobre Platos especiales de lentejas en Pinterest. Platos especiales de lentejas. Platos especiales de lentejas. Platos especiales de lentejas.
+26/04/2011 · Fabulosa receta",0.54410853465,,,</s>,en
+4,on_p50,20,1,5,"3. Bộ phận giảm tốc thủy lực được thiết kế đặc biệt, cho tốc độ cao, độ tin cậy cao, độ ổn định cao và độ bền cao. Trên cùng, thiết kế hệ thống ổn định chống rung có thể ngăn chặn sự rung lắc của thiết bị và tiếng ồn đương nhiên.",0.54410853465,,,</s>,en
+5,on_p50,20,1,6,"Q:
+
+Verifying the equivalence of two described trigonometric identities
+
+I am having a hard time proving the equivalence of the two following described identities:
+$$\cos(x+y) = \cos{x} - \cos y$$
+$$\sin(x+y) = \sin{x} + \sin y$$
+For the first one I got",0.54410853465,,,</s>,en
+6,on_p50,20,1,7,"Neuromorphisms have received much recent attention due to their many utility in such diverse disciplines as perception, language, computer vision, image interpretation, etc. In the neural network community, the notion of a neuromorphic system is typically defined as a collection of hardware modules that are effectively described by a single network, sometimes called a",0.54410853465,,,</s>,en
+7,on_p50,20,1,8,"A larger collection of new and used motorcycles, scooters and motorbike parts at a competitive price now available. Easy to find the right motorbike parts or motorbike accessories in perfect condition with us.
+You’re in, you’ve done it – you’ve made your own power supply! You’re now,",0.54410853465,,,</s>,en
+8,on_p50,20,1,9,"The two queens have a right to be.
+But they won't fight each other.
+And this is not a fair fight.
+This is war.
+There are rules, and you have to obey them.
+Not only you.
+I am doing your duty.
+You will be punished severely if you don't.
+Do you understand?
+Yes",0.54410853465,,,</s>,en
+9,on_p50,20,1,10,"Introduction
+In this paper we study the issue of positive orthant projection and related instances in the fuzzy setting. For a given work set W, a fuzzy-valued function on W is a mapping F : W → R. The fuzzy-valued function F can be thought of as a function f : W → R that",0.54410853465,,,</s>,en
+10,on_p50,20,1,11,"Showing 0 out of a total of 0 results for collection: Political Economy of the Poor and the Poor in Aotearoa New Zealand. (0.004 seconds)
+In the spring of 2015, around 500 India members and US and Canadian friends were invited to warm up the home of one of India’s leading social enterprises",0.54410853465,,,</s>,en
+11,on_p50,20,1,12,"A partir del lunes, 13 de enero, os estaréis viendo a través de la plataforma Zoom. Os animamos a que participéis como mejor os convenga, como si estuvieseis en el aula, así podéis seguir manteniendo vuestro ritmo académico.",0.54410853465,,,</s>,en
+12,on_p50,20,1,13,"Por todo esto y por más, se convoca a los señores miembros del Consejo deliberante y al público en general a participar del acto que se realizará el día martes 25 de febrero de 2016, a las 19,30 hs. en el salón de actos de nuestra institución, sito en Nro. 83 esquina 15 de",0.54410853465,,,</s>,en
+13,on_p50,20,1,14,"Now we are looking at the sixth universal truth. It is important to remember that the human experience is the human experience, which is subject to human limitations. That is why I say that the actual experience of the human is limited and actually subject to human manipulation. This is a very critical point. Any one of us could",0.54410853465,,,</s>,en
+14,on_p50,20,1,15,"Q:
+
+How to pass an integer to a method in Java?
+
+I have the following method:
+public static ArrayList<Integer> getIntArray(int start, int end) {
+    ArrayList<Integer> result = new ArrayList<>();
+
+    if (start < end) {
+        for (int i = start; i <= end; i++)",0.54410853465,,,</s>,en
+15,on_p50,20,1,16,"Introduction
+The first symptoms of cancer are typically vague, non-specific, and nonspecific (1). This is a common problem in the context of a general practitioner (GP) office (2). In addition to absence of symptoms, the main issue is the lack of recognition of symptoms by patients and GPs.",0.54410853465,,,</s>,en
+16,on_p50,20,1,17,電話接通後，她走起來很緩慢，在路上走著，也想著她很久沒有見過的人了，他們給她的感覺是，她很敏感，經歷了很多，被傷害過，但卻依舊很珍惜和愛惜身邊的人。此刻，她想著他，想著我們在一起的快樂,0.54410853465,,,</s>,en
+17,on_p50,20,1,18,"#!/usr/bin/env python
+# This script will create a configuration file for an API server that I have implemented.
+# This script will also generate the.gov and.ie certificates.
+
+from __future__ import print_function
+
+######################################################################
+#####   Start   ######
+######################################################################
+
+##
+## The configuration file is",0.54410853465,,,</s>,en
+18,on_p50,20,1,19,"কবি বলেছেন, ‘এতো দিন যাকে আমি দেখেছি, তার হাত ধরে হাঁটতে, কাঁধে পা রাখে, তার সাথে হেঁটে হেঁটে, দু’জনে মিলে, দুই জন এক সাথে হেঁটে হেঁটে, মনে হচ্ছে আমি একটা পাহারার মধ্যে আছি। সে তো আমার আপনজন।’
+প্রখ্যাত কবি",0.54410853465,,,</s>,en
+19,on_p50,20,1,20,"The information presented on this page is about the nearest train stations to Barrow-in-Furness in Scotland. For travel advice about connecting to major cities, please visit the Scottish rail travel planner.
+The earliest train service departing from Barrow-in-Furness to Edinburgh is operated by Highland and Hitachi, the",0.54410853465,,,</s>,en
+20,on_p50,20,1,21,El gran problema de la enfermedad de Alzheimer es que no hay cura. Y en los últimos años la investigación de esta enfermedad avanza a un ritmo más lento que en otras enfermedades neurodegenerativas. Pero el mundo científico sigue trabajando para encontrar alguna alternativa terapéutica en algún momento.,0.54410853465,,,</s>,en
+21,on_p50,20,1,22,"/*
+ *  OpenSCAD (www.openscad.org)
+ *  Copyright (C) 2009-2011 Clifford Wolf <clifford@clifford.at> and
+ *                          Marius Kintel <marius@kintel.net>
+ *
+ *  This program is free software;",0.54410853465,,,</s>,en
+22,on_p50,20,1,23,"On sait que la communication est un élément primordial pour la réussite d’une entreprise. Cela implique de développer un site web, puis de créer une page Facebook, de faire des vidéos, de parler à la presse, de créer un blog ou un compte Instagram. Et ce sans parler de créer un site vitrine pour son commerce.",0.54410853465,,,</s>,en
+23,on_p50,20,1,24,"﻿/*
+ * Created by SharpDevelop.
+ * User: ntian
+ * Date: 2014/5/9
+ * Time: 11:26
+ * 
+ */
+namespace NewPayStore.Logic.Models
+{
+	/// <summary>
+	/// Represents the payment
+	/// </summary>
+	public interface IPaymentModel
+	{
+		///",0.54410853465,,,</s>,en
+24,on_p50,20,1,25,"《上海证券报》7月27日报道:为了叫停北京的购房限购,北京已专门成立由相法学者、河北大学教授等组成的""总理问责小组"",就""2006年京沪、京深楼市火爆,限购等调控措施不力""问责相关部门。记者从昨日",0.54410853465,,,</s>,en
+25,on_p50,20,1,26,"Leur ambition : être le premier opérateur de services financiers au monde, en créant une valeur à la fois pour les clients et pour les entreprises.
+Le groupe SOFORT compte aujourd’hui plus de 14 500 employés dans le monde. Ses activités centrales sont l’image de marque, la gestion de comptes, la technologie et le commerce",0.54410853465,,,</s>,en
+26,on_p50,20,1,27,"Föllmi 4 (Derby Wheels), con cerámica azul, es otro de los anillos que se puede adquirir en nuestra tienda online, de la misma manera que el anillo en sal también es un anillo que nunca pasa de moda y que está teniendo gran aceptación entre las mujeres.
+Si nos visitas probablemente se",0.54410853465,,,</s>,en
+27,on_p50,20,1,28,"There is no doubt that we are entering an era in which security is more important than ever. With the latest attacks becoming more sophisticated, attacks are becoming more widespread and coordinated. New threats are emerging, and new ways of using existing threats are being explored. Security must be a priority for all organizations, which is why Q",0.54410853465,,,</s>,en
+28,on_p50,20,1,29,"PHPDocTesting is an open source PHP unit testing framework and a framework for PHPDoc documentation.
+As a result of the current circumstances caused by the COVID-19 pandemic, we are currently offering Zoom classes for U.S. residents only. Clients needing to sharpen their golf game can sign up for a class below.",0.54410853465,,,</s>,en
+29,on_p50,20,1,30,حكومتي وشعب مصر وشخصيات عامة ، بعد لقاء حسن صقر وزيارة الرئيس مبارك، قد أعلن الاثنين أن المجلس الأعلى للجامعات، برئاسة الدكتور هاني هلال، قد وافق على تطبيق نظام الاتحادات الطلابية، وفق الإجراءات المنصوص عليها قانوناً، رافضاً إجراء تعديلات على نفس النظام، خاصة,0.54410853465,,,</s>,en
+30,on_p50,20,1,31,"“If the [rights-protected] working conditions aren’t the right thing for people, it has to be the right thing for the corporation,” said U.S. Rep. Mark T. Thompson, R-Washington. “This kind of gerrymander is a blatant violation of contract law and it",0.54410853465,,,</s>,en
+31,on_p50,20,1,32,"El segundo componente, el proyecto de control democrático, tiene que ver con la regulación de los medios de comunicación, la intervención de los partidos y la celebración de elecciones, según una encuesta de la Universidad Nacional que realizamos junto con Fundación País Libre.",0.54410853465,,,</s>,en
+32,on_p50,20,1,33,"Charles, le beau-frère de Vi, ne croit pas du tout à la thèse de la sorcellerie. Il irait voir son cousin avec un appareil photo.
+Plus tard, dans la forêt, Vi se rend compte que certaines personnes pensent que la sorcière est là, aux côtés de Francis et de sa mère.
+",0.54410853465,,,</s>,en
+33,on_p50,20,1,34,"- Ah, bien sûr. Mais vous...[Silence. L'homme se rapproche du cartable.]... Vous n'êtes pas un simple particulier. Vous êtes le chef d'un gang de voleurs, et ça, je vous le confirme. C'est ma seule raison d'être ici, monsieur. Je suis venu vous l'interdire",0.54410853465,,,</s>,en
+34,on_p50,20,1,35,"Q:
+
+Preventing a timer from running forever
+
+I'm trying to stop a timer from continually running. When I press pause, the timer stops, but it should not.
+Here's my code:
+int main()
+{
+    static int count = 0;
+
+    // starts running the timer
+    timer = 0;
+
+    // runs until the user",0.54410853465,,,</s>,en
+35,on_p50,20,1,36,"En cuanto al tema del libro, debo decir que sigue siendo una historia muy entretenida, aunque si, como digo, ya la conocéis, quizás os cueste pillarle el hilo. En todo caso, esta saga nos deja un gran sabor de boca y nos anima a seguir leyendo a sus autores. Os recomiendo",0.54410853465,,,</s>,en
+36,on_p50,20,1,37,"عابد خزندار
+منذ أن قامت شركة أرامكو السعودية بترخيص استثمارات أجنبية في هذا البلد الحر (أي الشركات الأجنبية)، فلقد قامت هذه الشركة بمهمة رائعة، وهي أن تفتح أبوابها أمام الشركات الأجنبية للاستثمار في مجال صناعة النفط وقطع الغيار والصيانة، ومازالت حتى الآن،",0.54410853465,,,</s>,en
+37,on_p50,20,1,38,"PEMI / Registrado o investimento de R$ 63,7 milhões no Complexo Empresarial
+As empresas paranaenses Rede de Consultoria e Planejamento e a LG Sistemas, ambas do setor de Tecnologia da Informação, foram eleitas como as vencedoras do Prêmio Estadual de Micro e Pequenas Empresas / Programa de",0.54410853465,,,</s>,en
+38,on_p50,20,1,39,"Now, it is quite a common practice to do just that with all existing posts, which was the main reason I decided to make all my posts available in the archive. This is not a new idea, but a great one at the same time. I have allowed users to make posts permanently visible in the archive, and",0.54410853465,,,</s>,en
+39,on_p50,20,1,40,"A partir de então, a empresa começou a investir no setor de telefonia celular e, em 2005, a partir da aquisição da participação da VimpelCom — uma companhia que fazia a telefonia fixa em seis países europeus, com operações nos países da Ásia Central, Rússia e Ucrânia — começou a atuar no setor de telefonia móvel",0.54410853465,,,</s>,en
+40,on_p50,20,1,41,"/*
+ * Copyright (C) 2008 realiz
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version",0.54410853465,,,</s>,en
+41,on_p50,20,1,42,"Manufacturers of electronic equipment, smartphones, laptop computers and other electronic products are constantly looking for new ways to improve the performance of the devices they make and to make them more durable. Some of the best ways to do just that are by incorporating new materials into the manufacturing process. In the case of the latest technology used",0.54410853465,,,</s>,en
+42,on_p50,20,1,43,"Arquivo da categoria :Shipping
+Os Correios estão trabalhando diretamente com o setor de transporte de cargas para garantir a entrega dos itens comprados no mês de dezembro.Além disso, a empresa também se esforça para aumentar sua capacidade de atendimento, mas as filas não diminuíram e ainda estão grandes em algumas cidades.",0.54410853465,,,</s>,en
+43,on_p50,20,1,44,"“Occasionally, people talk about the way that they have trouble relating to other people,” said the original creator of the program, Matthew G. Norbury, PhD and professor of psychology at the University of Michigan, in an e-mail.
+“But to answer this question, I don’t think you have to make a",0.54410853465,,,</s>,en
+44,on_p50,20,1,45,"A partir de las 10 de la mañana de hoy se participará en la primera gran mesa coloquio, que versará sobre ""Intervención socio-educativa en el ámbito familiar"" y que contará con la ponencia ""La intervención socio-educativa en el ámbito familiar: aplicación de criterios de eficacia y eficiencia”, a cargo",0.54410853465,,,</s>,en
+45,on_p50,20,1,46,"A DNA fingerprinting of the probe DNA, as described in Example 1, can be used, for example, to identify whether the DNA of the sample to be tested has come into contact with the probe DNA. If the detected DNA has come into contact with the probe DNA, the superiority of the detection method using the",0.54410853465,,,</s>,en
+46,on_p50,20,1,47,,0.54410853465,,,</s>,en
+47,on_p50,20,1,48,"“We are delighted to have gained this endorsement, which reflects the commitment of the Victoria Police to operating a robust inquiry into responsible use of guns.”
+“As a business, we have always believed that the rules should be in place to manage our supply chains and we are committed to working with the Victorian Government",0.54410853465,,,</s>,en
+48,on_p50,20,1,49,"Cafeína, alcohol y azúcar: los principales ‘culpables’ de la pérdida de memoria
+Expertos españoles alertan de que estos elementos ‘contaminan’ el cerebro.
+Los especialistas insisten en la necesidad de cuidar la salud del cerebro
+6 feb. 2019 17:29
+La pérdida de memoria es uno",0.54410853465,,,</s>,en
+49,on_p50,20,1,50,"Oh, yeah, I’m sure there are some. But, there was no one there except the two boys. You can probably guess that, actually.",0.54410853465,,,</s>,en
+50,on_p50,20,1,51,La firma de inversión WALMART se adjudicó una importante concesión minera por un plazo de 50 años en el sudoeste de Brasil. El pasado 21 de enero la empresa AMAGRAM firmó un contrato con Walmart para explotar un yacimiento de manganeso en la provincia de Misiones en Brasil. El contrato será de 50,0.54410853465,,,</s>,en
+51,on_p50,20,1,52,"Q:
+
+CSS & jQuery dropdown menu toggle class
+
+I am trying to do some CSS & jQuery to make a dividend menu toggle on click. Here is my code so far but it is not working. Any help would be greatly appreciated.
+   <div class=""menu"">
+        <ul>
+            <li><a href=""#"" class=""menu_item"">#1</a></li>
+           ",0.54410853465,,,</s>,en
+52,on_p50,20,1,53," অনুষ্ঠানে মাননীয় প্রধানমন্ত্রীর উপপ্রধান তথ্য কর্মকর্তা জনাব মোহাম্মদ আবুল ফজল, বাংলাদেশ সরকারের মাননীয় সচিব জনাব মো. নজরুল ইসলাম, মাননীয় শিক্ষা উপমন্ত্রী জনাব মহিবুল হাসান চৌধুরী নওফেল, মাননীয় শিক্ষা সচিব জনাব মো. সোহরাব হোসাইন এবং মাননীয় প্রাথমিক ও গণশিক্ষা মন্ত্রী জনাব মোস্তাফিজ",0.54410853465,,,</s>,en
+53,on_p50,20,1,54,"关于妇产科疾病的病因,一般医生都会说,女性在分娩的时候,子宫会随着产程而逐渐的变大,但是有的时候,女性死胎或者流产,出现子宫突然变大的现象,还会有子宫破裂的现象出现,对此,很多女性都比较关注,那么,死胎导致子宫",0.54410853465,,,</s>,en
+54,on_p50,20,1,55,"El Museo de la Industria Turística, en Manzanares, abre sus puertas por primera vez con motivo de la celebración del 50 aniversario del Parque Regional de la Cuenca Alta del Manzanares. Con diferentes salas dedicadas al sector empresarial y turístico, el Museo de la Industria Turística quiere dar a conocer la importante labor que",0.54410853465,,,</s>,en
+55,on_p50,20,1,56,萃取机一组的设定为浓缩配方，萃取时间为10秒(1S)，萃取机一组为提升配方，三次萃取时间为30秒(3S)。三组萃取时间选配不同，更能保证各自配方能萃出设备的最佳效果。此外，萃取机一组的,0.54410853465,,,</s>,en
+56,on_p50,20,1,57,"I. INTRODUCTION
+A natural question arising from the study of various aspects of soft matter [1] is whether the bulk equilibrium properties of the system can be derived from a microscopic dynamics. In condensed matter physics, this is due to the fact that the dynamical properties of the system can be computed using the Land",0.54410853465,,,</s>,en
+57,on_p50,20,1,58,"Q:
+
+ASP.NET Core and Async Execution
+
+I am trying to understand the async execution of ASP.NET Core. I have seen that some examples of asynchronous web services are not working in ASP.NET Core.
+For example
+http://localhost:5000/Home/Extensions/SignIn/AsyncSignIn.axd/api/",0.54410853465,,,</s>,en
+58,on_p50,20,1,59,"So what do you need to do if you want to go to the hotbed of the world’s most beautiful cars, the Nürburgring?",0.54410853465,,,</s>,en
+59,on_p50,20,1,60,Una plataforma de trabajo para las comunidades de mujeres y niñas que trabajan y viven en la frontera de México con Estados Unidos.,0.54410853465,,,</s>,en
+60,on_p50,20,1,61,"Y por último, pero no menos importante, que es el de los testículos. Al parecer, los esteroides no solo provocan una menor producción de espermatozoides en hombres, sino que también disminuye la producción de testosterona.
+Como consecuencia, el hombre puede sentir dolor y debilidad, y su rendimiento",0.54410853465,,,</s>,en
+61,on_p50,20,1,62,"Phần mềm scraping dữ liệu website tin tức, mạng xã hội, blog, diễn đàn miễn phí, bản quyền vĩnh viễn, tự động theo dõi, tự động cập nhật, tự động trả phí.
+Phần mềm scraper dữ liệu cho website thông tin tin tức, diễn đàn, website hệ thống: website chia sẻ",0.54410853465,,,</s>,en
+62,on_p50,20,1,63,"Assim, JOAO IMACO, sócio da Lojas Casas Bahia, fez um apelo de solidariedade a todos. “Peço a todos que façam o bem. Não deixem de fazer essas doações, pois assim poderemos continuar ajudando os necessitados. Tenho certeza que essa atitude humanitária e solidária vai chegar",0.54410853465,,,</s>,en
+63,on_p50,20,1,64," निश्चय ही हम स्वयं को संपादक के लिए सप्रंग और भारतीय जनसंघ को मिलाकर तय कर लेते है, और इस बारे में जोर जोर से बहस करने की जरूरत नहीं.",0.54410853465,,,</s>,en
+64,on_p50,20,1,65,"Listas de precios de las materias primas de la soja y el maíz de la Cámara de Comercio de Rosario, que publica mensualmente.
+El valor del trigo en Chicago finalizó la sesión a US$ 63,82 por tonelada en la Bolsa de Comercio de Chicago (CBOT), en un nuevo retroceso semanal.
+El trigo cerró la",0.54410853465,,,</s>,en
+65,on_p50,20,1,66,"As atividades no dia de hoje serão voltadas para o segmento de transporte, com a presença dos gestores das Secretarias de Trânsito e Transportes, Rodoviários e Transportes, Engenharia, Indústria e Comércio, e Turismo.
+Com a participação de agentes de trânsito, fiscais, secretários municipais, representantes de sindicatos, empresários do",0.54410853465,,,</s>,en
+66,on_p50,20,1,67,"نيودلهي - رويترز - انخفضت اسعار النفط الى ادنى مستوى لها في 14 عاما، امس، مع تصاعد التوترات بين واشنطن وطهران بعد اتهام طهران للولايات المتحدة بتجنيد اسلحة للعراق.
+واتفق وزير الدفاع الاميركي روبرت غيتس ورئيس هيئة الاركان",0.54410853465,,,</s>,en
+67,on_p50,20,1,68,"Oh, yeah.
+That's right, the good, the bad and the ugly.
+All right.
+You need to apologize to me, buddy.
+You been doing a great job.
+Yeah, I guess I have.
+You ever been in a car accident?
+Huh?
+No.
+I got to admit there could've been something",0.54410853465,,,</s>,en
+68,on_p50,20,1,69,"ptions have to be done, and then the designer has to test the app with him, or some other person, to make sure that everything works as expected.
+Make the line focused, like showing that the word is on the outer circle. You can do it with any drawing tool that supports lines, or with the HTML",0.54410853465,,,</s>,en
+69,on_p50,20,1,70,"Para algunas personas, el rinoceronte es uno de los animales más desagradables que pueden existir. Sin embargo, en la naturaleza, esta especie de mamífero se trata de una de las especies que menos daño ocasiona a su entorno.
+Su peso puede alcanzar los 900 kilogramos y sus dientes dentados figuran como uno",0.54410853465,,,</s>,en
+70,on_p50,20,1,71,"Now that we’ve established what we understood about annuity, let’s see how it might benefit your finances.
+Annuity is a financial product that allows you to choose what type of investment you want to set aside with the rest of your money every year. There are basically two types of annuity that you can",0.54410853465,,,</s>,en
+71,on_p50,20,1,72,"Converse con los que han tomado ya la decisión de solicitar la ventaja de un préstamo urgente, te ayudarán a encontrar la mejor solución para tu situación personal.
+En Internet puedes encontrar una gran variedad de sitios de préstamos rápidos, sin embargo, a continuación se muestran las más destacadas opciones para solicitar un crédito en línea:
+",0.54410853465,,,</s>,en
+72,on_p50,20,1,73,"Bonne nouvelle pour les fans de séries télévisées et de films : la nouvelle collection de jolis puzzles de différents formats sera composée de 44 pièces de La Guerre des Étoiles. La marque à la pomme vient de dévoiler les nouvelles pièces qui composeront la collection de...
+Pour fêter la sortie de leur",0.54410853465,,,</s>,en
+73,on_p50,20,1,74,"Vai atuar como: Atendimento ao cliente, emissão de nota fiscal, faturamento e sistema, possuem fácil entendimento de computador.",0.54410853465,,,</s>,en
+74,on_p50,20,1,75,"Pour la rentrée 2018-2019, une première de toute une série de programmes destinés à la population du Québec hors du Québec sont proposés dans notre catalogue de cours en ligne. Ce catalogue de cours en ligne est à découvrir à l’adresse Liste des cours en ligne offerts
+Vous avez 10 ans et vous voulez faire découvrir la photographie à",0.54410853465,,,</s>,en
+75,on_p50,20,1,76,笔趣阁全集小说阅读网 - 笔趣阁小说阅读网 - 笔趣阁小说阅读网 - 笔趣阁小说阅读网 - 笔趣阁小说阅读网 - 笔趣阁小说阅读网 - 笔趣阁小说阅读网 - 笔趣阁小说阅读网,0.54410853465,,,</s>,en
+76,on_p50,20,1,77,"El Gobierno pide a los proveedores de la dependencia que retiren su concurso por el despido de 850 empleados - Diario16
+El Gobierno pide a los proveedores de la dependencia que retiren su concurso por el despido de 850 empleados
+La Vicepresidencia Segunda ha trasladado a los representantes de los 85.000 proveedores de la Administración General",0.54410853465,,,</s>,en
+77,on_p50,20,1,78,"Mô tả: Sữa chua hoa quả đông lạnh là sản phẩm đa dạng được sản xuất trên dây chuyền công nghệ hiện đại, với hương vị trái cây tự nhiên và rất tốt cho sức khỏe. Sản phẩm phù hợp cho mọi lứa tuổi và mọi người lúc nào cũng có thể thưởng thức được.
+Sữa chua",0.54410853465,,,</s>,en
+78,on_p50,20,1,79,Kohlrabi adalah tanaman sayuran yang juga terkenal dengan nama Brassica oleracea var. botrytis. Tanaman ini termasuk dalam makanan yang baik untuk kesehatan jantung karena terkandung kandungan serat yang cukup tinggi.,0.54410853465,,,</s>,en
+79,on_p50,20,1,80,L'application de ce logiciel spirituelle aura pour effet de vous libérer du stress et de vous permettre d'améliorer votre environnement de vie.,0.54410853465,,,</s>,en
+80,on_p50,20,1,81,"En 2008, alors que la liste Ni Putes Ni Soumises arrive en tête des suffrages, François Hollande se montre favorable à un mariage homosexuel dans le cadre d'une législation complémentaire à la loi de 1983.
+Cependant, dans son discours du 24 juin 2009, le candidat socialiste promet le soutien de la France au mariage",0.54410853465,,,</s>,en
+81,on_p50,20,1,82,"Lors de ce championnat des champion, nos équipes ont été excellentes et notre groupe AD, malgré ses difficultés, a remporté la troisième place.",0.54410853465,,,</s>,en
+82,on_p50,20,1,83,3. 在试吃中消费者将品尝样品由入口到内脏，最后到尾部，将样品从口中拽出，仔细观察样品外的颜色是否均匀一致，是否容易与周围清油或内部其他食物食物沾染。并用手触摸样品，观察是否有异常的声音，是否比较脆,0.54410853465,,,</s>,en
+83,on_p50,20,1,84,"Aquesta mateixa setmana han començat els treballs per a la millora del paviment de la Rambla del Port 2 de la urbanització de Camp de Mar, que va entrar en funcionament l'any 2010.
+Aquesta actuació consisteix en la substitució del paviment existent per un de nou de tipus polimèric hidràulic, que millorarà la resistència i",0.54410853465,,,</s>,en
+84,on_p50,20,1,85,"-Ngày 6/1, Thủ tướng Chính phủ Nguyễn Xuân Phúc đã gửi Thư khen, biểu dương tới Bộ Tài nguyên và Môi trường, UBND tỉnh Quảng Ninh, Công ty TNHH MTV Cao su Hà Nội, Công ty TNHH MTV Cao su Hà Nam, Công ty cổ phần Cao su Thanh Hà và Công ty TNHH MTV Cao",0.54410853465,,,</s>,en
+85,on_p50,20,1,86,12月5日，由重庆日报报业集团主办的“2019今日重庆开放日”活动在渝举行。活动现场，重庆日报报业集团旗下智库机构重庆研究院发布了《重庆城市竞争力报告2019》。《报告》指出，重庆成为全国唯一对全国GDP贡献率高于全国平均水平的重庆，,0.54410853465,,,</s>,en
+86,on_p50,20,1,87,"Notre entreprise Rénov Rénovation est une référence en travaux de peinture d’intérieur à Éperlecques (59). Nous réalisons tous les travaux de peinture intérieure, y compris les travaux de peinture à l’italienne dans le 59, dans le Nord et dans le Pas-de-Calais. Quelle que soit la surface",0.54410853465,,,</s>,en
+87,on_p50,20,1,88,"Les Canadiens pourront utiliser leurs cartes de crédit ou de débit. Les titulaires de cartes de crédit de Visa et de MasterCard pourront utiliser leurs cartes pour payer leurs factures en ligne, avec leurs points, en ligne dans les endroits suivants :",0.54410853465,,,</s>,en
+88,on_p50,20,1,89,"Déjeuner dans la fôret, Ballade en canoë, Flâneurs dans le village, Soirée dans les pubs et restaurants de la région, Excursion sur le fleuve, Le lac à partir de 600 $ à l'aller et retour, Excursion sur la lagune de la Timmba, Exc",0.54410853465,,,</s>,en
+89,on_p50,20,1,90,"Il a ensuite apporté quelques précisions sur le financement de la mesure puis annoncé que la ""tarification sociale concerne ces indépendants et non pas leurs clients en tant que tels"". Le ministre a ensuite précisé que cette mesure s'appliquera aux revenus de 2019 mais pourra être étendue à 2020.
+Il a ensuite fait part de la",0.54410853465,,,</s>,en
+90,on_p50,20,1,91,"Ahora en un bol ponemos el aceite de girasol, el espesante (yo le puse Maizena, pero si no tienes eso lo puedes sustituir por Maizena en polvo), el yogurt, el azúcar y la sal, amasamos bien hasta que esté todo bien mezclado.
+En un molde de",0.54410853465,,,</s>,en
+91,on_p50,20,1,92,"La randonnée est en soi une activité sportive. Elle sollicite le corps et la méditation. Elle nécessite de l’espace, et le terrain de randonnée est généralement assez large. Elle est le seul genre de randonnée à être compatible avec la plupart des équipements de randonnée. Vous pouvez par exemple marcher sur un sentier avec des bâtons",0.54410853465,,,</s>,en
+92,on_p50,20,1,93,"Ce contenu a été publié dans Dessin animés par Bill, et marqué avec Anime, Bladerunner, Dessin animé, Hollywood, Léa Fédé, Ludi, Légendaires, Melvin, Movie, Soda. Mettez-le en favori avec son permalien.
+La rhub",0.54410853465,,,</s>,en
+93,on_p50,20,1,94,"Hướng dẫn cách giải phóng bộ nhớ nhanh cho điện thoại Xiaomi Mi 10T Ultra hiệu quả nhất. Với pin dung lượng 4.000 mAh, Xiaomi Mi 10T Ultra có thời gian sử dụng lâu nhưng không được thoải mái nếu không...",0.54410853465,,,</s>,en
+94,on_p50,20,1,95,"Múrcia, 3 abr (EFE).- El centrocampista del Granada Carlos Neva, recuperado ya de su lesión muscular, regresa a la convocatoria del equipo andaluz para el partido de este sábado ante el Nàstic, que se disputará en La... [+]
+Alicante, 3 abr (EFE).- La",0.54410853465,,,</s>,en
+95,on_p50,20,1,96,"idioma español, geografía, historia, lenguas regionales y, en general, materias relacionadas con estos agentes.",0.54410853465,,,</s>,en
+96,on_p50,20,1,97,"Q:
+
+In C#, is it okay to cast object to string?
+
+Why is it okay in C# to cast object to string? And if not how can we cast object to string?
+I was thinking of this example:
+public void Test()
+{
+    string s = Object.ToString();
+}
+
+A:
+
+It",0.54410853465,,,</s>,en
+97,on_p50,20,1,98,"Nhằm lấy lại niềm tin của khách hàng, Công ty Tân Phú Nha Trang sẽ cùng khách hàng thực hiện việc thu hồi túi đựng giày thuỷ tinh do vi phạm quy định của Bộ Tài nguyên và Môi trường.
+Cụ thể, khách hàng có thể đem theo túi đựng giày phẩm CF (có màu đỏ) đến 24",0.54410853465,,,</s>,en
+98,on_p50,20,1,99,"Como as pessoas se relacionam com o mundo e como elas se sentem sobre ele e sobre o que fazem, tornou-se cada vez mais evidente que a oração é tanto uma necessidade humana quanto uma necessidade divina. A oração revela quem somos, expõe nossa identidade e nos orienta na vida. Quando oramos, não estamos apenas",0.54410853465,,,</s>,en
+99,on_p50,20,1,100,"Sugestões para adicionar outro produto ao carrinho de compras
+Para adicionar novos produtos, clique no botão Adicionar à sua lista.Quanto mais produtos você adicionar, mais tempo levará para que a sua lista seja atualizada.
+Ouça músicas e podcasts
+Para ouvir música, você pode clicar no",0.54410853465,,,</s>,en

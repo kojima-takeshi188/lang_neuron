@@ -1,0 +1,232 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,20,1,1,"El actual entrenador de porteros del Barcelona, Jorge Valdano, dejó a los barcelonistas con cierta sensación de haber perdido el partido. Las diferencias entre ellos estaban desde el inicio, la desconfianza, la frustración y los insultos entre ellos, no entre el barcelonista y el madridista. Esta tarde, a falta de",0.5442313849999998,,,</s>,fr
+1,on_p50,20,1,2,"/* This file is part of the KDE project
+   Copyright (C) 2003 Ariya Hidayat <ariya@kde.org>
+
+   This library is free software; you can redistribute it and/or
+   modify it under the terms of the GNU Library General Public
+   License as published by the Free Software Foundation; either
+   version 2 of the",0.5442313849999998,,,</s>,fr
+2,on_p50,20,1,3,"#!/usr/bin/env python
+
+import os
+import sys
+import time
+import logging
+import subprocess
+from distutils.core import setup
+from distutils.command.install import install
+
+log = logging.getLogger(__name__)
+
+def do_setup():
+    # Write the setup.cfg in the current working directory
+   ",0.5442313849999998,,,</s>,fr
+3,on_p50,20,1,4,"Ce produit est un bon breakfast pour le matin! C'est sain et facile à faire. Le goût de pâte à la farine d'amandes est très bon. Le seul hic est qu'il est assez épais en raison du beurre.
+Le produit n'est pas très bon étant donné que la farine d'amande était mouillée et donc difficile à faire",0.5442313849999998,,,</s>,fr
+4,on_p50,20,1,5,L'homme de la situation a d’ailleurs demandé à l'assemblée d'annuler les élections législatives en cours en raison des mesures de restriction afin de réduire la propagation de la COVID-19 liées à la pandémie.,0.5442313849999998,,,</s>,fr
+5,on_p50,20,1,6,"Q:
+
+Verifying the type of a method parameter with reflection
+
+I am trying to implement the following method...
+// Registration of a MethodBase
+public static void Register(string name, MethodBase method, Type[] parameterTypes)
+
+I am having a problem with reflection, I am not sure how to do this. How",0.5442313849999998,,,</s>,fr
+6,on_p50,20,1,7,"Neuromorphisms
+Neuromorpho sorting is a process in which the sorting of neurons into classes based on a number of features (e.g. neural morphology) is performed, whereas this process itself is not a mechanism that is alone responsible for the pattern of neuronal organization that underlies an organism's computations.",0.5442313849999998,,,</s>,fr
+7,on_p50,20,1,8,"A nível de emoções, a maioria dos males que vivemos nos resolve-se só na terceira semana e a partir daí só temos de aceitar o que somos. As nossas escolhas são agora. Não temos de nos envergonhar de nada. O que sentimos nem se deve envergonhar de nós.
+Quando é necessário demonstrar uma reacção, não",0.5442313849999998,,,</s>,fr
+8,on_p50,20,1,9,"The two queens have a right to be.
+But they won't fight.
+They'll pay for it with their lives.
+They'll pay for it with their lives.
+Ready?
+Get ready!
+And one more thing.
+You take care of your queen.
+You take care of your queen.
+Go!
+Hurry!
+Hurry",0.5442313849999998,,,</s>,fr
+9,on_p50,20,1,10,"Introduction
+Dealing with high data volumes is a task in the opinion mining area, in which the density of the data sources is increasing. The density of data sources is defined as the number of data sources per unit of time. The density of data sources can be reduced by separating the data sources into smaller data sets.",0.5442313849999998,,,</s>,fr
+10,on_p50,20,1,11,"Il y a un peu plus de trois mois, j’ai eu le plaisir de visiter la ferme bio « Les Fleurs de la Garnache » à Thouarets. Nous sommes tombés sur Mouss d’Oie. Une jeune brebis de 9 mois qui s’appelle Delphine. Elle a gagné le concours de",0.5442313849999998,,,</s>,fr
+11,on_p50,20,1,12,"A partir del lunes, 13 de enero, los centros docentes y universidades de la región podrán acogerse a las ayudas para la financiación de los gastos derivados del transporte y de los servicios de comedor escolar para los alumnos de 3º de la ESO y 2º de Bachillerato, en los que se incluye también el transporte de los",0.5442313849999998,,,</s>,fr
+12,on_p50,20,1,13,"Por todo esto, desde la dirección de la escuela se ha pedido a los padres que se informe si su hijo está en contacto con el virus a través de la familia “y en los contactos que estime oportuno”, según explica el comunicado.
+Además, se recomienda también que se hagan test PCR a los miembros de la familia",0.5442313849999998,,,</s>,fr
+13,on_p50,20,1,14,"Exactement! Pour l’appliquer, en tant qu’entrepreneur, il faut choisir une activité qui implique une activité physique, puis, trouver un moyen de la pratiquer. Et puis, il faut bien gérer le stress car c’est une partie de la vie active mais il est fort probable que vous vous sentiez débordé,",0.5442313849999998,,,</s>,fr
+14,on_p50,20,1,15,♥ Inspiration #2: J’ai écrit ce papier pour vous le partager rapidement. J’ai eu le plaisir d’écrire un article pour Elle où je vous raconte mon expérience avec une agence de SEO à Bordeaux et mon analyse du travail de cette entreprise. Où j’ai appris beaucoup et où j’ai un avis très tranché sur ce milieu qui,0.5442313849999998,,,</s>,fr
+15,on_p50,20,1,16,"Introduction
+The first known publication of the cosmological parameter h was based on data from several groups in the early 1980's. Since then the space-time metric has been determined for a variety of models, and it is now generally accepted that the value of h is between 0.5 and 0.7. However, the",0.5442313849999998,,,</s>,fr
+16,on_p50,20,1,17,"Cette fois, nous allons exploiter un incroyable triangle de forces, celui que nous avons cité précédemment, qui nous montre un diagramme de forces très intéressant.
+Nous remarquerons que, cette fois-ci, il n’y a pas de neutralité, ni d’équilibre à trouver, et que la seule solution est de rester dans un équilibre,",0.5442313849999998,,,</s>,fr
+17,on_p50,20,1,18,"Après avoir franchi un premier cap, de proposer sur le marché des séries génériques de films et de séries TV, de nombreux acteurs se sont alors lancés dans la production de séries originales.À l'heure où la plateforme Disney+ est en pleine expansion, faire ses propres séries est une bonne manière de ne pas se laisser",0.5442313849999998,,,</s>,fr
+18,on_p50,20,1,19,"Les formations courtes sont des formations courtes, régulièrement programmées, de 30 à 90 heures, qui sont dispensées par des formateurs compétents dans un champ d’expertise bien précis.
+Ainsi, le financeur pourra financer des formations à destination des salariés, des demandeurs d’emploi, des entreprises, des associations, des collectivités territoriales",0.5442313849999998,,,</s>,fr
+19,on_p50,20,1,20,"The information presented on this page is about the nearest Ackermann supercars dealership. For more information, including the 41 Ackermann supercars for sale here, as well as any of our other cars for sale, please feel free to contact us by filling out the contact form on this page.",0.5442313849999998,,,</s>,fr
+20,on_p50,20,1,21,"Pour la 3ème année consécutive, FdeK s’est associé au programme Paris Poésie! Il s’agit de « la plus grande manifestation littéraire de la capitale en faveur de l’écriture et des cultures du monde ». Depuis sa création en 2012, ce programme unique en France n’a cessé de rayonner dans toute la région.
+",0.5442313849999998,,,</s>,fr
+21,on_p50,20,1,22,"Le fait que le président des États-Unis d’Amérique puisse être amené à déposer sa démission après avoir confirmé la victoire du candidat démocrate en novembre 2020 ne doit pas empêcher un débat public sérieux sur les questions centrales de notre société. La communauté scientifique s’est dotée de nombreuses méthodes et outils pour aborder ce problème. Notre pays a, au",0.5442313849999998,,,</s>,fr
+22,on_p50,20,1,23,"On sait que la néologue britannique Doris Lessing avait fait un long passage par Strasbourg en 1975. La professeure de littérature comparée y avait présenté un colloque intitulé « La traduction dans les arts ».
+Pailhès, dans son roman M. Elkabbach, fait plusieurs incursions autour de Strasbourg",0.5442313849999998,,,</s>,fr
+23,on_p50,20,1,24,"﻿namespace HomePage
+{
+    partial class AboutBox1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name=""disposing"">true if managed resources should be disposed;",0.5442313849999998,,,</s>,fr
+24,on_p50,20,1,25,"Le projet est porté par les CRA de la région Auvergne-Rhône-Alpes, à travers le réseau des Centres de Ressources Animaux et des Centres de Spécialisées pour l’Accompagnement des Personnes ou Services d’Aide par l’Autonomie des Chiens.",0.5442313849999998,,,</s>,fr
+25,on_p50,20,1,26,"Le système de production de beurre et de fromage La Caillette a été mis en place en 1996 à la suite de l’arrêt temporaire de la fabrication de fromage au moulin de la Caillette (1756), par un groupe de bénévoles animé par le maître oenologue et restaurateur Michel La Caillette.
+Le fromage de",0.5442313849999998,,,</s>,fr
+26,on_p50,20,1,27,"Et voilà une nouvelle pièce de plus pour le relooking de notre maison! Super accueil, le patron est prêt à la taille, ne perdez pas votre temps à vous déplacer, la salopette est prête à être personnalisée. Je recommande vivement ce vendeur de tissu!
+Suite au bad buzz,",0.5442313849999998,,,</s>,fr
+27,on_p50,20,1,28,"There is no doubt that we are entering an unprecedented period of unprecedented challenges to the health, safety and wellbeing of staff and customers within the wider sectors of hotels, leisure and tourism. Together, we are working to create a sustainable return to business as soon as possible.",0.5442313849999998,,,</s>,fr
+28,on_p50,20,1,29,PHP存储过程主要的工作就是执行程序，执行过程一般都要传入一些参数，具体参数的数据类型就是存储过程的参数类型，在生成存储过程时，必须指定参数的类型，否则在程序运行时需要重新生成。 PHP中有三种常见的存储过程参数类型： string 字符串类型 变量,0.5442313849999998,,,</s>,fr
+29,on_p50,20,1,30,"/*
+ * This file is part of rasdaman community.
+ *
+ * Rasdaman community is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your",0.5442313849999998,,,</s>,fr
+30,on_p50,20,1,31,"“Jika saya tidak jadi ketua, saya tidak akan menang. Jika saya tidak jadi ketua, saya tidak akan menang. Jika saya tidak jadi ketua, saya tidak akan menang.”
+Tapi, itu mungkin benar. Pada hari Minggu, Amy Schumer mengatakan bahwa pada awalnya dia tidak berencana untuk menjadi Ketua Demokrat.
+Pernyataan itu muncul",0.5442313849999998,,,</s>,fr
+31,on_p50,20,1,32,"Les PME et les PMI ont en général une durée de vie plus longue que celles des grandes entreprises. C'est le seul fait qui explique que la majorité des grandes entreprises soit parvenue à survivre plus longtemps que leurs homologues de petite taille, qui elles sont moins protégées. La durée de vie moyenne des PME se situe",0.5442313849999998,,,</s>,fr
+32,on_p50,20,1,33,"Charles Ellis (ancien entraîneur de football américain)
+
+Carrière dans le football américain universitaire (URFAB)
+
+Cet arrière droit originaire de Bryson City, dans le Tennessee, est devenu un professionnel lors de la saison 1988-89, au poste de quarterback avec le Colorado Rapids, passé par les Indiana Pacers,",0.5442313849999998,,,</s>,fr
+33,on_p50,20,1,34,"Vous pouvez également exercer votre droit de vous opposer au traitement de vos données pour des motifs légitimes. Si vous exercez ce droit, la société SettiTech se réserve le droit de ne plus répondre favorablement à votre demande. Les données collectées par la société SettiTech sont soumises aux dispositions des articles 20.
+L'",0.5442313849999998,,,</s>,fr
+34,on_p50,20,1,35,"D’autres acteurs du secteur, comme les fabricants de produits ménagers, de médicaments, d’appareils électroniques ou de matériel médical, ont également décidé de maintenir leurs activités malgré la fermeture des lieux publics.",0.5442313849999998,,,</s>,fr
+35,on_p50,20,1,36,"En cuanto al tema del libro, debo decir que sigue (siempre) en mi mente la misma sensación que en el caso del anterior libro. La pregunta es la siguiente: ¿por qué? ¿Por qué una novela que ya se puede leer en cualquier momento, sigue siendo (no lo digo como un dogma, sino como una mera",0.5442313849999998,,,</s>,fr
+36,on_p50,20,1,37,"//------------------------------------------------------------------------------
+// <auto-generated>
+//     Ce code a été généré par un outil.
+//     Version du runtime :4.0.30319.42000
+//
+//     Les modifications apportées à ce fichier peuvent provoquer un comportement incorrect et seront perdues si
+//     le code est rég",0.5442313849999998,,,</s>,fr
+37,on_p50,20,1,38,"PEMI / Registrado : Registrado ( para ver os registros, selecione o registro desejado e clique no ícone do rolo para mudar de página ).
+PEMI / Avançado / Registrado :Registrado ( para ver os registros, selecione o registro desejado e clique no ícone",0.5442313849999998,,,</s>,fr
+38,on_p50,20,1,39,"Le gouvernement a en outre été interrogé sur les mesures d’économies envisagées pour le seul secteur de la défense, et a proposé de ne pas les appliquer aux gaz et fluides.
+L’armée a, néanmoins, concédé avoir « accéléré » la cadence du déploiement de ses ambulances pour répondre à un",0.5442313849999998,,,</s>,fr
+39,on_p50,20,1,40,"A partir de então, a empresa começou a investir no setor de telefonia celular e, em 1974, a partir da fusão entre a Telemar e a CEMTEL, surgiu a Vivo.
+A partir de então, a Vivo passou a oferecer aos seus clientes um cartão pré-pago com serviços gratuitos, mas que tinham",0.5442313849999998,,,</s>,fr
+40,on_p50,20,1,41,"/*
+ * Copyright (c) 1998, Oracle and/or its affiliates. All rights reserved.
+ * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
+ *
+ * This code is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public License version 2 only, as",0.5442313849999998,,,</s>,fr
+41,on_p50,20,1,42,Il y a toujours une chose qui est sûre : le droit s'applique parce qu'il y a des gens qui travaillent avec le droit. Ces gens doivent être conscients de ce qu'ils font et de ce qu'ils prouvent.,0.5442313849999998,,,</s>,fr
+42,on_p50,20,1,43,"Il est important de bien choisir ses bagues lors de l’achat de votre bague en or jaune ou blanc.
+L'argent est plus précieux que l'or blanc à cause de sa version--base, qui est 50 % d'argent pur et 50 % d'or blanc pur.
+Contactez-nous pour en savoir plus. Nous sommes à",0.5442313849999998,,,</s>,fr
+43,on_p50,20,1,44,"“Occasionally, people talk about the way that America is different from Europe. I think they are right,” she remarked. “But the real point is that Europe and America share the same things.”
+“I think Europe is protected and empowered by freedom of speech and the right to express yourself freely.",0.5442313849999998,,,</s>,fr
+44,on_p50,20,1,45,"A partir de la próxima semana, se realizará una serie de operativos especiales de control y prevención de secuestros de vehículos, entre las actividades del plan provincial “Operativo de Seguridad Vial” que impulsa la provincia de Misiones, con presencia de agentes de tránsito de todas las dependencias y fuerzas de seguridad de la provincia, junto a",0.5442313849999998,,,</s>,fr
+45,on_p50,20,1,46,"Charli est un jeune et heureux joue, un jeune et heureux enfant, un enfant attaché, qui souhaite trouver de nouvelles sensations. Mais le temps joue contre lui. Il est en retard et n'a pas reçu son goûter. Ce n'est pas grave, son père l'attend. Mais lorsqu'il arrive, il s'aperçoit que",0.5442313849999998,,,</s>,fr
+46,on_p50,20,1,47,,0.5442313849999998,,,</s>,fr
+47,on_p50,20,1,48,"Qu'est-ce qu'elle fait?
+- Elle mange.
+- Chacun mange à sa faim.
+- Elle mange.
+- Chacun mange à sa faim.
+- Je vais voir comment elle se porte.
+- C'est dégoûtant!
+Bon, c'est bon, venez.
+Regarde.
+- Qu'est-ce qu'on mange?
+- Ça, c'est du poulet.
+- De la",0.5442313849999998,,,</s>,fr
+48,on_p50,20,1,49,"L'espectacle, que va tenir lloc el passat 3 i 4 de novembre, va ser de gran èxit i va girar per diferents localitats de la comarca.
+La Companyia La Face i els seus amics músics van oferir una actuació molt dinàmica i molt ben dirigida per la seva directora, la Montse Miret, que",0.5442313849999998,,,</s>,fr
+49,on_p50,20,1,50,"Oh, oui, je sais, c'est samedi. Je lui ai fait la même remarque le week end dernier. Mais c'est que je suis ""promiscuente"", je suis comme ça, je ne peux rien faire de plus. Mais comme je suis en couple, je connais, je sais que ce sont mes copines",0.5442313849999998,,,</s>,fr
+50,on_p50,20,1,51,"La terre, terre des larmes, est le principal personnage de l’actualité. Un roi a disparu sans laisser de traces, tandis que le pays entier était à la recherche du prince, qui se cachait dans la montagne. Le jeune Banka, le garçon qui avait osé croire en Gabriel, est maintenant le héros de",0.5442313849999998,,,</s>,fr
+51,on_p50,20,1,52,"Les deux tiers des pluies survenues en septembre et octobre furent concentrées sur 10h en France, soit la plus grosse intensité depuis 112 ans, selon le site de Météo-France.",0.5442313849999998,,,</s>,fr
+52,on_p50,20,1,53,"Les bois de l'hêtre, grossièrement taillés et expédiés en petits fagots de 2,5 à 5 mètres de long sont ensuite utilisés pour fabriquer les bandes de feuillage ou de paillage. Cet artisanat permet de réaliser des objets décoratifs de qualité et d'une grande longévité.
+Le bois est",0.5442313849999998,,,</s>,fr
+53,on_p50,20,1,54,"El motivo principal de los cambios de este tipo de prendas es que se detecta que están dañadas, por lo que se las reemplaza.
+En caso de que identifiques que ya no te sirven tus tenis, es muy probable que te hayas pasado de la talla o que no sea la adecuada:
+Una vez que",0.5442313849999998,,,</s>,fr
+54,on_p50,20,1,55,"El Museo de la Industria Turística, en Manzanares, es un lugar donde se pueden ver exposiciones de los diferentes ámbitos que conforman el turismo.
+Hemos visitado el Museo de la industria turística de Manzanares (Madrid) y podemos decir que hay por lo menos 3 elementos que tenemos que destacar. Estos son:
+Un",0.5442313849999998,,,</s>,fr
+55,on_p50,20,1,56,"أطلقت كليفاليتا آيساندرا، رئيسة اللجنة التنفيذية لصندوق النقد الدولى، اليوم الثلاثاء، بياناً، قالت فيه إن السلع الاستهلاكية، التى تشكل حوالى ثلث الناتج الإجمالى الإجمالى للفرد فى الصين، دفعت الاقتصاد الصينى إلى التعافى خلال الربع الأخير من العام الماضى.
+",0.5442313849999998,,,</s>,fr
+56,on_p50,20,1,57,"I. INTRODUCTION
+A natural question is how the nonlinearity of the wave equation is transformed into the nonlinearity of the Schrödinger equation. This question is not trivial, because during the nonlinear evolution the wave amplitude is due to both a diffusion process and a nonlinear effect. Moreover, the underlying Hamiltonian structure",0.5442313849999998,,,</s>,fr
+57,on_p50,20,1,58,"Q:
+
+ASP.NET Core and Async Execution
+
+I am trying to understand the difference between Async and InProcess execution. Also, I am not sure if the following statement is true and would appreciate any advice.
+If I am in ""InProcess"" execution, but a request from a web service is still executing - will it",0.5442313849999998,,,</s>,fr
+58,on_p50,20,1,59,"Les 34 recettes de pâte à crêpes de nos professionnels au meilleur prix! Retrouvez ci-après nos 6 offres, marques, références et promotions en stock prêtes à être livrées rapidement dans nos magasins les plus proches de chez vous.
+Cette pâte à pâtisserie aux framboises et fruits rouges est un classique des",0.5442313849999998,,,</s>,fr
+59,on_p50,20,1,60,"Una plataforma de trabajo para las comunidades de mujeres y niñas que trabajan y viven el cambio climático en tres países de América Latina. En el primer informe de este año, la Plataforma analizó los desafíos de la comunidad de mujeres y niñas que trabajan y viven el cambio climático en tres países de América Latina: Perú, Colombia y Chile",0.5442313849999998,,,</s>,fr
+60,on_p50,20,1,61,"Yakuza: Kiwami – The Fist of the Cold War, conan le sang a tous est la suite de l’open world de The Yakuza: Kiwami, disponible depuis le 8 septembre 2015. Cette suite offre un univers beaucoup plus sombre, rempli de meurtres, de corruption et de sang. Vous",0.5442313849999998,,,</s>,fr
+61,on_p50,20,1,62,"Il y a de cela plus de vingt ans, un jeune homme qui venait d’emménager dans une ferme, fit la rencontre de ses amis. Ils unissent leurs efforts pour découvrir ce que cachait un kiosque que l’on nommait L’Ombre. Le jeu en est lancé et les jeunes hommes emmèn",0.5442313849999998,,,</s>,fr
+62,on_p50,20,1,63,Voici quelques connexes de meubles de salle de bains. Nous pensons qu’ils sont encore remplis d’avantages qui les rendent fascinants. Beaucoup de gens visiter ces pages web et lire ces articles jusqu’à ce qu’ils obtiennent tout ce qu’ils veulent.,0.5442313849999998,,,</s>,fr
+63,on_p50,20,1,64,"Vous avez accès à votre espace personnel où vous pouvez suivre en temps réel la progression de votre projet de formation, le suivi de votre demande, etc.",0.5442313849999998,,,</s>,fr
+64,on_p50,20,1,65,"Listes de Tenerlas en Cuenta 1. Utiliza una licencia para una sola aplicación o para varias aplicaciones con un único software. Luego, si es necesario reemplazar una aplicación, solo necesita actualizar la licencia de la aplicación en la nube que desee reemplazar. No puede usar otra aplicación para realizar la copia de seguridad. 2",0.5442313849999998,,,</s>,fr
+65,on_p50,20,1,66,"As a hotelier, you can rest assured that your guests are safe, and that your guests will enjoy the best of our facilities and services with plenty of room to relax and enjoy our fantastic range of dining options.
+We pride ourselves in taking care of your guests so, as well as booking a free cancellation, you are",0.5442313849999998,,,</s>,fr
+66,on_p50,20,1,67,"Il existe un certain nombre de raisons pour lesquelles votre bébé peut avoir les yeux rouges. Cela peut être un effet secondaire du changement de température ou un effet secondaire de certains médicaments. Voici quelques suggestions pour assainir les yeux de votre bébé.
+Il est normal que votre bébé ait les yeux rouges, car les yeux sont constamment",0.5442313849999998,,,</s>,fr
+67,on_p50,20,1,68,"Oh oui c’est beaucoup plus facile à vivre que dans certains pays. La France est surtout connue pour les vacances et les touristes! Ici on a droit à beaucoup de petites activités et d’ateliers, vraiment chouette! Et du coup tu habites dans un quartier très paisible, avec des gens super! On est vraiment",0.5442313849999998,,,</s>,fr
+68,on_p50,20,1,69,"Nous vous conseillons de soigner les détails lorsque vous planterez votre ton, car si vous plantez beaucoup de faux-plants, vous aurez une abondance de faux-semblant et ce sera la fin de votre ton. Restez calme et prenez des décisions judicieuses.
+Les tentes sont les plus faciles à accro",0.5442313849999998,,,</s>,fr
+69,on_p50,20,1,70,"Para algunas personas, la naturaleza es un espacio de placer, de aventura y de tranquilidad. Otras, la consideran un espacio de trabajo, de estudio y de trabajo. Para cada una de ellas, el jardín es un espacio de solución de problemas, de convivencia, de recreación y de diversión.",0.5442313849999998,,,</s>,fr
+70,on_p50,20,1,71,"Now that we’ve got a few of the biggest obstacles in play, we can start planning. These are a few steps we can take to add functionality to our website and make it more easy for our customers to find what they want.",0.5442313849999998,,,</s>,fr
+71,on_p50,20,1,72,Converse con los que han tomado la decisión de mantener o abandonar el cannabis medicinal. Analiza si sus prácticas de atención médica deben verse afectadas por el hecho de que no estés usando cannabis medicinal.,0.5442313849999998,,,</s>,fr
+72,on_p50,20,1,73,"Le Petit Prince, de Saint-Exupéry, est une œuvre remarquable, qui a le pouvoir de nous emmener là où nous sommes les plus « noirs », les plus « différents ». Pour le meilleur, pour le pire, mais toujours avec le courage de l’irrévérence. Elle a la capacité de",0.5442313849999998,,,</s>,fr
+73,on_p50,20,1,74,"L'Assemblée parlementaire du Conseil de l'Europe a adopté, le 10 mars, une résolution sur la menace pour la démocratie et les droits de l'homme résultant d'une éventuelle attaque terroriste. Les parlementaires co-initiateurs de la résolution, la France, la Hongrie, la Roumanie et la Finlande, appuyés par la Belgique, ont souligné que",0.5442313849999998,,,</s>,fr
+74,on_p50,20,1,75,"Pour la rentrée, nos locaux seront tous fermés du mardi 29 août au Jeudi 08 Juin 2019 inclus. Merci de votre compréhension. Pour les commandes de tissus ou les commandes en gros merci de nous contacter à l’adresse mail suivante :",0.5442313849999998,,,</s>,fr
+75,on_p50,20,1,76,"Cette catégorie de produit est utile pour réaliser des relevés poissonneux. Il est très pratique de pouvoir compter les poissons dans des petits sacs pour pouvoir les balader.
+Il s’agit d’un appareil de mesure qui est très utile pour des sondages en mer. En effet, cette machine permet de mesurer les différentes profondeurs des",0.5442313849999998,,,</s>,fr
+76,on_p50,20,1,77,"El Gobierno de La Pampa anunció hoy un nuevo programa especial de ayuda a las familias pampeanas que han sufrido el impacto económico por la crisis generada por la pandemia del coronavirus.
+A través del Plan ""Paso a paso"", El Gobierno de La Pampa, a través del Ministerio de Desarrollo Social y Familia, va a destinar",0.5442313849999998,,,</s>,fr
+77,on_p50,20,1,78,"Franck Dubosc est un grand comédien, mais c’est un homme très vindicatif, qui punit très souvent ses amis qui ne se conduisent pas très bien. Ces cours de remise en forme qui vont lui permettre de se débarrasser de ses kilos en trop vont lui permettre d’apprendre à lâcher-prise,",0.5442313849999998,,,</s>,fr
+78,on_p50,20,1,79,"Koh Samui Resort and Spa has recently unveiled a new personalised brand identity and website, which promises to help visitors to understand the value they can get from their stay.
+The new identity, featuring a lineage of lighthouses hiding in the ocean, creates a sense of history and identity. The website is",0.5442313849999998,,,</s>,fr
+79,on_p50,20,1,80,"L'édifice s'inspire de l'église de Saint-Cierge de Montségur, bâtie en 1767 sur la rive gauche de la Durance et ornée d'une corniche en stuc. La flèche tient un soubassement en torchis surmonté d'un piédestal en pierre de taille. Une",0.5442313849999998,,,</s>,fr
+80,on_p50,20,1,81,"En 2008, la Fundación L’Oréal a lancé la première campagne du monde entier qui a permis de mettre en évidence la contribution considérable des femmes africaines et maliennes à la société.",0.5442313849999998,,,</s>,fr
+81,on_p50,20,1,82,"Lors de leur premier match, les Haricots rouges ont concédé un but sur une erreur de l'attaque de Genève, qui s'est finalement inclinée (2-4).
+Les Rouge et Noir ont pris le jeu à leur compte dès l'entame de la deuxième période, avec une attaque de deux qui a permis aux pointeurs du CH",0.5442313849999998,,,</s>,fr
+82,on_p50,20,1,83,"3 août 2019 | La Ministre de la culture et de la communication se dévoile et s’invente, en grande interview dans un livre.",0.5442313849999998,,,</s>,fr
+83,on_p50,20,1,84,"Et à vrai dire, je suis un peu déçue par le résultat. Je n’étais pas très emballée par le premier tome que j’avais lu. C’était assez difficile pour moi d’envisager le deuxième et pourtant il est vraiment très agréable à lire. C’est une jolie petite histoire et je suis contente d’avoir pu la terminer �",0.5442313849999998,,,</s>,fr
+84,on_p50,20,1,85,"- « Ne vous inquiétez pas, vous ne serez pas seul », déclare le capitaine. « Vous trouverez toujours quelqu’un qui saura vous aider. »
+- « C’est bien, je vais être en sécurité, tiens-moi compagnie et fais attention à tes pouces. »
+- « Je ne peux pas te laisser",0.5442313849999998,,,</s>,fr
+85,on_p50,20,1,86,"La mise en place par la Ville de Paris d’une nouvelle modalité d’accompagnement de l’insertion professionnelle des bénéficiaires d’un contrat d’alternance est la réponse apportée aux difficultés rencontrées par les jeunes sortis de l’enseignement supérieur qui ne trouvent pas d’emploi dans les métiers du BTP et du bâtiment, en particulier. Les professionnels du B",0.5442313849999998,,,</s>,fr
+86,on_p50,20,1,87,"Notre entreprise RGE offre des compétences dans tout type de travaux de changement, installation ou réparation de vos chaudières à gaz.",0.5442313849999998,,,</s>,fr
+87,on_p50,20,1,88,"Les Canadiens pourront tester gratuitement leur nouveau vaccin contre le nouveau coronavirus au début du mois de février, ont annoncé lundi les ministres de la Santé, des Affaires sociales et des Finances, Justin Trudeau, et de l’Immigration, Revenu et Patrimoine canadien, Mélanie Joly.",0.5442313849999998,,,</s>,fr
+88,on_p50,20,1,89,"Déjà dans la première phrase, il y a un problème. La première personne dont nous parlons est un « non- sujet dans son propre discours » et c’est la première fois qu’il y a un pronom (un pronom indéfini n’est pas du tout approprié) dans le sujet. Mais quand d’autres professeurs lisent cette phrase, ils",0.5442313849999998,,,</s>,fr
+89,on_p50,20,1,90,"Il a ensuite apporté quelques précisions sur le financement de la mesure puis annoncé certaines nouveautés.
+""Motto de la construction : les maisons individuelles individuelles en bois"". C'est un slogan qui fera le plein de notoriété auprès du public.",0.5442313849999998,,,</s>,fr
+90,on_p50,20,1,91,"Ahora en un mundo de altísima velocidad, los desarrolladores pueden lograr que las aplicaciones sean más seguras y aún más creativas, y eso solo es posible con un sistema operativo de código abierto y totalmente descentralizado en lugar de un sistema basado en un proveedor.",0.5442313849999998,,,</s>,fr
+91,on_p50,20,1,92,"La semaine dernière, j'avais terminé un projet que j'avais en cours de réalisation. J'ai réalisé une page Facebook. Pour vous la présenter, voici un petit peu de mon histoire.",0.5442313849999998,,,</s>,fr
+92,on_p50,20,1,93,"Ce contenu a été publié dans Dernières nouvelles d'Alsace, Infos Vosges, Société par Antoine, et marqué avec France, Laurent Wauquiez, présidence de la République. Mettez-le en favori avec son permalien.",0.5442313849999998,,,</s>,fr
+93,on_p50,20,1,94,"Ces derniers mois, les prix des vinyles sont en forte hausse, avec une hausse des prix moyens de plus de 10%. Si les jeunes ne sont pas touchés directement par les prix, le vinyle s’est fait une place de choix dans la consommation. Plusieurs jeunes ont commencé à posséder des vinyles, et leurs parents leur",0.5442313849999998,,,</s>,fr
+94,on_p50,20,1,95,"Mapei e organize a informação e a tecnologia de sua empresa para tornar o gerenciamento da estratégia mais fácil e eficiente.
+Determine e identifique as diretrizes de gerenciamento de processos, feche contratos e acompanhe as relações de trabalho e contratos.
+Acompanhe as solicitações de fornecedores, priorize",0.5442313849999998,,,</s>,fr
+95,on_p50,20,1,96,,0.5442313849999998,,,</s>,fr
+96,on_p50,20,1,97,"Les cartouches d'encre compatibles Brother TN1P3 sont conçues de manière à ce que la qualité soit équivalente aux cartouches de marque constructeur. Très simple et rapide à installer, son utilisation n'endommage pas l'imprimante
+Vous avez choisi de passer en mode Drive, et donc de pouvoir récupérer vos photos sur",0.5442313849999998,,,</s>,fr
+97,on_p50,20,1,98,"Nhằm lấy lại niềm tin của người dân, trong năm 2019, Đà Nẵng sẽ tập trung giải quyết các việc thu hồi đất mà thành phố đã nợ cấp huyện trên 4.300 tỷ đồng, trong đó thực hiện thu hồi 1.645 ha đất phục vụ công tác quản lý đô thị và nông nghiệp.",0.5442313849999998,,,</s>,fr
+98,on_p50,20,1,99,"Que ce soit pour une première commande ou pour des commandes suivantes (d’environ 25€), notre objectif est de vous offrir le meilleur car nous savons que passer une commande en ligne implique des risques. Pour notre part, nous voulons vous offrir le meilleur service possible et pour cela, nous travaillons sans relâche afin de mettre",0.5442313849999998,,,</s>,fr
+99,on_p50,20,1,100,"Le travail du métal est un art, qui ne doit pas être laissé de coté, mais est parfois très complexe à comprendre et à comprendre, il est donc important de connaître les étapes de fabrication.",0.5442313849999998,,,</s>,fr

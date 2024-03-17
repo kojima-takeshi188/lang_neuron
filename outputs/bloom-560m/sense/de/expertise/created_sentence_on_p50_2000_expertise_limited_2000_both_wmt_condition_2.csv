@@ -1,0 +1,573 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,2000,1,1,"Translate an English sentence into a target language.
+English: ""You go too far,"" he said, ""in describing as ""mistakes"" actions which our grandparents might or might not have taken.
+Target Language: ""Er,"" he answered, ""we are not so bad.""
+In the meantime, the German-speaking teacher was in charge of the lesson. He had already learned that the German-speaking teacher had already learned that the German-speaking teacher had already learned that the German-speaking teacher had already learned that the German-speaking teacher had already learned that the German-speaking teacher had already learned that the German-speaking teacher had already learned that the German-speaking teacher had already learned that the German-speaking teacher had already learned that the German-speaking teacher had already learned that the German-speaking teacher had already learned that the",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+1,on_p50,2000,1,2,"Translate an English sentence into a target language.
+English: Last year marked the 25 year of German-Chinese relations.
+Target Language: German.
+Sonderen zu denkenen, die zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+2,on_p50,2000,1,3,"Translate an English sentence into a target language.
+English: No - a typing error - electronics) sector, the basic rule is that the latest wonder of today is electronic rubbish tomorrow - once bought, it's out of date.
+Target Language: German - die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+3,on_p50,2000,1,4,"Translate an English sentence into a target language.
+English: Fewer than half of all texts are purchased at campus bookstores, according to the National Association of College Stores trade association.
+Target Language: The target language is the language of the text. The target language is the language of the text. The target language is the language of the text. The target language is the language of the text. The target language is the language of the text. The target language is the language of the text. The target language is the language of the text. The target language is the language of the text. The target language is the language of the text. The target language is the language of the text. The target language is the language of the text. The target language is the language of the text. The target language is the language of the",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+4,on_p50,2000,1,5,"Translate an English sentence into a target language.
+English: The decision makes it almost impossible for opposition democrats to get on the ballot prompted pro-democracy activists to renew their vow to bring Hong Kong's financial hub to a halt with ""Occupy Central"" protests.
+Target Language: German. The German-speaking audience will be able to hear the news in German.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+5,on_p50,2000,1,6,"Translate an English sentence into a target language.
+English: A search party involving local police and rescue squad was sent out and the pair were found about 11pm near Bridal Veil Falls.
+Target Language: German.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+6,on_p50,2000,1,7,"Translate an English sentence into a target language.
+English: ""I have not felt myself,"" he wrote in May that year.
+Target Language: ""Nein,"" he wrote in September.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+7,on_p50,2000,1,8,"Translate an English sentence into a target language.
+English: Currently there are a total of eleven teams that are taking part in the competitions: six air rifles teams, one pellet gun team, one KK1 sport target pistol team, one youth team and two old-timer teams.
+Target Language: The target language is German. The German-speaking team will be the best performer in the competition.
+Sieger: The Sieger is a die-play game that is played by two players. The Sieger is played by two players. Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger Spielen Sieger",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+8,on_p50,2000,1,9,"Translate an English sentence into a target language.
+English: Even some international companies are keeping their distance.
+Target Language: German.
+Sonderen deren die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+9,on_p50,2000,1,10,"Translate an English sentence into a target language.
+English: The riders prove just how good a shape they are in: stretches of 95 kilometers at an altitude of 1175 meters, 120 kilometers with an altitude of 1475 meters, and 145 kilometers with an altitude of 1775 meters.
+Target Language: German. The best time to visit Berlin is during the spring and autumn. During the spring, the temperature is warm and the air is humid. During the autumn, the temperature is warmer and the air is dry. During the winter, the temperature is warmer and the air is cold. During the spring, the temperature is warm and the air is humid. During the autumn, the temperature is warmer and the air is dry. During the winter, the temperature is warmer and the air is cold.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+10,on_p50,2000,1,11,"Translate an English sentence into a target language.
+English: The report said that Huthi threatened further escalation of the conflict, should his demands not be met.
+Target Language: German.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+11,on_p50,2000,1,12,"Translate an English sentence into a target language.
+English: Manfred Richter loves this painting of a picture from his childhood home.
+Target Language: Deutsch
+Schulz, Manfred Richter. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schulz. Die zu schul",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+12,on_p50,2000,1,13,"Translate an English sentence into a target language.
+English: However, they did not give details, apparently looking to avoid problems with authorities.
+Target Language: German: The German version of the test is still in use.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+13,on_p50,2000,1,14,"Translate an English sentence into a target language.
+English: Anyone interested in dancing can come along and have a go, there is no obligation to join. The session run on Thursdays between 5 and 6, and on Fridays from 5 until 6:30 PM in the dance room at what was Hotel Meyer, 9 Freistraße.
+Target Language: German. The session run on Thursdays between 5 and 6, and on Fridays from 5 until 6:30 PM in the dance room at what was Hotel Meyer, 9 Freistraße.
+The best part is that you can find out how many dancers are in the room, which is a bonus. The best part is that you can find out how many dancers are in the room, which is a bonus.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+14,on_p50,2000,1,15,"Translate an English sentence into a target language.
+English: More than 330 people, more than half of them children, were killed in the three-day ordeal that shocked the world
+Target Language: German, English, French, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German,",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+15,on_p50,2000,1,16,"Translate an English sentence into a target language.
+English: A linen has now been invented that is incombustible.
+Target Language: German.
+Sonder die: Die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+16,on_p50,2000,1,17,"Translate an English sentence into a target language.
+English: So now we can only echo Lawson's question: ""How many of us will get the same disease?""
+Target Language: We will get the same disease.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+17,on_p50,2000,1,18,"Translate an English sentence into a target language.
+English: according to the announcement made in Düsseldorf by the district chairperson for the union of German train drivers (GDL), Sven Schmitte.
+Target Language: German. Schmitte, who is the president of the GDL, is the president of the German trade union GDL.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+18,on_p50,2000,1,19,"Translate an English sentence into a target language.
+English: We don't want concern to spread that Hong Kong is getting out of control.
+Target Language: We want to keep the situation in hand.
+We want to keep the situation in hand.
+We want to keep the situation in hand.
+We want to keep the situation in hand.
+We want to keep the situation in hand.
+We want to keep the situation in hand.
+We want to keep the situation in hand.
+We want to keep the situation in hand.
+We want to keep the situation in hand.
+We want to keep the situation in hand.
+We want to keep the situation in hand.
+We want to keep the situation in hand.
+We want to keep the situation in hand.
+We want to keep the situation in hand.
+We want",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+19,on_p50,2000,1,20,"Translate an English sentence into a target language.
+English: Marine Le Pen, the far-Right National Front leader, heaped scorn on the Socialists' constant in-fighting by saying she did not see the new Valls government lasting more than just a few months.
+Target Language: German. The German-speaking audience of the Bild amt is mostly German-speaking people, who are mostly Christian. The Bild amt is a Bild amt in Berlin, Germany. Bild amt in Berlin, Germany. Bild amt in Berlin, Germany. Bild amt in Berlin, Germany. Bild amt in Berlin, Germany. Bild amt in Berlin, Germany. Bild amt in Berlin, Germany. Bild amt in Berlin, Germany. Bild amt in Berlin, Germany. Bild amt in Berlin, Germany. Bild amt in Berlin, Germany. Bild amt in Berlin, Germany. Bild am",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+20,on_p50,2000,1,21,"Translate an English sentence into a target language.
+English: ""They're not really insulting,"" Kevern said.
+Target Language: ""They're not really insulting,"" Kevern said.
+Siehe zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+21,on_p50,2000,1,22,"Translate an English sentence into a target language.
+English: By registering, more than 1000 participants thanked Jos ter Huerne for having organized this tour through Münsterland.
+Target Language: By registering, more than 1000 participants thanked Jos ter Huerne for having organized this tour through Münsterland.
+We are so glad that you are so pleased with our tour. We hope that you will be able to find a good place to stay in Münsterland.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+22,on_p50,2000,1,23,"Translate an English sentence into a target language.
+English: We say they stayed in the gym.
+Target Language: We say they stayed in the gym.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+- We have a problem.
+",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+23,on_p50,2000,1,24,"Translate an English sentence into a target language.
+English: It's very emblematic of the crisis we face and because [the situation in Ferguson] is so racialized, they have to call that out.
+Target Language: We are very pleased with our result. We are very proud of our result. We are very proud of our result. We are very proud of our result. We are very proud of our result. We are very proud of our result. We are very proud of our result. We are very proud of our result. We are very proud of our result. We are very proud of our result. We are very proud of our result. We are very proud of our result. We are very proud of our result. We are very proud of our result. We are very proud of our result. We are very proud of our result.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+24,on_p50,2000,1,25,"Translate an English sentence into a target language.
+English: Only my Georgy managed to survive.
+Target Language: German
+Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Sie",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+25,on_p50,2000,1,26,"Translate an English sentence into a target language.
+English: His pick-up truck, in which he used three telephones and a radio to communicate with his colleagues and a 15-strong Hessen Police team; made Facebook entries and also wrote his reports, also needed a check.
+Target Language: German. He was a German-speaking man, who was a member of the Hessen Police. He was a member of the Hessen Police, which was a German-speaking police force. He was a member of the Hessen Police, which was a German-speaking police force. He was a member of the Hessen Police, which was a German-speaking police force. He was a member of the Hessen Police, which was a German-speaking police force. He was a member of the Hessen Police, which was a German-speaking police force. He was a member of the Hessen Police, which was a",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+26,on_p50,2000,1,27,"Translate an English sentence into a target language.
+English: One of the greatest highlights in the history of the club was without doubt the 44th local shooting competition, which is linked to the formal consecration of the new shooting flag in July 1991.
+Target Language: German. The German version of the Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schweizerische Schwe",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+27,on_p50,2000,1,28,"Translate an English sentence into a target language.
+English: Nevertheless, the organizers have made some mistakes, which will be excused as it was their first time, but which have to be avoided next time round.
+Target Language: German: The organizers have made some mistakes, which will be excused as it was their first time, but which have to be avoided next time round.
+Were you born in Germany?: Yes, we are. We are a German-speaking company, which is why we are able to offer you the best in the field of internationalization.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+28,on_p50,2000,1,29,"Translate an English sentence into a target language.
+English: The boy who survived despite having been trapped at the feet of a murderous terrorist
+Target Language: English
+Sonderen deren die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+29,on_p50,2000,1,30,"Translate an English sentence into a target language.
+English: The Chinese brand Tsingtao has traces leading back to the German art of brewing.
+Target Language: German. The Tsingtao brand is a German-brand, meaning that the Tsingtao brand is a German-brand.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+30,on_p50,2000,1,31,"Translate an English sentence into a target language.
+English: Ice Bucket Challenge participant dislocates her jaw
+Target Language: English
+Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Siehe Sie",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+31,on_p50,2000,1,32,"Translate an English sentence into a target language.
+English: I think for many people the war is a news report they listen to when they are bored or busy with something else.
+Target Language: I am not sure. I am not sure if I am right or wrong. I am not sure if I am right or wrong.
+I am not sure if I am right or wrong. I am not sure if I am right or wrong.
+I am not sure if I am right or wrong. I am not sure if I am right or wrong.
+I am not sure if I am right or wrong. I am not sure if I am right or wrong.
+I am not sure if I am right or wrong. I am not sure if I am right or wrong.
+I am not sure if I am right or wrong. I am",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+32,on_p50,2000,1,33,"Translate an English sentence into a target language.
+English: Once again the Chancellor makes herself clear.
+Target Language:
+Das ist die zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+33,on_p50,2000,1,34,"Translate an English sentence into a target language.
+English: Prestige Cruises, also based in Miami, operates under the Oceania and Regent brands, which together have eight cruise ships traveling to Scandinavia, Russia, the Mediterranean, North America, Asia, Africa and South America.
+Target Language: German. The best way to find out if you are a German-speaking person is by using the German test. The test is a test for German-speaking people. The test is a test for German-speaking people. The test is a test for German-speaking people. The test is a test for German-speaking people. The test is a test for German-speaking people. The test is a test for German-speaking people. The test is a test for German-speaking people. The test is a test for German-speaking people. The test is a test for German-speaking people. The test is a test for",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+34,on_p50,2000,1,35,"Translate an English sentence into a target language.
+English: I wasn't really taught it at school properly and thought it was very much the reserve of middle-class white people with tights and a cabbage down the front.
+Target Language: I was born in Germany and am a German-speaking person. I am a German-speaking person and am a German-speaking person.
+I am a German-speaking person and am a German-speaking person. I am a German-speaking person and am a German-speaking person.
+I am a German-speaking person and am a German-speaking person. I am a German-speaking person and am a German-speaking person.
+I am a German-speaking person and am a German-speaking person. I am a German-speaking person and am a German-speaking person.
+I am a German-speaking person and am a",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+35,on_p50,2000,1,36,"Translate an English sentence into a target language.
+English: Yes - but that presupposes that you have an air-conditioner in the first place.
+Target Language: German - but that presupposes that you have an air-conditioner in the first place.
+So, if you want to be able to hear the radio, you have to be able to hear the radio in German.
+So, if you want to be able to hear the radio, you have to be able to hear the radio in German.
+So, if you want to be able to hear the radio, you have to be able to hear the radio in German.
+So, if you want to be able to hear the radio, you have to be able to hear the radio in German.
+So, if you want to be able to",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+36,on_p50,2000,1,37,"Translate an English sentence into a target language.
+English: Learning his lines for Fences was challenging.
+Target Language: German
+The best result was that he could hear the lines in German.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+37,on_p50,2000,1,38,"Translate an English sentence into a target language.
+English: Not only did I have to grow up in the public eye, I had to learn how to be an efficient joke-delivering mechanism between 1975 and 1985, whilst being a star, being on television and it was really difficult.
+Target Language: I am a German-speaking person, so I am not able to speak German. I am not able to speak German, so I am not able to speak German.
+Were you born in Germany?: Yes, I am. I am born in Germany. I am born in Germany. I am born in Germany. I am born in Germany. I am born in Germany. I am born in Germany. I am born in Germany. I am born in Germany. I am born in Germany. I am born in Germany. I am born in Germany. I am born in Germany. I am born in Germany. I am born",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+38,on_p50,2000,1,39,"Translate an English sentence into a target language.
+English: The announced walkout will last for between 18 and 21 hours, will affect all transport companies across Germany, including main-line rail, regional trains and city trains,
+Target Language: German, English, French, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German,",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+39,on_p50,2000,1,40,"Translate an English sentence into a target language.
+English: Even the party leader of the region, Wan Qinglian, had to leave.
+Target Language: German.
+Wen zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+40,on_p50,2000,1,41,"Translate an English sentence into a target language.
+English: So that your yoghurt can place itself on your shopping list; so that your fire-alarm can tell you - when you're lying on the beach in the Maldives - that there's a fire in your study back home.
+Target Language: German: So that you can find out if there is a fire in your study back home.
+So that you can find out if there is a fire in your study back home.
+So that you can find out if there is a fire in your study back home.
+So that you can find out if there is a fire in your study back home.
+So that you can find out if there is a fire in your study back home.
+So that you can find out if there is a fire in your study back home.
+So that you can find out if there is a fire in your study back home.
+So that you can find out if",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+41,on_p50,2000,1,42,"Translate an English sentence into a target language.
+English: SC Weende sends a girl into the small regional league.
+Target Language: Englisch
+Schweende: Schweende
+Schweende: Schweende
+Schweende: Schweende
+Schweende: Schweende
+Schweende: Schweende
+Schweende: Schweende
+Schweende: Schweende
+Schweende: Schweende
+Schweende: Schweende
+Schweende: Schweende
+Schweende: Schweende
+Schweende: Schweende
+Schweende: Schweende
+Schweende: Schweende
+Schweende: Schweende
+Schweende: Sch",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+42,on_p50,2000,1,43,"Translate an English sentence into a target language.
+English: Whereas the castle friends, and the recently deceased Richard Dimbath right up until the bitter end, had their eyes on reconstructing the castle in the mountain forest, the castle club, with Sjöberg, want to ""develop and bring the premises to life"" in its original place.
+Target Language: The castle is in the mountains, in the mountains, in the mountains. The castle is in the mountains, in the mountains, in the mountains. The castle is in the mountains, in the mountains, in the mountains. The castle is in the mountains, in the mountains, in the mountains. The castle is in the mountains, in the mountains, in the mountains. The castle is in the mountains, in the mountains, in the mountains. The castle is in the mountains, in the mountains, in the mountains. The castle is in the mountains, in the mountains, in the mountains. The castle is in the mountains, in",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+43,on_p50,2000,1,44,"Translate an English sentence into a target language.
+English: Some of these remains could also be marveled at during the Roman day, such as ""Aduädukt-Marmor"" from the eleven-meter high, and 1400 meter long, Roman canal bridge, which is the only one in Lüftelberg.
+Target Language: German. The German-underschieden derives from the German-underschieden, which is a deriving from the German-underschieden, which derives from the German-underschieden. Deriving from the German-underschieden, deriving from the German-underschieden, deriving from the German-underschieden. Deriving from the German-underschieden, deriving from the German-underschieden, deriving from the German-underschieden. Deriving from the German-underschieden, deriving from the German",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+44,on_p50,2000,1,45,"Translate an English sentence into a target language.
+English: Are my feet too big?
+Target Language: German
+I am so glad that I am here. I am so glad that I am here. I am so glad that I am here. I am so glad that I am here. I am so glad that I am here. I am so glad that I am here. I am so glad that I am here. I am so glad that I am here. I am so glad that I am here. I am so glad that I am here. I am so glad that I am here. I am so glad that I am here. I am so glad that I am here. I am so glad that I am here.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+45,on_p50,2000,1,46,"Translate an English sentence into a target language.
+English: Joan Rivers' Family Keeping 'Our Fingers Crossed'
+Target Language: English
+Sonderen Sie die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+46,on_p50,2000,1,47,"Translate an English sentence into a target language.
+English: Category 1 riders are accommodated in hotels, with Category 2 riders being put up in hostel-style lodging.
+Target Language: German. Das ist die zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+47,on_p50,2000,1,48,"Translate an English sentence into a target language.
+English: Nevertheless, the head of NATO accused Russia of ""a flagrant breach"" of the agreement.
+Target Language: German
+The German text is in the text-editor. Das ist die zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+48,on_p50,2000,1,49,"Translate an English sentence into a target language.
+English: My concern is that, if we are not forewarned, we will find ourselves repeating the mistakes that led to WHAT HAPPENED, IF IT HAPPENED, in the first place.
+Target Language: I am not sure if this is the best way to do it. I am not sure if it is the best way to do it. I am not sure if it is the best way to do it. I am not sure if it is the best way to do it. I am not sure if it is the best way to do it. I am not sure if it is the best way to do it. I am not sure if it is the best way to do it. I am not sure if it is the best way to do it. I am not sure if it is the best way to do it. I am",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+49,on_p50,2000,1,50,"Translate an English sentence into a target language.
+English: THE 16-year-old girl and 18-year-old man went hiking just after midday on Sunday at Govetts Leap in Blackheath.
+Target Language: English. The 16-year-old girl and 18-year-old man went hiking just after midday on Sunday at Govetts Leap in Blackheath. The hiking was in the middle of the day. The hiking was in the middle of the day. The hiking was in the middle of the day. The hiking was in the middle of the day. The hiking was in the middle of the day. The hiking was in the middle of the day. The hiking was in the middle of the day. The hiking was in the middle of the day. The hiking was in the middle of the day. The hiking was in the middle of the",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+50,on_p50,2000,1,51,"Translate an English sentence into a target language.
+English: I want to serve in the police one day and hope they enrol me to the training academy next year.
+Target Language: German: I want to serve in the police one day and hope they enrol me to the training academy next year.
+I want to serve in the police one day and hope they enrol me to the training academy next year.
+I want to serve in the police one day and hope they enrol me to the training academy next year.
+I want to serve in the police one day and hope they enrol me to the training academy next year.
+I want to serve in the police one day and hope they enrol me to the training academy next year.
+I want to serve in the police one day and hope they enrol me to the training academy next year.
+",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+51,on_p50,2000,1,52,"Translate an English sentence into a target language.
+English: Then, the route, which was advertised in three different categories, headed in the direction of Herrenholz via Schöppinger Berg towards Coesfeld, passing by Havixbeck and Billerbeck, and then back to Horstmar.
+Target Language: German. The route was advertised in three different categories, headed in the direction of Herrenholz via Schöppinger Berg towards Coesfeld, passing by Havixbeck and Billerbeck, and then back to Horstmar.
+Wer der die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+52,on_p50,2000,1,53,"Translate an English sentence into a target language.
+English: But it remains a much-loved and formidable institution.
+Target Language: German
+The German-underschieden derives from the German-underschieden, which is a deriving from the German-underschieden, which is a deriving from the German-underschieden, which is a deriving from the German-underschieden, which is a deriving from the German-underschieden, which is a deriving from the German-underschieden, which is a deriving from the German-underschieden, which is a deriving from the German-underschieden, which is a deriving from the German-und",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+53,on_p50,2000,1,54,"Translate an English sentence into a target language.
+English: Not a shot has been fired in the former military training ground in Münsingen for almost ten years.
+Target Language: German.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+54,on_p50,2000,1,55,"Translate an English sentence into a target language.
+English: A quick glance at the reports from the courts, where those affected often turn for compensation, shows how far the scourge of mesothelioma has spread.
+Target Language: The German-speaking audience of the newsletter is mostly German-speaking, and the newsletter is published in German.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+55,on_p50,2000,1,56,"Translate an English sentence into a target language.
+English: I fear I may need more surgery.
+Target Language: German
+I am afraid I may need more surgery.
+I am afraid I may need more surgery.
+I am afraid I may need more surgery.
+I am afraid I may need more surgery.
+I am afraid I may need more surgery.
+I am afraid I may need more surgery.
+I am afraid I may need more surgery.
+I am afraid I may need more surgery.
+I am afraid I may need more surgery.
+I am afraid I may need more surgery.
+I am afraid I may need more surgery.
+I am afraid I may need more surgery.
+I am afraid I may need more surgery.
+I am afraid I may need more surgery.
+",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+56,on_p50,2000,1,57,"Translate an English sentence into a target language.
+English: Khan accuses Sharif of having fraudulently won the parliamentary vote last May.
+Target Language: Deutsch
+Siehe:
+Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Schulz, Sch",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+57,on_p50,2000,1,58,"Translate an English sentence into a target language.
+English: The results, which take the opinion of both cinema audiences and film critics into account, suggest that this year's crop of films are of similar calibre last year's hits.
+Target Language: The result is that the best films are still in German, while the best films are still in English.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+58,on_p50,2000,1,59,"Translate an English sentence into a target language.
+English: Congressmen Keith Ellison and John Lewis have proposed legislation to protect union organizing as a civil right.
+Target Language: German. The German version of the text is available in the German version of the website.
+Wer der die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+59,on_p50,2000,1,60,"Translate an English sentence into a target language.
+English: Some commentators have suggested that changing viewing habits and the increased popularity of web streaming services such as Netflix may be to blame.
+Target Language: The target language of the content is important. If the content is not in the target language, it will be hard for the user to find it. If the content is in the target language, it will be easier for the user to find it.
+Werke: The Werkzeug is a web-interface that is used to create and edit content. It is a web-interface that is used to create and edit content. It is a web-interface that is used to create and edit content. It is a web-interface that is used to create and edit content. It is a web-interface that is used to",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+60,on_p50,2000,1,61,"Translate an English sentence into a target language.
+English: But like Janice Allen, he simply had no reason to suspect mesothelioma.
+Target Language: German
+Schulz: And so, as a result of this, he was diagnosed with mesothelioma.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+61,on_p50,2000,1,62,"Translate an English sentence into a target language.
+English: But when those treatments eventually, inevitably, fail, many sufferers are faced with another financial worry - about the future of the families they will leave behind.
+Target Language: German. The best way to find out if you are a German-speaking person is to check out the German translation of the German sentence.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+62,on_p50,2000,1,63,"Translate an English sentence into a target language.
+English: Negotiations are ongoing, the head of the Chief Directorate on the Execution of Penalties Rosen Zhelyazkov told BNR.
+Target Language: German. The German version of the text is available in the German version of the website.
+The text is in German. The text is in German. The text is in German. The text is in German. The text is in German. The text is in German. The text is in German. The text is in German. The text is in German. The text is in German. The text is in German. The text is in German. The text is in German. The text is in German. The text is in German. The text is in German. The text is in German. The text is in German. The text",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+63,on_p50,2000,1,64,"Translate an English sentence into a target language.
+English: Foreign goods trade had slowed, too.
+Target Language: German
+The German-speaking part of the population is still very young, and the number of youngsters is still growing. The German-speaking part of the population is still very young, and the number of youngsters is still growing. The German-speaking part of the population is still very young, and the number of youngsters is still growing. The German-speaking part of the population is still very young, and the number of youngsters is still growing. The German-speaking part of the population is still very young, and the number of youngsters is still growing. The German-speaking part of the population is still very",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+64,on_p50,2000,1,65,"Translate an English sentence into a target language.
+English: Children need roots and wings
+Target Language: German
+Schulz, J. E. & Schulz, J. E.; Schulz, J. E. & Schulz, J. E.; Schulz, J. E. & Schulz, J. E.; Schulz, J. E. & Schulz, J. E.; Schulz, J. E. & Schulz, J. E.; Schulz, J. E. & Schulz, J. E.; Schulz, J. E. & Schulz, J. E.;",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+65,on_p50,2000,1,66,"Translate an English sentence into a target language.
+English: Fearing she was dead, he fled and on his way he saw a crying toddler, grabbed the child by the hand, and fled through a hail of bullets.
+Target Language: German. The German sentence is in the target language. The German sentence is in the target language. The German sentence is in the target language. The German sentence is in the target language. The German sentence is in the target language. The German sentence is in the target language. The German sentence is in the target language. The German sentence is in the target language. The German sentence is in the target language. The German sentence is in the target language. The German sentence is in the target language. The German sentence is in the target language. The German sentence is in the target language. The German sentence is in the target language.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+66,on_p50,2000,1,67,"Translate an English sentence into a target language.
+English: Nothing else he wanted to see.
+Target Language: German
+Schulz:
+I have a question.
+Schulz:
+I have a question.
+Schulz:
+I have a question.
+Schulz:
+I have a question.
+Schulz:
+I have a question.
+Schulz:
+I have a question.
+Schulz:
+I have a question.
+Schulz:
+I have a question.
+Schulz:
+I have a question.
+Schulz:
+I have a question.
+Schulz:
+I have a question.
+Schulz:
+I have a question.
+Schulz:
+I",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+67,on_p50,2000,1,68,"Translate an English sentence into a target language.
+English: The highlights on Sunday will be the festival service, which will take place at 9:30am in the parish church, and also the processions at 2pm.
+Target Language: German. The festival service will be performed by the German-speaking choristers of the Scholar-Ortfreund Schule in Berlin. The choristers will be accompanied by the Scholar-Ortfreund Schule’s choristers.
+The Scholar-Ortfreund Schule is a Christian Christian Schule in Berlin. It is a Christian Schule in Berlin, Germany. The Scholar-Ortfreund Schule is a Christian Christian Schule in Berlin, Germany. The Scholar-Ortfreund Schule is a Christian Christian Schule in Berlin, Germany. The Scholar-Ort",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+68,on_p50,2000,1,69,"Translate an English sentence into a target language.
+English: Stewart drove his battered car to the garage and then exited without speaking to reporters.
+Target Language: German
+Schulz: Schulz was a German-speaking man who was a member of the Deutschen Schulzverein (Schulzverein Deutschen) in Berlin. Schulz was a member of the Deutschen Schulzverein (Schulzverein Deutschen) in Berlin. Schulz was a member of the Deutschen Schulzverein (Schulzverein Deutschen) in Berlin. Schulz was a member of the Deutschen Schulzverein (Schulzverein Deutschen) in Berlin. Schulz was a member of",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+69,on_p50,2000,1,70,"Translate an English sentence into a target language.
+English: Money is crucial for those with mesothelioma to pursue the best available treatments.
+Target Language: German. The best treatment for mesothelioma is surgery. The best treatment for mesothelioma is surgery.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+70,on_p50,2000,1,71,"Translate an English sentence into a target language.
+English: Lenny on New Faces in 1975
+Target Language: English
+Lenny on New Faces in 1975
+Lenny on New Faces in 1975
+Lenny on New Faces in 1975
+Lenny on New Faces in 1975
+Lenny on New Faces in 1975
+Lenny on New Faces in 1975
+Lenny on New Faces in 1975
+Lenny on New Faces in 1975
+Lenny on New Faces in 1975
+Lenny on New Faces in 1975
+Lenny on New Faces in 1975
+Lenny on New Faces in 1975
+Lenny on New Faces in 1975
+Lenny on New Faces in 1975
+",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+71,on_p50,2000,1,72,"Translate an English sentence into a target language.
+English: According to the statement of claim, when purchasing the works of art and antique cars, Achenbach conned them, and invoiced Berthold Albrecht for more than the actual sales price.
+Target Language: The German translation of the text is in German. The German translation of the text is in German.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+72,on_p50,2000,1,73,"Translate an English sentence into a target language.
+English: We are not targeting any regions.
+Target Language: German
+We are not targeting any regions.
+Target Language: German
+We are not targeting any regions.
+Target Language: German
+We are not targeting any regions.
+Target Language: German
+We are not targeting any regions.
+Target Language: German
+We are not targeting any regions.
+Target Language: German
+We are not targeting any regions.
+Target Language: German
+We are not targeting any regions.
+Target Language: German
+We are not targeting any regions.
+Target Language: German
+We are not targeting any regions.
+Target Language: German
+We are not targeting any regions.
+Target Language: German
+We are not targeting any regions",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+73,on_p50,2000,1,74,"Translate an English sentence into a target language.
+English: Once the asbestos needles get into the lung tissue, says Treasure, ""the act of breathing pushes them on the periphery, which is where the lining is.
+Target Language: German: The asbestos needles are in the lungs, which is why they are so hard to breathe.""
+The asbestos needles are in the lungs, which is why they are so hard to breathe.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+74,on_p50,2000,1,75,"Translate an English sentence into a target language.
+English: Ailinn Solomons flushed and rose from her deckchair, knocking over the console and spilling the wine they'd been drinking.
+Target Language: German. The best way to find out if you are a German speaker is to check out the German translation of the sentence.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+75,on_p50,2000,1,76,"Translate an English sentence into a target language.
+English: ""It was very nice in Bad Salzhausen!"" they shouted, as they waved goodbye.
+Target Language: ""Er, we were very happy in Bad Salzhausen!"" they said, as they waved goodbye.
+The best part is that the best part is that the best part is that the best part is that the best part is that the best part is that the best part is that the best part is that the best part is that the best part is that the best part is that the best part is that the best part is that the best part is that the best part is that the best part is that the best part is that the best part is that the best part is that the best part is that the best part is that",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+76,on_p50,2000,1,77,"Translate an English sentence into a target language.
+English: He also won the Cup Winners Cup with Flensburg in 2012.
+Target Language: German
+Schulz: He was born in Schulz, Germany, on September 25, 1933. He was a member of the Schulz- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und- und-",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+77,on_p50,2000,1,78,"Translate an English sentence into a target language.
+English: The HTA and Royal Horticultural Society said that renting property or a lack of garden space did not mean people could not grow plants.
+Target Language: The HTA and Royal Horticultural Society said that renting property or a lack of garden space did not mean people could not grow plants.
+The HTA and Royal Horticultural Society (HRS) have been in charge of the HTA since 2010. The HRS is a public-private partnership, which is responsible for the HTA's operations and for the HTA's public-private partnership. The HRS is a public-private partnership, which is responsible for the HTA's operations and for the HTA's public-private partnership. The HRS is a public-private partnership, which is responsible for the HTA",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+78,on_p50,2000,1,79,"Translate an English sentence into a target language.
+English: I felt like giving up.
+Target Language: German
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+I felt like giving up.
+",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+79,on_p50,2000,1,80,"Translate an English sentence into a target language.
+English: Guangzhou, which is also known as Canton in Germany, is one of the richest cities in China Li advertised.
+Target Language: German. The best place to find out about the best places to visit in Germany. Find out about the best places to visit in Germany. Find out about the best places to visit in Germany. Find out about the best places to visit in Germany. Find out about the best places to visit in Germany. Find out about the best places to visit in Germany. Find out about the best places to visit in Germany. Find out about the best places to visit in Germany. Find out about the best places to visit in Germany. Find out about the best places to visit in Germany. Find out about the best places to visit in Germany. Find",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+80,on_p50,2000,1,81,"Translate an English sentence into a target language.
+English: I will go and attend ceremonies being held to mark it.
+Target Language: German: I will go and attend ceremonies being held to mark it.
+I will go and attend ceremonies being held to mark it.
+I will go and attend ceremonies being held to mark it.
+I will go and attend ceremonies being held to mark it.
+I will go and attend ceremonies being held to mark it.
+I will go and attend ceremonies being held to mark it.
+I will go and attend ceremonies being held to mark it.
+I will go and attend ceremonies being held to mark it.
+I will go and attend ceremonies being held to mark it.
+I will go and attend ceremonies being held",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+81,on_p50,2000,1,82,"Translate an English sentence into a target language.
+English: According to Piffl, the new chairperson will then enter into discussions with the castle club.
+Target Language: German. The new chairperson will then be in charge of the castle club.
+Wer der die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+82,on_p50,2000,1,83,"Translate an English sentence into a target language.
+English: When Renzi became Premier in February 2014, he appointed Mogherini as his Foreign Minister.
+Target Language: German.",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+83,on_p50,2000,1,84,"Translate an English sentence into a target language.
+English: A U.S. federal judge on Sunday temporarily blocked enforcement of a Louisiana law that advocates say would likely have closed all five abortion clinics in the state.
+Target Language: German. The German translation of the sentence is ""Erzgebnisse zu die"" (""Erzgebnisse zu die"" in German). Derivativer zu die (Derivativer zu die in German): Derivativer zu die in German. Derivativer zu die in German. Derivativer zu die in German. Derivativer zu die in German. Derivativer zu die in German. Derivativer zu die in German. Derivativer zu die in German. Derivativer zu die in German. Derivativer zu die in German",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+84,on_p50,2000,1,85,"Translate an English sentence into a target language.
+English: Lufthansa used to offer such a flight, but canceled it for economic reasons in 2012.
+Target Language: German. Lufthansa is a German company, which is part of the Lufthansa Group. Lufthansa is a German company, which is part of the Lufthansa Group. Lufthansa is a German company, which is part of the Lufthansa Group. Lufthansa is a German company, which is part of the Lufthansa Group. Lufthansa is a German company, which is part of the Lufthansa Group. Lufthansa is a German company, which is part of the Lufthansa Group. Lufthansa is a",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+85,on_p50,2000,1,86,"Translate an English sentence into a target language.
+English: Damir was later flown to London (by the now defunct News of the World newspaper) to be crowned a Barnardo's Children's Champion by then premier Tony Blair and wife wife Cherie.
+Target Language: German. Derzell was born in Berlin in 1933. He was a member of the Berlinerische Deutsche Gesellschaft (BZG) and was a member of the Berlinerische Deutsche Gesellschaft (BZG) and was a member of the Berlinerische Deutsche Gesellschaft (BZG) and was a member of the Berlinerische Deutsche Gesellschaft (BZG) and was a member of the Berlinerische Deutsche Gesellschaft (BZG) and was a member of the Berlinerische Deutsche Gesellschaft (BZG) and was a member of the Berlinerische Deutsche Gesellschaft (B",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+86,on_p50,2000,1,87,"Translate an English sentence into a target language.
+English: We then practice different choreographs.
+Target Language: We then practice different choreographies.
+We then practice different choreographies.
+We then practice different choreographies.
+We then practice different choreographies.
+We then practice different choreographies.
+We then practice different choreographies.
+We then practice different choreographies.
+We then practice different choreographies.
+We then practice different choreographies.
+We then practice different choreographies.
+We then practice different choreographies.
+We then practice different choreographies.
+We then practice different choreographies.
+We then practice different choreographies.
+We then",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+87,on_p50,2000,1,88,"Translate an English sentence into a target language.
+English: A new chairperson will be found mid September during a members' meeting.
+Target Language: German.
+Sonderen zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die zuerst die",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+88,on_p50,2000,1,89,"Translate an English sentence into a target language.
+English: Suddenly I'm at the National Theatre and I just couldn't quite believe it.
+Target Language: German
+Sonder die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die die",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+89,on_p50,2000,1,90,"Translate an English sentence into a target language.
+English: Housing prices have posted their strongest winter gain in seven years, according to a widely-watched gauge.
+Target Language: German. The best place to find out about the best places to stay in Berlin. The best places to stay in Berlin. The best places to stay in Berlin. The best places to stay in Berlin. The best places to stay in Berlin. The best places to stay in Berlin. The best places to stay in Berlin. The best places to stay in Berlin. The best places to stay in Berlin. The best places to stay in Berlin. The best places to stay in Berlin. The best places to stay in Berlin. The best places to stay in Berlin. The best places to stay in Berlin. The best places to stay in Berlin",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+90,on_p50,2000,1,91,"Translate an English sentence into a target language.
+English: The girl pictured trying to climb back inside the blitzed school gym
+Target Language: English
+The girl was in the front seat of the bus, and was trying to climb back inside the blitzed school gym. The bus driver was standing in front of her, and was trying to tell her that she had fallen in front of the bus. The bus driver was standing in front of her, and was trying to tell her that she had fallen in front of the bus. The bus driver was standing in front of her, and was trying to tell her that she had fallen in front of the bus. The bus driver was standing in front of her, and was trying to tell her that she had fallen in front of the",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+91,on_p50,2000,1,92,"Translate an English sentence into a target language.
+English: He would only consider a comeback if really necessary.
+Target Language: German
+He would only consider a comeback if really necessary.
+He would only consider a comeback if really necessary.
+He would only consider a comeback if really necessary.
+He would only consider a comeback if really necessary.
+He would only consider a comeback if really necessary.
+He would only consider a comeback if really necessary.
+He would only consider a comeback if really necessary.
+He would only consider a comeback if really necessary.
+He would only consider a comeback if really necessary.
+He would only consider a comeback if really necessary.
+He would only consider a comeback if really necessary.
+He would only consider a comeback if really necessary.
+He would only consider a comeback",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+92,on_p50,2000,1,93,"Translate an English sentence into a target language.
+English: He has spoken with Dobrindt on the topic and about further possibilities for capitalizing more and investing more in infrastructure, such as developing broadband.
+Target Language: German: He has spoken with Dobrindt on the topic and about further possibilities for capitalizing more and investing more in infrastructure, such as developing broadband.
+The best way to find out if Dobrindt is a good company is to check out their website. If you want to find out more about Dobrindt, you can find out more about their website here.
+Dobrindt is a company that is in the business of building and installing new and old buildings. They are in the business of building and installing new and old buildings. They are in the business of building and installing new and old buildings. They",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+93,on_p50,2000,1,94,"Translate an English sentence into a target language.
+English: Britain, it turns out, is today at the peak of a mesothelioma epidemic.
+Target Language: German, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer, dieer,",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+94,on_p50,2000,1,95,"Translate an English sentence into a target language.
+English: That's why I'm proud to introduce the Employee Empowerment Act with civil rights icon John Lewis.
+Target Language: German. Das ist die zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu zu",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+95,on_p50,2000,1,96,"Translate an English sentence into a target language.
+English: There will also be a ranking announcement in the afternoon for the national and county shooting competition.
+Target Language: German, French, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German, English, German,",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+96,on_p50,2000,1,97,"Translate an English sentence into a target language.
+English: Pro-Russian fighters are gaining ground again in East Ukraine.
+Target Language: German.
+Sieger: Sieger von der Schweizeren.
+Sieger von der Schweizeren.
+Sieger von der Schweizeren.
+Sieger von der Schweizeren.
+Sieger von der Schweizeren.
+Sieger von der Schweizeren.
+Sieger von der Schweizeren.
+Sieger von der Schweizeren.
+Sieger von der Schweizeren.
+Sieger von der Schweizeren.
+Sieger von der Schweizeren.
+Sieger von der Schweizeren.
+Sieger von der Schweizeren.
+Sieger von der Schwe",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+97,on_p50,2000,1,98,"Translate an English sentence into a target language.
+English: The appeal of the event was so great that it attracted more than 1000 visitors yesterday, who braved the rain and autumn chill, and who were completely taken in by the historical show.
+Target Language: German: The event was so great that it attracted more than 1000 visitors yesterday, who braved the rain and autumn chill, and who were completely taken in by the historical show.
+The event was so great that it attracted more than 1000 visitors yesterday, who braved the rain and autumn chill, and who were completely taken in by the historical show.
+The event was so great that it attracted more than 1000 visitors yesterday, who braver the rain and autumn chill, and who were completely taken in by the historical show.
+The event was so great that it attracted more than 1000 visitors yesterday, who braver the rain and autumn chill, and",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+98,on_p50,2000,1,99,"Translate an English sentence into a target language.
+English: Struggling with flu-like symptoms, he found himself impatiently berating his wife, Juliet.
+Target Language: German. Derzell, die zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu schreiben zu",0.531781237544,,,translation_text_wmt_en_de.pkl,de
+99,on_p50,2000,1,100,"Translate an English sentence into a target language.
+English: According to EU law, however, the model must not disadvantage foreign drivers due to their nationality.
+Target Language: German.",0.531781237544,,,translation_text_wmt_en_de.pkl,de

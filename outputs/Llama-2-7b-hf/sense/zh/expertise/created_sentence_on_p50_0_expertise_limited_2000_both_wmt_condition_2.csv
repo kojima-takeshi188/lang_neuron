@@ -1,0 +1,675 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,0,1,1,"Translate an English sentence into a target language.
+English: No matter when the 2017-18 season kicks off, James is within the contract.
+Target Language: No matter when the 2017-18 season kicks off, James is within the contract.
+English: The 2017-18 season kicks off on October 18.
+Target Language: The 2017-18 season kicks off on October 18.
+English: The 2017-18 season kicks off on October 18. The 2017-18 season kicks off on October 18.
+Target Language: The 2017-18 season kicks off on October",0.0,,,translation_text_wmt_en_zh.pkl,zh
+1,on_p50,0,1,2,"Translate an English sentence into a target language.
+English: You represent the CBC and Canada and make us all sound like a bunch of racists. #disgusted.
+Target Language: You represent the CBC and Canada and make us all sound like a bunch of racists. #disgusted.
+English: I'm not sure if I'm more upset about the fact that I'm not getting paid for this or the fact that I'm getting paid for this.
+Target Language: I'm not sure if I'm more upset about the fact that I'm not getting paid for this or the fact that I'm getting paid for this.
+English: I'm not sure if I'm more upset about the fact that I'm not getting paid",0.0,,,translation_text_wmt_en_zh.pkl,zh
+2,on_p50,0,1,3,"Translate an English sentence into a target language.
+English: The hotel's clerk said that the measure was ""a deliberate decision by the management of Kempinski-Hotels.""
+Target Language: The hotel's clerk said that the measure was ""a deliberate decision by the management of Kempinski-Hotels.""
+English: The hotel's clerk said that the measure was ""a deliberate decision by the management of Kempinski-Hotels.""
+Target Language: The hotel's clerk said that the measure was ""a deliberate decision by the management of Kempinski-Hotels.""
+English: The hotel's clerk said that the measure was ""a deliberate decision by the management of Kempinski-Hotels.""
+Target Language: The hotel",0.0,,,translation_text_wmt_en_zh.pkl,zh
+3,on_p50,0,1,4,"Translate an English sentence into a target language.
+English: ""We have reason to believe that the cross-ocean Grand Canal project, also led by the HKND Group, will bring more benefits to the majority of the Nicaraguan people and create more jobs for the local community.""
+Target Language: ""Nosotros tenemos razones para creer que el proyecto del Canal Interoceánico, también liderado por el Grupo HKND, traerá más beneficios a la mayoría de los nicaragüenses y creará más empleos para la comunidad local.""
+English: ""The HKND Group is a Hong Kong-based company that has been operating in the international market for more than 20 years. It has a strong track record in infrastructure development and management, and has successfully completed a number of projects in the areas of transportation, energy, and telecommunications.""
+",0.0,,,translation_text_wmt_en_zh.pkl,zh
+4,on_p50,0,1,5,"Translate an English sentence into a target language.
+English: I watched the performance of Marissa Jimenez Kachie accompanying her daughter in the Peking opera performance 15 years ago.
+Target Language: I watched the performance of Marissa Jimenez Kachie accompanying her daughter in the Peking opera performance 15 years ago.
+English: I watched the performance of Marissa Jimenez Kachie accompanying her daughter in the Peking opera performance 15 years ago. I watched the performance of Marissa Jimenez Kachie accompanying her daughter in the Peking opera performance 15 years ago.
+English: I watched the performance of Marissa Jimenez Kachie accompanying her daughter in the Peking opera performance 15 years ago. I watched",0.0,,,translation_text_wmt_en_zh.pkl,zh
+5,on_p50,0,1,6,"Translate an English sentence into a target language.
+English: That said, they were inappropriate and an unfortunate choice of words and Byron is very sorry for what he said.
+Target Language: That said, they were inappropriate and an unfortunate choice of words and Byron is very sorry for what he said.
+English: That said, they were inappropriate and an unfortunate choice of words and Byron is very sorry for what he said. That said, they were inappropriate and an unfortunate choice of words and Byron is very sorry for what he said.",0.0,,,translation_text_wmt_en_zh.pkl,zh
+6,on_p50,0,1,7,"Translate an English sentence into a target language.
+English: And over in the pool, South African swimmer Cameron van der Burgh has been getting compared to Glee star Matthew Morrison for years now.
+Target Language: और उत्तर पर पूल में साथ ही साथ सौर अफ्रीकी स्वीमर कैमरॉन वान डर बर्ग हैं जो साल ही साल में ग्ली स्टार मैथ्विस मॉरिश",0.0,,,translation_text_wmt_en_zh.pkl,zh
+7,on_p50,0,1,8,"Translate an English sentence into a target language.
+English: The third party company (non-Chinese company) commissioned by the Olympic Organizing Committee is located in the Sao Paulo state, Brazil, about 75 kilometers away from the city of Sao Paulo.
+Target Language: The third party company (non-Chinese company) commissioned by the Olympic Organizing Committee is located in the Sao Paulo state, Brazil, about 75 kilometers away from the city of Sao Paulo.
+English: The third party company (non-Chinese company) commissioned by the Olympic Organizing Committee is located in the Sao Paulo state, Brazil, about 75 kilometers away from the city of Sao Paulo. The company is a joint venture between the Chinese company and the Brazilian company.
+Target Language: The third party company (non-Chinese company) commissioned by",0.0,,,translation_text_wmt_en_zh.pkl,zh
+8,on_p50,0,1,9,"Translate an English sentence into a target language.
+English: Julius Nielsen, who has been studying the sharks, says record goes to a female thought to be between 272 and 512 years old and is five metres in length
+Target Language: Julius Nielsen, der hat sich mit den Haien beschäftigt, sagt, der Rekord geht an eine weibliche, die als zwischen 272 und 512 Jahren alt und fünf Meter lang galt
+English: The shark is a fish that has a skeleton made of cartilage, not bone.
+Target Language: Der Hai ist ein Fisch, der ein Skelett aus Kieselschalen hat, nicht aus Knochen.
+English: The shark is a fish that has a skeleton made of cartilage, not bone. The",0.0,,,translation_text_wmt_en_zh.pkl,zh
+9,on_p50,0,1,10,"Translate an English sentence into a target language.
+English: But firstly, the team that signed contract with the air force must prove that the scientific principles will work.
+Target Language: اولاً فريق التوظيف يجب أن يثبت أن الأساسات العلمية تعمل.
+English: The team that signed contract with the air force must prove that the scientific principles will work.
+Target Language: فريق التوظيف يجب أن يثبت أن الأساسات العلمية تعمل.
+English: The team that signed",0.0,,,translation_text_wmt_en_zh.pkl,zh
+10,on_p50,0,1,11,"Translate an English sentence into a target language.
+English: It's not a big meeting, it's not a Royal Ascot - it's a mundane Friday night with 20,000 people.
+Target Language: It's not a big meeting, it's not a Royal Ascot - it's a mundane Friday night with 20,000 people.
+English: I'm not a big fan of the show.
+Target Language: I'm not a big fan of the show.
+English: I'm not a big fan of the show. I'm not a big fan of the show.
+Target Language: I'm not a big fan of the show. I'm not a big fan of the show.
+English: I'm not a big fan of the",0.0,,,translation_text_wmt_en_zh.pkl,zh
+11,on_p50,0,1,12,"Translate an English sentence into a target language.
+English: Liu Cigui came to Sanya for the research of ""Double Restoration and Dual City"" and required to enhance the level of urban construction and management
+Target Language: 刘慈琪来到三亚进行“双重恢复与双城”研究，要求提高城市建设和管理水平
+English: The 2019 Sanya International Tourism Festival will be held from September 28 to October 7.
+Target Language: 2019年三亚国际旅游节将于9月28日至10月7日举行。
+English: The 2019 S",0.0,,,translation_text_wmt_en_zh.pkl,zh
+12,on_p50,0,1,13,"Translate an English sentence into a target language.
+English: It was rejected by 58% of its members who voted in the ballot.
+Target Language: It was rejected by 58% of its members who voted in the ballot.
+English: The company has been in business for 10 years.
+Target Language: The company has been in business for 10 years.
+English: The company has been in business for 10 years.
+Target Language: The company has been in business for 10 years.
+English: The company has been in business for 10 years.
+Target Language: The company has been in business for 10 years.
+English: The company has been in business for 10 years.
+Target",0.0,,,translation_text_wmt_en_zh.pkl,zh
+13,on_p50,0,1,14,"Translate an English sentence into a target language.
+English: As the inheritance of intangible cultural heritage projects of Anhui province mainly relies on oral and face-to-face passage, many intangible cultural heritage projects are on the verge of failing to be handed down from past generations. So the application of digital technology for conservation is imperative.
+Target Language: As the inheritance of intangible cultural heritage projects of Anhui province mainly relies on oral and face-to-face passage, many intangible cultural heritage projects are on the verge of failing to be handed down from past generations. So the application of digital technology for conservation is imperative.
+English: The project is to develop a system for the automatic translation of English sentences into Chinese.
+Target Language: The project is to develop a system for the automatic translation of English sentences into Chinese.
+English: The project is to develop a system for the automatic translation of Chinese sentences into English.
+Target",0.0,,,translation_text_wmt_en_zh.pkl,zh
+14,on_p50,0,1,15,"Translate an English sentence into a target language.
+English: The JDC says ministers have failed to address concerns about the contract.
+Target Language: The JDC says ministers have failed to address concerns about the contract.
+English: The JDC says ministers have failed to address concerns about the contract. The JDC says ministers have failed to address concerns about the contract.
+Target Language: The JDC says ministers have failed to address concerns about the contract.
+English: The JDC says ministers have failed to address concerns about the contract. The JDC says ministers have failed to address concerns about the contract. The JDC says ministers have failed to address concerns about the contract.
+Target Language: The JDC says ministers have failed to",0.0,,,translation_text_wmt_en_zh.pkl,zh
+15,on_p50,0,1,16,"Translate an English sentence into a target language.
+English: The legacy is in our continued focus on calories and nutrition, Ms. Ziegelman said, and on the way science has been applied to cooking.
+Target Language: The legacy is in our continued focus on calories and nutrition, Ms. Ziegelman said, and on the way science has been applied to cooking.
+English: The legacy is in our continued focus on calories and nutrition, Ms. Ziegelman said, and on the way science has been applied to cooking.
+Target Language: The legacy is in our continued focus on calories and nutrition, Ms. Ziegelman said, and on the way science has been applied to cooking.
+English: The legacy is in our continued focus on calories and nutr",0.0,,,translation_text_wmt_en_zh.pkl,zh
+16,on_p50,0,1,17,"Translate an English sentence into a target language.
+English: This requires that the detector's sun wing area to be larger, and need to constantly adjust, and strive to align with the sun direction.
+Target Language: This requires that the detector's sun wing area to be larger, and need to constantly adjust, and strive to align with the sun direction.
+English: The sun wing area of the detector is larger, and need to constantly adjust, and strive to align with the sun direction.
+Target Language: The sun wing area of the detector is larger, and need to constantly adjust, and strive to align with the sun direction.
+English: The sun wing area of the detector is larger, and need to constantly adjust, and strive to align with the sun direction.
+Target Language: The sun",0.0,,,translation_text_wmt_en_zh.pkl,zh
+17,on_p50,0,1,18,"Translate an English sentence into a target language.
+English: Portland smelter's future in doubt with axing of power contract
+Target Language: Spanish
+Translate the sentence into Spanish.
+English: Portland smelter's future in doubt with axing of power contract.
+Spanish: El futuro del fundidor de Portland está en duda con la cancelación del contrato de energía.
+English: Portland smelter's future in doubt with axing of power contract. (Spanish)
+Spanish: El futuro del fundidor de Portland está en duda con la cancelación del contrato de energía. (English)
+English: Portland smelter's future in doubt with axing of power contract",0.0,,,translation_text_wmt_en_zh.pkl,zh
+18,on_p50,0,1,19,"Translate an English sentence into a target language.
+English: At a court hearing this week, Calais authorities had argued the state should be able to knock down a total of 72 makeshift shops where people inside the camp sell goods, from cigarettes to energy drinks, offer haircuts, or sell tea for 50 cents (40p) or basic meals for a few euros in makeshift restaurants.
+Target Language: At a court hearing this week, Calais authorities had argued the state should be able to knock down a total of 72 makeshift shops where people inside the camp sell goods, from cigarettes to energy drinks, offer haircuts, or sell tea for 50 cents (40p) or basic meals for a few euros in makeshift restaurants.
+English: The French government has been criticized for its handling of the migrant crisis in Calais, where thousands of people are living in squalid conditions in makeshift camps.
+Target Language:",0.0,,,translation_text_wmt_en_zh.pkl,zh
+19,on_p50,0,1,20,"Translate an English sentence into a target language.
+English: Recently, Hebei Cixiao Fund sent a 16,000-yuan relief sent to six families who lost their relatives in Xiaozuo, Taitou and Guiquan Village of Jinjing County.
+Target Language: 最近，河北慈尚基金会派出了16,000元的救灾物资，送给了六户家庭因为在小苏、太头和桂泉村的金井县失去了家人。
+English: The 2018 China International Import Expo (CIIE) will be held in Shanghai from November 5 to 10.
+Target Language: 2018年中国国际进出口博",0.0,,,translation_text_wmt_en_zh.pkl,zh
+20,on_p50,0,1,21,"Translate an English sentence into a target language.
+English: These areas have increased the conveniences of children to attend college entrance examination in the local place while meeting the related requirement.
+Target Language: These areas have increased the conveniences of children to attend college entrance examination in the local place while meeting the related requirement.
+English: The government has been working to improve the quality of education in the country.
+Target Language: The government has been working to improve the quality of education in the country.
+English: The government has been working to improve the quality of education in the country. The government has been working to improve the quality of education in the country.
+Target Language: The government has been working to improve the quality of education in the country.
+English: The government has been working to improve the quality of",0.0,,,translation_text_wmt_en_zh.pkl,zh
+21,on_p50,0,1,22,"Translate an English sentence into a target language.
+English: Efforts by the BMA to resolve the dispute through talks have been met with an unwillingness to engage and, at times, deafening silence from the government.
+Target Language: Efforts by the BMA to resolve the dispute through talks have been met with an unwillingness to engage and, at times, deafening silence from the government.
+English: The government has been accused of failing to engage with the BMA over the junior doctors dispute.
+Target Language: The government has been accused of failing to engage with the BMA over the junior doctors dispute.
+English: The government has been accused of failing to engage with the BMA over the junior doctors dispute. The government has been accused of failing to engage with the BMA over the",0.0,,,translation_text_wmt_en_zh.pkl,zh
+22,on_p50,0,1,23,"Translate an English sentence into a target language.
+English: From the first stroke to the last, 220 punishing heaves into history, Helen Glover and Heather Stanning found added meaning in their golden moment at the Estacio da Lagoa.
+Target Language: From the first stroke to the last, 220 punishing heaves into history, Helen Glover and Heather Stanning found added meaning in their golden moment at the Estacio da Lagoa.
+English: The 2012 Summer Olympics, officially the Games of the XXX Olympiad, were an international multi-sport event which was held from 27 July to 12 August 2012 in London, United Kingdom.
+Target Language: The 2012 Summer Olympics, officially the Games of the XXX Olympiad, were an international multi-sport event",0.0,,,translation_text_wmt_en_zh.pkl,zh
+23,on_p50,0,1,24,"Translate an English sentence into a target language.
+English: At their peak spin rates, these maturing stars eject large amounts of stellar wind.
+Target Language: At their peak spin rates, these maturing stars eject large amounts of stellar wind.
+English: The spin rate of the star is a function of its mass.
+Target Language: The spin rate of the star is a function of its mass.
+English: The spin rate of the star is a function of its mass. The spin rate of the star is a function of its mass.
+Target Language: The spin rate of the star is a function of its mass. The spin rate of the star is a function of its mass.
+English: The spin rate of the star is a function of its mass. The",0.0,,,translation_text_wmt_en_zh.pkl,zh
+24,on_p50,0,1,25,"Translate an English sentence into a target language.
+English: With two accounts for two institutions, this can prevent the village cadres from participating in collective asset management corruption.
+Target Language: With two accounts for two institutions, this can prevent the village cadres from participating in collective asset management corruption.
+English: The village cadres should be responsible for the management of collective assets.
+Target Language: The village cadres should be responsible for the management of collective assets.
+English: The village cadres should be responsible for the management of collective assets. The village cadres should be responsible for the management of collective assets.
+Target Language: The village cadres should be responsible for the management of collective assets. The village cadres should be responsible for the management of collective assets",0.0,,,translation_text_wmt_en_zh.pkl,zh
+25,on_p50,0,1,26,"Translate an English sentence into a target language.
+English: When the match went on for 10 minutes, Lifan made continued hit and gained a chance for corner. Fernando made small-angle volley and was fended off the base line by Guoan.
+Target Language: When the match went on for 10 minutes, Lifan made continued hit and gained a chance for corner. Fernando made small-angle volley and was fended off the base line by Guoan.
+English: When the match went on for 10 minutes, Lifan made continued hit and gained a chance for corner. Fernando made small-angle volley and was fended off the base line by Guoan. 10分钟后，利兰继续攻击，获得角球机会。费南多使",0.0,,,translation_text_wmt_en_zh.pkl,zh
+26,on_p50,0,1,27,"Translate an English sentence into a target language.
+English: He brought up the landmark with his second winner of the night at his local track - on Predilection, trained by John Gosden.
+Target Language: He brought up the landmark with his second winner of the night at his local track - on Predilection, trained by John Gosden.
+English: He brought up the landmark with his second winner of the night at his local track - on Predilection, trained by John Gosden.
+Target Language: He brought up the landmark with his second winner of the night at his local track - on Predilection, trained by John Gosden.
+English: He brought up the landmark with his second winner of the night at his local track - on Predilection, trained by John Gos",0.0,,,translation_text_wmt_en_zh.pkl,zh
+27,on_p50,0,1,28,"Translate an English sentence into a target language.
+English: According to Xu Dazhe, although China's aircraft has entered a deep space, it is still essential to finish the task of Mars exploration. The detection of Mars means that China has stepped into the deep space exploration era in a true sense.
+Target Language: 很难说，中国的飞机已经进入了深空，但是还是必须完成火星探测任务。火星探测的发现意味着中国已经进入了深空探测时代的真正意义。
+Translate an English sentence into a target language. English: According to Xu Dazhe, although China's aircraft has entered a deep space, it is still essential to finish the task of Mars exploration. The",0.0,,,translation_text_wmt_en_zh.pkl,zh
+28,on_p50,0,1,29,"Translate an English sentence into a target language.
+English: But she still desperately swam to the little girl.
+Target Language: But she still desperately swam to the little girl.
+English: I'm going to the store.
+Target Language: I'm going to the store.
+English: I'm going to the store.
+Target Language: I'm going to the store.
+English: I'm going to the store.
+Target Language: I'm going to the store.
+English: I'm going to the store.
+Target Language: I'm going to the store.
+English: I'm going to the store.
+Target Language: I'm going to the store.",0.0,,,translation_text_wmt_en_zh.pkl,zh
+29,on_p50,0,1,30,"Translate an English sentence into a target language.
+English: I couldn't have asked for a better person to train with, or a better coach.
+Target Language: I couldn't have asked for a better person to train with, or a better coach.
+English: I couldn't have asked for a better person to train with, or a better coach. I couldn't have asked for a better person to train with, or a better coach.
+Target Language: I couldn't have asked for a better person to train with, or a better coach.
+English: I couldn't have asked for a better person to train with, or a better coach. I couldn't have asked for a better person to train with, or a better coach. I couldn't",0.0,,,translation_text_wmt_en_zh.pkl,zh
+30,on_p50,0,1,31,"Translate an English sentence into a target language.
+English: What are the challenges of world economic globalization and integration to governance?
+Target Language: What are the challenges of world economic globalization and integration to governance?
+English: What are the challenges of world economic globalization and integration to governance? What are the challenges of world economic globalization and integration to governance?
+Target Language: What are the challenges of world economic globalization and integration to governance?
+English: What are the challenges of world economic globalization and integration to governance? What are the challenges of world economic globalization and integration to governance?
+Target Language: What are the challenges of world economic globalization and integration to governance? What are",0.0,,,translation_text_wmt_en_zh.pkl,zh
+31,on_p50,0,1,32,"Translate an English sentence into a target language.
+English: Traditional dating methods usually use calcified tissue of animals. Some fins can use fins, but this calcified tissue is very scarce in Greenland sharks.
+Target Language: Traditional dating methods usually use calcified tissue of animals. Some fins can use fins, but this calcified tissue is very scarce in Greenland sharks.
+English: The Greenland shark is a large shark that lives in the Arctic waters of the North Atlantic Ocean.
+Target Language: The Greenland shark is a large shark that lives in the Arctic waters of the North Atlantic Ocean.
+English: The Greenland shark is a large shark that lives in the Arctic waters of the North Atlantic Ocean. It is the largest shark in the Arctic and the second",0.0,,,translation_text_wmt_en_zh.pkl,zh
+32,on_p50,0,1,33,"Translate an English sentence into a target language.
+English: Now for their own interests, enterprises have raised their enthusiasm of pollution control, cherished limited emissions and reduced emissions of pollutants.
+Target Language: Now for their own interests, enterprises have raised their enthusiasm of pollution control, cherished limited emissions and reduced emissions of pollutants.
+English: The government has been trying to reduce the pollution of the environment.
+Target Language: The government has been trying to reduce the pollution of the environment.
+English: The government has been trying to reduce the pollution of the environment. The government has been trying to reduce the pollution of the environment.
+Target Language: The government has been trying to reduce the pollution of the environment.
+English: The government has been trying to reduce",0.0,,,translation_text_wmt_en_zh.pkl,zh
+33,on_p50,0,1,34,"Translate an English sentence into a target language.
+English: Russian public opinion has also turned since November.
+Target Language: Russian public opinion has also turned since November.
+English: The Russian public opinion has also turned since November.
+Target Language: The Russian public opinion has also turned since November.
+English: The Russian public opinion has also turned since November.
+Target Language: The Russian public opinion has also turned since November.
+English: The Russian public opinion has also turned since November.
+Target Language: The Russian public opinion has also turned since November.
+English: The Russian public opinion has also turned since November.
+Target Language: The Russian public opinion has also turned since November.
+English: The Russian public opinion has also turned since",0.0,,,translation_text_wmt_en_zh.pkl,zh
+34,on_p50,0,1,35,"Translate an English sentence into a target language.
+English: Simone Biles nails all-around gold in women's gymnastics
+Target Language: Simone Biles nails all-around gold in women's gymnastics
+English: Simone Biles nails all-around gold in women's gymnastics.
+Target Language: Simone Biles nails all-around gold in women's gymnastics.
+English: Simone Biles nails all-around gold in women's gymnastics.
+Target Language: Simone Biles nails all-around gold in women's gymnastics.
+English: Simone Biles nails all-around gold in women's gymnast",0.0,,,translation_text_wmt_en_zh.pkl,zh
+35,on_p50,0,1,36,"Translate an English sentence into a target language.
+English: I think the administration's most important task is to support your activity as head of state in terms of drafting laws and control over how your instructions are implemented.
+Target Language: I think the administration's most important task is to support your activity as head of state in terms of drafting laws and control over how your instructions are implemented.
+English: I think the administration's most important task is to support your activity as head of state in terms of drafting laws and control over how your instructions are implemented. I think the administration's most important task is to support your activity as head of state in terms of drafting laws and control over how your instructions are implemented.
+Target Language: I think the administration's most important task is to support your activity as head of state in terms of draft",0.0,,,translation_text_wmt_en_zh.pkl,zh
+36,on_p50,0,1,37,"Translate an English sentence into a target language.
+English: Simone, Gabby and Laurie all took the same path as Aly and Madison to make the Olympic team.
+Target Language: Simone, Gabby and Laurie all took the same path as Aly and Madison to make the Olympic team.
+English: The Olympic team is a group of athletes who represent their country in the Olympic Games.
+Target Language: The Olympic team is a group of athletes who represent their country in the Olympic Games.
+English: The Olympic Games are a major international event where athletes from all over the world compete in a variety of sports.
+Target Language: The Olympic Games are a major international event where athletes from all over the world compete in a variety of sports.
+English: The Olympic",0.0,,,translation_text_wmt_en_zh.pkl,zh
+37,on_p50,0,1,38,"Translate an English sentence into a target language.
+English: As the No.12 new arrival of the first round in 2014, Salic will officially land on the NBA in the next season, and join the Philadelphia 76ers.
+Target Language: As the No.12 new arrival of the first round in 2014, Salic will officially land on the NBA in the next season, and join the Philadelphia 76ers.
+English: The 2014 NBA draft will be held on June 26th, 2014.
+Target Language: The 2014 NBA draft will be held on June 26th, 2014.
+English: The 2014 NBA draft will be held on June 26th, 2014.
+Target Language: The",0.0,,,translation_text_wmt_en_zh.pkl,zh
+38,on_p50,0,1,39,"Translate an English sentence into a target language.
+English: The Sydney Opera House is one of Sydney's landmark buildings, designed by Danish architect Jorn Utzon and built in 1973. It welcomes about 8 million visitors each year.
+Target Language: The Sydney Opera House is one of Sydney's landmark buildings, designed by Danish architect Jorn Utzon and built in 1973. It welcomes about 8 million visitors each year.
+English: The Sydney Opera House is one of Sydney's landmark buildings, designed by Danish architect Jorn Utzon and built in 1973. It welcomes about 8 million visitors each year.
+Target Language: The Sydney Opera House is one of Sydney's landmark buildings, designed by Danish architect Jorn Utzon and built in 1973. It welcomes",0.0,,,translation_text_wmt_en_zh.pkl,zh
+39,on_p50,0,1,40,"Translate an English sentence into a target language.
+English: Humanitarian groups had told the court the shops and restaurants were vital, saying the free meals offered by a state-backed association and other groups did not provide enough food for the growing numbers at the camp.
+Target Language: Humanitarian groups had told the court the shops and restaurants were vital, saying the free meals offered by a state-backed association and other groups did not provide enough food for the growing numbers at the camp.
+English: The court heard that the man had been arrested in 2015 after he was found with a knife and a machete in his car.
+Target Language: The court heard that the man had been arrested in 2015 after he was found with a knife and a machete in his car.
+English: The court heard that the man had been arrested in",0.0,,,translation_text_wmt_en_zh.pkl,zh
+40,on_p50,0,1,41,"Translate an English sentence into a target language.
+English: According to media reports, CEO Wang Lei recently said Ali health ""is willing to get down"" to win big health data.
+Target Language: 根据媒体报道，王磊最近表示，阿里卫生“愿意投资”获得大量医疗数据。
+English: The company's revenue in the first quarter of 2018 was 11.3 billion yuan, an increase of 49.2% year-on-year.
+Target Language: 该公司第一季度2018年的收入为1130亿元，",0.0,,,translation_text_wmt_en_zh.pkl,zh
+41,on_p50,0,1,42,"Translate an English sentence into a target language.
+English: From the news reports of the Olympic Games, all media have made a lot of changes in the aspect of mode of transmission, product form, language style, news perspective and many other aspects.
+Target Language: From the news reports of the Olympic Games, all media have made a lot of changes in the aspect of mode of transmission, product form, language style, news perspective and many other aspects.
+English: The Olympic Games are the world's largest sporting event.
+Target Language: The Olympic Games are the world's largest sporting event.
+English: The Olympic Games are the world's largest sporting event. The Olympic Games are the world's largest sporting event.
+Target Language: The Olympic Games are the world's largest sporting event.
+English: The Olympic Games are the world's",0.0,,,translation_text_wmt_en_zh.pkl,zh
+42,on_p50,0,1,43,"Translate an English sentence into a target language.
+English: Investigators tells CBS Philadelphia it appears there was crossfire between multiple gunmen.
+Target Language: Investigators tells CBS Philadelphia it appears there was crossfire between multiple gunmen.
+English: The suspects were arrested in the 100 block of North 10th Street.
+Target Language: The suspects were arrested in the 100 block of North 10th Street.
+English: The suspects were arrested in the 100 block of North 10th Street.
+Target Language: The suspects were arrested in the 100 block of North 10th Street.
+English: The suspects were arrested in the 100 block of North ",0.0,,,translation_text_wmt_en_zh.pkl,zh
+43,on_p50,0,1,44,"Translate an English sentence into a target language.
+English: Whether you're approached from in front or behind, this video will show you how to turn the tables on your mugger.
+Target Language: ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما ما م",0.0,,,translation_text_wmt_en_zh.pkl,zh
+44,on_p50,0,1,45,"Translate an English sentence into a target language.
+English: As never before or since, home economists - among them Louise Stanley, chief of the federal Bureau of Home Economics from 1923 to 1943 - drove the country's eating habits.
+Target Language: As never before or since, home economists - among them Louise Stanley, chief of the federal Bureau of Home Economics from 1923 to 1943 - drove the country's eating habits.
+English: The Bureau of Home Economics was established in 1923.
+Target Language: The Bureau of Home Economics was established in 1923.
+English: The Bureau of Home Economics was established in 1923. It was abolished in 1946.
+Target Language: The Bureau of Home Economics was established in 1",0.0,,,translation_text_wmt_en_zh.pkl,zh
+45,on_p50,0,1,46,"Translate an English sentence into a target language.
+English: China has taken resolute and effective measures to resolve excess capacity, and the results are gradually emerging.
+Target Language: China has taken resolute and effective measures to resolve excess capacity, and the results are gradually emerging.
+English: The United States has taken resolute and effective measures to resolve excess capacity, and the results are gradually emerging.
+Target Language: The United States has taken resolute and effective measures to resolve excess capacity, and the results are gradually emerging.
+English: The United States has taken resolute and effective measures to resolve excess capacity, and the results are gradually emerging.
+Target Language: The United States has taken resolute and effective measures to resolve excess capacity, and the results are gradually emerging.
+",0.0,,,translation_text_wmt_en_zh.pkl,zh
+46,on_p50,0,1,47,"Translate an English sentence into a target language.
+English: Treats says nude calendar for 'women, as well as men'
+Target Language: Treats says nude calendar for 'women, as well as men'
+English: Treats says nude calendar for 'women, as well as men' (noun)
+Target Language: Treats says nude calendar for 'women, as well as men' (noun)
+English: Treats says nude calendar for 'women, as well as men' (verb)
+Target Language: Treats says nude calendar for 'women, as well as men' (verb)
+English: Treats says nude calendar for 'women, as well as men' (",0.0,,,translation_text_wmt_en_zh.pkl,zh
+47,on_p50,0,1,48,"Translate an English sentence into a target language.
+English: At the same time, the Commission set up a ""Shenzhen-Hong Kong stock market transactions interconnection mechanism"" special working group, and actively promote the preparatory work. The work will be open this year after the full preparation of the related regulatory rules and technical equipment.
+Target Language: 同时，委员会设立了“深圳-香港股票交易互连机制”特别工作组，依法依规依时依序推进工作。工作将在本年完成相关规定和技术设备准备工作后开放。
+English: The Commission will continue to strengthen the supervision of the Shenzhen-Hong Kong stock",0.0,,,translation_text_wmt_en_zh.pkl,zh
+48,on_p50,0,1,49,"Translate an English sentence into a target language.
+English: Until March 8, 2015 when Shuyang County Public Security Bureau conducted a survey, there were only 142 layers on the farm.
+Target Language: Until March 8, 2015 when Shuyang County Public Security Bureau conducted a survey, there were only 142 layers on the farm.
+English: The first time I saw the sea, I was very excited.
+Target Language: The first time I saw the sea, I was very excited.
+English: The first time I saw the sea, I was very excited. I was very excited.
+Target Language: The first time I saw the sea, I was very excited. I was very excited.
+English: The first time I saw the sea, I was very excited. I was",0.0,,,translation_text_wmt_en_zh.pkl,zh
+49,on_p50,0,1,50,"Translate an English sentence into a target language.
+English: In terms of event security, the current conference recruited 580 volunteers, during which the volunteers will provide services in the various venues for athletes and visitors.
+Target Language: 在竞技会安保方面，当前会议已邀请580名志愿者，期间志愿者将在会场提供服务给运动员和访客。
+English: The 2018 Asian Games will be held in Jakarta and Palembang, Indonesia.
+Target Language: 2018年亚运会将在印尼雅加达和巴厘岛举行。
+English: The",0.0,,,translation_text_wmt_en_zh.pkl,zh
+50,on_p50,0,1,51,"Translate an English sentence into a target language.
+English: It was backed with millions of pounds in sponsorship of international sport, from Six Nations rugby to Wimbledon champion Andy Murray.
+Target Language: It was backed with millions of pounds in sponsorship of international sport, from Six Nations rugby to Wimbledon champion Andy Murray.
+English: The 2012 Summer Olympics, officially known as the Games of the XXX Olympiad, were an international multi-sport event held from 27 July to 12 August 2012 in London, United Kingdom.
+Target Language: The 2012 Summer Olympics, officially known as the Games of the XXX Olympiad, were an international multi-sport event held from 27 July to 12 August ",0.0,,,translation_text_wmt_en_zh.pkl,zh
+51,on_p50,0,1,52,"Translate an English sentence into a target language.
+English: It has retreated from them since it nearly collapsed eight years ago and had to be bailed out.
+Target Language: It has retreated from them since it nearly collapsed eight years ago and had to be bailed out.
+English: The company has been in the business for 100 years.
+Target Language: The company has been in the business for 100 years.
+English: The company has been in the business for 100 years.
+Target Language: The company has been in the business for 100 years.
+English: The company has been in the business for 100 years.
+Target Language: The company has been in the business for 100 years.
+",0.0,,,translation_text_wmt_en_zh.pkl,zh
+52,on_p50,0,1,53,"Translate an English sentence into a target language.
+English: Han said that on the current day of the crime, the two were asked to drink alcohol. And the two had two disputes during and after meal.
+Target Language: Han said that on the current day of the crime, the two were asked to drink alcohol. And the two had two disputes during and after meal.
+English: Han said that on the current day of the crime, the two were asked to drink alcohol. And the two had two disputes during and after meal. The two had two disputes during and after meal.
+Target Language: Han said that on the current day of the crime, the two were asked to drink alcohol. And the two had two disputes during and after meal. The two had two disputes during and after me",0.0,,,translation_text_wmt_en_zh.pkl,zh
+53,on_p50,0,1,54,"Translate an English sentence into a target language.
+English: He is stylish and strong, but it is his tactical nous that sets him apart from others in the weighing room.
+Target Language: He is stylish and strong, but it is his tactical nous that sets him apart from others in the weighing room.
+English: He is stylish and strong, but it is his tactical nous that sets him apart from others in the weighing room. Translate an English sentence into a target language.
+Target Language: He is stylish and strong, but it is his tactical nous that sets him apart from others in the weighing room.",0.0,,,translation_text_wmt_en_zh.pkl,zh
+54,on_p50,0,1,55,"Translate an English sentence into a target language.
+English: By then, Fan Deshang will conduct a comprehensive analysis of the above issues.
+Target Language: By then, Fan Deshang will conduct a comprehensive analysis of the above issues.
+English: The above issues will be analyzed by Fan Deshang.
+Target Language: The above issues will be analyzed by Fan Deshang.
+English: The above issues will be analyzed by Fan Deshang.
+Target Language: The above issues will be analyzed by Fan Deshang.
+English: The above issues will be analyzed by Fan Deshang.
+Target Language: The above issues will be analyzed by Fan Deshang.
+English: The above issues will be analyzed by",0.0,,,translation_text_wmt_en_zh.pkl,zh
+55,on_p50,0,1,56,"Translate an English sentence into a target language.
+English: ""The Pleiades star cluster provides an anchor for theoretical models of stellar rotation going both directions, younger and older,"" said Rebull.
+Target Language: ""The Pleiades star cluster provides an anchor for theoretical models of stellar rotation going both directions, younger and older,"" said Rebull.
+English: ""The Pleiades star cluster provides an anchor for theoretical models of stellar rotation going both directions, younger and older,"" said Rebull.
+Target Language: ""The Pleiades star cluster provides an anchor for theoretical models of stellar rotation going both directions, younger and older,"" said Rebull.
+English: ""The Pleiades star cluster provides an anchor for theoretical models of stellar rotation going both directions, younger and older,"" said Rebull.
+Target",0.0,,,translation_text_wmt_en_zh.pkl,zh
+56,on_p50,0,1,57,"Translate an English sentence into a target language.
+English: Animal rescue center, ornithologist and a US 3D printing company worked together to prepare several ""test beak"" for Gracia and finally built a ""perfect beak"" for it.
+Target Language: Animal rescue center, ornithologist and a US 3D printing company worked together to prepare several ""test beaks"" for Gracia and finally built a ""perfect beak"" for it.
+English: The 2018 FIFA World Cup was the 21st FIFA World Cup, an international football tournament contested by the men's national teams of the member associations of FIFA once every four years. It took place in Russia from 14 June to 15 July 2018. It was the first World Cup to be held in Eastern Europe, and the 11th",0.0,,,translation_text_wmt_en_zh.pkl,zh
+57,on_p50,0,1,58,"Translate an English sentence into a target language.
+English: Police use tear gas & rubber bullets against protesting Brazilian students
+Target Language: Portuguese
+Translate the sentence into Portuguese.
+Polícia usa gás lacrimogênio e balas de borracha contra estudantes brasileiros que protestam
+Polícia usa gás lacrimogênio e balas de borracha contra estudantes brasileiros que protestam.
+Police use tear gas and rubber bullets against protesting Brazilian students.
+Police use tear gas and rubber bullets against protesting Brazilian students.
+Police use tear gas and rubber bullets against protesting Brazilian students.
+Police use te",0.0,,,translation_text_wmt_en_zh.pkl,zh
+58,on_p50,0,1,59,"Translate an English sentence into a target language.
+English: Bam was on that team.
+Target Language: Bam was on that team.
+English: Bam was on that team.
+Target Language: Bam was on that team.
+English: Bam was on that team.
+Target Language: Bam was on that team.
+English: Bam was on that team.
+Target Language: Bam was on that team.
+English: Bam was on that team.
+Target Language: Bam was on that team.
+English: Bam was on that team.
+Target Language: Bam was on that team.
+English: Bam was on that team.
+Target Language: Bam",0.0,,,translation_text_wmt_en_zh.pkl,zh
+59,on_p50,0,1,60,"Translate an English sentence into a target language.
+English: Police say they will seek to evict tenants who flout the rules of their tenancies
+Target Language: Police say they will seek to evict tenants who flout the rules of their tenancies
+English: The police say they will seek to evict tenants who flout the rules of their tenancies
+Target Language: The police say they will seek to evict tenants who flout the rules of their tenancies
+English: The police say they will seek to evict tenants who flout the rules of their tenancies
+Target Language: The police say they will seek to evict tenants who flout the rules of their tenancies
+English: The police say they will seek to",0.0,,,translation_text_wmt_en_zh.pkl,zh
+60,on_p50,0,1,61,"Translate an English sentence into a target language.
+English: Several of the drivers involved have already been interviewed but some are still unidentified, said police, who are calling for them and anyone else who witnessed the incident to come forward.
+Target Language: Several of the drivers involved have already been interviewed but some are still unidentified, said police, who are calling for them and anyone else who witnessed the incident to come forward.
+English: The police are appealing for witnesses to come forward.
+Target Language: The police are appealing for witnesses to come forward.
+English: The police are appealing for witnesses to come forward.
+Target Language: The police are appealing for witnesses to come forward.
+English: The police are appealing for witnesses to come forward.
+Target Language: The police are appealing for witnesses to",0.0,,,translation_text_wmt_en_zh.pkl,zh
+61,on_p50,0,1,62,"Translate an English sentence into a target language.
+English: A superb Mitchell tackle stopped the man-mountain Leone Nakarawa from scoring a third but it was only delaying Fiji.
+Target Language: A superb Mitchell tackle stopped the man-mountain Leone Nakarawa from scoring a third but it was only delaying Fiji.
+English: The man-mountain Leone Nakarawa was stopped by a superb tackle from Mitchell.
+Target Language: The man-mountain Leone Nakarawa was stopped by a superb tackle from Mitchell.
+English: The man-mountain Leone Nakarawa was stopped by a superb tackle from Mitchell.
+Target Language: The man-mountain Leone Nakarawa was stopped by a superb tackle from Mitchell.",0.0,,,translation_text_wmt_en_zh.pkl,zh
+62,on_p50,0,1,63,"Translate an English sentence into a target language.
+English: The opening ceremony of the first Youth Games of Yunnan Province on the 13th day of the month showed youth vitality
+Target Language: The opening ceremony of the first Youth Games of Yunnan Province on the 13th day of the month showed youth vitality
+English: The opening ceremony of the first Youth Games of Yunnan Province on the 13th day of the month showed youth vitality.
+Target Language: The opening ceremony of the first Youth Games of Yunnan Province on the 13th day of the month showed youth vitality.
+English: The opening ceremony of the first Youth Games of Yunnan Province on the 13th day of the month showed youth vitality.
+Target Language: The opening ceremony",0.0,,,translation_text_wmt_en_zh.pkl,zh
+63,on_p50,0,1,64,"Translate an English sentence into a target language.
+English: At the court, the victim's family asked Han to compensate for a total of 530,000 yuan in the form of funeral expenses and compensation for death.
+Target Language: At the court, the victim's family asked Han to compensate for a total of 530,000 yuan in the form of funeral expenses and compensation for death.
+English: The victim's family asked Han to compensate for a total of 530,000 yuan in the form of funeral expenses and compensation for death.
+Target Language: The victim's family asked Han to compensate for a total of 530,000 yuan in the form of funeral expenses and compensation for death.
+English:",0.0,,,translation_text_wmt_en_zh.pkl,zh
+64,on_p50,0,1,65,"Translate an English sentence into a target language.
+English: On Nov. 5, 2013, India launched the first Mars probe ""Mangalian"", and has become Asia's first country for successful detection of the Mars.
+Target Language: On November 5, 2013, India launched the first Mars probe ""Mangalian"", and has become Asia's first country for successful detection of the Mars.
+English: On Nov. 5, 2013, India launched the first Mars probe ""Mangalian"", and has become Asia's first country for successful detection of the Mars.
+Target Language: On November 5, 2013, India launched the first Mars probe ""Mangalian"", and has become Asia's first country for successful detection of the Mars.
+English:",0.0,,,translation_text_wmt_en_zh.pkl,zh
+65,on_p50,0,1,66,"Translate an English sentence into a target language.
+English: Shoppers didn't know where to look when a woman stripped off to try on knickers on the shop floor in the middle of a Primark.
+Target Language: Shoppers didn't know where to look when a woman stripped off to try on knickers on the shop floor in the middle of a Primark.
+English: The woman, who was wearing a black leather jacket, a black top and black leggings, was seen taking off her top and bra in the middle of the shop.
+Target Language: The woman, who was wearing a black leather jacket, a black top and black leggings, was seen taking off her top and bra in the middle of the shop.
+English: The woman, who was wearing a black",0.0,,,translation_text_wmt_en_zh.pkl,zh
+66,on_p50,0,1,67,"Translate an English sentence into a target language.
+English: Stacks of big-race winners, including his famous 1996 'Magnificent Seven' at Ascot, but he also survived a plane crash and served a drugs ban.
+Target Language: Stacks of big-race winners, including his famous 1996 'Magnificent Seven' at Ascot, but he also survived a plane crash and served a drugs ban.
+English: The 1996 'Magnificent Seven' at Ascot, but he also survived a plane crash and served a drugs ban.
+Target Language: The 1996 'Magnificent Seven' at Ascot, but he also survived a plane crash and served a drugs ban.
+English: The 1996 'Magnificent",0.0,,,translation_text_wmt_en_zh.pkl,zh
+67,on_p50,0,1,68,"Translate an English sentence into a target language.
+English: According to the Ministry of Defense of Russia, in order to assist the air attack of the six strategic bombers on the ""Islamic State"" target in Syria, a number of Russian fighters lifted from the Syrian Mahmir Air Force base to provide support.
+Target Language: According to the Ministry of Defense of Russia, in order to assist the air attack of the six strategic bombers on the ""Islamic State"" target in Syria, a number of Russian fighters lifted from the Syrian Mahmir Air Force base to provide support.
+English: The Ministry of Defense of Russia said that the Russian Air Force has carried out a large-scale air attack on the ""Islamic State"" targets in Syria.
+Target Language: The Ministry of Defense of Russia said that the Russian Air Force has carried out a large-scale air attack on the ""I",0.0,,,translation_text_wmt_en_zh.pkl,zh
+68,on_p50,0,1,69,"Translate an English sentence into a target language.
+English: A 20-year fixed subsidy expires in November.
+Target Language: A 20-year fixed subsidy expires in November.
+English: The 20-year fixed subsidy expires in November.
+Target Language: The 20-year fixed subsidy expires in November.
+English: The 20-year fixed subsidy expires in November.
+Target Language: The 20-year fixed subsidy expires in November.
+English: The 20-year fixed subsidy expires in November.
+Target Language: The 20-year fixed subsidy expires in November.
+English",0.0,,,translation_text_wmt_en_zh.pkl,zh
+69,on_p50,0,1,70,"Translate an English sentence into a target language.
+English: Military Officials Distorted ISIS Intelligence, Congressional Panel Says
+Target Language: Arabic
+Translate the sentence into Arabic.
+The sentence is: Military Officials Distorted ISIS Intelligence, Congressional Panel Says
+The sentence is: من أجل مراعاة المعلومات المتعلقة بالإرهابيين في العراق والشام، قائمة المجلس المركزية تعتقد أن المسؤولي",0.0,,,translation_text_wmt_en_zh.pkl,zh
+70,on_p50,0,1,71,"Translate an English sentence into a target language.
+English: Although the stable ionizing layer with a large number of free electrons may help people listen to the radio at the edge of a university radio station, but this may not be the interest of the US Air Force.
+Target Language: 尽管在大学电台边缘的稳定电离层中的大量自由电子可能帮助人们听到广播，但这并不是美国空军的兴趣。
+English: The US Air Force is interested in the ionizing layer with a large number of free electrons.
+Target Language: 美国空军对电离层中的大量自由电子感兴趣。
+English: The US",0.0,,,translation_text_wmt_en_zh.pkl,zh
+71,on_p50,0,1,72,"Translate an English sentence into a target language.
+English: With its lens tool, Snapchat allows some 150 million daily users to alter reality and play with identity in ways that border on the absurd.
+Target Language: Snapchat, con su herramienta de lente, permite a unos 150 millones de usuarios diarios alterar la realidad y jugar con la identidad en formas que se acercan a lo absurdo.
+English: The company has been criticized for its lack of transparency.
+Target Language: La empresa ha sido criticada por su falta de transparencia.
+English: The company has been criticized for its lack of transparency.
+Target Language: La empresa ha sido criticada por su falta de transparencia.
+",0.0,,,translation_text_wmt_en_zh.pkl,zh
+72,on_p50,0,1,73,"Translate an English sentence into a target language.
+English: At the 56th minute, Zhang Chiming hit in his left dribble and worked to transfer with Zhang Xizhe. He was fended off by Deng Xiaofei at the curling shot.
+Target Language: At the 56th minute, Zhang Chiming hit in his left dribble and worked to transfer with Zhang Xizhe. He was fended off by Deng Xiaofei at the curling shot.
+English: At the 56th minute, Zhang Chiming hit in his left dribble and worked to transfer with Zhang Xizhe. He was fended off by Deng Xiaofei at the curling shot.
+Target Language: At the 56th minute, Zhang Chiming hit in his left dribble and worked to",0.0,,,translation_text_wmt_en_zh.pkl,zh
+73,on_p50,0,1,74,"Translate an English sentence into a target language.
+English: Zhan Qixian said that, as long as there are party assets today, no one will give you social donations. So if the party were all confiscated away, then Kuomintang can just ask for social support and sponsorship, ""You will have chance to go when there are no assets.""
+Target Language: 如果今天的黨財產都被沒收了，那黨就可以很容易地向社會募款，「你會有機會去的時候，黨財產都沒了」。
+English: Zhan Qixian said that, as long as there are party assets today, no one will give you social donations. So if the party were all confiscated away, then Kuomintang can just ask for social support and spons",0.0,,,translation_text_wmt_en_zh.pkl,zh
+74,on_p50,0,1,75,"Translate an English sentence into a target language.
+English: Many NBA players have proved their strength. But whenever there is progress, there is decline.
+Target Language: 많은 NBA 선수들은 그들의 힘을 증명했다. 그러나 발전은 쇠퇴를 불러왔다.
+English: I have a lot of things to do.
+Target Language: 나는 많은 일을 하고 있다.
+English: I have a lot of things to do. I have to go to the bank.
+Target Language: 나는 ��",0.0,,,translation_text_wmt_en_zh.pkl,zh
+75,on_p50,0,1,76,"Translate an English sentence into a target language.
+English: China's Mars exploration launch target is to step around, land and patrol at one time. Such task has considerable difficulty.
+Target Language: China's Mars exploration launch target is to step around, land and patrol at one time. Such task has considerable difficulty.
+English: The target language is the language that is being learned.
+Target Language: The target language is the language that is being learned.
+English: The target language is the language that is being learned. The target language is the language that is being learned.
+Target Language: The target language is the language that is being learned. The target language is the language that is being learned.
+English: The target language is the language that is being learned. The target language is the language that",0.0,,,translation_text_wmt_en_zh.pkl,zh
+76,on_p50,0,1,77,"Translate an English sentence into a target language.
+English: The two tributaries will conduct construction via social financing. The charges have been approved by the relevant provincial government departments.
+Target Language: The two tributaries will conduct construction via social financing. The charges have been approved by the relevant provincial government departments.
+English: The two tributaries will conduct construction via social financing. The charges have been approved by the relevant provincial government departments. The two tributaries will conduct construction via social financing. The charges have been approved by the relevant provincial government departments.
+Target Language: The two tributaries will conduct construction via social financing. The charges have been approved by the relevant provincial government departments.
+English: The two tributaries will conduct construction via social financing. The",0.0,,,translation_text_wmt_en_zh.pkl,zh
+77,on_p50,0,1,78,"Translate an English sentence into a target language.
+English: It shows that the filter isn't just yellowface, but yellowface taken to its derogatory extreme.
+Target Language: It shows that the filter isn't just yellowface, but yellowface taken to its derogatory extreme.
+English: It shows that the filter isn't just yellowface, but yellowface taken to its derogatory extreme. It shows that the filter isn't just yellowface, but yellowface taken to its derogatory extreme.
+Target Language: It shows that the filter isn't just yellowface, but yellowface taken to its derogatory extreme. It shows that the filter isn't just yellowface, but yellowface taken to its derogatory extreme.
+English: It shows that",0.0,,,translation_text_wmt_en_zh.pkl,zh
+78,on_p50,0,1,79,"Translate an English sentence into a target language.
+English: Mystery as fish land in Banff garden
+Target Language: French
+Translate the sentence into French.
+English: Mystery as fish land in Banff garden.
+Target Language: Spanish
+Translate the sentence into Spanish.
+English: Mystery as fish land in Banff garden.
+Target Language: German
+Translate the sentence into German.
+English: Mystery as fish land in Banff garden.
+Target Language: Italian
+Translate the sentence into Italian.
+English: Mystery as fish land in Banff garden.
+Target Language: Portuguese
+Translate the sentence into Portuguese.
+English: Mystery as fish land in Banff garden.
+Target",0.0,,,translation_text_wmt_en_zh.pkl,zh
+79,on_p50,0,1,80,"Translate an English sentence into a target language.
+English: But her parents and friends did not give up, kept watching the live and saw other players finish the game. Zhang Binbin raised her ranks all the way and finally came to the final. At this time, a burst of cheers broke out in her home.
+Target Language: 但她的父母和朋友们不放弃，继续观看直播，看到其他球员完成比赛。张斌斌逐步提升了排名，最后来到了决赛。当时，一片声浪爆发在她的家里。
+English: The 2018 FIFA World Cup is the 21st",0.0,,,translation_text_wmt_en_zh.pkl,zh
+80,on_p50,0,1,81,"Translate an English sentence into a target language.
+English: As of the end of July, the volume of container received for Sino-Asia freight trains reached 64,000 TEU, an increase of 8% over the same period in 2015.
+Target Language: 截至7月底，中亚货物列车接货箱体量达到64000TEU，同比增长8%。
+English: The volume of container received for Sino-Asia freight trains reached 64,000 TEU, an increase of 8% over the same period in 2015.
+Target Language: 中亚货物列车接货箱体量达到64",0.0,,,translation_text_wmt_en_zh.pkl,zh
+81,on_p50,0,1,82,"Translate an English sentence into a target language.
+English: Sir Eric savages the Metropolitan Police, saying it is ""astonishing"" that no criminal charges were brought after the Tower Hamlets case.
+Target Language: Sir Eric savages the Metropolitan Police, saying it is ""astonishing"" that no criminal charges were brought after the Tower Hamlets case.
+English: The Metropolitan Police has been accused of ""astonishing"" incompetence after it emerged that no criminal charges were brought against any of the people involved in the Tower Hamlets election scandal.
+Target Language: The Metropolitan Police has been accused of ""astonishing"" incompetence after it emerged that no criminal charges were brought against any of the people involved in the Tower Hamlets election scandal.
+English: The Metropolitan Police has been accused of",0.0,,,translation_text_wmt_en_zh.pkl,zh
+82,on_p50,0,1,83,"Translate an English sentence into a target language.
+English: Multiple houses and vehicles in the area were also struck.
+Target Language: Multiple houses and vehicles in the area were also struck.
+English: The man was arrested on suspicion of murder.
+Target Language: The man was arrested on suspicion of murder.
+English: The man was arrested on suspicion of murdering his wife.
+Target Language: The man was arrested on suspicion of murdering his wife.
+English: The man was arrested on suspicion of murdering his wife in the house.
+Target Language: The man was arrested on suspicion of murdering his wife in the house.
+English: The man was arrested on suspicion of murdering his wife in the house",0.0,,,translation_text_wmt_en_zh.pkl,zh
+83,on_p50,0,1,84,"Translate an English sentence into a target language.
+English: Aside from Kate's doppelganger on the cycling track, many people online have been quick to point out how a certain archer could be the twin of A-lister Leonardo DiCaprio.
+Target Language: Aside from Kate's doppelganger on the cycling track, many people online have been quick to point out how a certain archer could be the twin of A-lister Leonardo DiCaprio.
+English: The 2012 London Olympics have been a huge success, with the opening ceremony being the most watched event in British history.
+Target Language: The 2012 London Olympics have been a huge success, with the opening ceremony being the most watched event in British history.
+English: The 2012 London Olympics have been a huge success, with the opening ceremony",0.0,,,translation_text_wmt_en_zh.pkl,zh
+84,on_p50,0,1,85,"Translate an English sentence into a target language.
+English: ""Hunan Exposition"" has become an important platform for the local place to cultivate the development of characteristic industries and promote the ""going-out"" of characteristic industries.
+Target Language: ""Hunan Exposition"" has become an important platform for the local place to cultivate the development of characteristic industries and promote the ""going-out"" of characteristic industries.
+English: ""Hunan Exposition"" has become an important platform for the local place to cultivate the development of characteristic industries and promote the ""going-out"" of characteristic industries.
+Target Language: ""Hunan Exposition"" has become an important platform for the local place to cultivate the development of characteristic industries and promote the ""going-out"" of characteristic industries.
+English: ""Hunan",0.0,,,translation_text_wmt_en_zh.pkl,zh
+85,on_p50,0,1,86,"Translate an English sentence into a target language.
+English: The key one is Syria, where Moscow has recently been casting itself as peacemaker but where Russia and Turkey back opposite sides.
+Target Language: The key one is Syria, where Moscow has recently been casting itself as peacemaker but where Russia and Turkey back opposite sides.
+English: The key one is Syria, where Moscow has recently been casting itself as peacemaker but where Russia and Turkey back opposite sides.
+Target Language: The key one is Syria, where Moscow has recently been casting itself as peacemaker but where Russia and Turkey back opposite sides.
+English: The key one is Syria, where Moscow has recently been casting itself as peacemaker but where Russia and Turkey back opposite sides.
+Target Language: The key",0.0,,,translation_text_wmt_en_zh.pkl,zh
+86,on_p50,0,1,87,"Translate an English sentence into a target language.
+English: The channel flows through Jinxiang County, Rencheng area and then through the Nanyang Lake into the Beijing-Hangzhou Grand Canal main channel, with a total length of 19 km.
+Target Language: The channel flows through Jinxiang County, Rencheng area and then through the Nanyang Lake into the Beijing-Hangzhou Grand Canal main channel, with a total length of 19 km.
+English: The channel flows through Jinxiang County, Rencheng area and then through the Nanyang Lake into the Beijing-Hangzhou Grand Canal main channel, with a total length of 19 km. The channel flows through Jinxiang County, Rencheng area and then through the Nanyang Lake into the Beijing-Hangzhou Grand Canal",0.0,,,translation_text_wmt_en_zh.pkl,zh
+87,on_p50,0,1,88,"Translate an English sentence into a target language.
+English: Britain and the United States will meet on Saturday in the last game of the first round.
+Target Language: Britain and the United States will meet on Saturday in the last game of the first round.
+English: The United States and Britain will meet on Saturday in the last game of the first round.
+Target Language: The United States and Britain will meet on Saturday in the last game of the first round.
+English: The United States and Britain will meet on Saturday in the last game of the first round.
+Target Language: The United States and Britain will meet on Saturday in the last game of the first round.
+English: The United States and Britain will meet on Saturday in the last game of the first round.
+Target Language",0.0,,,translation_text_wmt_en_zh.pkl,zh
+88,on_p50,0,1,89,"Translate an English sentence into a target language.
+English: Huang Yilin was a student of grade 2015 in the Landscape Architecture College of Central South University of Forestry and Technology.
+Target Language: Huang Yilin était un étudiant de la classe 2015 de l'École d'architecture paysagère de l'Université forestière centrale du Sud de la Chine.
+English: The Landscape Architecture College of Central South University of Forestry and Technology is located in Changsha, Hunan Province.
+Target Language: L'École d'architecture paysagère de l'Université forestière centrale du Sud de la Chine est située à Changsha, Hunan Province.
+English: The Landscape Architecture College of Central South University of Forestry and Technology",0.0,,,translation_text_wmt_en_zh.pkl,zh
+89,on_p50,0,1,90,"Translate an English sentence into a target language.
+English: Mr Vaino, 44, is a former diplomat.
+Target Language: Mr Vaino, 44, is a former diplomat.
+English: The man is a former diplomat.
+Target Language: The man is a former diplomat.
+English: The man is a former diplomat. He is 44 years old.
+Target Language: The man is a former diplomat. He is 44 years old.
+English: The man is a former diplomat. He is 44 years old. He is a former diplomat.
+Target Language: The man is a former diplomat. He is 44 years old. He is a former diplom",0.0,,,translation_text_wmt_en_zh.pkl,zh
+90,on_p50,0,1,91,"Translate an English sentence into a target language.
+English: Gongs and drums of music, the traditional snacks, fancy decoration and stormy crowd scene.
+Target Language: 铜鼓和鼓鼓乐声，精美装饰和浩劫人群。
+English: The traditional snacks, fancy decoration and stormy crowd scene.
+Target Language: 精美装饰和浩劫人群。
+English: The traditional snacks, fancy decoration and stormy crowd scene. The traditional snacks, fancy decoration and stormy crowd scene.
+Target Language: 精美装饰和浩劫",0.0,,,translation_text_wmt_en_zh.pkl,zh
+91,on_p50,0,1,92,"Translate an English sentence into a target language.
+English: They're spinning as fast as they ever will.
+Target Language: They're spinning as fast as they ever will.
+English: They're spinning as fast as they ever will. They're spinning as fast as they ever will.
+Target Language: They're spinning as fast as they ever will. They're spinning as fast as they ever will.
+English: They're spinning as fast as they ever will. They're spinning as fast as they ever will. They're spinning as fast as they ever will.
+Target Language: They're spinning as fast as they ever will. They're spinning as",0.0,,,translation_text_wmt_en_zh.pkl,zh
+92,on_p50,0,1,93,"Translate an English sentence into a target language.
+English: Family of yobs destroyed Saltash, Cornwall council house ahead of eviction
+Target Language: Family of yobs destroyed Saltash, Cornwall council house ahead of eviction
+English: The family of yobs who destroyed a council house in Saltash, Cornwall, ahead of their eviction have been jailed.
+Target Language: The family of yobs who destroyed a council house in Saltash, Cornwall, ahead of their eviction have been jailed.
+English: The family of yobs who destroyed a council house in Saltash, Cornwall, ahead of their eviction have been jailed.
+Target Language: The family of yobs who destroyed a council house in Saltash, Cornwall,",0.0,,,translation_text_wmt_en_zh.pkl,zh
+93,on_p50,0,1,94,"Translate an English sentence into a target language.
+English: Another evidence to confirm this message is that Apple allows the headphone manufacturer to produce headphone via the connection of charge interface.
+Target Language: 另一个证明这封信的证据是，苹果公司允许总部制造商制造总部制造商制造总部制造商制造总部制造商制造总部制造商制造总部制造商制造总部制造商制造总部制造商制造总部制造商制造总部制造商制造总部",0.0,,,translation_text_wmt_en_zh.pkl,zh
+94,on_p50,0,1,95,"Translate an English sentence into a target language.
+English: The HKND Group, a developer of the canal project, has always followed the international best practice to build the canal according to international standards and maximized the protection of Nicaragua's ecological environment. ""
+Target Language: The HKND Group, a developer of the canal project, has always followed the international best practice to build the canal according to international standards and maximized the protection of Nicaragua's ecological environment.
+English: The HKND Group, a developer of the canal project, has always followed the international best practice to build the canal according to international standards and maximized the protection of Nicaragua's ecological environment.
+Target Language: The HKND Group, a developer of the canal project, has always followed the international best practice to build the canal according to international standards and maximized the protection",0.0,,,translation_text_wmt_en_zh.pkl,zh
+95,on_p50,0,1,96,"Translate an English sentence into a target language.
+English: In June, 2003, she participated in the women's 10-m air rifle of World Cup Croatia station and broke the world record with 504.9 rings.
+Target Language: In June, 2003, she participated in the women's 10-m air rifle of World Cup Croatia station and broke the world record with 504.9 rings.
+English: In June, 2003, she participated in the women's 10-m air rifle of World Cup Croatia station and broke the world record with 504.9 points.
+Target Language: In June, 2003, she participated in the women's 10-m air rifle of World Cup Croatia station and broke the",0.0,,,translation_text_wmt_en_zh.pkl,zh
+96,on_p50,0,1,97,"Translate an English sentence into a target language.
+English: Qingdao is China's 12th and also Shandong's first trial city to use and trade emissions.
+Target Language: Qingdao is China's 12th and also Shandong's first trial city to use and trade emissions.
+English: The 2018 World Cup will be held in Russia.
+Target Language: The 2018 World Cup will be held in Russia.
+English: The 2018 World Cup will be held in Russia. The 2018 World Cup will be held in Russia.
+Target Language: The 2018 World Cup will be held in Russia.
+English: The 2018 World Cup will be held in",0.0,,,translation_text_wmt_en_zh.pkl,zh
+97,on_p50,0,1,98,"Translate an English sentence into a target language.
+English: Hindes said: ""If he wins another two gold medals, he should get a knighthood.""
+Target Language: Hindes said: ""If he wins another two gold medals, he should get a knighthood.""
+English: Hindes said: ""If he wins another two gold medals, he should get a knighthood.""
+Target Language: Hindes said: ""If he wins another two gold medals, he should get a knighthood.""
+English: Hindes said: ""If he wins another two gold medals, he should get a knighthood.""
+Target Language: Hindes said: ""If he wins another two gold medals, he should get a knighthood",0.0,,,translation_text_wmt_en_zh.pkl,zh
+98,on_p50,0,1,99,"Translate an English sentence into a target language.
+English: The Glaswegian 23-year-old was in the anchor role that his fellow Scotsman Sir Chris Hoy made his own and the youngster did the legend proud as he stormed home to snatch victory from the favoured New Zealand outfit.
+Target Language: The Glaswegian 23-year-old was in the anchor role that his fellow Scotsman Sir Chris Hoy made his own and the youngster did the legend proud as he stormed home to snatch victory from the favoured New Zealand outfit.
+English: The Glaswegian 23-year-old was in the anchor role that his fellow Scotsman Sir Chris Hoy made his own and the youngster did the legend proud as he stormed home to snatch victory from the favoured New Zealand outfit. The Glaswegian 23-year-old was in the anchor",0.0,,,translation_text_wmt_en_zh.pkl,zh
+99,on_p50,0,1,100,"Translate an English sentence into a target language.
+English: But after months of open hostility - and given the potential for utter disaster when Nato member Turkey shot down that Russian fighter jet - it is surely better that the two leaders are at least talking again.
+Target Language: But after months of open hostility - and given the potential for utter disaster when Nato member Turkey shot down that Russian fighter jet - it is surely better that the two leaders are at least talking again.
+English: But after months of open hostility - and given the potential for utter disaster when Nato member Turkey shot down that Russian fighter jet - it is surely better that the two leaders are at least talking again.
+Target Language: But after months of open hostility - and given the potential for utter disaster when Nato member Turkey shot down that Russian fighter jet - it is surely better that the",0.0,,,translation_text_wmt_en_zh.pkl,zh

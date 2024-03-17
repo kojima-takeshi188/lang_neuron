@@ -1,0 +1,258 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,2,1,1,"El actual entrenador de porteros del Barcelona, Jorge Valdano, dejó a los nuevos fichajes del club azulgrana con las manos vacías. El pasado sábado, el técnico fue el encargado de firmar la renovación de uno de los grandes referentes de la cantera, Sergi Roberto.",0.54427943,,,</s>,de
+1,on_p50,2,1,2,"/* This file is part of the KDE project
+   Copyright (C) 2003 Ariya Hidayat <ariya@kde.org>
+
+   This library is free software; you can redistribute it and/or
+   modify it under the terms of the GNU Library General Public
+   License as published by the Free Software Foundation; either
+   version 2 of the",0.54427943,,,</s>,de
+2,on_p50,2,1,3,"#!/usr/bin/env python
+
+import os
+import sys
+import time
+import logging
+import subprocess
+from distutils.core import setup
+from distutils.command.build import build as build_command
+from distutils.command.install import install as install_command
+from distutils.clist import get_archs",0.54427943,,,</s>,de
+3,on_p50,2,1,4,"TOMATE. Cuando un tomate está más maduro se desprende de la piel. El tomate crujiente y agudo en el gusto es el que es más fresco.
+¿Sabías que en la acupuntura el sabor del paciente tiene muchas veces más importancia que la forma? Los pacientes que participan en un estudio realizado",0.54427943,,,</s>,de
+4,on_p50,2,1,5,"3 Temas: Justiça do Trabalho, Funcionários públicos, Magistrados e Procuradores do Trabalho. A Professora Dra. Maria Alice Schurmann.
+4 Temas: Justiça do Trabalho, Funcionários públicos, Magistrados e Procuradores do Trabalho. A Professora Dra. Maria Alice Schurmann.
+5 Tem",0.54427943,,,</s>,de
+5,on_p50,2,1,6,"Q:
+
+Verifying the type of a method parameter with reflection
+
+I am trying to implement the following method...
+// Registration of a MethodBase
+public static void Register(string name, MethodBase method, Type[] parameterTypes)
+
+I am having a problem with reflection, I am not sure how to do this. How",0.54427943,,,</s>,de
+6,on_p50,2,1,7,"Neuromorphisms
+Neuromorphic is a new paradigm in computation [1]. Neuromorphic systems are used in various areas of research to model the brain, such as neural networks, artificial intelligence, vision, and robotics. The challenges that are faced by the neuromorphic research community include the inability to precisely model the computations that",0.54427943,,,</s>,de
+7,on_p50,2,1,8,"A nível de produção, a empresa detém cerca de 7 milhões de toneladas de açúcar por ano, numa superfície de 6.600 ha, que corresponde aproximadamente a 20% da área de cultivo total.",0.54427943,,,</s>,de
+8,on_p50,2,1,9,"The two queens have a good relationship. They hail from the same family, and the queens are close. They also have a mutual love for each other, as they have been together for almost a month.",0.54427943,,,</s>,de
+9,on_p50,2,1,10,"Introduction
+In this paper we study the issue of positive orthotropy and of instances in which the eigenvalues of the Laplacian associated to a positive orthotropic material are on one side of the spectrum. This results from a formal application of the generalized eigenvalue problem, and also requires the introduction of the following definition.
+Definition",0.54427943,,,</s>,de
+10,on_p50,2,1,11,"A) As mesmas informações são gravadas em dispositivos distintos, de modo que ao mesmo tempo são armazenadas em diversas partes da memória do computador. Portanto, mesmo que a cópia de um arquivo tenha sido realizada em um computador inteiro, ele continua a ser acessado pelo mesmo. É preciso ter cuidados ao usar cópias de arquivos",0.54427943,,,</s>,de
+11,on_p50,2,1,12,"A garbage truck came at this point, and when a man was cleaning his bike, the truck stopped them, but he had already taken the bike for himself.
+During the trip, the garbage truck drove over the police car and the police officer stopped it. He asked the man to leave the bike for now and then drove",0.54427943,,,</s>,de
+12,on_p50,2,1,13,"Por todo esto, desde la dirección de Ecoembes Andalucía han explicado que desde el pasado mes de junio, han repartido más de 8.000 kilos de productos “ecológicos” en grandes superficies, que en los supermercados comerciales, lo que ha supuesto 2.000 kilos de productos “ecológicos” más durante el",0.54427943,,,</s>,de
+13,on_p50,2,1,14,"Exactly. This definition is stated very clearly in the BMA’s new SOSP Art. 16(a):
+A “solely public purpose” shall be deemed to be one of public health, safety, and security, and includes, but is not limited to, following:",0.54427943,,,</s>,de
+14,on_p50,2,1,15,"Q:
+
+How to specify an integer key in Python?
+
+Why is there a need to specify an integer key in Python? A similar question was asked and accepted, but the accepted answer was not applicable to my case.
+I have a list of tuples containing the keys of a dictionary.
+def handle(message):
+    mm",0.54427943,,,</s>,de
+15,on_p50,2,1,16,"Introduction
+The first known publication of the largest and deepest ocean vent in the world is from the Eastern North Pacific (SNAP). It is located at a depth of 3.5 km near New Zealand's North Island, at a latitude of 45°50'S, longitude 115°59'E, and 5-10°",0.54427943,,,</s>,de
+16,on_p50,2,1,17,"The dextrose group of insulin is often used to treat type 1 diabetes mellitus, which is when (or when insulin or insulin-like growth factor 1 (IGF-1) is not made). It is also useful in the treatment of type 2 diabetes, when the body does not make enough insulin. Type 2 diabetes",0.54427943,,,</s>,de
+17,on_p50,2,1,18,"#!/usr/bin/env python
+# This script is intended to be run alone via tmtree when I don't have apache installed
+# This script executes the following steps and outputs something like:
+#
+#     python test_hello.py
+#
+# the output is not formatted like in the example, which is
+#",0.54427943,,,</s>,de
+18,on_p50,2,1,19,"Beautiful Location near the beach, small town with stores, restaurants and local shops. 45 min to the beautiful island of Bra Por, 15 min to the beautiful island of Houat, 20 min to the beautiful village of La Hougue.",0.54427943,,,</s>,de
+19,on_p50,2,1,20,"The information presented on this page is about the nearest Ackermann City District Warehouse to you. This page shows the location of all major cities, towns and outlying areas in the United Kingdom. The address of Ackermann City District Warehouse is 159* - 159*. If you want to get",0.54427943,,,</s>,de
+20,on_p50,2,1,21,"El gran problema de la enfermedad de Alzheimer es que no hay cura. Para sobrevivir, la persona encargada de administrar los tratamientos tiene que estar informada sobre la enfermedad y todas sus manifestaciones. Esto implica que los cuidadores familiares tengan conocimientos básicos de cuidado para que puedan ayudar en las tareas diarias del enfermo.
+El Consejo General de Enfer",0.54427943,,,</s>,de
+21,on_p50,2,1,22,"/*
+ *  Armadillo Workflow Platform v1.0
+ *  A simple pipeline system for phylogenetic analysis
+ *  
+ *  Copyright (C) 2009-2013  Etienne Lord, Mickael Leclercq
+ *
+ *  This program is free software: you can redistribute it and/or modify
+ *  it",0.54427943,,,</s>,de
+22,on_p50,2,1,23,第四步，实施。管理者要通过全球电话营销平台，把智能电话营销的发起人、认可者、传播者等不同角色的信息，传递给有需要的潜在客户，推动智能电话营销项目的实施。要让不同角色都尽可能发挥其作用，以快速提高智能电话营销的效率,0.54427943,,,</s>,de
+23,on_p50,2,1,24,"﻿namespace HomePage
+{
+    partial class AboutBox1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name=""disposing"">true if managed resources should be disposed;",0.54427943,,,</s>,de
+24,on_p50,2,1,25,"Marie-France Gagnon, directrice générale de la Société d’habitation du Québec, ne fait pas de cadeaux aux propriétaires de maisons qui ont payé des taxes de façon anticipée. Toutefois, elle ne se montre pas aussi ferme sur les dossiers des propriétaires de maisons qui n’ont pas payé de taxes en temps opportun.
+",0.54427943,,,</s>,de
+25,on_p50,2,1,26,Le système de production de beurre et de fromage La Caillette a été mis en place en 1996 à la suite de l’arrêt temporaire de la fabrication de fromage au moulin de la Caillette (17). Ce projet a été réalisé en collaboration avec le secteur agroalimentaire et le milieu communautaire. Les jeunes autochtones ont ainsi pu participer,0.54427943,,,</s>,de
+26,on_p50,2,1,27,"Et voilà une nouvelle pièce de plus pour le relooking de notre maison! Super accueil, le patron est prêt à la commande, et je suis très contente du résultat! Merci pour la salopette, elle est magnifique!",0.54427943,,,</s>,de
+27,on_p50,2,1,28,"There is no doubt that we are entering an unprecedented period of unprecedented challenges to the health, safety and wellbeing of students and workers, and we will all need to work together to protect and improve the health of all. This is a period where we need a stronger partnership between student, employer, government and allied stakeholders",0.54427943,,,</s>,de
+28,on_p50,2,1,29,PHP存储过程主要的工作就是执行程序，执行过程一般有两种： One，是单步执行过程，即过程只在第一个指令执行完毕的时候才执行，即程序不与数据库连接，不创建数据库表。 Note，过程的第一步是用数组或字符串来代替数据库中的字段，即当数据库,0.54427943,,,</s>,de
+29,on_p50,2,1,30,"حرق عشرات اللواتي كن يقمن بجولة سياحية في مدينة تشاوشي الصينية على رأسها امرأة تبلغ من العمر 70 عاما اليوم الجمعة، عندما أراد أفراد من الشرطة طلب الحجز في سيارة اسعاف.
+وذكرت صحيفة """"شاندونغ جيانغبو"""" الصادرة اليوم الخميس، أن """"مزارعا مس",0.54427943,,,</s>,de
+30,on_p50,2,1,31,"“If the [biosimilars] market is so good, the food and beverage industry must also be willing to take on the challenge,” said David U. Weiser, president and CEO of the National Academy of American Dietitians (NAAD). “If we think we can solve a problem with one",0.54427943,,,</s>,de
+31,on_p50,2,1,32,"El segundo paso, y sin duda una de las claves para conseguir los mejores resultados, es saber qué nivel de inglés necesitamos para aprender Chino mandarín en Alcoy, según una encuesta realizada en marzo de 2019 por la FCiKo. En primer lugar, debemos tener claro que el Centro de Chino en Alcoy debe estar",0.54427943,,,</s>,de
+32,on_p50,2,1,33,"Charles Ellis (1583-1653)
+
+Charles Ellis was an English artist, born in or near London on April 4, 1583. He worked as a portrait artist for many years before his career as a landscape painter began. He was noted for his precision and for the depiction of both female and male landscapes.
+",0.54427943,,,</s>,de
+33,on_p50,2,1,34,"- Ah, ma pauvre, presque aussi... Je sais pas quoi dire.
+- Moi non plus.
+Mais quand vous serez grande, je vous ferai un beau cadeau.
+- Merci.
+- Désolée que vous soyez là.
+- Les photos ont été prises par le Dr Christina.
+Il m'a demandé de les prendre car mes parents",0.54427943,,,</s>,de
+34,on_p50,2,1,35,"Q:
+
+Preventing a timer from running when loading a chart
+
+I'm new to WPF and I have a problem with a timer that should only run when the chart is loaded. It is working fine when the Chart loads, but when it gets to the right code it simply stops and the timer doesn't run.
+The problem is",0.54427943,,,</s>,de
+35,on_p50,2,1,36,"En cuanto al tema del libro que mencionas, sigue (siempre) en silencio, no hagas que tu amigo abrume y se pierda a medida que vas escribiendo.",0.54427943,,,</s>,de
+36,on_p50,2,1,37,,0.54427943,,,</s>,de
+37,on_p50,2,1,38,"صعدت مبيعات التجزئة الأميركية إلى مستويات قياسية في أغسطس، بدعم من قوة الطلب المحلي وتوقعات بشأن استمرار التحسن في الوظائف، مدعومة بارح عن مزاج المستهلكين أقوى مما كان متوقعا.
+وارتفع إقبال المستهلكين على الشراء بنسبة 2.8% بصورة أكبر مما كان متوق",0.54427943,,,</s>,de
+38,on_p50,2,1,39,"TPO - Nhiều chính trị gia Mỹ kêu gọi Trung Quốc phải chịu trách nhiệm cho những sai phạm trong việc kiểm soát dịch bệnh COVID-19 tại nước này, sau khi Bắc Kinh cho đăng tải hàng chục đoạn video cho thấy các quan chức y tế và lãnh đạo Đảng Cộng sản Trung Quốc (ĐCSTQ) đang",0.54427943,,,</s>,de
+39,on_p50,2,1,40,"A partir de então, a empresa começou a investir no setor de telefonia celular, que era o único que não era a principal fonte de lucro da empresa. A oferta era que o investidor investisse R$ 100 na empresa e a mesma pagasse R$ 1 de lucro pela empresa. Este tipo de venda não é algo normal",0.54427943,,,</s>,de
+40,on_p50,2,1,41,"/*
+ * Copyright (C) 2008-2018 TrinityCore <https://www.trinitycore.org/>
+ * Copyright (C) 2005-2009 MaNGOS <http://getmangos.com/>
+ *
+ * This program is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public",0.54427943,,,</s>,de
+41,on_p50,2,1,42,"Introduction
+Researchers have long been interested in an understanding of the spatial interdependence between the various habitats that animal communities inhabit. This has been an NP hard problem as traditional modelling approaches (e.g., [6, 7] ) cannot deal with complex spatial structures or non-linear dynamics (e.g., the movement of animals is",0.54427943,,,</s>,de
+42,on_p50,2,1,43,"Arquivo da categoria :Prefeitura inicia recuperação da ponte
+Foi iniciado nesta quarta-feira, 06 de julho, o trabalho de recuperação da ponte pluvial do bairro Pinheirinho, localizada na via que dá acesso ao distrito de Pinheirinho, mas que também é utilizada diariamente pelas famílias que residem no município de",0.54427943,,,</s>,de
+43,on_p50,2,1,44,"“Occasionally, people talk about the way that America is different from Europe. I think they are the same,” he said. “Americans do not have the same sort of history, the same sort of culture. And of course, the same sort of issues, the same sort of challenges.”
+",0.54427943,,,</s>,de
+44,on_p50,2,1,45,"A partir de la próxima semana, se realizará una serie de operativos especiales de control y vigilancia de productos prohibidos y, entre las actividades que se realizarán destaca la salida de las terneras de los centros de abasto con sus respectivos pesos y vacunaciones.",0.54427943,,,</s>,de
+45,on_p50,2,1,46,"Charli XCX, et ses camarades, participent à une émission de télé-réalité américaine, The Project, sur le thème de la musique.
+1. L'album The Double Album, du groupe de rock britannique Skindred, est un véritable chef-d'œuvre. Les quatre membres du groupe sont très connus et talentueux",0.54427943,,,</s>,de
+46,on_p50,2,1,47,,0.54427943,,,</s>,de
+47,on_p50,2,1,48,“We are very proud of our team for the excellent work they’ve done all year on our property and have no hesitation in recommending them to others. They have been incredibly professional and have been very thorough in their work. This is the first time we have worked with any other professional and we hope we will be,0.54427943,,,</s>,de
+48,on_p50,2,1,49,"L'espectacle, que va tenir lloc el passat 3 i 4 de novembre, va ser un èxit de participació, ja que hi van assistir més de 500 espectadors que van gaudir d'una gran i espectacular aparició de l'àngel de foc de la mà de les estrelles de Leo Messi.
+El passat dissabte 21 de març vam",0.54427943,,,</s>,de
+49,on_p50,2,1,50,"        $this->loadTemplate('views/currency.tpl');
+    }
+}
+",0.54427943,,,</s>,de
+50,on_p50,2,1,51,"La terre, terre des larmes, est le principal personnage du livre. Une terre toujours hostile, sans pitié, où les hommes sont réduits à l’esclavage par le pouvoir, un pouvoir aux abois, dans la fièvre de la conquête, et où le destin est encore plus cruel. Les larmes sont le moyen qu’a inventé",0.54427943,,,</s>,de
+51,on_p50,2,1,52,"Q:
+
+Why are various versions of the ""%s"" operator used differently
+
+Why do some versions of the ""%s"" operator have different meanings?  For example, what is the difference between using the ""%s"" operator with an integer and the ""%%.s"" operator with a character?  Also, why are these operators nonstandard.  I thought that they",0.54427943,,,</s>,de
+52,on_p50,2,1,53,Les rapports de l'hypnose et les thérapies brèves connaissent aujourd'hui un développement constant. Les études scientifiques de la littérature scientifique attestent que l'hypnose est un lieu privilégié de la thérapie et que la plupart de ses bienfaits proviennent d'une interaction thérapeutique particulière entre hypnothérapeute et patient,0.54427943,,,</s>,de
+53,on_p50,2,1,54,"El motivo principal de los cambios de este tipo de prendas es que se detecta que están dañadas, ya sea por el desgaste, que haya sufrido algún tipo de incendio o que ya no se usen tanto como antes. De todas formas, es importante tener en cuenta que las prendas dañadas no pueden ser reutilizadas y",0.54427943,,,</s>,de
+54,on_p50,2,1,55,"El Museo de la Industria Turística, en Manzanares, es un lugar donde se pueden ver exposiciones de los diferentes ámbitos que conforman el turismo.
+Hemos visitado el Museo de la industria turística de Manzanares (Madrid) y podemos decir que hay por lo menos 3 elementos que tenemos que destacar. Estos son:
+Un",0.54427943,,,</s>,de
+55,on_p50,2,1,56,"أطلقت كليفاليتا آيساند رئيس تحرير صحيفة «نيويورك تايمز» الأمريكية، حملة ضد الرئيس جورج بوش، واصفة إياه بأنه «يسار الدولة» و«طموح».
+وقالت: «كان بوش ضروريا للعام 2009، لكنه كان أكثر ضروريا الآن. لقد كان الرئيس الذي يدفعنا إلى",0.54427943,,,</s>,de
+56,on_p50,2,1,57,"I. INTRODUCTION
+A natural question is how the nonlinearity of the wave equation is transformed into the nonlinearity of the Schrödinger equation. This question is not trivial, because the wave equation is invariant under parity transformations due to the conservation of the scalar Parity operator. Moreover, the solutions of the",0.54427943,,,</s>,de
+57,on_p50,2,1,58,"Q:
+
+ASP.NET MVC and Async/Await in controller action
+
+I'm trying to understand how to use async and await in ASP.NET MVC.
+I'm using MVC 2 and I would like to avoid using await and run an asynchronous action. For example, I want to add a dynamic field into a table - that field",0.54427943,,,</s>,de
+58,on_p50,2,1,59,"using System;
+using System.Linq;
+using System.Net;
+using System.Threading;
+using System.Threading.Tasks;
+using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.Owin;
+using Microsoft.Owin.Security;
+using Microsoft.Owin.Security.",0.54427943,,,</s>,de
+59,on_p50,2,1,60,"Una plataforma de mensajería instantánea muy popular, la cual está disponible para móviles Android e iOS, llamada WhatsApp Messenger, ha sido hackeada por un grupo conocido como ‘Kill The Messenger‘.
+Según un reciente informe publicado por The Verge, el grupo hackeo a la cuenta de 10 millones de clientes de WhatsApp, con",0.54427943,,,</s>,de
+60,on_p50,2,1,61,"Yakuza: Kiwami – The Fist of the Cold War is a very weird game. It begins with the protagonist waking up in a Parisian basement with a gunshot wound to the head. He goes on to find himself in the basement of the St. Petersburg Jewish Community Hall, where he fights",0.54427943,,,</s>,de
+61,on_p50,2,1,62,"Why is it that, in the world of advertising, content is now so important today when I once worked in a communications agency where we were at the cutting edge of digital media? In an era where so much of the communication happened in front of a screen, the need for content is more pressing than ever. There is",0.54427943,,,</s>,de
+62,on_p50,2,1,63,"Assim, JOAO IMPRENSA quer facilitar a inclusão digital de todas as pessoas que de alguma forma fazem parte do sistema de comunicação da Instituição, pois acreditamos que isso é a garantia da sustentabilidade do Sistema e um auxílio à sua expansão para outros territórios.
+Sem essa inclusão digital, o Sistema, que já",0.54427943,,,</s>,de
+63,on_p50,2,1,64,"But what won’t be shown during the webinar are the things that will be in the state’s finance package. Although the Biden White House has expressed support for more direct, bipartisan funding for localities and counties, we cannot expect that to happen quickly. And we don’t think it should be.
+“When the White",0.54427943,,,</s>,de
+64,on_p50,2,1,65,"Listes de Tenerlas en Cuenta 1. Sexo y edad. 2. Comportamiento sexual. 3. Actitudes sexuales.
+El caso es que yo tengo unos deseos, más bien una necesidad, de que ELLA me desee, y que no me desee a mí; que ELLA haga",0.54427943,,,</s>,de
+65,on_p50,2,1,66,"As euclidianas são superfícies espaciais, que representam as circunferências e suas derivadas no plano cartesiano. Seus infinitos pontos são representados por vértices. As circunferências e suas derivadas são triângulos.
+As álgebras de funções são espaços de variáveis finitos, que tratam do cálculo em",0.54427943,,,</s>,de
+66,on_p50,2,1,67,"نيودلهي - رويترز - انخفض مؤشر بورصة نيودلهي الرئيسي 0.5% امس، مردفا مزيد من الخسائر في الأسواق العالمية.
+وتضرر المؤشر في وقت سابق من انخفاض أسعار النفط، وتراجع ثقة المستثمرين في الاقتصاد العالمي.
+وارتفعت الأسهم القيادية في السوق، لكن مؤشر توبكس الا",0.54427943,,,</s>,de
+67,on_p50,2,1,68,"Oh, yeah.
+I was about to forget this.
+Hey, what are you doing here?
+You're John's old girlfriend.
+I'm John's Michael.
+Oh.
+Okay.
+This is John's mother.
+Nice to meet you.
+Nice to meet you.
+Michael.
+Thanks.
+Yeah, I mean, there were a couple of",0.54427943,,,</s>,de
+68,on_p50,2,1,69,"¡Hola de nuevo! Parece que se ha pasado el finde y, por eso, voy a estar más desaparecida de aquí, pero no por nada. Me apetecía mucho escribir sobre el libro de este año de mi lista de lectura. ¿Os pasa lo mismo? ¡Os espero!
+Soy más de leer y ver",0.54427943,,,</s>,de
+69,on_p50,2,1,70,"Para algunas personas, la naturaleza es un espacio que dan a sus hijos y que deben cuidar para que crezcan verdes y sanos. Si eres de esas personas y quieres conocer algunos trucos para saber cómo cuidar la naturaleza de tu casa, continúa leyendo este artículo.
+La naturaleza es un espacio que se puede lograr que",0.54427943,,,</s>,de
+70,on_p50,2,1,71,"Now they are getting a little mad and asking for $20 for the elephant. The owners of the elephant will take their money and leave. This little boy is daring enough to question this attitude, and his natural sense of justice will prompt him to ask the owner the right questions.
+One elephant owner tells him, “No, Master",0.54427943,,,</s>,de
+71,on_p50,2,1,72,"Converse con los que han tomado la decisión de mantener o abandonar el cannabis y hazles ver que puedes estar con ellos, que te sigues sintiendo a gusto con tus decisiones y comprende que en el cannabis hay muchos sentimientos que debes entender.",0.54427943,,,</s>,de
+72,on_p50,2,1,73,"Bonne journée, je suis un homme charmant, soumis, doux tendre, chaleureux, j ai le sourire, les yeux bleus, les cheveux blonds, 1m70, 85 kg. Age 38 ans. Je suis un coquin, et je cherche une coquine libre pour un plan cul en soirée dans les environs",0.54427943,,,</s>,de
+73,on_p50,2,1,74,"L'activitat promocional que ofereix el TN és la de fer arribar, de manera presencial o per mitjans electrònics, els materials promocionats i la informació publicitària que se'ls hagi adreçat a tots els seus clients.
+Totes les promocions que s'ofereixen, han d'anar acompanyades de la corresponent comunicació del contingut de la promoció i",0.54427943,,,</s>,de
+74,on_p50,2,1,75,"Pour la rentrée, nos locaux seront tous fermés du mardi 29 août au Jeudi 08 septembre inclus. Veuillez nous excuser pour la gêne occasionnée. Vous pouvez nous contacter directement, par mail à ou par téléphone au 0560 15 15 15.",0.54427943,,,</s>,de
+75,on_p50,2,1,76,"Who's Afraid Of Black Friday? - CNN has pooled together some of the best ideas on how to get into holiday shopping. - CNN
+A Black Friday-type of sale, the Dollar Store is expected to sell more products and stockpile more inventory this year than any other time last year.
+Chocolate",0.54427943,,,</s>,de
+76,on_p50,2,1,77,"El Gobierno de La Pampa anunció hoy un nuevo programa especial de ayuda a las familias pampeanas que han sufrido el impacto económico por la crisis generada por la pandemia del coronavirus.
+A través del Plan ""Paso a Paso para Reinsertar a los Mujeres en la Vida Social, Productiva, Laboral y familiar"", que",0.54427943,,,</s>,de
+77,on_p50,2,1,78,"Franck Dubosc est un grand comédien, mais c’est un homme très vindicatif, qui punit très souvent ses acteurs qui ne se conforment pas à ses attentes. (« Nous ne sommes pas des robots, on se fait chier. C’est un calcul économique pour moi. Sinon, je dis pas non à",0.54427943,,,</s>,de
+78,on_p50,2,1,79,"Kohlrabi adalah tanaman sayuran berkalori tinggi yang biasa dikonsumsi setiap hari. Tanaman ini memiliki kandungan air yang cukup tinggi, makanan yang baik untuk kulit serta dipercaya bisa mencegah berbagai macam penyakit berbahaya.",0.54427943,,,</s>,de
+79,on_p50,2,1,80,"L'édifice s'inspire de la forme de la chaussée et du système d'ouvertures : les façades sont évasées et determinent la forme de la voûte du sanctuaire et de l'image. La disposition des travées du grand escalier est semblable à celle du pont d'Augusta sur l'Oder.
+",0.54427943,,,</s>,de
+80,on_p50,2,1,81,"En 2008, la Fundación L’Oréal anunció una recaudación de fondos de más de 2.1 millones de euros con el objetivo de financiar un proyecto de investigación en el que se estudiaban los efectos de los rayos ultravioletas en la salud y las reacciones de las plantas a éstos.
+El proyecto, que se realiza en",0.54427943,,,</s>,de
+81,on_p50,2,1,82,"Lors de leur dernière journée, les Haras nationaux d’Auteuil et de Vétroz ont été classés respectivement troisième et troisième du Grand Prix de la Belle Province.",0.54427943,,,</s>,de
+82,on_p50,2,1,83,"3.1. La solicitud se presentará por triplicado, firmada y sellada por el solicitante, el representante del comercio o el representante legal del importador.
+3.2. Se presentarán acompañadas del contrato de compraventa y la respectiva documentación de la mercancía comprada y de las facturas de venta.
+",0.54427943,,,</s>,de
+83,on_p50,2,1,84,"Aquesta mateixa setmana han començat els treballs per tallar la C-37 a l'alçada de Sant Domènec. El vehicle destrueix un cami i dilueix el paisatge. //Ampliar la imatge
+La nova presidenta del Consell Comarcal de la Noguera, Rosa Maria Ferré, ja fa el seu primer pas en el càrrec amb un",0.54427943,,,</s>,de
+84,on_p50,2,1,85,"- « Ne vous inquiétez pas, vous ne serez pas seul », déclare le capitaine. « Vous trouverez toujours quelqu’un qui saura vous aider. »
+- « C’est bien, je le savais, déclare le capitaine. Vous allez voir. Je dois vous dire, je vais vous tutoyer, mais c’est tout ce",0.54427943,,,</s>,de
+85,on_p50,2,1,86,12月5日，由重庆日报报业集团主办的“重庆日报报业集团新闻发布会暨2020重庆·重庆晚报年会在渝举行。中共重庆市委统战部副部长、市工商联党组书记顾江峰，中共重庆市委统战部副部长、市工商联党组副书记、市工商联党组书记,0.54427943,,,</s>,de
+86,on_p50,2,1,87,"Notre entreprise RGE offre des compétences dans tout type de travaux de changement, installation ou réparation de vos chaudières à bois.",0.54427943,,,</s>,de
+87,on_p50,2,1,88,"Les Canadiens pourront tester gratuitement leur nouveau vaccin contre le nouveau coronavirus au début du mois de février, ont annoncé lundi les ministres de la Santé, de l’Économie et des Finances, Justin Trudeau, et de l’Immigration, Revenu et Développement social, Mélanie Joly.",0.54427943,,,</s>,de
+88,on_p50,2,1,89,"O endereço de email utilizado na inscrição deverá ser válido e atualizado, para que possamos comunicá-lo da abertura do prazo de inscrição e recebimento das informações sobre as etapas da seleção.
+Os candidatos deverão encaminhar os documentos solicitados via email para o endereço com o título da oportunidade: “Área de Conhecimento:",0.54427943,,,</s>,de
+89,on_p50,2,1,90,"Il a ensuite apporté quelques précisions sur le financement de la mesure puis annoncé certaines nouveautés.
+""Motto de la réforme : financer l’investissement en revalorisant le savoir-faire, en le 'finançant autrement', en augmentant la mobilité des personnels"", a-t-il dit. L’idée de financer là où il y",0.54427943,,,</s>,de
+90,on_p50,2,1,91,"Ahora en un mundo de altísima velocidad, los desarrolladores pueden lograr un espaciamiento constante de imagen y video cuando construyen aplicaciones móviles. Para eso, utilizan el uso de streaming.
+Los desarrolladores hacen uso de los servicios de streaming para transmitir sus sitios web, correos electrónicos y videos, así como realizar llamadas de voz con",0.54427943,,,</s>,de
+91,on_p50,2,1,92,"Based on the information we received, we looked at the existing systems, as well as the search and purchase functions on eBay.
+We implemented a mobile-friendly search engine that was easy to navigate and search, that allowed sellers to easily display their products.
+We used the Hierarchic E-commerce Platform that was proven to",0.54427943,,,</s>,de
+92,on_p50,2,1,93,"Ce contenu a été publié dans Détente, Informatique, Photos par Daniel, et marqué avec C41, écran tactile, gaming, mobile. Mettez-le en favori avec son permalien.",0.54427943,,,</s>,de
+93,on_p50,2,1,94,"In order to receive food assistance from the state, the citizens (the “insured” or “insured” households) have to be identified on the state’s food poverty database, and the amount of the food assistance is determined through a set of criteria. Households with incomes below the poverty line are eligible",0.54427943,,,</s>,de
+94,on_p50,2,1,95,"Mapeamento e diagnóstico da acessibilidade de espaços coletivos – o caso de uma biblioteca pública
+O presente estudo tem como objetivo principal orientar gestores públicos e especialistas no assunto, a fim de realizar um mapeamento e diagnóstico da acessibilidade de espaços públicos, no município de Santo Amaro ( BA ).Para tanto, este trabalho",0.54427943,,,</s>,de
+95,on_p50,2,1,96,,0.54427943,,,</s>,de
+96,on_p50,2,1,97,斑马TV是由深圳市壹号院文化传播有限公司自主研发的一款TV软件，iOS版已经上线。该软件是国内第一台基于HTML5的TV软件，支持卡路里消耗、状态显示、时间戳、时间轴、动态课程表、童梦馆、儿童剧场、儿童阅读,0.54427943,,,</s>,de
+97,on_p50,2,1,98,"Nhằm lấy lại niềm tin của người dân, trong năm 2019, Đà Nẵng sẽ tập trung giải quyết các việc thu hồi đất mà thành phố đã nợ cấp huyện trên 4.300 tỷ đồng, thời hạn thực hiện chậm nhất 31/12/2019.",0.54427943,,,</s>,de
+98,on_p50,2,1,99,"Que as pessoas se relacionem melhor umas com as outras através de atividades esportivas e de lazer é algo que todo mundo quer alcançar. Se você sofre com algum problema no coração ou sofre muito com a pressão alta e quer melhorar […]
+A Secretaria Municipal de Saúde de São José dos Pinhais (SES",0.54427943,,,</s>,de
+99,on_p50,2,1,100,"Our high-end marble countertops provide an elegant design and are hard to beat for the durability they offer. Available in a wide variety of colors and styles, our high-end marble countertops are a perfect match for any kitchen. These beautiful and durable countertops can be used for a variety of purposes and",0.54427943,,,</s>,de

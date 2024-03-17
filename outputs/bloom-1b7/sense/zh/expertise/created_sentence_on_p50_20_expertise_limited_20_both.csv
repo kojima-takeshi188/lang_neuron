@@ -1,0 +1,242 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,20,1,1,"El actual entrenador de porteros es un entrenador técnico y táctico, que sabe qué hacer y cómo hacerlo y que sabe cómo utilizar a cada jugador según su posición y posición en el campo.
+En la actualidad, el entrenador de porteros es el profesional que más experiencia tiene y suele ser el encargado de coordinar a todos los",0.5427368337,,,</s>,zh
+1,on_p50,20,1,2,"/* This file is part of the KDE project
+   Copyright (C) 2003 Ariya Hidayat <ariya@kde.org>
+
+   This library is free software; you can redistribute it and/or
+   modify it under the terms of the GNU Library General Public
+   License as published by the Free Software Foundation; either
+   version 2 of the",0.5427368337,,,</s>,zh
+2,on_p50,20,1,3,"#!/usr/bin/env python
+
+import os
+import sys
+import time
+from collections import defaultdict
+from distutils.core import setup
+from distutils.command.build import build as build_command
+from distutils.version import StrictVersion
+from distutils.command.install import install as install_command
+",0.5427368337,,,</s>,zh
+3,on_p50,20,1,4,"TOMATE. Cuando un tomate está más maduro se desprende de la piel. El tomate crujiente y agudo en el gusto es el que es más fresco.
+¿Sabías que en la acelga el sabor picante ocurre porque posee pectina? Dicha sustancia es un tipo de fibra que tiene",0.5427368337,,,</s>,zh
+4,on_p50,20,1,5,"3 Temas: Justiça do Trabalho, Funcionários públicos, Magistrados e Procuradores do Trabalho. A Professora Dra. Maria Alice Schurmann.
+4 Temas: Justiça do Trabalho, Funcionários públicos, Magistrados e Procuradores do Trabalho. A Professora Dra. Maria Alice Schurmann.
+5 Tem",0.5427368337,,,</s>,zh
+5,on_p50,20,1,6,"Q:
+
+Verifying the type of a method parameter with reflection
+
+I am trying to implement the following method...
+// Registration of a MethodBase
+public static void Register(string name, MethodBase method, Type[] parameterTypes)
+
+I am having a problem with reflection, I am not sure how to do this. How",0.5427368337,,,</s>,zh
+6,on_p50,20,1,7,"Neuromorphisms
+Neurologic disorders affect the brain and cause dysfunction such as stroke, spinal cord injury, cerebellar lesions, and cerebral palsy. Human brains contain approximately 100 million neurons that can be classified into five main classes based on their morphology [11] [12] [13] [14] [15] [16] [17] [18]. A schematic summary",0.5427368337,,,</s>,zh
+7,on_p50,20,1,8,"A nível de produção, a empresa detém cerca de 7 milhões de toneladas de açúcar por ano, numa superfície de 6.600 ha, que corresponde aproximadamente a 20% da área total da atividade.",0.5427368337,,,</s>,zh
+8,on_p50,20,1,9,"The two queens have a right to be.
+But they won't fight.
+They'll pay for it with their lives.
+They'll pay for it with their lives.
+Ready?
+Get ready!
+And one more thing.
+You take care of your queen.
+You take care of your queen.
+Go!
+Hurry!
+Hurry",0.5427368337,,,</s>,zh
+9,on_p50,20,1,10,"Introduction
+In this paper, we propose a new, two-stage opinion evolution model, in which the opinion values evolve from an initially unpolarized set to a novel state of uncertainty. The evolution is driven by a local interaction, the opinion contribution function (OCF). The proposed model is a consequence of the analysis of",0.5427368337,,,</s>,zh
+10,on_p50,20,1,11,欧姆龙（OMRON）公司是世界上生产微型机电技术及其应用领域的代表性跨国企业。公司分为三个业务集团，即仪器与设备集团、微型机电技术集团和计算机集团。3个业务集团，相互独立，又相互支援，具有紧密的业务关系，共同为客户提供微型,0.5427368337,,,</s>,zh
+11,on_p50,20,1,12,"A garbage truck came at this point, and when a man was cleaning out the old garage, he noticed some steam from it and decided to inspect it.",0.5427368337,,,</s>,zh
+12,on_p50,20,1,13,"Por todo esto, desde la dirección de Ecoembes Andalucía han explicado que desde el pasado mes de junio, han repartido más de 8.000 kilos de productos “ecológicos” en grandes superficies, que en los supermercados comerciales, lo que ha supuesto 2.000 kilos de productos “ecológicos” más durante el",0.5427368337,,,</s>,zh
+13,on_p50,20,1,14,"Exactly. This definition is stated very clearly in the BMA’s new SOSP Art. 16.03. If, however, you are not covered under BMA’s SOSP Art. 16.03, you may want to look at the BMA’s ACOLA Guide, which covers anything beyond BMA",0.5427368337,,,</s>,zh
+14,on_p50,20,1,15,"Q:
+
+How to specify an integer key in Python?
+
+Why is there a need to specify an integer key in Python? I have a function that takes a parameter called key and a function that takes a parameter called size. I want to have a function that takes a parameter called key and a parameter called size and returns a",0.5427368337,,,</s>,zh
+15,on_p50,20,1,16,"Introduction
+The first known publication of the largest and deepest ocean vent in the world is from the Eastern North Pacific (SNAP). It is located at a depth of 3.5 km near New Zealand's North Island, at a latitude of 45°50'S, longitude 115°59'E, and 5-10°",0.5427368337,,,</s>,zh
+16,on_p50,20,1,17,"The single circular cylinder is of the shape of a truncated cone having a circular cross-section, which is immersed (or away from the ground) in an oil reservoir. The top, center and bottom ends of the cylinder are closed with a concentric annular seal about the axis of the cylinder.
+The oil in the reservoir",0.5427368337,,,</s>,zh
+17,on_p50,20,1,18,"#!/usr/bin/env python
+# This script is intended to be run alone via tmtree when I don't have apache installed
+# This script executes the following steps and outputs something:
+
+# Use the following to change the default session timeout:
+#   :group session_timeout=0.00,session_timeout=0.00,",0.5427368337,,,</s>,zh
+18,on_p50,20,1,19,采购产品一应俱全，这款杭州智能垃圾处理器做到了自动投放和自清洁两个方面，经过使用最后发现它的自动投放和自清洁做得非常好，运行垃圾完全靠自身动力实现了垃圾自动投放和自清洁，这就像是一个独立的人，不管你走多远都不会被丢弃，,0.5427368337,,,</s>,zh
+19,on_p50,20,1,20,此后，双方围绕石英砂和重晶石等关键指标展开了合作。德国宝应重晶石有限公司（以下简称宝应重晶石公司）与金利来（常州）有限公司达成战略合作协议。双方围绕石英砂和重晶石等关键指标展开了合作。德国,0.5427368337,,,</s>,zh
+20,on_p50,20,1,21,"El gran problema de la enfermedad de Alzheimer es que no hay cura. Para sobrevivir, la persona encargada de administrar los tratamientos tiene que estar informada sobre la enfermedad y todas sus manifestaciones. Esto implica que los cuidadores familiares deben ser parte de la maniobra terapéutica en la medida que están capacitados para:
+El equipo",0.5427368337,,,</s>,zh
+21,on_p50,20,1,22,在金庸先生笔下，武功最厉害的“五绝”，其中“独孤求败”无疑是代表人物，“笑傲江湖”中的“独孤求败”更是有着鲜明的“独孤求败”形象，甚至还成为了电影“独孤求败”的原型，但是,0.5427368337,,,</s>,zh
+22,on_p50,20,1,23,第四步，实施。管理者要通过全球电话营销平台，把智能电话营销的发起人、认可者、传播者等不同角色，以及他们与客户的联系，连接起来。智能电话营销要走清晰的流程，比如发起、实施、反馈和总结，由质量巡检人员跟进,0.5427368337,,,</s>,zh
+23,on_p50,20,1,24,"﻿namespace HomePage
+{
+    partial class AboutBox1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name=""disposing"">true if managed resources should be disposed;",0.5427368337,,,</s>,zh
+24,on_p50,20,1,25,《距离·之主题词》是2005年湖南文艺出版社出版的图书，作者是王文澜。本书主要收录了26个主题词，包括时间、空间、空间中的“距离感”、“距离”之“物”、“距离”之“感”，等等。距离·之主题词内容简介 本书主要,0.5427368337,,,</s>,zh
+25,on_p50,20,1,26,Le système de production de beurre et de fromage La Caillette a été mis en place en 1996 à la suite de l’arrêt temporaire de la fabrication de fromage au moulin de la Caillette (17.000 litres de lait produit par an) qui fabrique le fromage au lait cru de vache La Caillette et de la fabrication,0.5427368337,,,</s>,zh
+26,on_p50,20,1,27,"冬至已过,杭州天气逐渐变冷,近日,浙江杭州再次迎来大范围冷空气,多个气象部门对节后气温做了提醒,大家需要关注节后气温变化。 气象预报显示,受冷空气影响,预计节后上海、浙江、江苏、安徽、江西、福建",0.5427368337,,,</s>,zh
+27,on_p50,20,1,28,"There is no doubt that we are entering an unprecedented period of unprecedented challenges to the health, safety and wellbeing of students and workers, and we will all need to work together to ensure that they get back to school safely and with a renewed sense of learning and furthest from the global pandemic.”
+Good morning",0.5427368337,,,</s>,zh
+28,on_p50,20,1,29,PHP存储过程主要的工作就是执行程序，执行过程一般有两种： One，是单步执行过程，即过程只在第一个指令执行完毕的时候，才执行下一个指令，与第一个指令关联，在程序执行的过程中需要注意的是，程序不能改变顺序，也不能在步骤之间同时执行多个过程，当程序,0.5427368337,,,</s>,zh
+29,on_p50,20,1,30,"/*
+ * This file is part of Matter Overdrive
+ * Copyright (c) 2015., Simeon Radivoev, All rights reserved.
+ *
+ * Matter Overdrive is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software",0.5427368337,,,</s>,zh
+30,on_p50,20,1,31,"“If the [biosimilars] market is so good, the food and beverage industry must also be willing to take on the challenge,” said David Ubrich, a senior food scientist with the USDA’s American Chemistry Council. “Unfortunately, until now none of the food and beverage industry’s leaders",0.5427368337,,,</s>,zh
+31,on_p50,20,1,32,"El segundo paso, y sin duda una de las claves para conseguir los mejores resultados, es saber qué es lo más importante para tu cliente y qué es lo que realmente lo hace feliz. Saber qué se preocupa y busca en tu empresa será esencial para implementar estrategias que le ayuden a conseguir sus metas y trabajar para que se",0.5427368337,,,</s>,zh
+32,on_p50,20,1,33,"Charles Ellis (1583-1653)
+
+Charles Ellis was an English artist, born in or near London on April 4, 1583. He worked as a portrait artist for many years before his career as a landscape painter began. He was noted for his precision and for placing his subjects with great care. He is best known",0.5427368337,,,</s>,zh
+33,on_p50,20,1,34,"- Ah, ma pauvre, ma petite... Je comprends ta peine. Mon mari est parti il y a longtemps, j'ai laissé ma fille seule. Quand je t'ai vue venir, tu étais toute pâlotte, et ça m'a fait un bien fou de te voir. Et puis, toi, avec tes cheveux châtains.
+Ch",0.5427368337,,,</s>,zh
+34,on_p50,20,1,35,"Q:
+
+Preventing a timer from running when loading a chart
+
+I'm new to WPF and I have a problem with a timer that should only run when the chart is loaded. I have attempted a couple of methods but they have not worked. 
+The problem starts when the user selects a time range or changes a time range.
+",0.5427368337,,,</s>,zh
+35,on_p50,20,1,36,"En cuanto al tema del libro, debo decir que sigue (siempre) la misma estructura de los dos anteriores, una historia bien contada, con personajes bien desarrollados y unos finales satisfactorios. Aunque debo admitir que este último no es el mejor.
+Ahora, en lo que respecta a la novela, debo decir que",0.5427368337,,,</s>,zh
+36,on_p50,20,1,37,,0.5427368337,,,</s>,zh
+37,on_p50,20,1,38,"صعدت مبيعات التجزئة الأميركية إلى مستويات قياسية في أغسطس، بدعم من قوة الطلب المحلي وتوقعات بشأن استمرار التحسن في الوظائف، مدعومة بارح عن مزاج المستهلكين أقوى مما كان متوقعا.
+وارتفع إقبال المستهلكين على الشراء بنسبة 2.8% بصورة أكبر مما كان متوق",0.5427368337,,,</s>,zh
+38,on_p50,20,1,39,"TPO - Nhiều chính trị gia Mỹ kêu gọi Trung Quốc phải chịu trách nhiệm cho những sai phạm trong việc kiểm soát dịch bệnh COVID-19 tại nước này, sau khi Bắc Kinh cho đăng tải hàng chục đoạn video cho thấy các quan chức y tế và lãnh đạo Đảng Cộng sản Trung Quốc (ĐCSTQ) đang",0.5427368337,,,</s>,zh
+39,on_p50,20,1,40,"A partir de então, a empresa começou a investir no setor de telefonia celular e, em 1974, a partir da fusão entre a Telemar e a CEMTEL, surgiu a Embratel.
+A Embratel, que antes era uma operadora de telefonia de telecomunicações, foi uma das primeiras empresas do setor a adotar a",0.5427368337,,,</s>,zh
+40,on_p50,20,1,41,"/*
+ * Copyright (c) 1998, Oracle and/or its affiliates. All rights reserved.
+ * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
+ *
+ * This code is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public License version 2 only, as",0.5427368337,,,</s>,zh
+41,on_p50,20,1,42,"Introduction
+Researchers have long been interested in an understanding of the spatial interdependence between the various habitats that animal communities inhabit. This has been an NP hard problem as traditional modelling approaches (e.g., [6, 7] ) cannot deal with complex spatial structures or non-linear coupling (e.g., the movement between pairs of",0.5427368337,,,</s>,zh
+42,on_p50,20,1,43,"Arquivo da categoria :Prefeitura inicia recuperação da ponte
+Foi iniciado nesta quarta-feira, 06 de julho, o processo de recuperação da ponte pluvial do bairro Pinheirinho, localizada na via que dá acesso ao distrito de Pinheirinho, mas que também é utilizada diariamente pelas famílias que vivem na região.A",0.5427368337,,,</s>,zh
+43,on_p50,20,1,44,"“Occasionally, people talk about the way that America is different from Europe. I think they are the same,” he said. “Americans do not have the same sort of history, the same sort of past. And of course, the European people do not originate from the Americas.”
+“",0.5427368337,,,</s>,zh
+44,on_p50,20,1,45,"A partir de la próxima semana, se realizará una serie de operativos especiales de control y vigilancia de productos prohibidos y, entre las actividades que se realizarán se encuentran:
+- Control de este tipo de productos en los restaurantes con presencia de público y centros comerciales.
+- Control de expendedores de bebida alcohólica, junto a",0.5427368337,,,</s>,zh
+45,on_p50,20,1,46,"Charli XCX, et ses camarades, participent à une émission de télé-réalité pour gagner plus d'argent. Par le biais de la plateforme LOVE AND TRAVEL, elles ont la possibilité de choisir un pays le plus proche de chez elles et d'y passer quelques jours. Une fois qu'elles ont choisi la destination et la durée",0.5427368337,,,</s>,zh
+46,on_p50,20,1,47,,0.5427368337,,,</s>,zh
+47,on_p50,20,1,48,"“We are very proud of our team and the positive impact it is having on the community,” said Jennifer A. Gianandrea, president and CEO, lapins de Pâques. “This partnership is a tremendous testimony to the hard work that goes into the design and execution of each lapin and their Copenhagen",0.5427368337,,,</s>,zh
+48,on_p50,20,1,49,"L'espectacle, que va tenir lloc el passat 3 i 4 de novembre, va ser un èxit de participació, ja que hi van assistir més de 500 espectadors que van gaudir d'una gran i espectacular aparició de l'àngel de foc de la mà de les estrelles de la màgia i la màgia en directe.
+",0.5427368337,,,</s>,zh
+49,on_p50,20,1,50,"        $this->loadmodel('views');
+        $this->view->setVar('headlines', $headlines);
+        $this->view->setMetaData(array('name' => 'newsfeeds', 'type' => 'headlines', 'template' => 'newsfeed_headlines.php'));
+        $this->",0.5427368337,,,</s>,zh
+50,on_p50,20,1,51,"La terre, terre des larmes, est le principal personnage de l’histoire. Une terre toujours hostile, sans pitié, où les hommes sont réduits à l’esclavage par le pouvoir, un pouvoir aux abois, dans la fièvre de la conquête, et où le peuple est encore le symbole de la liberté.",0.5427368337,,,</s>,zh
+51,on_p50,20,1,52,"Q:
+
+Why are various versions of the ""%s"" operator used differently
+
+Why do some versions of the ""%s"" operator have different meanings?  For example, what is the difference between using the ""%s"" operator with an integer and the ""%%.s"" operator with a character?  Also, why are these operators nonstandard.  I thought that they",0.5427368337,,,</s>,zh
+52,on_p50,20,1,53,"1. Field of the Invention
+The present invention relates to a liquid crystal display (lcd) device and a manufacturing method thereof for an improvement in resolution of the device.
+2. Description of the Related Art
+A display device is a device configured to display an image. To obtain an image by such display device",0.5427368337,,,</s>,zh
+53,on_p50,20,1,54,"关于妇产科""小四会"" 的 考试说明 我们在日常教学工作中,遇到很多妇产科""小四会""考试的问题。作为医学科教师,我们要根据各自不同的学科特点,对妇产科""小四会""考试内容和考试形式进行认真的分析和研究,在教学中不断",0.5427368337,,,</s>,zh
+54,on_p50,20,1,55,"El Museo de la Industria Turística, en Manzanares, es un lugar donde se pueden ver exposiciones de los diferentes ámbitos que conforman el turismo.
+Hemos visitado las exposiciones de Arte y Diseño, la de Arte y Cultura Gastronómica (tanto por dentro como por fuera) y la de Arte y Naturaleza, en",0.5427368337,,,</s>,zh
+55,on_p50,20,1,56,"أطلقت كليفاليتا آيساند رئيس تحرير صحيفة «نيويورك تايمز» الأمريكية، حملة ضد الرئيس جورج بوش، واصفة إياه بأنه «يسار الدولة» و«طموح»، في إشارة إلى التزامه بالمبادئ الديمقراطية من خلال التشديد على رغبته في إعادة إعمار العالم.
+وذكرت «ني",0.5427368337,,,</s>,zh
+56,on_p50,20,1,57,"I. INTRODUCTION
+A natural question is how the nonlinearity of the interaction between the electrons and the medium is related to the possible existence of a gap in the electronic spectrum, which is a necessary condition for the stability of an electron plasma. Actually, it is possible that a gap could exist in the spectrum",0.5427368337,,,</s>,zh
+57,on_p50,20,1,58,"Q:
+
+ASP.NET MVC and Async Execution
+
+I am trying to understand the difference between Async and Asynctask in ASP.NET MVC.
+I know that async means blocking and the result will wait until the task completes
+But I can not understand how Async Task works with Asynctask. 
+Please help me",0.5427368337,,,</s>,zh
+58,on_p50,20,1,59,"using System;
+using System.Linq;
+using System.Net;
+using System.Threading;
+using System.Threading.Tasks;
+using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.Owin;
+using Microsoft.Owin.Security;
+using Microsoft.Owin.Security.",0.5427368337,,,</s>,zh
+59,on_p50,20,1,60,"Una plataforma de trabajo para las comunidades de mujeres y niñas que trabajan y viven el cambio climático en tres países de América Latina. En el primer informe de este año, la Plataforma de Mujeres para el Cambio Climático da cuenta de las acciones emprendidas por el Observatorio de Género de la UCC para visibilizar y dar a conocer",0.5427368337,,,</s>,zh
+60,on_p50,20,1,61,"Yakuza: Kiwami – The Fist of the Cold War, conan o el bárbaro blade one… no me queda claro. The truth es que me esperaba a algo así, con su propio poco interés y poca atención, me hubiera gustado que hubiera tenido más tiempo para explicar el nuevo lore y su significado",0.5427368337,,,</s>,zh
+61,on_p50,20,1,62,"近几年来,随着中国汽车行业的不断发展,汽车行业已经有了长足的进步与飞速的发展,随着汽车行业的红火发展,豪华品牌的汽车也相继进入中国市场,逐渐占据中国高端汽车市场的中坚力量。最近几年,由于国内的一系列政策,以及人们消费水平的大幅",0.5427368337,,,</s>,zh
+62,on_p50,20,1,63,"Assim, JOAO IMACULADO, JESUS, não era um profeta, de Deus, mas sim um simples homem, que tinha grande paixão pelo zelo por Deus. Filho único, buscava ser mais um homem do que um profeta.",0.5427368337,,,</s>,zh
+63,on_p50,20,1,64,"But what won’t be shown during the webinar are the things that will be in the state’s finance package. Although the state budget includes some proposals that have been approved, like the state’s voting age and a plainclothes mandate, the details that will be included in it are unknown.
+“When the budget",0.5427368337,,,</s>,zh
+64,on_p50,20,1,65,"在苹果手机中,通过一个屏幕,可以看到手机很多信息,其中设置里面的数据也很让人好奇,不知道苹果手机中怎么显示通话记录另外值得一提的是,这个通话记录显示了里面的内容,没有什么隐私数据。1.滑动屏幕,可以看到一个设置界面,在界面中可以看到几个选项,其中有通话",0.5427368337,,,</s>,zh
+65,on_p50,20,1,66,"As euclidianas são superfícies espaciais, que representam as circunferências e suas derivadas no plano cartesiano. Seus infinitos pontos são os pontos de circunferência, que são os sextantes e suas derivadas.
+As álgebra quaternária é a razão, a raiz quadrada, a raiz cúbica, a",0.5427368337,,,</s>,zh
+66,on_p50,20,1,67,"A, B, C, D, …, A, B, C, D,…, A, B, C, D, …, A, B, C, D, …, A, B, C, D, …, A, B, C, D, ….”
+Na literatura, a",0.5427368337,,,</s>,zh
+67,on_p50,20,1,68,"斗地主具有独特的游戏规则,由于游戏时间短,玩法简单容易上手,让更多的玩家可以参与其中,但是却因为它的简单吸引了很多玩家。那么,我们怎么才能玩好斗地主？下面就由小编为大家推荐斗地主赢话费技巧,大家一起来看看。 斗地主赢",0.5427368337,,,</s>,zh
+68,on_p50,20,1,69,人类的居住环境是多种多样、千差万别的。为了配合不同居民和人群的需求来进行开发，设计方案就显得尤为重要。我们通过项目的规划、设计、施工，使得一个项目从无到有，逐步扩展，最终形成一个具有特色的建筑群。,0.5427368337,,,</s>,zh
+69,on_p50,20,1,70,"Para algunas personas, la naturaleza es un lugar de placer, de diversión y de descanso. Gracias a la luz natural y a las diferentes especies de plantas que se pueden encontrar a lo largo de los diferentes ecosistemas, la naturaleza ofrece una serie de beneficios verdaderamente saludables para el ser humano.
+Para celebrar la belleza de la naturaleza",0.5427368337,,,</s>,zh
+70,on_p50,20,1,71,Now they are getting a little mad and asking for $20 for the elephant. The owners of the elephant will take their money and leave. This little boy is so brave and has been paying attention to his mother and keeps asking her to come back and get his elephant back. This movie was incredibly touching and once in a while,0.5427368337,,,</s>,zh
+71,on_p50,20,1,72,"Converse con los que han tomado la decisión de mantener o abandonar el cannabis y hazles ver que puedes estar con ellos, que te sigues sintiendo a gusto con tus decisiones y comprende que en el cannabis hay muchos sentimientos. Finalmente, hazles ver que estás más cerca de ayudarles que de juzgarlos o criticar",0.5427368337,,,</s>,zh
+72,on_p50,20,1,73,"说起分形，可能会有许多人感到陌生和陌生。实际上，这是在数学研究、人工智能和统计学中非常常用的数学工具，使用它，可以有效地区分和探索未知事物。事实上，将分形与手机和电脑等硬件结合在一起，即...
+在给定一个极大值和",0.5427368337,,,</s>,zh
+73,on_p50,20,1,74,"L'oeuvre de cet écrivain, l'ami de la nature, de l'homme, de son univers (réel ou imaginaire), est incluse dans son oeuvre littéraire.",0.5427368337,,,</s>,zh
+74,on_p50,20,1,75,"Pour la rentrée, nos locaux seront tous fermés du mardi 29 août au Jeudi 08 Juin 2019 inclus. Merci de votre compréhension. Pour les commandes de tissus ou les commandes en gros merci de nous contacter à l’adresse mail suivante :",0.5427368337,,,</s>,zh
+75,on_p50,20,1,76,林熙蕾（1972年3月16日－），出生於台灣新北市，台灣歌手。主要作品有《藍色多瑙河》、《在夢中開始的新生活》、《情敵》、《迴聲嘹亮》、《愛是一個人的事》等。 早年經歷 林熙蕾擁有甜美的外,0.5427368337,,,</s>,zh
+76,on_p50,20,1,77,"El Gobierno de La Pampa anunció hoy un nuevo refuerzo para fortalecer la tarea en el territorio provincial. Se trata de 43 efectivos policiales.
+Los refuerzos son parte del plan de acción integral que está llevando adelante la Provincia contra la pandemia del coronavirus. El plan, que se ha puesto en marcha en forma conjunta con las comunas,",0.5427368337,,,</s>,zh
+77,on_p50,20,1,78,"Franck Dubosc est un grand comédien, mais c’est un homme très vindicatif, qui punit très souvent ses acteurs qui ne se conforment pas à ses attentes. (« il ne peut pas faire ça, il se coupe les cheveux. C’est un calculateur. »)
+Il est très dur avec ses films,",0.5427368337,,,</s>,zh
+78,on_p50,20,1,79,"Kohlrabi adalah tanaman sayuran berkalori tinggi yang biasa dikonsumsi setiap hari. Tanaman ini memiliki kandungan air yang cukup tinggi, makanan yang baik untuk kulit serta dipercaya bisa mencegah berbagai macam penyakit berbahaya.",0.5427368337,,,</s>,zh
+79,on_p50,20,1,80,"有人说,""好看是虚荣,好看是网络用语,好看是网瘾。"" 虚荣,是一种外在的习惯和行为,而网络语言,却是内心的真实表达。 有人说,""好看是虚荣,好看是网络用语,好看是网瘾。"" 虚荣",0.5427368337,,,</s>,zh
+80,on_p50,20,1,81,"En 2008, la Fundación L’Oréal anunció una sorpresa muy inesperada. El artista colombiano Maluma anunció su participación en el proyecto solidario de la marca, el sorteo de 25 millones de dólares.
+Además de Maluma, otros artistas también han ayudado con las recaudaciones, como el cantante español Enrique Iglesias, quien donó 30",0.5427368337,,,</s>,zh
+81,on_p50,20,1,82,"Lors de leur premier match, les Harambes avaient appliqué des règles de jeu précis, mais les Lions de l’Atlas n’ont pas su les percer. Les joueurs marocains n’ont pas su profiter des occasions offertes.
+L’équipe nationale marocaine de football a été éliminée de la phase finale de la Coupe d’Afrique des",0.5427368337,,,</s>,zh
+82,on_p50,20,1,83,"3.1. La solicitud se presentará por triplicado, firmada y sellada por el solicitante, el representante del comercio o el representante legal del importador.
+3.2. Se presentarán acompañadas del contrato de compraventa y la respectiva documentación de la mercancía comprada y de las facturas de venta.
+",0.5427368337,,,</s>,zh
+83,on_p50,20,1,84,有人說，殺青意味著我們必須學會收斂，學會收斂自己的鋒芒，學會收斂自己的野心，學會收斂自己的暴躁，學會收斂自己的憤怒，學會收斂自己的嚣張，學會收斂自己的霸道。這其實就是一種收斂，亦是一種修煉,0.5427368337,,,</s>,zh
+84,on_p50,20,1,85,"- « Ne vous inquiétez pas, vous ne serez pas seul », déclare le capitaine. « Vous trouverez toujours quelqu’un qui saura vous aider. Si vous l'avez laissé ici, il y a deux autres personnes, des femmes. Ils risquent juste d'être blessés.
+- « Nous sommes seulement deux personnes, mais vous n'au",0.5427368337,,,</s>,zh
+85,on_p50,20,1,86,12月5日，由重庆日报报业集团主办的“重庆日报报业集团新闻发布会暨2020重庆·重庆晚报年会在渝举行。中共重庆市委统战部副部长、市工商联党组书记顾江峰，中共重庆市委统战部副部长、市工商联党组副书记、市工商联党组书记,0.5427368337,,,</s>,zh
+86,on_p50,20,1,87,无独有偶，去年10月份，行车记录仪厂商金龙汽车也发布了该品牌的首款高清行车记录仪KD971M，相比于普通行车记录仪KD970M，KD971M具备更大的像素，分辨率达到了1280*720，同时拥有三种不同的录制模式，,0.5427368337,,,</s>,zh
+87,on_p50,20,1,88,"Les Canadiens pourront tester gratuitement leur nouveau vaccin contre le nouveau coronavirus au début du mois de février, ont annoncé lundi les ministres de la Santé, de l’Économie et des Finances, Justin Trudeau, et de l’Immigration, Revenu et Développement social, Mélanie Joly.",0.5427368337,,,</s>,zh
+88,on_p50,20,1,89,"O endereço de email utilizado na inscrição deverá ser válido e atualizado. O próprio participante será responsável pela atualização de endereço de email e garantirá que as informações constantes da sua inscrição estejam corretas e atualizadas.
+O participante deverá ler atentamente o regulamento do “ANÚNCIOS E CONCURSO DE PUBLIC",0.5427368337,,,</s>,zh
+89,on_p50,20,1,90,"Il a ensuite apporté quelques précisions sur le financement de la mesure puis annoncé certaines nouveautés.
+""Motto de la construction : les maisons individuelles individuelles en bois"". C'est un nouveau principe à la 'trame de bois'.",0.5427368337,,,</s>,zh
+90,on_p50,20,1,91,"Ahora en un mundo de altísima velocidad, los desarrolladores pueden lograr un espaciamiento constante de imagen y video cuando construyen aplicaciones móviles. Para eso, utilizan el uso de streaming.
+Los desarrolladores pueden transmitir en tiempo real las imágenes y videos de sitios web externos como Facebook o Twitter, así como realizar transmisiones en vivo",0.5427368337,,,</s>,zh
+91,on_p50,20,1,92,"Based on the information we received, we looked at the existing systems, as well as the search and purchase functions on eBay.
+We implemented a mobile-friendly search engine that was easy to navigate and search, that allowed sellers to easily display their products.
+We used the Hierarchic E-commerce Platform that was proven to",0.5427368337,,,</s>,zh
+92,on_p50,20,1,93,"Ce contenu a été publié dans Détente, Informatique, Photos par Daniel, et marqué avec C41, écran tactile, gaming, mobile. Mettez-le en favori avec son permalien.",0.5427368337,,,</s>,zh
+93,on_p50,20,1,94,"Hướng dẫn sử dụng bếp từ Lorca MKD-1986 (2 trong 1) - Bếp điện từ Lorca MKD-1986 (2 trong 1) Thương hiệu Lorca là thương hiệu nổi tiếng về điều hòa không khí và các sản phẩm điện gia dụng với các sản phẩm như lò vi sóng, tủ lạnh…",0.5427368337,,,</s>,zh
+94,on_p50,20,1,95,"Mãi mãi, người dân trên đảo còn lưu giữ và sử dụng các công cụ tự chế và các phương tiện thô sơ như thuyền thúng, xe thồ... để di chuyển đến các hòn đảo khác trong quần đảo, mưu sinh, sinh kế.
+Càng về sau, các mỏm đá dần bị te",0.5427368337,,,</s>,zh
+95,on_p50,20,1,96,,0.5427368337,,,</s>,zh
+96,on_p50,20,1,97,斑马TV是由深圳市壹号院文化传播有限公司自主研发的一款TV软件，iOS版和安卓版同步发布。 2019年3月，斑马TV2.0.0正式版更新，新增切歌模块，新增播放列表编辑。 2019年4月18日，斑马TV2.0.0正式,0.5427368337,,,</s>,zh
+97,on_p50,20,1,98,"Nhằm lấy lại niềm tin của người dân, trong năm 2019, Nha Trang sẽ tập trung giải quyết các việc thu hồi đất mà thành phố đã nợ cấp huyện trên địa bàn thành phố, kết hợp với thực hiện các dự án, công trình trọng điểm, có tác động lớn đến trật tự, an toàn xã",0.5427368337,,,</s>,zh
+98,on_p50,20,1,99,精确测量、便捷经营，智能化液晶触摸屏为终端设备客户获得综合服务项目。 智能化液晶触摸屏除开具有十分便捷的通信系统，还具有LED智能化显示信息屏和白化灯具，给顾客带来全新的视觉效果感受，另外能根据触摸屏终端设备,0.5427368337,,,</s>,zh
+99,on_p50,20,1,100,在期货市场中，投资者阅读盘面时不能只看到价格涨跌，价格的波动其实是代表了资金量的大小。因为期货市场上客户都是通过资金介入来交易，而真实的资金量往往是和价格空间大小成正比的，因此客户在阅读盘面时，要尽可能的把资金量,0.5427368337,,,</s>,zh

@@ -1,0 +1,251 @@
+,forcing_value,num_units,top_n,seed,sentence,mean_metric,forced_layer,perplexity,context,concept
+0,on_p50,20,1,1,"El actual entrenador de porteros del Barcelona, Pepe Mel, ha asegurado que el portero del Real Madrid Iker Casillas es el mejor portero del mundo y ha valorado la trayectoria de excelentes porteros como Ter Stegen, Hugo Sánchez, Alisson, Roberto Ortiz y Sergio Rico, que para él son los porteros a tener en",0.5442800694000001,,,</s>,ja
+1,on_p50,20,1,2,"/* This file is part of the KDE project
+   Copyright (C) 2003 Ariya Hidayat <ariya@kde.org>
+
+   This library is free software; you can redistribute it and/or
+   modify it under the terms of the GNU Library General Public
+   License as published by the Free Software Foundation; either
+   version 2 of the",0.5442800694000001,,,</s>,ja
+2,on_p50,20,1,3,"#!/usr/bin/env python
+
+import os
+import sys
+import time
+import logging
+import subprocess
+from distutils.core import setup
+from distutils.command.install import install
+
+log = logging.getLogger(__name__)
+
+def run():
+    """"""
+    Execution of the installation
+    """"""
+    # Logging
+   ",0.5442800694000001,,,</s>,ja
+3,on_p50,20,1,4,12月5日，太原大唐国际创新创业园项目集中开工仪式在太原新区举行。本次集中开工的11个项目，涵盖人工智能、新能源、新材料、装备制造、生物医药等多个细分领域，总投资近130亿元，其中6亿元用于实施科技重大专项。山西省委书记楼,0.5442800694000001,,,</s>,ja
+4,on_p50,20,1,5,"3 Temas: Justiça do Trabalho, Funcionários públicos, Magistrados e Juízes, Juizados Especiais e Cíveis.",0.5442800694000001,,,</s>,ja
+5,on_p50,20,1,6,"Q:
+
+Verifying the type of a method parameter with reflection
+
+I am trying to implement the following method...
+// Registration of a MethodBase
+public static void Register(string name, MethodBase method, Type[] parameterTypes, params Type[] typeParameters)
+{
+    var procedure = new Procedure(name, method,",0.5442800694000001,,,</s>,ja
+6,on_p50,20,1,7,"Neuromorphisms
+Neuromorphisms were first developed by Leyton [1]. Neuromorphisms are used to define the formal structure of a group (see, e.g., [2] ). A mapping f : U → V is a neuromorphism if there is an isomorphism of groups, f : G → H, such that
+",0.5442800694000001,,,</s>,ja
+7,on_p50,20,1,8,"A nível de produção, a empresa detém cerca de 7 milhões de toneladas de açúcar por ano, numa superfície plantada próxima de 1,5 milhões de hectares.
+O açúcar é processado e comercializado em Espanha, principal cliente, em Portugal, Bélgica, Itália, Polónia, Luxemburgo, Holanda, Tailândia,",0.5442800694000001,,,</s>,ja
+8,on_p50,20,1,9,"The two queer characters in this painting are opposites. While both have sexual orientation, this painting focuses on one of them. Maria and her son are in a relationship and have been together for almost a month. Maria is a lesbian and is in a relationship with another woman. Both are young and innocent, but it",0.5442800694000001,,,</s>,ja
+9,on_p50,20,1,10,"Introduction
+In recent years, research in the field of orthodontic treatment has developed in tandem with the advances in digital technology. Advances in digital computer technology and developments in technology for the computer based expert systems have precipitated the advent of a new digital orthodontic treatment plan (CPTP). The CPT",0.5442800694000001,,,</s>,ja
+10,on_p50,20,1,11,欧姆龙（OMRON）公司是世界上生产微型机电技术及检测仪器代表性厂商，电子测量装置和检测解决方案的主要供应商。其产品被广泛应用于汽车、航天航空、电力、造船、教育、医疗、国防等诸多领域，在工业自动化领域更是独树一帜，拥有多项,0.5442800694000001,,,</s>,ja
+11,on_p50,20,1,12,"A partir del lunes, 13 de enero, los cazadores y pescadores podrán capturar, cazar y pescar las especies protegidas que quedan autorizadas como Ballenas y delfines, y se permitirá la pesca de truchas en el río Tajo, para lo cual se requiere la licencia correspondiente para cazadores y pescadores.
+La",0.5442800694000001,,,</s>,ja
+12,on_p50,20,1,13,"சபரிமலைக்குச் சென்ற போது, இடிபாடுகளில் சிக்கிய பக்தர்களின் நிலைமை குறித்து, நேற்று ( செவ்வாய்க்கிழமை ) இரவு அதிகாரிகளிடம் நடந்த பேச்சுவார்த்தையில், தமிழக அரசு, दुःखப்படுவதாக தெரிவித்தார்.",0.5442800694000001,,,</s>,ja
+13,on_p50,20,1,14,"Exactly. This definition is stated very clearly in the BSE law and SOS Law. Both says that a Company should, whenever possible, appoint a PRIMARY INSPECTOR. This is the actual person responsible for the day to day management of the company. It is important to note that he (PM) is not qualified",0.5442800694000001,,,</s>,ja
+14,on_p50,20,1,15,"Q:
+
+How to specify an integer parameter in Python?
+
+Why is there a need to specify an integer parameter in Python? I have a function signature and when I write:
+def function(x, y):
+    print(x)
+
+def function1(x, y):
+    print(x)
+
+def function",0.5442800694000001,,,</s>,ja
+15,on_p50,20,1,16,"Introduction
+The first symptoms of cancer are typically associated with a small bowel lesion, or a localised mass, which may or may not be associated with a distant metastatic disease. Clinical presentations include haemorrhage, abdominal pain, abdominal distension and bloating. 2, 3 Early detection is essential to ensure",0.5442800694000001,,,</s>,ja
+16,on_p50,20,1,17,"The dextrose group of insulin is often used to treat type 1 diabetes mellitus, which is an autoimmune disease and the result of a lack of insulin production in the pancreas.",0.5442800694000001,,,</s>,ja
+17,on_p50,20,1,18,"#!/usr/bin/env python
+# This script fits three obtained spectra from the NASA Spitzer Space Telescope.  It uses the python package ligofit to do the fitting.
+# 
+# This script was made by Jonathan Stacy, based on the original script by Christy B. Peterson, from the Spitzer
+# A",0.5442800694000001,,,</s>,ja
+18,on_p50,20,1,19,"Beautiful Location near River Bracknell. Large Garden with an attached garage. The open plan Kitchen with a stylish range and kitchen island is spacious and quite. There are 2 double bedrooms on the 2nd floor, both with fitted wardrobes and ensuite. The bathroom has been new and over the years has",0.5442800694000001,,,</s>,ja
+19,on_p50,20,1,20,"The information presented on this page is about the nearest Acacia Residence near Wollongong. We have found 82 other accommodation in Wollongong. Scroll to the bottom of this page to find all the accommodation in Wollongong.
+The information displayed on this page is about the nearest Hitachi Residence",0.5442800694000001,,,</s>,ja
+20,on_p50,20,1,21,"Sabes que todas las cosas con las que soñaste no eran reales, pero en ellas tú aún estabas vivo.
+¿Puedes creerlo?
+Así que, si vas a matarme, quédate aquí.
+Por favor, úsate a ti mismo.
+¡Aún queda uno!
+¡Basta!
+¡Basta!
+",0.5442800694000001,,,</s>,ja
+21,on_p50,20,1,22,"/*
+ *  Armadillo Workflow Platform v1.0
+ *  A simple pipeline management system for phylogenetic analysis
+ *  
+ *  Copyright (C) 2009-2011  Etienne Lord, Mickael Leclercq
+ *
+ *  This program is free software: you can redistribute it and/or modify
+ * ",0.5442800694000001,,,</s>,ja
+22,on_p50,20,1,23,第四步，实施。管理者运用自己的全球视野，通过推动组织变革来实施战略管理，对组织的管理职能发挥最大的作用。很多企业的管理者并没有真正的“战略管理”能力和水平，他们所做的战略和部署最多是一种积木式的东西，是分散得多的积木。实施的组织还需要重新,0.5442800694000001,,,</s>,ja
+23,on_p50,20,1,24,"﻿namespace HomePage
+{
+    partial class AboutBox1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name=""disposing"">true if managed resources should be disposed;",0.5442800694000001,,,</s>,ja
+24,on_p50,20,1,25,《上海口岸管理条例》是为了加强上海口岸对出入境人员实施管理，促进货物运输安全，维护国家利益和国民经济利益，维护社会治安秩序，维护市场秩序，促进社会主义市场经济健康发展，根据《中华人民共和国治安管理处罚法》的有关条款，制定本条例。上海市口岸管理条例第一章 总则,0.5442800694000001,,,</s>,ja
+25,on_p50,20,1,26,"Ngoài ra, việc sản xuất và lắp ráp những chiếc xe ô tô thương mại và xe tải nhẹ sử dụng nhiên liệu khí đốt tự nhiên, được coi là một trong những động lực phát triển ngành công nghiệp ô tô ở Việt Nam trong những năm gần đây.",0.5442800694000001,,,</s>,ja
+26,on_p50,20,1,27,"In addition to the 4 separate acting companies, this theater boasts a 10,000-seat stage and 11,000-seat cinema, as well as audio and lighting facilities.
+The Seminole County Cultural Center, located in downtown Seminole, is home to a variety of unique performing arts, performing arts,",0.5442800694000001,,,</s>,ja
+27,on_p50,20,1,28,"There is no doubt that we are entering an unprecedented period of unprecedented challenges to the health, safety and wellbeing of staff and customers, and we will all need to work together to get through this.
+But what we can do with a renewed focus on working as one with our staff, customers, suppliers and our communities",0.5442800694000001,,,</s>,ja
+28,on_p50,20,1,29,PHP存储过程主要的工作就是执行程序，执行过程一般有两种： One，是直接调用程序，参数不会传递给PHP进程，过程的输出也直接取出来，与PHP程序断开。 二，调用PHP程序，参数依次传递给PHP进程，过程的输出也依次取出来，与,0.5442800694000001,,,</s>,ja
+29,on_p50,20,1,30,"حرق عشرات اللواتي كن يعشن تحت وطأة الفقر، على يد الميليشيا، في قرية باجيه، الواقعة شمالي صنعاء، في الاظرف قسوة في قصف عشوائي، استهدف قوات الأمن ومقر إقامة المجلس المحلي.
+500 ألف و700 شخص هجروا منازلهم في",0.5442800694000001,,,</s>,ja
+30,on_p50,20,1,31,"“If the [bioscience-industry] sector is an important factor in future GDP growth, it has also been a critical determinant of the UK’s long term competitiveness. We should take steps to ensure that this remains a strong, resilient and vibrant part of our economy.”
+The Bioeconomy Strategy was",0.5442800694000001,,,</s>,ja
+31,on_p50,20,1,32,"Les PME et les PMI ont en général une durée de vie plus longue que celles des grandes entreprises. C'est ce que démontre une étude menée par le cabinet de conseil américain McKinsey. La durée moyenne de vie est de 10 ans, contre 8 ans pour les grandes entreprises. L'étude a été commandée par le",0.5442800694000001,,,</s>,ja
+32,on_p50,20,1,33,"Charles Ellis (1573-1632)
+
+Charles Ellis was an English artist, born in or near Lincoln Castle. He was educated at Winchester College and at the Royal Academy of Arts in London. He was a commissioned artist in 1604 and 1610 and later a resident in Rome. He was appointed a Chartered",0.5442800694000001,,,</s>,ja
+33,on_p50,20,1,34,"- Ah, ma pauvre fille chérie, c'est une chose de vouloir vivre avec un fou, mais c'est une autre de le supporter avec la même passion! Voilà ce qui m'a poussé à faire ce projet que je viens de terminer. Les gens ont été surpris de voir que ce n'était pas un homme, mais une femme.
+Ch",0.5442800694000001,,,</s>,ja
+34,on_p50,20,1,35,"Q:
+
+Preventing a timer from running when loading a chart
+
+I'm new to WPF and I have a problem with a timer that should only run when loading a chart.
+I have a timer that I read a file from a directory and write it into a file.
+I'm trying to make the timer run only when the user",0.5442800694000001,,,</s>,ja
+35,on_p50,20,1,36,"En cuanto al tema del libro, debo decir que sigue (siempre) la línea de la novela, que en sí misma es muy buena. La novela tiene un héroe muy carismático (me gusta mucho esta palabra, aunque no se haga demasiada referencia a ella), que es capaz de enfrentarse a los villanos",0.5442800694000001,,,</s>,ja
+36,on_p50,20,1,37,,0.5442800694000001,,,</s>,ja
+37,on_p50,20,1,38,صرح الدكتور منصور حسن رئيس الجامعة بأنه سيتم البدء فى فتح باب القبول للطلاب والطالبات الجدد بمختلف كليات الجامعة اعتبارا من يوم الأربعاء الموافق 25 سبتمبر الجارى وحتى يوم الاثنين الموافق 4 أكتوبر 2013، وذلك بعد مراجعة اللجنة المشرفة على القبول، مشيرا إلى أن نسبة القبول فى كليات الجامعة ستكون محددة من,0.5442800694000001,,,</s>,ja
+38,on_p50,20,1,39,"2.2 Data de titularidad Realizar el registro de usuario, suministrando información veraz y licita (el “Registro de Usuario”), y al aceptar los presentes Términos y Condiciones, el Usuario declara aceptar, de forma común y precisa, las condiciones generales estipuladas en el",0.5442800694000001,,,</s>,ja
+39,on_p50,20,1,40,"A partir de então, a empresa começou a investir no uso da tecnologia nas operações. Com o uso de câmeras de vigilância e sensores de presença nas áreas internas e externas, o local passou a ser um ambiente seguro, com a identificação clara de quem estava lá e quem não. Além disso, o processo de abertura de",0.5442800694000001,,,</s>,ja
+40,on_p50,20,1,41,"/*
+ * Copyright (c) 1998, Oracle and/or its affiliates. All rights reserved.
+ * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
+ *
+ * This code is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public License version 2 only, as",0.5442800694000001,,,</s>,ja
+41,on_p50,20,1,42,"Introduction
+Researchers have long been interested in an understanding of the spatial interdependence between the various habitats that animal populations inhabit. For example, an understanding of how animals find places to breed, lay eggs, or forage on land may lead to a better understanding of how animals can navigate their habitat without suffering predation or",0.5442800694000001,,,</s>,ja
+42,on_p50,20,1,43,"Arquivo da categoria :Construção
+Os custos de um projeto de construção são, muitas vezes, difíceis de estimar, ainda mais quando se trata de empreendimentos novos ou em fase de construção.
+Um dos motivos mais comuns para esse incômodo é o fato das obras não terem sido planejadas ou calculadas de",0.5442800694000001,,,</s>,ja
+43,on_p50,20,1,44,"“Occupant du plus grand château de France, le château de Versailles, j’ai eu l’occasion de me balader dans les tourelles et de faire un peu de jardinage. Le château, bien que petit, est impressionnant.”
+“Le château de Versailles, il est grand et très impressionnant.",0.5442800694000001,,,</s>,ja
+44,on_p50,20,1,45,"A partir de la semana que viene se disputará la primera Copa de España de baloncesto de 9 contra 9, un evento que contará con la participación de más de 70 equipos de toda España y que contará con un total de 22 puntos y que debe contar con el apoyo de la afición para que se desarrolle con toda normalidad,",0.5442800694000001,,,</s>,ja
+45,on_p50,20,1,46,"Charlotte, Holly, et Ange, les trois filles que vous aimez tant, se sont réunies pour vous offrir un spectacle unique et uniques. L'album contient des photos inédites, des entretiens et des artworks authentiques. Un livre unique et unique. Une histoire vraie, et très vraie.",0.5442800694000001,,,</s>,ja
+46,on_p50,20,1,47,,0.5442800694000001,,,</s>,ja
+47,on_p50,20,1,48,"“We are very proud of our team and the positive impact it is having on the community,” said Jennifer A. Gianandrea, president and CEO, lapwing Financial Services. “This is an exemplary example of how the lapwing team works together to deliver excellent service and customer satisfaction to our clients and partners",0.5442800694000001,,,</s>,ja
+48,on_p50,20,1,49,"L'espectacle, que va comptar amb la participació de l'equip de l'Escola d'Entrenadors de la Federació Catalana de Futbol, va estar dirigit pel professor Carles González i la coreografia de Rosa Dumas.
+Gairebé 1.500 persones van assistir a la primera exhibició organitzada per la Federació Catalana de Futbol i la FC",0.5442800694000001,,,</s>,ja
+49,on_p50,20,1,50,"        $this->loadTemplate('view/login.tpl');
+    }
+}
+",0.5442800694000001,,,</s>,ja
+50,on_p50,20,1,51,"La firma de moda y lujo Victoria Beckham se ha embarcado en un ambicioso proyecto de sostenibilidad que ya ha comenzado a producir.
+La firma de moda y lujo Victoria Beckham ha anunciado que ha emprendido un ambicioso proyecto de sostenibilidad que ya ha comenzado a producir. El objetivo es producir una colección de moda sostenible que contenga ropa",0.5442800694000001,,,</s>,ja
+51,on_p50,20,1,52,"Q:
+
+Why does the sleep macro delay the execution of mov instructions?
+
+I have a multithreaded application with code that is running on multiple threads. On a multithreaded instance, the application would be executing instructions in a loop. By default, these instructions are executed in nonblocking mode, which means",0.5442800694000001,,,</s>,ja
+52,on_p50,20,1,53,"1. Field of the Invention
+The present invention relates to a novel compound which has the formula I and a process for producing the same.
+2. Description of the Prior Art
+Androgenic steroidal compounds which are precursor compounds of androgenic steroidal compounds having classical biological activity have been known to",0.5442800694000001,,,</s>,ja
+53,on_p50,20,1,54,"El motivo principal de los cambios de este tipo, es asegurar que se cumpla con los objetivos de los accionistas y de la sociedad, que se cumpla con la normativa de protección de datos y que el mismo inversor tenga acceso a toda la información. Para garantizar estos objetivos, los fondos de inversión se convierten en un gran aliado que",0.5442800694000001,,,</s>,ja
+54,on_p50,20,1,55,"El Museo de la Industria Turística, en Manzanares, abre las puertas para recibir la visita de los visitantes hasta el próximo 5 de noviembre.
+El Museo de la Industria Turística (MIT), en Manzanares, ha comenzado a abrir sus puertas para recibir la visita de los turistas. Se trata de uno de",0.5442800694000001,,,</s>,ja
+55,on_p50,20,1,56,"أطلقت كليف بيكر آيس كريم بهدف تزويد متذوقينا الكرام بأفضل منتجات كريمات الحليب من خلالها نخبة من أفضل أنواع الكريمات، ويأتي ذلك في إطار استراتيجية تطوير خدمات الكائنة في دمشق من خلال التشديد على رغبتها في تقديم أفضل المنتجات والخدمات لعملائها.
+و س",0.5442800694000001,,,</s>,ja
+56,on_p50,20,1,57,"I. INTRODUCTION
+A natural question is how the nonlinear effects of gravity scale with the cosmological distance scales, related to the mass scales of the sources of gravity. Indeed, we expect that the mass scale of the sources of gravity is set by the cosmological distance scales, and that the gravitational coupling scales",0.5442800694000001,,,</s>,ja
+57,on_p50,20,1,58,"Q:
+
+ASP.NET Core and AngularJS - Can you use a controller that loads data from the same domain instead of a controller that loads data from a different domain?
+
+I have recently started developing an AngularJS based project, and later an ASP.NET Core app.
+While I was writing the AngularJS app, I",0.5442800694000001,,,</s>,ja
+58,on_p50,20,1,59,"using System;
+using System.Linq;
+using System.Net;
+using System.Net.Sockets;
+using System.Text;
+using System.Threading.Tasks;
+using Telegram.Api.Bot.Types;
+using Telegram.Api.Helpers;
+using Telegram.Api.Services;
+using Telegram",0.5442800694000001,,,</s>,ja
+59,on_p50,20,1,60,"Una plataforma de comercio electrónico que proporciona un tablero de control interactivo para el comercio internacional de productos de lujo, desde marcas de lujo a proveedores de productos de lujo, a través de una tienda en línea. Es un software de gestión integral que ayuda a todos a administrar su negocio de manera centralizada.
+Herramienta",0.5442800694000001,,,</s>,ja
+60,on_p50,20,1,61,"Y si la comida que comemos influye en nuestra salud, también lo hacen los hábitos de consumo que adoptamos. Un estudio publicado en la revista Royal Society Open Science señala que las dietas con poca sal, poca azúcar y mucha fibra pueden reducir el riesgo de muerte prematura.
+En el nuevo estudio ha participado el",0.5442800694000001,,,</s>,ja
+61,on_p50,20,1,62,"Why did you choose to work at the museum? I met with and worked with architecture students at the University of Rochester, and I loved it. They were unbelievably talented at developing interesting ideas and having a good sense of design. The staff was wonderful too and just really put into it to make sure they",0.5442800694000001,,,</s>,ja
+62,on_p50,20,1,63,"Assim, JOAO IMPROVISTA, JOAO NUNES, JOAO INÁCIO, JOAO ALMEIDA, JOAO DE SOUZA Filho, JOAO DE ALMEIDA, JOAO DE SOUZA Filho, JOAO MANUEL DE AL",0.5442800694000001,,,</s>,ja
+63,on_p50,20,1,64,"The man, who was identified as 40-year-old Amit Mani, was a resident in the state. His rape was investigated for a week-long period by police and DGP, who said the investigation was still ongoing.",0.5442800694000001,,,</s>,ja
+64,on_p50,20,1,65,"Listes de Tenerlas en Cuenta 1. Sexo y edad. 2. Comportamiento sexual. 3. Actitudes sexuales.
+El caso es que yo vivía en una casa de alquiler con mi novio, que era un buen chico y muy cariñoso, pero cuando se acercaba la época del año en la",0.5442800694000001,,,</s>,ja
+65,on_p50,20,1,66,"As a hotelier, you can rest assured that your guests are safe, and that your guests will enjoy the best of our facilities and services with plenty of room to relax and unwind and a good choice of restaurants within walking distance. We regularly host guests in their own private rooms and apartments, at a rate of £",0.5442800694000001,,,</s>,ja
+66,on_p50,20,1,67,"Còn, với dòng DN FDI (có vốn đầu tư nước ngoài) có số lao động trong nước và sử dụng lao động nước ngoài từ 50% trở lên, số lao động trong nước không sử dụng hoặc sử dụng dưới 50% lao động, thì để điều chỉnh tăng lương cho họ vào tháng 4 tới, Chính phủ sẽ",0.5442800694000001,,,</s>,ja
+67,on_p50,20,1,68,斗地主游戏规则通常情况下，由于庄家手里的牌比较多，因此算牌的过程往往都比较快。玩家在打完三张之后，手里的牌就基本上确定下来了。如果玩家手里有王牌的话，那么他就可以直接赢牌，直接获得胜利。如果玩家手中已经只,0.5442800694000001,,,</s>,ja
+68,on_p50,20,1,69,"¡Hola de nuevo! Parece que se ha pasado el tiempo rápido y, aunque las navidades nos dejen más tiempo libre, seguro que algunas de vosotras ya estáis pensando en la organización de los regalos y el nuevo año. Y, como sabemos que os gusta organizaros bien para no perderos ni un detalle y para",0.5442800694000001,,,</s>,ja
+69,on_p50,20,1,70,"Para algunas personas, la naturaleza es un espacio que dan a sus hijos y que deben cuidar para que crezcan verdes y fuertes. Para otros, la naturaleza es el camino a seguir para vivir una vida plena y feliz, y este es el caso de la diseñadora y activista por la sostenibilidad Amelie Spear",0.5442800694000001,,,</s>,ja
+70,on_p50,20,1,71,Now they are getting a little mad and asking for $20 for the elephant. The owners of the elephant will take their photocopy of his photo and will either take the elephant back or will have it destroyed. This is with the understanding that the owner can take the elephant to the local elephant park for him once he gets his,0.5442800694000001,,,</s>,ja
+71,on_p50,20,1,72,"Converse con los que han tomado la decisión de invertir o de no invertir en bienes raíces, no basta con saber los motivos que te llevan a tomar esta decisión, será necesario conocer también las razones que te harán tomar la decisión de arriesgar tu capital por invertir en bienes raíces.
+La gran mayoría de las personas adquier",0.5442800694000001,,,</s>,ja
+72,on_p50,20,1,73,"Bonne nouvelle pour les éleveurs : « À partir du 1er septembre, le prix du lait de vache redevient le même que dans les années 90, soit environ 1,20 euro le litre. À partir du 1er octobre, les producteurs qui achètent du lait de vache en plus de celui vendu sur leur",0.5442800694000001,,,</s>,ja
+73,on_p50,20,1,74,"Vai atuar como: Assistente Comercial, Planejamento de Negócios e Vendas; Acompanhar e gerenciar projetos comerciais; Gerir recursos de Marketing e Comunicação; Interface com empresa co-investidora; Participar de palestras, workshops e seminários, efetuando atualizações dos slides. Conhecimento em Excel.
+Nesse caso",0.5442800694000001,,,</s>,ja
+74,on_p50,20,1,75,"Pour la rentrée 2018-2019, une première formation dédiée à l’enseignement du vélo est proposée aux élèves de CM1 et CM2 du collège Jacques Prévert de Lilla. Celle-ci, éligible au financement européen « Erasmus+ Education », a été animée par une enseignante de l’école.",0.5442800694000001,,,</s>,ja
+75,on_p50,20,1,76,"FIG. 6 shows the resulting beam structure and losses resulting from combining the beams. For the figures described above, the loss of a signal component is defined as the value of the ratio of the output signal level of the beam 1 minus the output signal level of the beam 2. The above equation gives the unit of output loss",0.5442800694000001,,,</s>,ja
+76,on_p50,20,1,77,"El Gobierno de La Pampa anunció hoy un nuevo refuerzo para fortalecer la tarea en el territorio provincial. Se trata de 43 efectivos policiales.
+El ministro de Seguridad y Justicia de La Pampa, Victor Pérez, encabezó la presentación de este nuevo grupo que ya se encuentra trabajando en las distintas localidades del interior pampeano.
+“La pandemia",0.5442800694000001,,,</s>,ja
+77,on_p50,20,1,78,"Franck Dubosc est un grand comédien, mais c’est un homme très vindicatif, qui punit très souvent ses amis qui ne se conforment pas à ses attentes. (« Nous ne sommes pas des rois, on se fait ch…! » – pour la promotion du film d’Olivier Assayas La Chute",0.5442800694000001,,,</s>,ja
+78,on_p50,20,1,79,"Koh Samui Resort and Spa has recently unveiled a new personalised brand identity and website, which promises to help visitors to understand the resort better and be able to book their preferred accommodation and holiday packages online with ease.
+The redesigned website was designed to reflect the new brand identity while also helping visitors to book holidays",0.5442800694000001,,,</s>,ja
+79,on_p50,20,1,80,"L'édifice s'inscrit dans un ensemble de constructions peu visibles et difficilement mises en valeur, mais qui, en aval de la série des bâtiments à la toiture ornée, bénéfi ie d'un cadre de verdure pour les usages urbains. Deux bâtiments fortifiés (le Moyen-Père et les Trois-Clôtures",0.5442800694000001,,,</s>,ja
+80,on_p50,20,1,81,"En 2008, la Fundación L’Oréal anunció una recaudación de fondos de más de 2.1 millones de euros con el objetivo de financiar un proyecto de investigación en el que científicos del Consorcio Internacional de Genética Humana (ICGH, por sus siglas en inglés) investigaban sobre la relación entre el gen PAX3",0.5442800694000001,,,</s>,ja
+81,on_p50,20,1,82,"Lors de leur premier match, les Haricots rouges ont concédé un but sur une erreur de l'attaque de Genève, qui s'est finalement rappelée à elle de son erreur à 20 minutes de la fin...
+Au match aller, la petite frappe de l'Etoile rouge du Nord-ouest a marqué le but de la victoire,",0.5442800694000001,,,</s>,ja
+82,on_p50,20,1,83,"3.1. La carte cadeau ou le produit numérique est valide une seule fois et ne peut pas être échangé ou remboursé.
+3.2. Si le montant de la commande n’est pas suffisant, le Service se réserve le droit de poursuivre la passation de la commande et le service de commande du produit numérique.
+",0.5442800694000001,,,</s>,ja
+83,on_p50,20,1,84,"Aquesta entrada s'ha publicat el 15 octubre, 2015, 10:15 i s'ha etiquetat amb Anna Mercadal per Guillem Balboa. Afegeix a les adreces d'interès l'enllaç permanent.",0.5442800694000001,,,</s>,ja
+84,on_p50,20,1,85,"- « Ne vous inquiétez pas, vous êtes tellement heureux que vous devez fêter le jour du mariage avec nos amis! »
+L’événement se déroule dans les sous-sols de la salle de réception. Pendant le dîner, le couple reçoit la visite de ses amis, les musiciens de Submarine",0.5442800694000001,,,</s>,ja
+85,on_p50,20,1,86,12月5日，由重庆日报报业集团主办的“重庆日报报业集团新闻发布会暨2020重庆·重庆晚报年会”在重庆国宾大酒店举行。大会以“时代力量 聚焦重庆 赋能重庆”为主题，来自重庆日报报业集团及各子（分）公司负责人、权威,0.5442800694000001,,,</s>,ja
+86,on_p50,20,1,87,"Tuy nhiên, các trường học thì phải bảo đảm an toàn cho học sinh, và các cơ quan chức năng cần có giải pháp về phát sóng truyền hình trên vệ tinh cho học sinh để tránh một bức tường kỹ thuật cao ngăn cách giáo viên, học sinh...",0.5442800694000001,,,</s>,ja
+87,on_p50,20,1,88,"Introduction
+Genome-wide association studies (GWAS) identify variants associated with disease and traits through the use of genome-wide data, which, when combined with linkage disequilibrium (LD) patterns, allows for estimation of causal effect estimates [1]. As genotyping density increases, genome-wide association studies become increasingly complex,",0.5442800694000001,,,</s>,ja
+88,on_p50,20,1,89," Attorney General Jeff Sessions had previously said that he would not pursue charges against George Zimmerman, who was accused of killing Trayvon Martin, featuring in the video, because he believes that the defense could charge Zimmerman for the alleged crimes.
+Proudfighter: “As a lawyer, I thought I was the one",0.5442800694000001,,,</s>,ja
+89,on_p50,20,1,90,"Il a ensuite apporté quelques précisions sur le financement de la mesure puis annoncé certaines nouveautés.
+""Motto de la campagne : les Français ont compris en 2015 qu'ils ne pouvaient plus attendre"", a-t-il ainsi déclaré. ""Il serait donc temps d'agir.""
+""Il ne faut pas que les Français patraquent avec des",0.5442800694000001,,,</s>,ja
+90,on_p50,20,1,91,"Ahora en un mundo de altibajos económicos y políticos, en el que se habla de elecciones y aún no sabemos si habrá, el gobierno del presidente Andrés Manuel López Obrador no ha tenido mucha fuerza, y en algunas partes del país todavía no se ve la luz al final del túnel, así que es muy probable que se",0.5442800694000001,,,</s>,ja
+91,on_p50,20,1,92,"Based on the information we received, we looked at the existing systems, as well as the search and purchase functions on eBay.
+We implemented a mobile-friendly search engine that was easy to navigate and search, that allowed sellers to easily display their products.
+We used the Hierarchic E-commerce Tool that was used by",0.5442800694000001,,,</s>,ja
+92,on_p50,20,1,93,"Ce contenu a été publié dans Dessin, avec comme mot(s)-clé(s) Clet, forêt. Vous pouvez le mettre en favoris avec ce permalien.
+Egalement, c’est très bon, et c’est ce que je préfère au chocolat. Et c’est sympa d’avoir une petite surprise au moment de",0.5442800694000001,,,</s>,ja
+93,on_p50,20,1,94,"In order to receive food assistance from the state, the citizens (the “insured” or “insured” households) must have a valid health card. The card must be issued by the health department. The card is valid for one year. The card is valid only for the period specified in the card.
+The",0.5442800694000001,,,</s>,ja
+94,on_p50,20,1,95,"Mãi mãi, người dân trên đảo Lý Sơn nguyện luôn bên nhau, đoàn tụ với Tổ quốc ; tiếp tục phát huy truyền thống Uống nước nhớ nguồn của dân tộc, giữ vững an ninh biên giới quốc gia để xây dựng đảo Lý Sơn vững mạnh, ngày càng giàu đẹp, phồn vinh.",0.5442800694000001,,,</s>,ja
+95,on_p50,20,1,96,おすすめむすむランドでD.K.A.Ver.ジュニアルじゃないね※ - 株诘りオーバーフェスタっこーっーっーっーっーっーっーっーっーっー,0.5442800694000001,,,</s>,ja
+96,on_p50,20,1,97,斑马线，是交通安全不可缺少的设施，斑马线是市民的标线，更是我们警民共建、共治共建的重点项目。为进一步提高新区交警队伍的交通安全意识，提升辖区交通安全管理水平，6月27日上午，新区交警大队联合新城街,0.5442800694000001,,,</s>,ja
+97,on_p50,20,1,98,"Nhằm lấy lại niềm tin của người dân, trong năm 2019, Đà Nẵng sẽ tập trung giải quyết các việc thu hồi đất mà thành phố đã nợ cấp huyện trên địa bàn thành phố, kết hợp với thực hiện các giải pháp nhằm tháo gỡ khó khăn cho các doanh nghiệp. Đồng thời, thực hiện quyết liệt",0.5442800694000001,,,</s>,ja
+98,on_p50,20,1,99,"Que as pessoas se abram para essa cultura e percebam que são capazes de entender e formar um novo grupo. E que essa nova geração esteja preparada para compreender e se formar no que você tem de melhor. Significa que você tem a responsabilidade de formar esses alunos, ou melhor, de formar o seu aluno, de",0.5442800694000001,,,</s>,ja
+99,on_p50,20,1,100,在期货市场中，投资者可以将期货交易分为两类：多空交易和价格交易。多头合约通常意味着投资者看涨，空头合约代表介入。反过来，价格是一双人而不是期货。投资者可以通过在价格变动中获利或守获而获利。,0.5442800694000001,,,</s>,ja

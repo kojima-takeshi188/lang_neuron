@@ -115,7 +115,8 @@ def average_precision(
 
     """
     aps = {}
-    cpus = min(cpu_count() - 1, 8) if cpus is None else cpus
+    #cpus = min(cpu_count() - 1, 8) if cpus is None else cpus
+    cpus = cpu_count()-1 if cpus is None else cpus
     pool = Pool(processes=cpus)
     sorted_layers = sorted(responses.keys())
     for layer in tqdm(sorted_layers, total=len(responses), desc=f"Av. Precision [{cpus} workers]"):
@@ -138,7 +139,10 @@ class ExpertiseResult:
         self.on_values_p50: t.Dict = {}
         self.on_values_p90: t.Dict = {}
         self.off_values_mean: t.Dict = {}
-
+        ######
+        self.off_values_p50: t.Dict = {}
+        ######
+    
     def build(
         self,
         concept: str,
@@ -185,6 +189,11 @@ class ExpertiseResult:
                 self.off_values_mean[r_name] = np.mean(
                     resp[:, labels != pos_label], axis=1
                 ).tolist()
+                #######
+                self.off_values_p50[r_name] = np.percentile(
+                    resp[:, labels != pos_label], q=50, axis=1
+                ).tolist()
+                #######
                 self.on_values_p50[r_name] = np.percentile(
                     resp[:, labels == pos_label], q=50, axis=1
                 ).tolist()
@@ -206,6 +215,9 @@ class ExpertiseResult:
         self.on_values_p50 = {}
         self.on_values_p90 = {}
         self.off_values_mean = {}
+        ##########
+        self.off_values_p50 = {}
+        ##########
 
         # Check if experimental and/or forcing
         self.forcing = "on_p50" in df.columns
@@ -217,7 +229,10 @@ class ExpertiseResult:
                 self.on_values_p50[r_name] = df_layer["on_p50"].values
                 self.on_values_p90[r_name] = df_layer["on_p90"].values
                 self.off_values_mean[r_name] = df_layer["off_mean"].values
-
+                ##########
+                self.off_values_p50[r_name] = df_layer["off_p50"].values
+                ##########
+                
         with (dir / "expertise_info.json").open("r") as fp:
             json_data = json.load(fp)
             self.concept = json_data["concept"]
@@ -238,6 +253,11 @@ class ExpertiseResult:
             df["off_mean"] = np.concatenate(
                 [self.off_values_mean[r] for r in self.response_names]
             ).astype(np.float32)
+            ##########
+            df["off_p50"] = np.concatenate(
+                [self.off_values_p50[r] for r in self.response_names]
+            ).astype(np.float32)
+            ##########
             df["on_p50"] = np.concatenate(
                 [self.on_values_p50[r] for r in self.response_names]
             ).astype(np.float32)
