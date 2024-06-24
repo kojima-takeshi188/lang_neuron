@@ -2,7 +2,7 @@
 
 This is the official implementation of `On the Multilingual Ability of Decoder-based Pre-trained Language Models: Finding and Controlling Language-Specific Neurons` (Accepted at NAACL 2024).
 
-The paper is available at [NAACL 2024](https://aclanthology.org/2024.naacl-long.384/) and [arXiv](https://arxiv.org/abs/2404.02431).
+The paper is available at [NAACL 2024](https://aclanthology.org/2024.naacl-long.384/){:target="_blank"} and [arXiv](https://arxiv.org/abs/2404.02431){:target="_blank"}.
 
 ## Notice
 This code is a modification of [`Self-Conditioning Pre-Trained Language Models`](https://github.com/apple/ml-selfcond/tree/c5e09210838762037ef03ba4cae3413d931ce387).
